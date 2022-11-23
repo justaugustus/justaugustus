@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### 📫 How to reach me
+
+- Website: https://whois.auggie.dev/
+- Fediverse (Mastodon): https://hachyderm.io/@justaugustus
+- LinkedIn: https://www.linkedin.com/in/stephenaugustus
+- Twitter: https://twitter.com/stephenaugustus
+
 #### 👷 Check out what I'm currently working on
 
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (1 day ago)
@@ -12,19 +19,6 @@
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 days ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 days ago)
 - [cisco/node-jose](https://github.com/cisco/node-jose) -  (1 week ago)
-
-#### 🌱 My latest projects
-
-- [justaugustus/jalapeno-topology](https://github.com/justaugustus/jalapeno-topology) - 
-- [justaugustus/software-supply-chain-resources](https://github.com/justaugustus/software-supply-chain-resources) - 
-- [justaugustus/site](https://github.com/justaugustus/site) - 
-- [justaugustus/k8s-tf](https://github.com/justaugustus/k8s-tf) - Just enough Terraform to provision Kubernetes nodes for use with kubeadm
-- [justaugustus/ghnag](https://github.com/justaugustus/ghnag) - 
-- [justaugustus/odo-tf](https://github.com/justaugustus/odo-tf) - 
-- [justaugustus/about](https://github.com/justaugustus/about) - 
-- [justaugustus/k8s-ex](https://github.com/justaugustus/k8s-ex) - 
-- [justaugustus/tf-examples](https://github.com/justaugustus/tf-examples) - Some useful Terraform modules
-- [justaugustus/kh](https://github.com/justaugustus/kh) - Kubernetes the Hard Way (using Vagrant)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -51,14 +45,6 @@
 - [steering: Paris to Emeritus, add Carlos](https://github.com/kubernetes/k8s.io/pull/4482) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [steering: Paris to Emeritus, add Carlos](https://github.com/kubernetes/community/pull/6974) on [kubernetes/community](https://github.com/kubernetes/community) (2 days ago)
 
-#### 📓 Gists I wrote
-
-- [Kubernetes charter changes - 2022-07-06](https://gist.github.com/7c4742225481247f99685918400a5cd5) (4 months ago)
-- [Coffee Tables](https://gist.github.com/aba323aba425284894d6c5e2a14c9da2) (1 year ago)
-- [](https://gist.github.com/05c64f4a6a30ed8ecca0cee71d3c1215) (2 years ago)
-- [Container image promoter backfill](https://gist.github.com/2200ff7e9da826e3a84859fe9947edd6) (2 years ago)
-- [](https://gist.github.com/aa81dfd81a3e6888a3e0367a8bacbd52) (2 years ago)
-
 #### ⭐ Recent Stars
 
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
@@ -72,9 +58,6 @@
 - [cncf-infra/prow-github-action](https://github.com/cncf-infra/prow-github-action) - Test infrastructure for the Kubernetes project. (2 months ago)
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy (2 months ago)
 
-#### ❤️ These awesome people sponsor me (thank you!)
-
-
 #### 👯 Check out some of my recent followers
 
 - [0xN0x](https://github.com/0xN0x)
@@ -82,15 +65,10 @@
 - [BobyMCbobs](https://github.com/BobyMCbobs)
 - [castrojo](https://github.com/castrojo)
 - [ypanpande](https://github.com/ypanpande)
-
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
-#### 📫 How to reach me
-
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
+- [jeromejsanders](https://github.com/jeromejsanders)
+- [Azhovan](https://github.com/Azhovan)
+- [adrafiq](https://github.com/adrafiq)
+- [SandeepChatterjee66](https://github.com/SandeepChatterjee66)
+- [flavianmissi](https://github.com/flavianmissi)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
