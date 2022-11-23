@@ -47,6 +47,8 @@
 
 #### ⭐ Recent Stars
 
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
 - [hachyderm/community](https://github.com/hachyderm/community) - Hachyderm Community Resources (2 weeks ago)
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord (2 weeks ago)
@@ -55,8 +57,6 @@
 - [cpanato/github_actions_exporter](https://github.com/cpanato/github_actions_exporter) - GitHub Action Exporter (1 month ago)
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (2 months ago)
 - [cncf-infra/mock-project-repo](https://github.com/cncf-infra/mock-project-repo) - Test Prow Github Actions   (2 months ago)
-- [cncf-infra/prow-github-action](https://github.com/cncf-infra/prow-github-action) - Test infrastructure for the Kubernetes project. (2 months ago)
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
