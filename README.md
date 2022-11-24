@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [sig-release: Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/website/pull/38058) on [kubernetes/website](https://github.com/kubernetes/website) (today)
+- [sig-release: Update Slack usergroups for lead promotions](https://github.com/kubernetes/community/pull/6988) on [kubernetes/community](https://github.com/kubernetes/community) (today)
 - [sig-release: Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/k8s.io/pull/4492) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [sig-release: Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/org/pull/3857) on [kubernetes/org](https://github.com/kubernetes/org) (today)
 - [releng: Don&#39;t delete jobs for branches that may be in maintenance mode](https://github.com/kubernetes/test-infra/pull/28084) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 days ago)
@@ -42,8 +44,6 @@
 - [maintainers/kubernetes: Paris to Emeritus, add Carlos](https://github.com/cncf/foundation/pull/460) on [cncf/foundation](https://github.com/cncf/foundation) (3 days ago)
 - [steering: Paris to Emeritus, add Carlos](https://github.com/kubernetes/funding/pull/36) on [kubernetes/funding](https://github.com/kubernetes/funding) (3 days ago)
 - [steering: Paris to Emeritus, add Carlos](https://github.com/kubernetes/website/pull/38004) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
-- [steering: Paris to Emeritus, add Carlos](https://github.com/kubernetes/steering/pull/261) on [kubernetes/steering](https://github.com/kubernetes/steering) (3 days ago)
-- [steering: Paris to Emeritus, add Carlos](https://github.com/kubernetes/org/pull/3847) on [kubernetes/org](https://github.com/kubernetes/org) (3 days ago)
 
 #### ⭐ Recent Stars
 
