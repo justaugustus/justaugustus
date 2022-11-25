@@ -9,16 +9,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
-- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 day ago)
+- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (today)
+- [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (today)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 day ago)
+- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 day ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 day ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (3 days ago)
-- [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for serverless functions; signing and verification (4 days ago)
-- [cncf/foundation](https://github.com/cncf/foundation) - ☁️♮🏛File non-technical issues related to CNCF (4 days ago)
 - [kubernetes/funding](https://github.com/kubernetes/funding) - Funding requests for project infrastructure, events, and consulting. (4 days ago)
-- [cisco/node-jose](https://github.com/cisco/node-jose) -  (2 weeks ago)
+- [cncf/foundation](https://github.com/cncf/foundation) - ☁️♮🏛File non-technical issues related to CNCF (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -35,15 +35,15 @@
 
 #### 🔨 My recent Pull Requests
 
+- [OWNERS(sig-release): Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/kubernetes/pull/114146) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
+- [OWNERS(sig-release): Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/test-infra/pull/28118) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
+- [sig-release: Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/release/pull/2771) on [kubernetes/release](https://github.com/kubernetes/release) (today)
+- [sig-release: Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/sig-release/pull/2101) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (today)
 - [sig-release: Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/website/pull/38058) on [kubernetes/website](https://github.com/kubernetes/website) (1 day ago)
 - [sig-release: Update Slack usergroups for lead promotions](https://github.com/kubernetes/community/pull/6988) on [kubernetes/community](https://github.com/kubernetes/community) (1 day ago)
 - [sig-release: Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/k8s.io/pull/4492) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [sig-release: Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/org/pull/3857) on [kubernetes/org](https://github.com/kubernetes/org) (1 day ago)
 - [releng: Don&#39;t delete jobs for branches that may be in maintenance mode](https://github.com/kubernetes/test-infra/pull/28084) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [releng: Fix build job generic version markers](https://github.com/kubernetes/test-infra/pull/28079) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
-- [maintainers/kubernetes: Paris to Emeritus, add Carlos](https://github.com/cncf/foundation/pull/460) on [cncf/foundation](https://github.com/cncf/foundation) (4 days ago)
-- [steering: Paris to Emeritus, add Carlos](https://github.com/kubernetes/funding/pull/36) on [kubernetes/funding](https://github.com/kubernetes/funding) (4 days ago)
-- [steering: Paris to Emeritus, add Carlos](https://github.com/kubernetes/website/pull/38004) on [kubernetes/website](https://github.com/kubernetes/website) (4 days ago)
 
 #### ⭐ Recent Stars
 
