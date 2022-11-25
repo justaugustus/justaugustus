@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [OWNERS: Cleanup of leaf OWNERS and reconcile RMAs](https://github.com/kubernetes/release/pull/2772) on [kubernetes/release](https://github.com/kubernetes/release) (today)
 - [OWNERS(sig-release): Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/kubernetes/pull/114146) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [OWNERS(sig-release): Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/test-infra/pull/28118) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (today)
 - [sig-release: Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/release/pull/2771) on [kubernetes/release](https://github.com/kubernetes/release) (today)
@@ -43,7 +44,6 @@
 - [sig-release: Update Slack usergroups for lead promotions](https://github.com/kubernetes/community/pull/6988) on [kubernetes/community](https://github.com/kubernetes/community) (1 day ago)
 - [sig-release: Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/k8s.io/pull/4492) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
 - [sig-release: Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/org/pull/3857) on [kubernetes/org](https://github.com/kubernetes/org) (1 day ago)
-- [releng: Don&#39;t delete jobs for branches that may be in maintenance mode](https://github.com/kubernetes/test-infra/pull/28084) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 days ago)
 
 #### ⭐ Recent Stars
 
