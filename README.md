@@ -63,7 +63,6 @@
 
 - [teun25](https://github.com/teun25)
 - [imnmo](https://github.com/imnmo)
-- [0xN0x](https://github.com/0xN0x)
 - [engasaleh](https://github.com/engasaleh)
 - [BobyMCbobs](https://github.com/BobyMCbobs)
 - [castrojo](https://github.com/castrojo)
@@ -71,5 +70,6 @@
 - [jeromejsanders](https://github.com/jeromejsanders)
 - [Azhovan](https://github.com/Azhovan)
 - [adrafiq](https://github.com/adrafiq)
+- [SandeepChatterjee66](https://github.com/SandeepChatterjee66)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
