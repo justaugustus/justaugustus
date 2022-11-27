@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ohthatspaul](https://github.com/ohthatspaul)
 - [xmudrii](https://github.com/xmudrii)
 - [teun25](https://github.com/teun25)
 - [imnmo](https://github.com/imnmo)
@@ -70,6 +71,5 @@
 - [ypanpande](https://github.com/ypanpande)
 - [jeromejsanders](https://github.com/jeromejsanders)
 - [Azhovan](https://github.com/Azhovan)
-- [adrafiq](https://github.com/adrafiq)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
