@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [nayafia/contributing-template](https://github.com/nayafia/contributing-template) - Template for writing your own contributing guide (today)
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (1 day ago)
 - [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings (1 day ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (6 days ago)
@@ -57,7 +58,6 @@
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord (3 weeks ago)
 - [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae) - Distributed systems runtime daemon written in Rust. (4 weeks ago)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification) (2 months ago)
-- [cpanato/github_actions_exporter](https://github.com/cpanato/github_actions_exporter) - GitHub Action Exporter (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
