@@ -30,7 +30,7 @@
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.1.6](https://github.com/cisco-open/flame/releases/tag/v0.1.6), 2 weeks ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.8.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.8.0-helm), 2 weeks ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.0.6](https://github.com/ossf/scorecard-action/releases/tag/v2.0.6), 1 month ago) - Official GitHub Action for OSSF Scorecards.
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.8.0](https://github.com/ossf/scorecard/releases/tag/v4.8.0), 1 month ago) - Security Scorecards - Security health metrics for Open Source
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.8.0](https://github.com/ossf/scorecard/releases/tag/v4.8.0), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [dexidp/dex](https://github.com/dexidp/dex) ([v2.35.3](https://github.com/dexidp/dex/releases/tag/v2.35.3), 1 month ago) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 
 #### 🔨 My recent Pull Requests
