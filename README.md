@@ -9,8 +9,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (2 days ago)
-- [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (4 days ago)
+- [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (3 days ago)
+- [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (5 days ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 week ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 week ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 week ago)
@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.10](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.10), 2 days ago) - Container and file artifact promotion tooling for the Kubernetes project
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.0-rc.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.0-rc.1), 2 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.10](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.10), 3 days ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.0-rc.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.0-rc.1), 3 days ago) - Production-Grade Container Scheduling and Management
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.2](https://github.com/openclarity/functionclarity/releases/tag/v1.0.2), 1 week ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.4](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.4), 1 week ago) - Interfaces and implementations for building Kubernetes releases.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.6](https://github.com/etcd-io/etcd/releases/tag/v3.5.6), 1 week ago) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -35,9 +35,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Set baseline policy configurations](https://github.com/openclarity/.github/pull/1) on [openclarity/.github](https://github.com/openclarity/.github) (4 days ago)
-- [.github/settings.yml: Resolve configuration drift](https://github.com/openclarity/functionclarity/pull/113) on [openclarity/functionclarity](https://github.com/openclarity/functionclarity) (4 days ago)
-- [.github: Add CODEOWNERS and repo settings configuration file](https://github.com/openclarity/functionclarity/pull/112) on [openclarity/functionclarity](https://github.com/openclarity/functionclarity) (4 days ago)
+- [Set baseline policy configurations](https://github.com/openclarity/.github/pull/1) on [openclarity/.github](https://github.com/openclarity/.github) (5 days ago)
+- [.github/settings.yml: Resolve configuration drift](https://github.com/openclarity/functionclarity/pull/113) on [openclarity/functionclarity](https://github.com/openclarity/functionclarity) (5 days ago)
+- [.github: Add CODEOWNERS and repo settings configuration file](https://github.com/openclarity/functionclarity/pull/112) on [openclarity/functionclarity](https://github.com/openclarity/functionclarity) (5 days ago)
 - [OWNERS: Cleanup pt. 2](https://github.com/kubernetes/release/pull/2773) on [kubernetes/release](https://github.com/kubernetes/release) (1 week ago)
 - [OWNERS: Cleanup of leaf OWNERS and reconcile RMAs](https://github.com/kubernetes/release/pull/2772) on [kubernetes/release](https://github.com/kubernetes/release) (1 week ago)
 - [OWNERS(sig-release): Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/kubernetes/pull/114146) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
@@ -48,16 +48,16 @@
 
 #### ⭐ Recent Stars
 
-- [nayafia/contributing-template](https://github.com/nayafia/contributing-template) - Template for writing your own contributing guide (3 days ago)
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (4 days ago)
-- [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings (4 days ago)
+- [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (1 day ago)
+- [nayafia/contributing-template](https://github.com/nayafia/contributing-template) - Template for writing your own contributing guide (4 days ago)
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (5 days ago)
+- [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings (5 days ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 week ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 week ago)
 - [hachyderm/community](https://github.com/hachyderm/community) - Hachyderm Community Resources (3 weeks ago)
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord (4 weeks ago)
 - [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae) - Distributed systems runtime daemon written in Rust. (1 month ago)
-- [project-zot/zot](https://github.com/project-zot/zot) - zot - A production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification) (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
