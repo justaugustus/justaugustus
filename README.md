@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.23.15](https://github.com/kubernetes/kubernetes/releases/tag/v1.23.15), today) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.22.17](https://github.com/kubernetes/kubernetes/releases/tag/v1.22.17), today) - Production-Grade Container Scheduling and Management
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.9.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.9.0-helm), 4 days ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.10](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.10), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.2](https://github.com/openclarity/functionclarity/releases/tag/v1.0.2), 2 weeks ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
