@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (3 days ago)
+- [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (4 days ago)
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (1 week ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (1 week ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.0), today) - Production-Grade Container Scheduling and Management
-- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.9.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.9.0-helm), 5 days ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.0), 1 day ago) - Production-Grade Container Scheduling and Management
+- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.9.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.9.0-helm), 6 days ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.10](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.10), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.2](https://github.com/openclarity/functionclarity/releases/tag/v1.0.2), 2 weeks ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.4](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.4), 2 weeks ago) - Interfaces and implementations for building Kubernetes releases.
@@ -31,7 +31,7 @@
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.1.6](https://github.com/cisco-open/flame/releases/tag/v0.1.6), 3 weeks ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.0.6](https://github.com/ossf/scorecard-action/releases/tag/v2.0.6), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.8.0](https://github.com/ossf/scorecard/releases/tag/v4.8.0), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
-- [dexidp/dex](https://github.com/dexidp/dex) ([v2.35.3](https://github.com/dexidp/dex/releases/tag/v2.35.3), 1 month ago) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+- [dexidp/dex](https://github.com/dexidp/dex) ([v2.35.3](https://github.com/dexidp/dex/releases/tag/v2.35.3), 2 months ago) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 
 #### 🔨 My recent Pull Requests
 
