@@ -31,7 +31,7 @@
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.6](https://github.com/etcd-io/etcd/releases/tag/v3.5.6), 3 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.1.6](https://github.com/cisco-open/flame/releases/tag/v0.1.6), 3 weeks ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.0.6](https://github.com/ossf/scorecard-action/releases/tag/v2.0.6), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.8.0](https://github.com/ossf/scorecard/releases/tag/v4.8.0), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [dexidp/dex](https://github.com/dexidp/dex) ([v2.35.3](https://github.com/dexidp/dex/releases/tag/v2.35.3), 2 months ago) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 
 #### 🔨 My recent Pull Requests
 
