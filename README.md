@@ -22,6 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.9.0](https://github.com/ossf/scorecard/releases/tag/v4.9.0), today) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.6](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.6), today) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.26](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.26), 3 days ago) - Kubernetes website and documentation repo: 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.0), 4 days ago) - Production-Grade Container Scheduling and Management
@@ -31,7 +32,6 @@
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.6](https://github.com/etcd-io/etcd/releases/tag/v3.5.6), 3 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.1.6](https://github.com/cisco-open/flame/releases/tag/v0.1.6), 3 weeks ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.0.6](https://github.com/ossf/scorecard-action/releases/tag/v2.0.6), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
-- [dexidp/dex](https://github.com/dexidp/dex) ([v2.35.3](https://github.com/dexidp/dex/releases/tag/v2.35.3), 2 months ago) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 
 #### 🔨 My recent Pull Requests
 
