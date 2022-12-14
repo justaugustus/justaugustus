@@ -22,12 +22,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.11](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.11), today) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.10.0](https://github.com/ossf/scorecard/releases/tag/v4.10.0), 1 day ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.6](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.6), 1 day ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.26](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.26), 4 days ago) - Kubernetes website and documentation repo: 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.0), 5 days ago) - Production-Grade Container Scheduling and Management
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.9.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.9.0-helm), 1 week ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.10](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.10), 2 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.2](https://github.com/openclarity/functionclarity/releases/tag/v1.0.2), 3 weeks ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.6](https://github.com/etcd-io/etcd/releases/tag/v3.5.6), 3 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.1.6](https://github.com/cisco-open/flame/releases/tag/v0.1.6), 4 weeks ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
