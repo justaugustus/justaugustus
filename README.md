@@ -15,18 +15,18 @@
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (2 weeks ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 weeks ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
-- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 weeks ago)
-- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 weeks ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 weeks ago)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 weeks ago)
+- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (3 weeks ago)
+- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (3 weeks ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 weeks ago)
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.11](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.11), today) - Container and file artifact promotion tooling for the Kubernetes project
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.10.0](https://github.com/ossf/scorecard/releases/tag/v4.10.0), 1 day ago) - OpenSSF Scorecard - Security health metrics for Open Source
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.6](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.6), 1 day ago) - Interfaces and implementations for building Kubernetes releases.
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.26](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.26), 4 days ago) - Kubernetes website and documentation repo: 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.0), 5 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.11](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.11), 1 day ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.10.0](https://github.com/ossf/scorecard/releases/tag/v4.10.0), 2 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.6](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.6), 2 days ago) - Interfaces and implementations for building Kubernetes releases.
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.26](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.26), 5 days ago) - Kubernetes website and documentation repo: 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.0), 6 days ago) - Production-Grade Container Scheduling and Management
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.9.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.9.0-helm), 1 week ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.2](https://github.com/openclarity/functionclarity/releases/tag/v1.0.2), 3 weeks ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.6](https://github.com/etcd-io/etcd/releases/tag/v3.5.6), 3 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -44,7 +44,7 @@
 - [OWNERS(sig-release): Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/test-infra/pull/28118) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (2 weeks ago)
 - [sig-release: Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/release/pull/2771) on [kubernetes/release](https://github.com/kubernetes/release) (2 weeks ago)
 - [sig-release: Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/sig-release/pull/2101) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (2 weeks ago)
-- [sig-release: Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/website/pull/38058) on [kubernetes/website](https://github.com/kubernetes/website) (2 weeks ago)
+- [sig-release: Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/website/pull/38058) on [kubernetes/website](https://github.com/kubernetes/website) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
