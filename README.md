@@ -22,6 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.0](https://github.com/ossf/scorecard-action/releases/tag/v2.1.0), today) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.11](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.11), 1 day ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.10.0](https://github.com/ossf/scorecard/releases/tag/v4.10.0), 2 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.6](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.6), 2 days ago) - Interfaces and implementations for building Kubernetes releases.
@@ -31,7 +32,6 @@
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.2](https://github.com/openclarity/functionclarity/releases/tag/v1.0.2), 3 weeks ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.6](https://github.com/etcd-io/etcd/releases/tag/v3.5.6), 3 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.1.6](https://github.com/cisco-open/flame/releases/tag/v0.1.6), 4 weeks ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.0.6](https://github.com/ossf/scorecard-action/releases/tag/v2.0.6), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
 
 #### 🔨 My recent Pull Requests
 
