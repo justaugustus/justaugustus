@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [go.mod: Update gopkg.in/yaml.v2 to v2.4.0](https://github.com/uwu-tools/gh-jira-sync/pull/9) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (today)
 - [.github: Add presubmits](https://github.com/uwu-tools/gh-jira-sync/pull/8) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (today)
 - [Fork fork fork](https://github.com/uwu-tools/gh-jira-sync/pull/1) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (today)
 - [Set baseline policy configurations](https://github.com/openclarity/.github/pull/1) on [openclarity/.github](https://github.com/openclarity/.github) (2 weeks ago)
@@ -44,7 +45,6 @@
 - [OWNERS: Cleanup of leaf OWNERS and reconcile RMAs](https://github.com/kubernetes/release/pull/2772) on [kubernetes/release](https://github.com/kubernetes/release) (3 weeks ago)
 - [OWNERS(sig-release): Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/kubernetes/pull/114146) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
 - [OWNERS(sig-release): Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/test-infra/pull/28118) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
-- [sig-release: Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/release/pull/2771) on [kubernetes/release](https://github.com/kubernetes/release) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
