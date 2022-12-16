@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Lint it](https://github.com/uwu-tools/gh-jira-sync/pull/12) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (today)
 - [go.mod: Update GitHub and Jira dependencies](https://github.com/uwu-tools/gh-jira-sync/pull/11) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (today)
 - [Dependency updates](https://github.com/uwu-tools/gh-jira-sync/pull/10) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (today)
 - [go.mod: Update gopkg.in/yaml.v2 to v2.4.0](https://github.com/uwu-tools/gh-jira-sync/pull/9) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (today)
@@ -44,7 +45,6 @@
 - [.github/settings.yml: Resolve configuration drift](https://github.com/openclarity/functionclarity/pull/113) on [openclarity/functionclarity](https://github.com/openclarity/functionclarity) (2 weeks ago)
 - [.github: Add CODEOWNERS and repo settings configuration file](https://github.com/openclarity/functionclarity/pull/112) on [openclarity/functionclarity](https://github.com/openclarity/functionclarity) (2 weeks ago)
 - [OWNERS: Cleanup pt. 2](https://github.com/kubernetes/release/pull/2773) on [kubernetes/release](https://github.com/kubernetes/release) (3 weeks ago)
-- [OWNERS: Cleanup of leaf OWNERS and reconcile RMAs](https://github.com/kubernetes/release/pull/2772) on [kubernetes/release](https://github.com/kubernetes/release) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
