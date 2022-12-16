@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [.github: Add presubmits](https://github.com/uwu-tools/gh-jira-sync/pull/8) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (today)
+- [Fork fork fork](https://github.com/uwu-tools/gh-jira-sync/pull/1) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (today)
 - [Set baseline policy configurations](https://github.com/openclarity/.github/pull/1) on [openclarity/.github](https://github.com/openclarity/.github) (2 weeks ago)
 - [.github/settings.yml: Resolve configuration drift](https://github.com/openclarity/functionclarity/pull/113) on [openclarity/functionclarity](https://github.com/openclarity/functionclarity) (2 weeks ago)
 - [.github: Add CODEOWNERS and repo settings configuration file](https://github.com/openclarity/functionclarity/pull/112) on [openclarity/functionclarity](https://github.com/openclarity/functionclarity) (2 weeks ago)
@@ -43,8 +45,6 @@
 - [OWNERS(sig-release): Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/kubernetes/pull/114146) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
 - [OWNERS(sig-release): Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/test-infra/pull/28118) on [kubernetes/test-infra](https://github.com/kubernetes/test-infra) (3 weeks ago)
 - [sig-release: Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/release/pull/2771) on [kubernetes/release](https://github.com/kubernetes/release) (3 weeks ago)
-- [sig-release: Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/sig-release/pull/2101) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (3 weeks ago)
-- [sig-release: Promote Verónica (Tech Lead) and Jeremy (Chair)](https://github.com/kubernetes/website/pull/38058) on [kubernetes/website](https://github.com/kubernetes/website) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
