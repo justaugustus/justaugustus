@@ -30,8 +30,8 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.9.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.9.0-helm), 2 weeks ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.2](https://github.com/openclarity/functionclarity/releases/tag/v1.0.2), 3 weeks ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) ([v3.5.6](https://github.com/etcd-io/etcd/releases/tag/v3.5.6), 3 weeks ago) - Distributed reliable key-value store for the most critical data of a distributed system
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.1.6](https://github.com/cisco-open/flame/releases/tag/v0.1.6), 1 month ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
+- [kubernetes-sigs/kui](https://github.com/kubernetes-sigs/kui) ([v12.2.0](https://github.com/kubernetes-sigs/kui/releases/tag/v12.2.0), 2 months ago) - A hybrid command-line/UI development experience for cloud-native development
 
 #### 🔨 My recent Pull Requests
 
