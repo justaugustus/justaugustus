@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.10.1](https://github.com/ossf/scorecard/releases/tag/v4.10.1), today) - OpenSSF Scorecard - Security health metrics for Open Source
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.0](https://github.com/ossf/scorecard-action/releases/tag/v2.1.0), 3 days ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.11](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.11), 4 days ago) - Container and file artifact promotion tooling for the Kubernetes project
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.10.0](https://github.com/ossf/scorecard/releases/tag/v4.10.0), 5 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.6](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.6), 5 days ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.26](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.26), 1 week ago) - Kubernetes website and documentation repo: 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.0), 1 week ago) - Production-Grade Container Scheduling and Management
