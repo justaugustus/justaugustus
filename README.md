@@ -22,6 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.2](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.2), today) - Website and API for OpenSSF Scorecard
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.10.1](https://github.com/ossf/scorecard/releases/tag/v4.10.1), 1 day ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.0](https://github.com/ossf/scorecard-action/releases/tag/v2.1.0), 4 days ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.11](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.11), 5 days ago) - Container and file artifact promotion tooling for the Kubernetes project
@@ -31,7 +32,6 @@
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.9.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.9.0-helm), 2 weeks ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.2](https://github.com/openclarity/functionclarity/releases/tag/v1.0.2), 3 weeks ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.1.6](https://github.com/cisco-open/flame/releases/tag/v0.1.6), 1 month ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
-- [kubernetes-sigs/kui](https://github.com/kubernetes-sigs/kui) ([v12.2.0](https://github.com/kubernetes-sigs/kui/releases/tag/v12.2.0), 2 months ago) - A hybrid command-line/UI development experience for cloud-native development
 
 #### 🔨 My recent Pull Requests
 
