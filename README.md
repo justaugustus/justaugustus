@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.1](https://github.com/ossf/scorecard-action/releases/tag/v2.1.1), today) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.2](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.2), today) - Website and API for OpenSSF Scorecard
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.10.1](https://github.com/ossf/scorecard/releases/tag/v4.10.1), 1 day ago) - OpenSSF Scorecard - Security health metrics for Open Source
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.0](https://github.com/ossf/scorecard-action/releases/tag/v2.1.0), 4 days ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.11](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.11), 5 days ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.6](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.6), 6 days ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.26](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.26), 1 week ago) - Kubernetes website and documentation repo: 
