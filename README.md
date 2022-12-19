@@ -11,7 +11,7 @@
 
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 week ago)
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (2 weeks ago)
-- [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (2 weeks ago)
+- [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (3 weeks ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (3 weeks ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 weeks ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 weeks ago)
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.10.1](https://github.com/ossf/scorecard/releases/tag/v4.10.1), today) - OpenSSF Scorecard - Security health metrics for Open Source
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.0](https://github.com/ossf/scorecard-action/releases/tag/v2.1.0), 3 days ago) - Official GitHub Action for OpenSSF Scorecard.
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.11](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.11), 4 days ago) - Container and file artifact promotion tooling for the Kubernetes project
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.6](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.6), 5 days ago) - Interfaces and implementations for building Kubernetes releases.
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.10.1](https://github.com/ossf/scorecard/releases/tag/v4.10.1), 1 day ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.0](https://github.com/ossf/scorecard-action/releases/tag/v2.1.0), 4 days ago) - Official GitHub Action for OpenSSF Scorecard.
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.11](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.11), 5 days ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.6](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.6), 6 days ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.26](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.26), 1 week ago) - Kubernetes website and documentation repo: 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.9.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.9.0-helm), 2 weeks ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
@@ -35,23 +35,23 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Lint it](https://github.com/uwu-tools/gh-jira-sync/pull/12) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (2 days ago)
-- [go.mod: Update GitHub and Jira dependencies](https://github.com/uwu-tools/gh-jira-sync/pull/11) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (2 days ago)
-- [Dependency updates](https://github.com/uwu-tools/gh-jira-sync/pull/10) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (2 days ago)
-- [go.mod: Update gopkg.in/yaml.v2 to v2.4.0](https://github.com/uwu-tools/gh-jira-sync/pull/9) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (2 days ago)
-- [.github: Add presubmits](https://github.com/uwu-tools/gh-jira-sync/pull/8) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (2 days ago)
-- [Fork fork fork](https://github.com/uwu-tools/gh-jira-sync/pull/1) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (2 days ago)
-- [Set baseline policy configurations](https://github.com/openclarity/.github/pull/1) on [openclarity/.github](https://github.com/openclarity/.github) (2 weeks ago)
-- [.github/settings.yml: Resolve configuration drift](https://github.com/openclarity/functionclarity/pull/113) on [openclarity/functionclarity](https://github.com/openclarity/functionclarity) (2 weeks ago)
-- [.github: Add CODEOWNERS and repo settings configuration file](https://github.com/openclarity/functionclarity/pull/112) on [openclarity/functionclarity](https://github.com/openclarity/functionclarity) (2 weeks ago)
+- [Lint it](https://github.com/uwu-tools/gh-jira-sync/pull/12) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (3 days ago)
+- [go.mod: Update GitHub and Jira dependencies](https://github.com/uwu-tools/gh-jira-sync/pull/11) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (3 days ago)
+- [Dependency updates](https://github.com/uwu-tools/gh-jira-sync/pull/10) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (3 days ago)
+- [go.mod: Update gopkg.in/yaml.v2 to v2.4.0](https://github.com/uwu-tools/gh-jira-sync/pull/9) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (3 days ago)
+- [.github: Add presubmits](https://github.com/uwu-tools/gh-jira-sync/pull/8) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (3 days ago)
+- [Fork fork fork](https://github.com/uwu-tools/gh-jira-sync/pull/1) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (3 days ago)
+- [Set baseline policy configurations](https://github.com/openclarity/.github/pull/1) on [openclarity/.github](https://github.com/openclarity/.github) (3 weeks ago)
+- [.github/settings.yml: Resolve configuration drift](https://github.com/openclarity/functionclarity/pull/113) on [openclarity/functionclarity](https://github.com/openclarity/functionclarity) (3 weeks ago)
+- [.github: Add CODEOWNERS and repo settings configuration file](https://github.com/openclarity/functionclarity/pull/112) on [openclarity/functionclarity](https://github.com/openclarity/functionclarity) (3 weeks ago)
 - [OWNERS: Cleanup pt. 2](https://github.com/kubernetes/release/pull/2773) on [kubernetes/release](https://github.com/kubernetes/release) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (2 weeks ago)
 - [nayafia/contributing-template](https://github.com/nayafia/contributing-template) - Template for writing your own contributing guide (2 weeks ago)
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (2 weeks ago)
-- [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings (2 weeks ago)
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (3 weeks ago)
+- [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings (3 weeks ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (3 weeks ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 weeks ago)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (3 weeks ago)
