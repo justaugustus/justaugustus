@@ -9,16 +9,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) -  (5 days ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (2 weeks ago)
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (3 weeks ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (3 weeks ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 weeks ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 weeks ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (3 weeks ago)
-- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (3 weeks ago)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (3 weeks ago)
-- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (3 weeks ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 weeks ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 weeks ago)
+- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (3 weeks ago)
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -35,12 +35,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Lint it](https://github.com/uwu-tools/gh-jira-sync/pull/12) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (5 days ago)
-- [go.mod: Update GitHub and Jira dependencies](https://github.com/uwu-tools/gh-jira-sync/pull/11) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (5 days ago)
-- [Dependency updates](https://github.com/uwu-tools/gh-jira-sync/pull/10) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (5 days ago)
-- [go.mod: Update gopkg.in/yaml.v2 to v2.4.0](https://github.com/uwu-tools/gh-jira-sync/pull/9) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (5 days ago)
-- [.github: Add presubmits](https://github.com/uwu-tools/gh-jira-sync/pull/8) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (5 days ago)
-- [Fork fork fork](https://github.com/uwu-tools/gh-jira-sync/pull/1) on [uwu-tools/gh-jira-sync](https://github.com/uwu-tools/gh-jira-sync) (5 days ago)
+- [Lint it](https://github.com/uwu-tools/issue-sync/pull/12) on [uwu-tools/issue-sync](https://github.com/uwu-tools/issue-sync) (5 days ago)
+- [go.mod: Update GitHub and Jira dependencies](https://github.com/uwu-tools/issue-sync/pull/11) on [uwu-tools/issue-sync](https://github.com/uwu-tools/issue-sync) (5 days ago)
+- [Dependency updates](https://github.com/uwu-tools/issue-sync/pull/10) on [uwu-tools/issue-sync](https://github.com/uwu-tools/issue-sync) (5 days ago)
+- [go.mod: Update gopkg.in/yaml.v2 to v2.4.0](https://github.com/uwu-tools/issue-sync/pull/9) on [uwu-tools/issue-sync](https://github.com/uwu-tools/issue-sync) (5 days ago)
+- [.github: Add presubmits](https://github.com/uwu-tools/issue-sync/pull/8) on [uwu-tools/issue-sync](https://github.com/uwu-tools/issue-sync) (5 days ago)
+- [Fork fork fork](https://github.com/uwu-tools/issue-sync/pull/1) on [uwu-tools/issue-sync](https://github.com/uwu-tools/issue-sync) (5 days ago)
 - [Set baseline policy configurations](https://github.com/openclarity/.github/pull/1) on [openclarity/.github](https://github.com/openclarity/.github) (3 weeks ago)
 - [.github/settings.yml: Resolve configuration drift](https://github.com/openclarity/functionclarity/pull/113) on [openclarity/functionclarity](https://github.com/openclarity/functionclarity) (3 weeks ago)
 - [.github: Add CODEOWNERS and repo settings configuration file](https://github.com/openclarity/functionclarity/pull/112) on [openclarity/functionclarity](https://github.com/openclarity/functionclarity) (3 weeks ago)
