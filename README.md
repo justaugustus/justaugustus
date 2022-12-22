@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to JIRA  (today)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to JIRA (today)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (2 weeks ago)
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (3 weeks ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (3 weeks ago)
@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [.github: Add CODEOWNERS and repo configuration file](https://github.com/uwu-tools/gh-jira-issue-sync/pull/22) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
+- [Dockerfile: Pin alpine:3.17 image by digest](https://github.com/uwu-tools/gh-jira-issue-sync/pull/21) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [dependabot: Track container dependencies](https://github.com/uwu-tools/gh-jira-issue-sync/pull/18) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [go.mod: Update github.com/cenkalti/backoff to v4.2.0](https://github.com/uwu-tools/gh-jira-issue-sync/pull/17) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [Repo cleanups (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/15) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
@@ -43,13 +45,11 @@
 - [Lint it](https://github.com/uwu-tools/issue-sync/pull/12) on [uwu-tools/issue-sync](https://github.com/uwu-tools/issue-sync) (6 days ago)
 - [go.mod: Update GitHub and Jira dependencies](https://github.com/uwu-tools/issue-sync/pull/11) on [uwu-tools/issue-sync](https://github.com/uwu-tools/issue-sync) (6 days ago)
 - [Dependency updates](https://github.com/uwu-tools/issue-sync/pull/10) on [uwu-tools/issue-sync](https://github.com/uwu-tools/issue-sync) (6 days ago)
-- [go.mod: Update gopkg.in/yaml.v2 to v2.4.0](https://github.com/uwu-tools/issue-sync/pull/9) on [uwu-tools/issue-sync](https://github.com/uwu-tools/issue-sync) (6 days ago)
-- [.github: Add presubmits](https://github.com/uwu-tools/issue-sync/pull/8) on [uwu-tools/issue-sync](https://github.com/uwu-tools/issue-sync) (6 days ago)
 
 #### ⭐ Recent Stars
 
 - [flopach/johann-network-device-monitoring](https://github.com/flopach/johann-network-device-monitoring) - johann is a web-based network device monitoring tool for Cisco IOS XE devices. Collect configuration and operational data of your networking devices in a structured way in one single database! (today)
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to JIRA  (1 day ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to JIRA (1 day ago)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (2 weeks ago)
 - [nayafia/contributing-template](https://github.com/nayafia/contributing-template) - Template for writing your own contributing guide (3 weeks ago)
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (3 weeks ago)
