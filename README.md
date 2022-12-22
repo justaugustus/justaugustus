@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [flopach/johann-network-device-monitoring](https://github.com/flopach/johann-network-device-monitoring) - johann is a web-based network device monitoring tool for Cisco IOS XE devices. Collect configuration and operational data of your networking devices in a structured way in one single database! (today)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to JIRA  (1 day ago)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (2 weeks ago)
 - [nayafia/contributing-template](https://github.com/nayafia/contributing-template) - Template for writing your own contributing guide (3 weeks ago)
@@ -57,7 +58,6 @@
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (4 weeks ago)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (4 weeks ago)
 - [hachyderm/community](https://github.com/hachyderm/community) - Hachyderm Community Resources (1 month ago)
-- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) -  (Golang) Go bindings for Discord (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
