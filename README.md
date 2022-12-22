@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[WIP] Lint it](https://github.com/uwu-tools/gh-jira-issue-sync/pull/3) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
+- [Fix lint warnings (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/3) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
 - [Re-init fork of coreos/issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync/pull/2) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
 - [Lint it](https://github.com/uwu-tools/issue-sync/pull/12) on [uwu-tools/issue-sync](https://github.com/uwu-tools/issue-sync) (6 days ago)
 - [go.mod: Update GitHub and Jira dependencies](https://github.com/uwu-tools/issue-sync/pull/11) on [uwu-tools/issue-sync](https://github.com/uwu-tools/issue-sync) (6 days ago)
