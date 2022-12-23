@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [cmd: Use sigs.k8s.io/release-utils for version command](https://github.com/uwu-tools/gh-jira-issue-sync/pull/23) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [.github: Add CODEOWNERS and repo configuration file](https://github.com/uwu-tools/gh-jira-issue-sync/pull/22) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
 - [Dockerfile: Pin alpine:3.17 image by digest](https://github.com/uwu-tools/gh-jira-issue-sync/pull/21) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
 - [dependabot: Track container dependencies](https://github.com/uwu-tools/gh-jira-issue-sync/pull/18) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
@@ -44,7 +45,6 @@
 - [Re-init fork of coreos/issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync/pull/2) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 days ago)
 - [Lint it](https://github.com/uwu-tools/issue-sync/pull/12) on [uwu-tools/issue-sync](https://github.com/uwu-tools/issue-sync) (1 week ago)
 - [go.mod: Update GitHub and Jira dependencies](https://github.com/uwu-tools/issue-sync/pull/11) on [uwu-tools/issue-sync](https://github.com/uwu-tools/issue-sync) (1 week ago)
-- [Dependency updates](https://github.com/uwu-tools/issue-sync/pull/10) on [uwu-tools/issue-sync](https://github.com/uwu-tools/issue-sync) (1 week ago)
 
 #### ⭐ Recent Stars
 
