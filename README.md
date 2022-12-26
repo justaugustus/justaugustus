@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to JIRA (1 day ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to JIRA (today)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (2 weeks ago)
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (3 weeks ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (4 weeks ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix lint warnings (3/3)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/41) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [go.mod: Update to github.com/andygrunwald/go-jira/v2](https://github.com/uwu-tools/gh-jira-issue-sync/pull/40) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
 - [Issue creation/update cleanups (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/27) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
 - [jira: Simplify/correct basic auth logic](https://github.com/uwu-tools/gh-jira-issue-sync/pull/26) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 days ago)
@@ -44,7 +45,6 @@
 - [Dockerfile: Pin alpine:3.17 image by digest](https://github.com/uwu-tools/gh-jira-issue-sync/pull/21) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (4 days ago)
 - [dependabot: Track container dependencies](https://github.com/uwu-tools/gh-jira-issue-sync/pull/18) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (4 days ago)
 - [go.mod: Update github.com/cenkalti/backoff to v4.2.0](https://github.com/uwu-tools/gh-jira-issue-sync/pull/17) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (4 days ago)
-- [Repo cleanups (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/15) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (4 days ago)
 
 #### ⭐ Recent Stars
 
