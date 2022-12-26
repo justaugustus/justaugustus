@@ -9,10 +9,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to JIRA (today)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to JIRA (1 day ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (2 weeks ago)
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (3 weeks ago)
-- [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (3 weeks ago)
+- [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (4 weeks ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 month ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 month ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 month ago)
@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.2](https://github.com/ossf/scorecard-action/releases/tag/v2.1.2), 4 days ago) - Official GitHub Action for OpenSSF Scorecard.
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.10.2](https://github.com/ossf/scorecard/releases/tag/v4.10.2), 4 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.2](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.2), 6 days ago) - Website and API for OpenSSF Scorecard
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.2](https://github.com/ossf/scorecard-action/releases/tag/v2.1.2), 5 days ago) - Official GitHub Action for OpenSSF Scorecard.
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.10.2](https://github.com/ossf/scorecard/releases/tag/v4.10.2), 5 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.2](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.2), 1 week ago) - Website and API for OpenSSF Scorecard
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.11](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.11), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.6](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.6), 1 week ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.26](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.26), 2 weeks ago) - Kubernetes website and documentation repo: 
@@ -35,25 +35,25 @@
 
 #### 🔨 My recent Pull Requests
 
-- [go.mod: Update to github.com/andygrunwald/go-jira/v2](https://github.com/uwu-tools/gh-jira-issue-sync/pull/40) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
-- [Issue creation/update cleanups (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/27) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
-- [jira: Simplify/correct basic auth logic](https://github.com/uwu-tools/gh-jira-issue-sync/pull/26) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
-- [Cleanup repo structure (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/25) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
-- [cmd: Use sigs.k8s.io/release-utils for version command](https://github.com/uwu-tools/gh-jira-issue-sync/pull/23) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 days ago)
-- [.github: Add CODEOWNERS and repo configuration file](https://github.com/uwu-tools/gh-jira-issue-sync/pull/22) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
-- [Dockerfile: Pin alpine:3.17 image by digest](https://github.com/uwu-tools/gh-jira-issue-sync/pull/21) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
-- [dependabot: Track container dependencies](https://github.com/uwu-tools/gh-jira-issue-sync/pull/18) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
-- [go.mod: Update github.com/cenkalti/backoff to v4.2.0](https://github.com/uwu-tools/gh-jira-issue-sync/pull/17) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
-- [Repo cleanups (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/15) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
+- [go.mod: Update to github.com/andygrunwald/go-jira/v2](https://github.com/uwu-tools/gh-jira-issue-sync/pull/40) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
+- [Issue creation/update cleanups (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/27) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
+- [jira: Simplify/correct basic auth logic](https://github.com/uwu-tools/gh-jira-issue-sync/pull/26) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 days ago)
+- [Cleanup repo structure (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/25) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 days ago)
+- [cmd: Use sigs.k8s.io/release-utils for version command](https://github.com/uwu-tools/gh-jira-issue-sync/pull/23) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
+- [.github: Add CODEOWNERS and repo configuration file](https://github.com/uwu-tools/gh-jira-issue-sync/pull/22) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (4 days ago)
+- [Dockerfile: Pin alpine:3.17 image by digest](https://github.com/uwu-tools/gh-jira-issue-sync/pull/21) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (4 days ago)
+- [dependabot: Track container dependencies](https://github.com/uwu-tools/gh-jira-issue-sync/pull/18) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (4 days ago)
+- [go.mod: Update github.com/cenkalti/backoff to v4.2.0](https://github.com/uwu-tools/gh-jira-issue-sync/pull/17) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (4 days ago)
+- [Repo cleanups (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/15) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (4 days ago)
 
 #### ⭐ Recent Stars
 
-- [flopach/johann-network-device-monitoring](https://github.com/flopach/johann-network-device-monitoring) - johann is a web-based network device monitoring tool for Cisco IOS XE devices. Collect configuration and operational data of your networking devices in a structured way in one single database! (3 days ago)
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to JIRA (4 days ago)
+- [flopach/johann-network-device-monitoring](https://github.com/flopach/johann-network-device-monitoring) - johann is a web-based network device monitoring tool for Cisco IOS XE devices. Collect configuration and operational data of your networking devices in a structured way in one single database! (4 days ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to JIRA (5 days ago)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (3 weeks ago)
 - [nayafia/contributing-template](https://github.com/nayafia/contributing-template) - Template for writing your own contributing guide (3 weeks ago)
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (3 weeks ago)
-- [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings (3 weeks ago)
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (4 weeks ago)
+- [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings (4 weeks ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 month ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 month ago)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 month ago)
