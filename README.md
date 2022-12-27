@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [issue: Only compare labels when GitHub labels are populated](https://github.com/uwu-tools/gh-jira-issue-sync/pull/48) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [issue: Normalize label values](https://github.com/uwu-tools/gh-jira-issue-sync/pull/47) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [Correct field types and comparisons](https://github.com/uwu-tools/gh-jira-issue-sync/pull/46) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [config: Plumb context.Context](https://github.com/uwu-tools/gh-jira-issue-sync/pull/44) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
@@ -44,7 +45,6 @@
 - [Issue creation/update cleanups (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/27) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 days ago)
 - [jira: Simplify/correct basic auth logic](https://github.com/uwu-tools/gh-jira-issue-sync/pull/26) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
 - [Cleanup repo structure (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/25) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
-- [cmd: Use sigs.k8s.io/release-utils for version command](https://github.com/uwu-tools/gh-jira-issue-sync/pull/23) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (4 days ago)
 
 #### ⭐ Recent Stars
 
