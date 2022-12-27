@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [config: Plumb context.Context](https://github.com/uwu-tools/gh-jira-issue-sync/pull/44) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [Parameterize configs with values from options package](https://github.com/uwu-tools/gh-jira-issue-sync/pull/42) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [Fix lint warnings (3/3)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/41) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
 - [go.mod: Update to github.com/andygrunwald/go-jira/v2](https://github.com/uwu-tools/gh-jira-issue-sync/pull/40) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 days ago)
@@ -44,7 +45,6 @@
 - [cmd: Use sigs.k8s.io/release-utils for version command](https://github.com/uwu-tools/gh-jira-issue-sync/pull/23) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (4 days ago)
 - [.github: Add CODEOWNERS and repo configuration file](https://github.com/uwu-tools/gh-jira-issue-sync/pull/22) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (5 days ago)
 - [Dockerfile: Pin alpine:3.17 image by digest](https://github.com/uwu-tools/gh-jira-issue-sync/pull/21) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (5 days ago)
-- [dependabot: Track container dependencies](https://github.com/uwu-tools/gh-jira-issue-sync/pull/18) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (5 days ago)
 
 #### ⭐ Recent Stars
 
