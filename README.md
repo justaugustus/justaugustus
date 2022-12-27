@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.3](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.3), today) - Website and API for OpenSSF Scorecard
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.2](https://github.com/ossf/scorecard-action/releases/tag/v2.1.2), 6 days ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.10.2](https://github.com/ossf/scorecard/releases/tag/v4.10.2), 6 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.2](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.2), 1 week ago) - Website and API for OpenSSF Scorecard
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.11](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.11), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.6](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.6), 2 weeks ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.26](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.26), 2 weeks ago) - Kubernetes website and documentation repo: 
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [issue: Don&#39;t attempt to populate fields from all existing](https://github.com/uwu-tools/gh-jira-issue-sync/pull/49) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [issue: Only compare labels when GitHub labels are populated](https://github.com/uwu-tools/gh-jira-issue-sync/pull/48) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [issue: Normalize label values](https://github.com/uwu-tools/gh-jira-issue-sync/pull/47) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [Correct field types and comparisons](https://github.com/uwu-tools/gh-jira-issue-sync/pull/46) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
@@ -44,7 +45,6 @@
 - [go.mod: Update to github.com/andygrunwald/go-jira/v2](https://github.com/uwu-tools/gh-jira-issue-sync/pull/40) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 days ago)
 - [Issue creation/update cleanups (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/27) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 days ago)
 - [jira: Simplify/correct basic auth logic](https://github.com/uwu-tools/gh-jira-issue-sync/pull/26) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
-- [Cleanup repo structure (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/25) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
 
 #### ⭐ Recent Stars
 
