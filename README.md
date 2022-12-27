@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [issue: Normalize label values](https://github.com/uwu-tools/gh-jira-issue-sync/pull/47) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
+- [Correct field types and comparisons](https://github.com/uwu-tools/gh-jira-issue-sync/pull/46) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [config: Plumb context.Context](https://github.com/uwu-tools/gh-jira-issue-sync/pull/44) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [Parameterize configs with values from options package](https://github.com/uwu-tools/gh-jira-issue-sync/pull/42) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [Fix lint warnings (3/3)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/41) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
@@ -43,8 +45,6 @@
 - [jira: Simplify/correct basic auth logic](https://github.com/uwu-tools/gh-jira-issue-sync/pull/26) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
 - [Cleanup repo structure (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/25) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
 - [cmd: Use sigs.k8s.io/release-utils for version command](https://github.com/uwu-tools/gh-jira-issue-sync/pull/23) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (4 days ago)
-- [.github: Add CODEOWNERS and repo configuration file](https://github.com/uwu-tools/gh-jira-issue-sync/pull/22) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (5 days ago)
-- [Dockerfile: Pin alpine:3.17 image by digest](https://github.com/uwu-tools/gh-jira-issue-sync/pull/21) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (5 days ago)
 
 #### ⭐ Recent Stars
 
