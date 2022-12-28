@@ -9,10 +9,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to JIRA (today)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to JIRA (1 day ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (3 weeks ago)
-- [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (3 weeks ago)
-- [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (4 weeks ago)
+- [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (4 weeks ago)
+- [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (1 month ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 month ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 month ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 month ago)
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.3](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.3), today) - Website and API for OpenSSF Scorecard
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.2](https://github.com/ossf/scorecard-action/releases/tag/v2.1.2), 6 days ago) - Official GitHub Action for OpenSSF Scorecard.
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.10.2](https://github.com/ossf/scorecard/releases/tag/v4.10.2), 6 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.11](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.11), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.3](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.3), 1 day ago) - Website and API for OpenSSF Scorecard
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.2](https://github.com/ossf/scorecard-action/releases/tag/v2.1.2), 1 week ago) - Official GitHub Action for OpenSSF Scorecard.
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.10.2](https://github.com/ossf/scorecard/releases/tag/v4.10.2), 1 week ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.11](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.11), 2 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.6](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.6), 2 weeks ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.26](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.26), 2 weeks ago) - Kubernetes website and documentation repo: 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.0), 2 weeks ago) - Production-Grade Container Scheduling and Management
@@ -35,27 +35,27 @@
 
 #### 🔨 My recent Pull Requests
 
-- [issue: Don&#39;t attempt to populate fields from all existing](https://github.com/uwu-tools/gh-jira-issue-sync/pull/49) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
-- [issue: Only compare labels when GitHub labels are populated](https://github.com/uwu-tools/gh-jira-issue-sync/pull/48) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
-- [issue: Normalize label values](https://github.com/uwu-tools/gh-jira-issue-sync/pull/47) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
-- [Correct field types and comparisons](https://github.com/uwu-tools/gh-jira-issue-sync/pull/46) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
-- [config: Plumb context.Context](https://github.com/uwu-tools/gh-jira-issue-sync/pull/44) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
-- [Parameterize configs with values from options package](https://github.com/uwu-tools/gh-jira-issue-sync/pull/42) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
-- [Fix lint warnings (3/3)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/41) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
-- [go.mod: Update to github.com/andygrunwald/go-jira/v2](https://github.com/uwu-tools/gh-jira-issue-sync/pull/40) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 days ago)
-- [Issue creation/update cleanups (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/27) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 days ago)
-- [jira: Simplify/correct basic auth logic](https://github.com/uwu-tools/gh-jira-issue-sync/pull/26) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
+- [issue: Don&#39;t attempt to populate fields from all existing](https://github.com/uwu-tools/gh-jira-issue-sync/pull/49) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
+- [issue: Only compare labels when GitHub labels are populated](https://github.com/uwu-tools/gh-jira-issue-sync/pull/48) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
+- [issue: Normalize label values](https://github.com/uwu-tools/gh-jira-issue-sync/pull/47) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
+- [Correct field types and comparisons](https://github.com/uwu-tools/gh-jira-issue-sync/pull/46) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
+- [config: Plumb context.Context](https://github.com/uwu-tools/gh-jira-issue-sync/pull/44) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
+- [Parameterize configs with values from options package](https://github.com/uwu-tools/gh-jira-issue-sync/pull/42) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
+- [Fix lint warnings (3/3)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/41) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 days ago)
+- [go.mod: Update to github.com/andygrunwald/go-jira/v2](https://github.com/uwu-tools/gh-jira-issue-sync/pull/40) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
+- [Issue creation/update cleanups (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/27) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
+- [jira: Simplify/correct basic auth logic](https://github.com/uwu-tools/gh-jira-issue-sync/pull/26) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (4 days ago)
 
 #### ⭐ Recent Stars
 
-- [coreos/go-iptables](https://github.com/coreos/go-iptables) - Go wrapper around iptables utility (today)
-- [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa. (today)
-- [flopach/johann-network-device-monitoring](https://github.com/flopach/johann-network-device-monitoring) - johann is a web-based network device monitoring tool for Cisco IOS XE devices. Collect configuration and operational data of your networking devices in a structured way in one single database! (5 days ago)
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to JIRA (6 days ago)
+- [coreos/go-iptables](https://github.com/coreos/go-iptables) - Go wrapper around iptables utility (1 day ago)
+- [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa. (1 day ago)
+- [flopach/johann-network-device-monitoring](https://github.com/flopach/johann-network-device-monitoring) - johann is a web-based network device monitoring tool for Cisco IOS XE devices. Collect configuration and operational data of your networking devices in a structured way in one single database! (6 days ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to JIRA (1 week ago)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (3 weeks ago)
 - [nayafia/contributing-template](https://github.com/nayafia/contributing-template) - Template for writing your own contributing guide (4 weeks ago)
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (4 weeks ago)
-- [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings (4 weeks ago)
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (1 month ago)
+- [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings (1 month ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 month ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 month ago)
 
