@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [http: Deduplicate backoff request logic](https://github.com/uwu-tools/gh-jira-issue-sync/pull/54) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [internal: Make all non-command packages unimportable](https://github.com/uwu-tools/gh-jira-issue-sync/pull/53) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [Update fixes](https://github.com/uwu-tools/gh-jira-issue-sync/pull/51) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [issue: Don&#39;t attempt to populate fields from all existing](https://github.com/uwu-tools/gh-jira-issue-sync/pull/49) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
@@ -44,7 +45,6 @@
 - [config: Plumb context.Context](https://github.com/uwu-tools/gh-jira-issue-sync/pull/44) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
 - [Parameterize configs with values from options package](https://github.com/uwu-tools/gh-jira-issue-sync/pull/42) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
 - [Fix lint warnings (3/3)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/41) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 days ago)
-- [go.mod: Update to github.com/andygrunwald/go-jira/v2](https://github.com/uwu-tools/gh-jira-issue-sync/pull/40) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
 
 #### ⭐ Recent Stars
 
