@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to JIRA (1 day ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to JIRA (today)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (3 weeks ago)
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (4 weeks ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (1 month ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [internal: Make all non-command packages unimportable](https://github.com/uwu-tools/gh-jira-issue-sync/pull/53) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [Update fixes](https://github.com/uwu-tools/gh-jira-issue-sync/pull/51) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [issue: Don&#39;t attempt to populate fields from all existing](https://github.com/uwu-tools/gh-jira-issue-sync/pull/49) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
 - [issue: Only compare labels when GitHub labels are populated](https://github.com/uwu-tools/gh-jira-issue-sync/pull/48) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
@@ -44,7 +45,6 @@
 - [Parameterize configs with values from options package](https://github.com/uwu-tools/gh-jira-issue-sync/pull/42) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
 - [Fix lint warnings (3/3)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/41) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 days ago)
 - [go.mod: Update to github.com/andygrunwald/go-jira/v2](https://github.com/uwu-tools/gh-jira-issue-sync/pull/40) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
-- [Issue creation/update cleanups (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/27) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
 
 #### ⭐ Recent Stars
 
