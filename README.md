@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 day ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (today)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (4 weeks ago)
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (1 month ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (1 month ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [github: Wire `sigs.k8s.io/release-sdk/github` client](https://github.com/uwu-tools/gh-jira-issue-sync/pull/58) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [docs: Update community health files ](https://github.com/uwu-tools/gh-jira-issue-sync/pull/56) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [config: Update custom field names](https://github.com/uwu-tools/gh-jira-issue-sync/pull/55) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [http: Deduplicate backoff request logic](https://github.com/uwu-tools/gh-jira-issue-sync/pull/54) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (6 days ago)
@@ -44,7 +45,6 @@
 - [issue: Only compare labels when GitHub labels are populated](https://github.com/uwu-tools/gh-jira-issue-sync/pull/48) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
 - [issue: Normalize label values](https://github.com/uwu-tools/gh-jira-issue-sync/pull/47) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
 - [Correct field types and comparisons](https://github.com/uwu-tools/gh-jira-issue-sync/pull/46) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
-- [config: Plumb context.Context](https://github.com/uwu-tools/gh-jira-issue-sync/pull/44) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
 
 #### ⭐ Recent Stars
 
