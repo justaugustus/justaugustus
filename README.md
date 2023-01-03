@@ -48,6 +48,8 @@
 
 #### ⭐ Recent Stars
 
+- [pkg/browser](https://github.com/pkg/browser) - Package browser provides helpers to open files, readers, and urls in a browser window. (today)
+- [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.  (today)
 - [coreos/go-iptables](https://github.com/coreos/go-iptables) - Go wrapper around iptables utility (1 week ago)
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa. (1 week ago)
 - [flopach/johann-network-device-monitoring](https://github.com/flopach/johann-network-device-monitoring) - johann is a web-based network device monitoring tool for Cisco IOS XE devices. Collect configuration and operational data of your networking devices in a structured way in one single database! (1 week ago)
@@ -56,8 +58,6 @@
 - [nayafia/contributing-template](https://github.com/nayafia/contributing-template) - Template for writing your own contributing guide (1 month ago)
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (1 month ago)
 - [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings (1 month ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 month ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
