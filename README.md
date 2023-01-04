@@ -9,16 +9,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (1 day ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 day ago)
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (1 day ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (4 weeks ago)
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (1 month ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (1 month ago)
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 month ago)
-- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 month ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 month ago)
+- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 month ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 month ago)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
+- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update fixes continued](https://github.com/uwu-tools/gh-jira-issue-sync/pull/60) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [github: Add `ListComments` method](https://github.com/kubernetes-sigs/release-sdk/pull/148) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (1 day ago)
 - [go.mod: Update `github.com/google/go-github` to v48.2.0](https://github.com/kubernetes-sigs/release-sdk/pull/147) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (1 day ago)
 - [github: Wire `sigs.k8s.io/release-sdk/github` client](https://github.com/uwu-tools/gh-jira-issue-sync/pull/58) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
@@ -44,7 +45,6 @@
 - [internal: Make all non-command packages unimportable](https://github.com/uwu-tools/gh-jira-issue-sync/pull/53) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
 - [Update fixes](https://github.com/uwu-tools/gh-jira-issue-sync/pull/51) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
 - [issue: Don&#39;t attempt to populate fields from all existing](https://github.com/uwu-tools/gh-jira-issue-sync/pull/49) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
-- [issue: Only compare labels when GitHub labels are populated](https://github.com/uwu-tools/gh-jira-issue-sync/pull/48) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
 
 #### ⭐ Recent Stars
 
