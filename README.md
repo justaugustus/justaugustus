@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [BurntSushi/go-sumtype](https://github.com/BurntSushi/go-sumtype) - A simple utility for running exhaustiveness checks on Go &#34;sum types.&#34; (today)
 - [pkg/browser](https://github.com/pkg/browser) - Package browser provides helpers to open files, readers, and urls in a browser window. (1 day ago)
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.  (1 day ago)
 - [coreos/go-iptables](https://github.com/coreos/go-iptables) - Go wrapper around iptables utility (1 week ago)
@@ -57,7 +58,6 @@
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (1 month ago)
 - [nayafia/contributing-template](https://github.com/nayafia/contributing-template) - Template for writing your own contributing guide (1 month ago)
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (1 month ago)
-- [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
