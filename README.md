@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 day ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (today)
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (2 days ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 month ago)
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (1 month ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [jira: Return pointers to Jira objects](https://github.com/uwu-tools/gh-jira-issue-sync/pull/65) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [jira: Remove `dryrunJiraClient` and merge into default methods](https://github.com/uwu-tools/gh-jira-issue-sync/pull/64) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [Lessen dependency on `config` package (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/63) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
 - [Update fixes continued](https://github.com/uwu-tools/gh-jira-issue-sync/pull/60) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
@@ -44,7 +45,6 @@
 - [docs: Update community health files ](https://github.com/uwu-tools/gh-jira-issue-sync/pull/56) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 days ago)
 - [config: Update custom field names](https://github.com/uwu-tools/gh-jira-issue-sync/pull/55) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 days ago)
 - [http: Deduplicate backoff request logic](https://github.com/uwu-tools/gh-jira-issue-sync/pull/54) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
-- [internal: Make all non-command packages unimportable](https://github.com/uwu-tools/gh-jira-issue-sync/pull/53) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
 
 #### ⭐ Recent Stars
 
