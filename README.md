@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [chainguard-dev/registry-redirect](https://github.com/chainguard-dev/registry-redirect) -  (today)
 - [BurntSushi/go-sumtype](https://github.com/BurntSushi/go-sumtype) - A simple utility for running exhaustiveness checks on Go &#34;sum types.&#34; (1 day ago)
 - [pkg/browser](https://github.com/pkg/browser) - Package browser provides helpers to open files, readers, and urls in a browser window. (2 days ago)
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.  (2 days ago)
@@ -57,7 +58,6 @@
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (2 weeks ago)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (1 month ago)
 - [nayafia/contributing-template](https://github.com/nayafia/contributing-template) - Template for writing your own contributing guide (1 month ago)
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
