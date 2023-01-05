@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [jira: Remove `dryrunJiraClient` and merge into default methods](https://github.com/uwu-tools/gh-jira-issue-sync/pull/64) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [Lessen dependency on `config` package (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/63) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
 - [Update fixes continued](https://github.com/uwu-tools/gh-jira-issue-sync/pull/60) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
 - [github: Add `ListComments` method](https://github.com/kubernetes-sigs/release-sdk/pull/148) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (2 days ago)
@@ -44,7 +45,6 @@
 - [config: Update custom field names](https://github.com/uwu-tools/gh-jira-issue-sync/pull/55) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 days ago)
 - [http: Deduplicate backoff request logic](https://github.com/uwu-tools/gh-jira-issue-sync/pull/54) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
 - [internal: Make all non-command packages unimportable](https://github.com/uwu-tools/gh-jira-issue-sync/pull/53) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
-- [Update fixes](https://github.com/uwu-tools/gh-jira-issue-sync/pull/51) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
 
 #### ⭐ Recent Stars
 
