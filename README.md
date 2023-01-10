@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (today)
 - [chainguard-dev/registry-redirect](https://github.com/chainguard-dev/registry-redirect) -  (5 days ago)
 - [BurntSushi/go-sumtype](https://github.com/BurntSushi/go-sumtype) - A simple utility for running exhaustiveness checks on Go &#34;sum types.&#34; (6 days ago)
 - [pkg/browser](https://github.com/pkg/browser) - Package browser provides helpers to open files, readers, and urls in a browser window. (1 week ago)
@@ -57,7 +58,6 @@
 - [flopach/johann-network-device-monitoring](https://github.com/flopach/johann-network-device-monitoring) - johann is a web-based network device monitoring tool for Cisco IOS XE devices. Collect configuration and operational data of your networking devices in a structured way in one single database! (2 weeks ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (2 weeks ago)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (1 month ago)
-- [nayafia/contributing-template](https://github.com/nayafia/contributing-template) - Template for writing your own contributing guide (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
