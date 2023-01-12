@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 day ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (2 days ago)
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (1 week ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 month ago)
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (1 month ago)
@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.1.7](https://github.com/cisco-open/flame/releases/tag/v0.1.7), 6 days ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
-- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.10.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.10.0-helm), 6 days ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
+- [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.1.7](https://github.com/cisco-open/flame/releases/tag/v0.1.7), 1 week ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
+- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.10.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.10.0-helm), 1 week ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.7), 1 week ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.3](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.3), 2 weeks ago) - Website and API for OpenSSF Scorecard
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.2](https://github.com/ossf/scorecard-action/releases/tag/v2.1.2), 3 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
@@ -35,9 +35,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove Kubernetes deployment manifests](https://github.com/uwu-tools/gh-jira-issue-sync/pull/72) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
-- [jira: Return pointers to Jira objects](https://github.com/uwu-tools/gh-jira-issue-sync/pull/65) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (6 days ago)
-- [jira: Remove `dryrunJiraClient` and merge into default methods](https://github.com/uwu-tools/gh-jira-issue-sync/pull/64) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (6 days ago)
+- [Remove Kubernetes deployment manifests](https://github.com/uwu-tools/gh-jira-issue-sync/pull/72) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
+- [jira: Return pointers to Jira objects](https://github.com/uwu-tools/gh-jira-issue-sync/pull/65) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
+- [jira: Remove `dryrunJiraClient` and merge into default methods](https://github.com/uwu-tools/gh-jira-issue-sync/pull/64) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
 - [Lessen dependency on `config` package (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/63) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
 - [Update fixes continued](https://github.com/uwu-tools/gh-jira-issue-sync/pull/60) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
 - [github: Add `ListComments` method](https://github.com/kubernetes-sigs/release-sdk/pull/148) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (1 week ago)
@@ -48,14 +48,14 @@
 
 #### ⭐ Recent Stars
 
-- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (1 day ago)
-- [chainguard-dev/registry-redirect](https://github.com/chainguard-dev/registry-redirect) -  (6 days ago)
+- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (2 days ago)
+- [chainguard-dev/registry-redirect](https://github.com/chainguard-dev/registry-redirect) -  (1 week ago)
 - [BurntSushi/go-sumtype](https://github.com/BurntSushi/go-sumtype) - A simple utility for running exhaustiveness checks on Go &#34;sum types.&#34; (1 week ago)
 - [pkg/browser](https://github.com/pkg/browser) - Package browser provides helpers to open files, readers, and urls in a browser window. (1 week ago)
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.  (1 week ago)
 - [coreos/go-iptables](https://github.com/coreos/go-iptables) - Go wrapper around iptables utility (2 weeks ago)
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa. (2 weeks ago)
-- [flopach/johann-network-device-monitoring](https://github.com/flopach/johann-network-device-monitoring) - johann is a web-based network device monitoring tool for Cisco IOS XE devices. Collect configuration and operational data of your networking devices in a structured way in one single database! (2 weeks ago)
+- [flopach/johann-network-device-monitoring](https://github.com/flopach/johann-network-device-monitoring) - johann is a web-based network device monitoring tool for Cisco IOS XE devices. Collect configuration and operational data of your networking devices in a structured way in one single database! (3 weeks ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (3 weeks ago)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (1 month ago)
 
