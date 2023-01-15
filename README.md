@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [boucet](https://github.com/boucet)
 - [igor-26](https://github.com/igor-26)
 - [ohthatspaul](https://github.com/ohthatspaul)
 - [xmudrii](https://github.com/xmudrii)
@@ -70,6 +71,5 @@
 - [castrojo](https://github.com/castrojo)
 - [ypanpande](https://github.com/ypanpande)
 - [jeromejsanders](https://github.com/jeromejsanders)
-- [Azhovan](https://github.com/Azhovan)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
