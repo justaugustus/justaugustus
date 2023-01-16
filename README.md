@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (6 days ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (today)
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (1 week ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 month ago)
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (1 month ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [config: Default search for config file in current working directory](https://github.com/uwu-tools/gh-jira-issue-sync/pull/75) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [Remove Kubernetes deployment manifests](https://github.com/uwu-tools/gh-jira-issue-sync/pull/72) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (5 days ago)
 - [jira: Return pointers to Jira objects](https://github.com/uwu-tools/gh-jira-issue-sync/pull/65) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
 - [jira: Remove `dryrunJiraClient` and merge into default methods](https://github.com/uwu-tools/gh-jira-issue-sync/pull/64) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
@@ -44,7 +45,6 @@
 - [go.mod: Update `github.com/google/go-github` to v48.2.0](https://github.com/kubernetes-sigs/release-sdk/pull/147) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (1 week ago)
 - [github: Wire `sigs.k8s.io/release-sdk/github` client](https://github.com/uwu-tools/gh-jira-issue-sync/pull/58) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
 - [docs: Update community health files ](https://github.com/uwu-tools/gh-jira-issue-sync/pull/56) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
-- [config: Update custom field names](https://github.com/uwu-tools/gh-jira-issue-sync/pull/55) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
 
 #### ⭐ Recent Stars
 
