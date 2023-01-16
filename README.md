@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.11.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.11.0-helm), today) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.1.7](https://github.com/cisco-open/flame/releases/tag/v0.1.7), 1 week ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
-- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.10.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.10.0-helm), 1 week ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.7), 1 week ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.3](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.3), 2 weeks ago) - Website and API for OpenSSF Scorecard
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.2](https://github.com/ossf/scorecard-action/releases/tag/v2.1.2), 3 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
