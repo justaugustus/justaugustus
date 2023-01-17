@@ -9,10 +9,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (today)
-- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (today)
-- [uwu-tools/go-ghcrawl](https://github.com/uwu-tools/go-ghcrawl) -  (today)
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (1 week ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 day ago)
+- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (1 day ago)
+- [uwu-tools/go-ghcrawl](https://github.com/uwu-tools/go-ghcrawl) -  (1 day ago)
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (2 weeks ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 month ago)
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (1 month ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (1 month ago)
@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.11.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.11.0-helm), today) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
+- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.11.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.11.0-helm), 1 day ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.1.7](https://github.com/cisco-open/flame/releases/tag/v0.1.7), 1 week ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.7), 1 week ago) - Interfaces and implementations for building Kubernetes releases.
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.3](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.3), 2 weeks ago) - Website and API for OpenSSF Scorecard
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.7), 2 weeks ago) - Interfaces and implementations for building Kubernetes releases.
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.3](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.3), 3 weeks ago) - Website and API for OpenSSF Scorecard
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.2](https://github.com/ossf/scorecard-action/releases/tag/v2.1.2), 3 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.10.2](https://github.com/ossf/scorecard/releases/tag/v4.10.2), 3 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.11](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.11), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
@@ -35,29 +35,29 @@
 
 #### 🔨 My recent Pull Requests
 
-- [go.mod: Update k8s.io/test-infra to v0.0.0-20230116172652-b51567b824d9](https://github.com/uwu-tools/peribolos/pull/155) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
-- [config: Default search for config file in current working directory](https://github.com/uwu-tools/gh-jira-issue-sync/pull/75) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
-- [Remove Kubernetes deployment manifests](https://github.com/uwu-tools/gh-jira-issue-sync/pull/72) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (5 days ago)
+- [go.mod: Update k8s.io/test-infra to v0.0.0-20230116172652-b51567b824d9](https://github.com/uwu-tools/peribolos/pull/155) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 day ago)
+- [config: Default search for config file in current working directory](https://github.com/uwu-tools/gh-jira-issue-sync/pull/75) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 day ago)
+- [Remove Kubernetes deployment manifests](https://github.com/uwu-tools/gh-jira-issue-sync/pull/72) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (6 days ago)
 - [jira: Return pointers to Jira objects](https://github.com/uwu-tools/gh-jira-issue-sync/pull/65) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
 - [jira: Remove `dryrunJiraClient` and merge into default methods](https://github.com/uwu-tools/gh-jira-issue-sync/pull/64) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
 - [Lessen dependency on `config` package (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/63) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
 - [Update fixes continued](https://github.com/uwu-tools/gh-jira-issue-sync/pull/60) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
-- [github: Add `ListComments` method](https://github.com/kubernetes-sigs/release-sdk/pull/148) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (1 week ago)
-- [go.mod: Update `github.com/google/go-github` to v48.2.0](https://github.com/kubernetes-sigs/release-sdk/pull/147) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (1 week ago)
-- [github: Wire `sigs.k8s.io/release-sdk/github` client](https://github.com/uwu-tools/gh-jira-issue-sync/pull/58) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
+- [github: Add `ListComments` method](https://github.com/kubernetes-sigs/release-sdk/pull/148) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (2 weeks ago)
+- [go.mod: Update `github.com/google/go-github` to v48.2.0](https://github.com/kubernetes-sigs/release-sdk/pull/147) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (2 weeks ago)
+- [github: Wire `sigs.k8s.io/release-sdk/github` client](https://github.com/uwu-tools/gh-jira-issue-sync/pull/58) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go (today)
-- [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go. (today)
-- [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies in your PRs (3 days ago)
-- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (4 days ago)
-- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (6 days ago)
+- [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go (1 day ago)
+- [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go. (1 day ago)
+- [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies in your PRs (4 days ago)
+- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (5 days ago)
+- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (1 week ago)
 - [chainguard-dev/registry-redirect](https://github.com/chainguard-dev/registry-redirect) -  (1 week ago)
 - [BurntSushi/go-sumtype](https://github.com/BurntSushi/go-sumtype) - A simple utility for running exhaustiveness checks on Go &#34;sum types.&#34; (1 week ago)
-- [pkg/browser](https://github.com/pkg/browser) - Package browser provides helpers to open files, readers, and urls in a browser window. (1 week ago)
-- [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.  (1 week ago)
-- [coreos/go-iptables](https://github.com/coreos/go-iptables) - Go wrapper around iptables utility (2 weeks ago)
+- [pkg/browser](https://github.com/pkg/browser) - Package browser provides helpers to open files, readers, and urls in a browser window. (2 weeks ago)
+- [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.  (2 weeks ago)
+- [coreos/go-iptables](https://github.com/coreos/go-iptables) - Go wrapper around iptables utility (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
