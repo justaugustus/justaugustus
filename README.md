@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [step-security/secure-workflows](https://github.com/step-security/secure-workflows) - Secure GitHub Actions CI/CD workflows via automated remediations (today)
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go (2 days ago)
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go. (2 days ago)
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies in your PRs (5 days ago)
@@ -57,7 +58,6 @@
 - [BurntSushi/go-sumtype](https://github.com/BurntSushi/go-sumtype) - A simple utility for running exhaustiveness checks on Go &#34;sum types.&#34; (2 weeks ago)
 - [pkg/browser](https://github.com/pkg/browser) - Package browser provides helpers to open files, readers, and urls in a browser window. (2 weeks ago)
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.  (2 weeks ago)
-- [coreos/go-iptables](https://github.com/coreos/go-iptables) - Go wrapper around iptables utility (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
