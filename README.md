@@ -22,6 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.0](https://github.com/kubernetes/release/releases/tag/v0.15.0), today) - Release infrastructure for Kubernetes and related components
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.12.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.12.0-helm), today) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.25.6](https://github.com/kubernetes/kubernetes/releases/tag/v1.25.6), today) - Production-Grade Container Scheduling and Management
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.1.7](https://github.com/cisco-open/flame/releases/tag/v0.1.7), 2 weeks ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
@@ -31,7 +32,6 @@
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.10.2](https://github.com/ossf/scorecard/releases/tag/v4.10.2), 4 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.11](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.11), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.26](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.26), 1 month ago) - Kubernetes website and documentation repo: 
-- [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.2](https://github.com/openclarity/functionclarity/releases/tag/v1.0.2), 1 month ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
 
 #### 🔨 My recent Pull Requests
 
