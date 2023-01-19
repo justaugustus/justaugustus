@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.23.16](https://github.com/kubernetes/kubernetes/releases/tag/v1.23.16), 1 day ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.25.6](https://github.com/kubernetes/kubernetes/releases/tag/v1.25.6), today) - Production-Grade Container Scheduling and Management
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.11.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.11.0-helm), 3 days ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.1.7](https://github.com/cisco-open/flame/releases/tag/v0.1.7), 2 weeks ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.7), 2 weeks ago) - Interfaces and implementations for building Kubernetes releases.
