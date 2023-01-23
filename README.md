@@ -11,14 +11,14 @@
 
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) - FSO Control CLI Utility (3 days ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (6 days ago)
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 week ago)
-- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (1 week ago)
 - [uwu-tools/go-ghcrawl](https://github.com/uwu-tools/go-ghcrawl) -  (1 week ago)
+- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (1 week ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 week ago)
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (2 weeks ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 month ago)
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (1 month ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (1 month ago)
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 month ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
