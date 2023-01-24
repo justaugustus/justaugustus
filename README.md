@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [banzaicloud/banzaicloud.github.io](https://github.com/banzaicloud/banzaicloud.github.io) - Banzai Cloud site and blog source  (today)
 - [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go (5 days ago)
 - [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database. (6 days ago)
 - [step-security/secure-workflows](https://github.com/step-security/secure-workflows) - Secure GitHub Actions CI/CD workflows via automated remediations (6 days ago)
@@ -57,7 +58,6 @@
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (1 week ago)
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (2 weeks ago)
 - [chainguard-dev/registry-redirect](https://github.com/chainguard-dev/registry-redirect) -  (2 weeks ago)
-- [BurntSushi/go-sumtype](https://github.com/BurntSushi/go-sumtype) - A simple utility for running exhaustiveness checks on Go &#34;sum types.&#34; (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
