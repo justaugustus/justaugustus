@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-alpha.1), today) - Production-Grade Container Scheduling and Management
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.3](https://github.com/openclarity/functionclarity/releases/tag/v1.0.3), today) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.12.1-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.12.1-helm), today) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.24.0](https://github.com/cisco-open/fsoc/releases/tag/v0.24.0), 1 day ago) - FSO Control CLI Utility
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.0](https://github.com/kubernetes/release/releases/tag/v0.15.0), 5 days ago) - Release infrastructure for Kubernetes and related components
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.25.6](https://github.com/kubernetes/kubernetes/releases/tag/v1.25.6), 5 days ago) - Production-Grade Container Scheduling and Management
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.1.7](https://github.com/cisco-open/flame/releases/tag/v0.1.7), 2 weeks ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.7), 3 weeks ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.3](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.3), 4 weeks ago) - Website and API for OpenSSF Scorecard
