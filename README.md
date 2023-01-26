@@ -9,6 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) - openclarity.io (today)
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) - FSO Control CLI Utility (6 days ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (1 week ago)
 - [uwu-tools/go-ghcrawl](https://github.com/uwu-tools/go-ghcrawl) -  (1 week ago)
@@ -18,7 +19,6 @@
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 month ago)
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (1 month ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (1 month ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Copy cleanups &amp; dependabot updates](https://github.com/openclarity/openclarity.io/pull/88) on [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) (today)
 - [[2023-01] Update roles and links](https://github.com/justaugustus/about/pull/9) on [justaugustus/about](https://github.com/justaugustus/about) (1 week ago)
 - [go.mod: Update k8s.io/test-infra to v0.0.0-20230116172652-b51567b824d9](https://github.com/uwu-tools/peribolos/pull/155) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 week ago)
 - [config: Default search for config file in current working directory](https://github.com/uwu-tools/gh-jira-issue-sync/pull/75) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
@@ -44,7 +45,6 @@
 - [Lessen dependency on `config` package (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/63) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 weeks ago)
 - [Update fixes continued](https://github.com/uwu-tools/gh-jira-issue-sync/pull/60) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 weeks ago)
 - [github: Add `ListComments` method](https://github.com/kubernetes-sigs/release-sdk/pull/148) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (3 weeks ago)
-- [go.mod: Update `github.com/google/go-github` to v48.2.0](https://github.com/kubernetes-sigs/release-sdk/pull/147) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
