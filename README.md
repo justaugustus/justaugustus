@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [AbdeenM](https://github.com/AbdeenM)
 - [arksec01](https://github.com/arksec01)
 - [boucet](https://github.com/boucet)
 - [igor-26](https://github.com/igor-26)
@@ -70,6 +71,5 @@
 - [engasaleh](https://github.com/engasaleh)
 - [BobyMCbobs](https://github.com/BobyMCbobs)
 - [castrojo](https://github.com/castrojo)
-- [ypanpande](https://github.com/ypanpande)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
