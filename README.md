@@ -11,6 +11,7 @@
 
 - [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) - openclarity.io (2 days ago)
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) - FSO Control CLI Utility (1 week ago)
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project (1 week ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (1 week ago)
 - [uwu-tools/go-ghcrawl](https://github.com/uwu-tools/go-ghcrawl) -  (1 week ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (1 week ago)
@@ -18,7 +19,6 @@
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (3 weeks ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 month ago)
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (1 month ago)
-- [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
