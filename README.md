@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) - openclarity.io (2 days ago)
+- [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) - openclarity.io (3 days ago)
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) - FSO Control CLI Utility (1 week ago)
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project (1 week ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (1 week ago)
@@ -18,14 +18,14 @@
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 week ago)
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (3 weeks ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 month ago)
-- [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (1 month ago)
+- [openclarity/functionclarity](https://github.com/openclarity/functionclarity) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.25.0](https://github.com/cisco-open/fsoc/releases/tag/v0.25.0), 1 day ago) - FSO Control CLI Utility
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-alpha.1), 4 days ago) - Production-Grade Container Scheduling and Management
-- [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.3](https://github.com/openclarity/functionclarity/releases/tag/v1.0.3), 4 days ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
-- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.12.1-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.12.1-helm), 4 days ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.25.0](https://github.com/cisco-open/fsoc/releases/tag/v0.25.0), 2 days ago) - FSO Control CLI Utility
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-alpha.1), 5 days ago) - Production-Grade Container Scheduling and Management
+- [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.3](https://github.com/openclarity/functionclarity/releases/tag/v1.0.3), 5 days ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
+- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.12.1-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.12.1-helm), 5 days ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.0](https://github.com/kubernetes/release/releases/tag/v0.15.0), 1 week ago) - Release infrastructure for Kubernetes and related components
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.1.7](https://github.com/cisco-open/flame/releases/tag/v0.1.7), 3 weeks ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.7), 3 weeks ago) - Interfaces and implementations for building Kubernetes releases.
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Copy cleanups &amp; dependabot updates](https://github.com/openclarity/openclarity.io/pull/88) on [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) (2 days ago)
+- [Copy cleanups &amp; dependabot updates](https://github.com/openclarity/openclarity.io/pull/88) on [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) (3 days ago)
 - [[2023-01] Update roles and links](https://github.com/justaugustus/about/pull/9) on [justaugustus/about](https://github.com/justaugustus/about) (1 week ago)
 - [go.mod: Update k8s.io/test-infra to v0.0.0-20230116172652-b51567b824d9](https://github.com/uwu-tools/peribolos/pull/155) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 week ago)
 - [config: Default search for config file in current working directory](https://github.com/uwu-tools/gh-jira-issue-sync/pull/75) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
@@ -48,8 +48,8 @@
 
 #### ⭐ Recent Stars
 
-- [LogIN-/ospnc](https://github.com/LogIN-/ospnc) - Open Source Project Name Checker - OSPNC is a simple web-service that checks if your new project name is already taken on some of most popular open-source communities (2 days ago)
-- [banzaicloud/banzaicloud.github.io](https://github.com/banzaicloud/banzaicloud.github.io) - Banzai Cloud site and blog source  (4 days ago)
+- [LogIN-/ospnc](https://github.com/LogIN-/ospnc) - Open Source Project Name Checker - OSPNC is a simple web-service that checks if your new project name is already taken on some of most popular open-source communities (3 days ago)
+- [banzaicloud/banzaicloud.github.io](https://github.com/banzaicloud/banzaicloud.github.io) - Banzai Cloud site and blog source  (5 days ago)
 - [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go (1 week ago)
 - [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database. (1 week ago)
 - [step-security/secure-workflows](https://github.com/step-security/secure-workflows) - Secure GitHub Actions CI/CD workflows via automated remediations (1 week ago)
