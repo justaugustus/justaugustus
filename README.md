@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (today)
 - [airconduct/kuilei](https://github.com/airconduct/kuilei) - 🤖 A Probot App inspired by Kubernetes Prow. Chat-ops, automatic PR merging and more. (today)
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (today)
 - [LogIN-/ospnc](https://github.com/LogIN-/ospnc) - Open Source Project Name Checker - OSPNC is a simple web-service that checks if your new project name is already taken on some of most popular open-source communities (3 days ago)
@@ -57,7 +58,6 @@
 - [step-security/secure-workflows](https://github.com/step-security/secure-workflows) - Secure GitHub Actions CI/CD workflows via automated remediations (1 week ago)
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go (1 week ago)
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go. (1 week ago)
-- [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies in your PRs (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
