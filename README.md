@@ -9,12 +9,12 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (today)
 - [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) - openclarity.io (3 days ago)
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) - FSO Control CLI Utility (1 week ago)
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project (1 week ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (1 week ago)
 - [uwu-tools/go-ghcrawl](https://github.com/uwu-tools/go-ghcrawl) -  (1 week ago)
-- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (1 week ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 week ago)
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (3 weeks ago)
 - [kubernetes/release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components (1 month ago)
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[WIP] Carry](https://github.com/uwu-tools/peribolos/pull/164) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
+- [Carry pull requests](https://github.com/uwu-tools/peribolos/pull/164) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
 - [Copy cleanups &amp; dependabot updates](https://github.com/openclarity/openclarity.io/pull/88) on [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) (3 days ago)
 - [[2023-01] Update roles and links](https://github.com/justaugustus/about/pull/9) on [justaugustus/about](https://github.com/justaugustus/about) (1 week ago)
 - [go.mod: Update k8s.io/test-infra to v0.0.0-20230116172652-b51567b824d9](https://github.com/uwu-tools/peribolos/pull/155) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 week ago)
