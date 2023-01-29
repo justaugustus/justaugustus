@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[WIP] Carry](https://github.com/uwu-tools/peribolos/pull/164) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
 - [Copy cleanups &amp; dependabot updates](https://github.com/openclarity/openclarity.io/pull/88) on [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) (3 days ago)
 - [[2023-01] Update roles and links](https://github.com/justaugustus/about/pull/9) on [justaugustus/about](https://github.com/justaugustus/about) (1 week ago)
 - [go.mod: Update k8s.io/test-infra to v0.0.0-20230116172652-b51567b824d9](https://github.com/uwu-tools/peribolos/pull/155) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 week ago)
@@ -44,7 +45,6 @@
 - [jira: Remove `dryrunJiraClient` and merge into default methods](https://github.com/uwu-tools/gh-jira-issue-sync/pull/64) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 weeks ago)
 - [Lessen dependency on `config` package (1/n)](https://github.com/uwu-tools/gh-jira-issue-sync/pull/63) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 weeks ago)
 - [Update fixes continued](https://github.com/uwu-tools/gh-jira-issue-sync/pull/60) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 weeks ago)
-- [github: Add `ListComments` method](https://github.com/kubernetes-sigs/release-sdk/pull/148) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
