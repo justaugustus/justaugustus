@@ -48,6 +48,8 @@
 
 #### ⭐ Recent Stars
 
+- [airconduct/kuilei](https://github.com/airconduct/kuilei) - 🤖 A Probot App inspired by Kubernetes Prow. Chat-ops, automatic PR merging and more. (today)
+- [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (today)
 - [LogIN-/ospnc](https://github.com/LogIN-/ospnc) - Open Source Project Name Checker - OSPNC is a simple web-service that checks if your new project name is already taken on some of most popular open-source communities (3 days ago)
 - [banzaicloud/banzaicloud.github.io](https://github.com/banzaicloud/banzaicloud.github.io) - Banzai Cloud site and blog source  (5 days ago)
 - [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go (1 week ago)
@@ -56,8 +58,6 @@
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go (1 week ago)
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go. (1 week ago)
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies in your PRs (2 weeks ago)
-- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (2 weeks ago)
-- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
