@@ -48,6 +48,8 @@
 
 #### ⭐ Recent Stars
 
+- [wayfair-incubator/oss-template](https://github.com/wayfair-incubator/oss-template) - Open Source Template by Wayfair (today)
+- [wayfair-incubator/forker](https://github.com/wayfair-incubator/forker) - ⑂ GitHub action for automating fork creation (today)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 day ago)
 - [airconduct/kuilei](https://github.com/airconduct/kuilei) - 🤖 A Probot App inspired by Kubernetes Prow. Chat-ops, automatic PR merging and more. (1 day ago)
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (1 day ago)
@@ -56,8 +58,6 @@
 - [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go (1 week ago)
 - [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database. (1 week ago)
 - [step-security/secure-workflows](https://github.com/step-security/secure-workflows) - Secure GitHub Actions CI/CD workflows via automated remediations (1 week ago)
-- [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go (2 weeks ago)
-- [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
