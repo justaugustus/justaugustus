@@ -64,12 +64,12 @@
 - [edglaz](https://github.com/edglaz)
 - [AbdeenM](https://github.com/AbdeenM)
 - [arksec01](https://github.com/arksec01)
-- [boucet](https://github.com/boucet)
 - [igor-26](https://github.com/igor-26)
 - [ohthatspaul](https://github.com/ohthatspaul)
 - [xmudrii](https://github.com/xmudrii)
 - [imnmo](https://github.com/imnmo)
 - [engasaleh](https://github.com/engasaleh)
 - [BobyMCbobs](https://github.com/BobyMCbobs)
+- [castrojo](https://github.com/castrojo)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
