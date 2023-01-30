@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update k8s.io/test-infra and go-probot dependencies](https://github.com/uwu-tools/peribolos/pull/167) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
 - [go.mod: Update github.com/bradleyfalzon/ghinstallation to v2.1.0](https://github.com/airconduct/go-probot/pull/9) on [airconduct/go-probot](https://github.com/airconduct/go-probot) (1 day ago)
 - [internal: Add tools package](https://github.com/uwu-tools/peribolos/pull/166) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 day ago)
 - [[DO NOT MERGE] cmd/app: Scaffold GitHub application](https://github.com/uwu-tools/peribolos/pull/165) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 day ago)
@@ -44,7 +45,6 @@
 - [go.mod: Update k8s.io/test-infra to v0.0.0-20230116172652-b51567b824d9](https://github.com/uwu-tools/peribolos/pull/155) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 weeks ago)
 - [config: Default search for config file in current working directory](https://github.com/uwu-tools/gh-jira-issue-sync/pull/75) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 weeks ago)
 - [Remove Kubernetes deployment manifests](https://github.com/uwu-tools/gh-jira-issue-sync/pull/72) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 weeks ago)
-- [jira: Return pointers to Jira objects](https://github.com/uwu-tools/gh-jira-issue-sync/pull/65) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
