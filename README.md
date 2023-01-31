@@ -10,14 +10,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (today)
-- [cisco-open/.github](https://github.com/cisco-open/.github) - Org-wide GitHub configurations (1 day ago)
+- [cisco-open/.github](https://github.com/cisco-open/.github) - Org-wide GitHub configurations (today)
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (2 days ago)
 - [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) - openclarity.io (5 days ago)
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) - FSO Control CLI Utility (1 week ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (2 weeks ago)
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project (2 weeks ago)
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (2 weeks ago)
 - [uwu-tools/go-ghcrawl](https://github.com/uwu-tools/go-ghcrawl) -  (2 weeks ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (2 weeks ago)
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
