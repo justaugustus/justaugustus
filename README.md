@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update k8s.io/test-infra and go-probot dependencies](https://github.com/uwu-tools/peribolos/pull/171) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
 - [Script and action cleanups](https://github.com/uwu-tools/peribolos/pull/170) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
 - [[not quite] `peribolos`](https://github.com/uwu-tools/peribolos/pull/168) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
 - [settings: Don&#39;t default repo visibility to `public`](https://github.com/cisco-open/.github/pull/6) on [cisco-open/.github](https://github.com/cisco-open/.github) (1 day ago)
@@ -44,7 +45,6 @@
 - [internal: Add tools package](https://github.com/uwu-tools/peribolos/pull/166) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 days ago)
 - [[DO NOT MERGE] cmd/app: Scaffold GitHub application](https://github.com/uwu-tools/peribolos/pull/165) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 days ago)
 - [Carry pull requests](https://github.com/uwu-tools/peribolos/pull/164) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 days ago)
-- [Copy cleanups &amp; dependabot updates](https://github.com/openclarity/openclarity.io/pull/88) on [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) (5 days ago)
 
 #### ⭐ Recent Stars
 
