@@ -10,7 +10,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [cisco-open/.github](https://github.com/cisco-open/.github) - Org-wide GitHub configurations (1 day ago)
-- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (2 days ago)
+- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (1 day ago)
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (2 days ago)
 - [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) - openclarity.io (5 days ago)
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) - FSO Control CLI Utility (1 week ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[not quite] `peribolos`](https://github.com/uwu-tools/peribolos/pull/168) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
 - [settings: Don&#39;t default repo visibility to `public`](https://github.com/cisco-open/.github/pull/6) on [cisco-open/.github](https://github.com/cisco-open/.github) (1 day ago)
 - [Add template community health files](https://github.com/cisco-open/.github/pull/5) on [cisco-open/.github](https://github.com/cisco-open/.github) (1 day ago)
 - [Update k8s.io/test-infra and go-probot dependencies](https://github.com/uwu-tools/peribolos/pull/167) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 day ago)
@@ -44,7 +45,6 @@
 - [Carry pull requests](https://github.com/uwu-tools/peribolos/pull/164) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 days ago)
 - [Copy cleanups &amp; dependabot updates](https://github.com/openclarity/openclarity.io/pull/88) on [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) (5 days ago)
 - [[2023-01] Update roles and links](https://github.com/justaugustus/about/pull/9) on [justaugustus/about](https://github.com/justaugustus/about) (2 weeks ago)
-- [go.mod: Update k8s.io/test-infra to v0.0.0-20230116172652-b51567b824d9](https://github.com/uwu-tools/peribolos/pull/155) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
