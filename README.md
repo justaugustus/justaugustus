@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Script and action cleanups](https://github.com/uwu-tools/peribolos/pull/170) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
 - [[not quite] `peribolos`](https://github.com/uwu-tools/peribolos/pull/168) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
 - [settings: Don&#39;t default repo visibility to `public`](https://github.com/cisco-open/.github/pull/6) on [cisco-open/.github](https://github.com/cisco-open/.github) (1 day ago)
 - [Add template community health files](https://github.com/cisco-open/.github/pull/5) on [cisco-open/.github](https://github.com/cisco-open/.github) (1 day ago)
@@ -44,7 +45,6 @@
 - [[DO NOT MERGE] cmd/app: Scaffold GitHub application](https://github.com/uwu-tools/peribolos/pull/165) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 days ago)
 - [Carry pull requests](https://github.com/uwu-tools/peribolos/pull/164) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 days ago)
 - [Copy cleanups &amp; dependabot updates](https://github.com/openclarity/openclarity.io/pull/88) on [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) (5 days ago)
-- [[2023-01] Update roles and links](https://github.com/justaugustus/about/pull/9) on [justaugustus/about](https://github.com/justaugustus/about) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
