@@ -48,6 +48,9 @@
 
 #### ⭐ Recent Stars
 
+- [actions/actions-sync](https://github.com/actions/actions-sync) - This tool allows GHES administrators to sync Actions to their instances (today)
+- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (today)
+- [actions/gh-actions-cache](https://github.com/actions/gh-actions-cache) - A GitHub (gh) CLI extension to manage the GitHub Actions caches being used in a GitHub repository. (today)
 - [wayfair-incubator/oss-template](https://github.com/wayfair-incubator/oss-template) - Open Source Template by Wayfair (3 days ago)
 - [wayfair-incubator/forker](https://github.com/wayfair-incubator/forker) - ⑂ GitHub action for automating fork creation (3 days ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (4 days ago)
@@ -55,9 +58,6 @@
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (4 days ago)
 - [LogIN-/ospnc](https://github.com/LogIN-/ospnc) - Open Source Project Name Checker - OSPNC is a simple web-service that checks if your new project name is already taken on some of most popular open-source communities (1 week ago)
 - [banzaicloud/banzaicloud.github.io](https://github.com/banzaicloud/banzaicloud.github.io) - Banzai Cloud site and blog source  (1 week ago)
-- [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go (2 weeks ago)
-- [guacsec/guac](https://github.com/guacsec/guac) - GUAC aggregates software security metadata into a high fidelity graph database. (2 weeks ago)
-- [step-security/secure-workflows](https://github.com/step-security/secure-workflows) - Secure GitHub Actions CI/CD workflows via automated remediations (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
