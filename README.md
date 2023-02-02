@@ -9,6 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [uwu-tools/gh-sync-test](https://github.com/uwu-tools/gh-sync-test) -  (today)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (2 days ago)
 - [cisco-open/.github](https://github.com/cisco-open/.github) - Org-wide GitHub configurations (2 days ago)
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (4 days ago)
@@ -16,9 +17,8 @@
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) - FSO Control CLI Utility (1 week ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (2 weeks ago)
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project (2 weeks ago)
-- [uwu-tools/go-ghcrawl](https://github.com/uwu-tools/go-ghcrawl) -  (2 weeks ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (2 weeks ago)
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (1 month ago)
+- [uwu-tools/go-ghcrawl](https://github.com/uwu-tools/go-ghcrawl) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [workflows: Update post org migration](https://github.com/uwu-tools/gh-sync-test/pull/3) on [uwu-tools/gh-sync-test](https://github.com/uwu-tools/gh-sync-test) (today)
 - [Update k8s.io/test-infra and go-probot dependencies](https://github.com/uwu-tools/peribolos/pull/171) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 days ago)
 - [Script and action cleanups](https://github.com/uwu-tools/peribolos/pull/170) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 days ago)
 - [[not quite] `peribolos`](https://github.com/uwu-tools/peribolos/pull/168) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 days ago)
@@ -44,7 +45,6 @@
 - [go.mod: Update github.com/bradleyfalzon/ghinstallation to v2.1.0](https://github.com/airconduct/go-probot/pull/9) on [airconduct/go-probot](https://github.com/airconduct/go-probot) (4 days ago)
 - [internal: Add tools package](https://github.com/uwu-tools/peribolos/pull/166) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (4 days ago)
 - [[DO NOT MERGE] cmd/app: Scaffold GitHub application](https://github.com/uwu-tools/peribolos/pull/165) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (4 days ago)
-- [Carry pull requests](https://github.com/uwu-tools/peribolos/pull/164) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (4 days ago)
 
 #### ⭐ Recent Stars
 
