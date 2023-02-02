@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [workflows: Add peribolos pre- and postsubmits](https://github.com/uwu-tools/peribolos/pull/174) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
 - [config: Split orgs into component subdirectories based on teams](https://github.com/uwu-tools/peribolos/pull/173) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
 - [Perform config merges if specified config path is a directory](https://github.com/uwu-tools/peribolos/pull/172) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
 - [workflows: Update post org migration](https://github.com/uwu-tools/gh-sync-test/pull/3) on [uwu-tools/gh-sync-test](https://github.com/uwu-tools/gh-sync-test) (today)
@@ -44,7 +45,6 @@
 - [settings: Don&#39;t default repo visibility to `public`](https://github.com/cisco-open/.github/pull/6) on [cisco-open/.github](https://github.com/cisco-open/.github) (3 days ago)
 - [Add template community health files](https://github.com/cisco-open/.github/pull/5) on [cisco-open/.github](https://github.com/cisco-open/.github) (3 days ago)
 - [Update k8s.io/test-infra and go-probot dependencies](https://github.com/uwu-tools/peribolos/pull/167) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (3 days ago)
-- [go.mod: Update github.com/bradleyfalzon/ghinstallation to v2.1.0](https://github.com/airconduct/go-probot/pull/9) on [airconduct/go-probot](https://github.com/airconduct/go-probot) (4 days ago)
 
 #### ⭐ Recent Stars
 
