@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Perform config merges if specified config path is a directory](https://github.com/uwu-tools/peribolos/pull/172) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
 - [workflows: Update post org migration](https://github.com/uwu-tools/gh-sync-test/pull/3) on [uwu-tools/gh-sync-test](https://github.com/uwu-tools/gh-sync-test) (today)
 - [Update k8s.io/test-infra and go-probot dependencies](https://github.com/uwu-tools/peribolos/pull/171) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 days ago)
 - [Script and action cleanups](https://github.com/uwu-tools/peribolos/pull/170) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 days ago)
@@ -44,7 +45,6 @@
 - [Update k8s.io/test-infra and go-probot dependencies](https://github.com/uwu-tools/peribolos/pull/167) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (3 days ago)
 - [go.mod: Update github.com/bradleyfalzon/ghinstallation to v2.1.0](https://github.com/airconduct/go-probot/pull/9) on [airconduct/go-probot](https://github.com/airconduct/go-probot) (4 days ago)
 - [internal: Add tools package](https://github.com/uwu-tools/peribolos/pull/166) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (4 days ago)
-- [[DO NOT MERGE] cmd/app: Scaffold GitHub application](https://github.com/uwu-tools/peribolos/pull/165) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (4 days ago)
 
 #### ⭐ Recent Stars
 
