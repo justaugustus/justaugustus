@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.26.1](https://github.com/cisco-open/fsoc/releases/tag/v0.26.1), today) - FSO Control CLI Utility
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.26.2](https://github.com/cisco-open/fsoc/releases/tag/v0.26.2), today) - FSO Control CLI Utility
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.12.2-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.12.2-helm), 4 days ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-alpha.1), 1 week ago) - Production-Grade Container Scheduling and Management
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.3](https://github.com/openclarity/functionclarity/releases/tag/v1.0.3), 1 week ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
