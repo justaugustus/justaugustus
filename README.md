@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [sgrimee](https://github.com/sgrimee)
 - [TrongChuongDao](https://github.com/TrongChuongDao)
 - [mpodolsk](https://github.com/mpodolsk)
 - [AbdeenM](https://github.com/AbdeenM)
@@ -70,6 +71,5 @@
 - [xmudrii](https://github.com/xmudrii)
 - [imnmo](https://github.com/imnmo)
 - [engasaleh](https://github.com/engasaleh)
-- [BobyMCbobs](https://github.com/BobyMCbobs)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
