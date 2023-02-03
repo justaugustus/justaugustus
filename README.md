@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [workflows: Add peribolos pre- and postsubmits](https://github.com/uwu-tools/peribolos/pull/174) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 day ago)
+- [workflows: Add peribolos dry-run postsubmit](https://github.com/uwu-tools/peribolos/pull/174) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 day ago)
 - [config: Split orgs into component subdirectories based on teams](https://github.com/uwu-tools/peribolos/pull/173) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 day ago)
 - [Perform config merges if specified config path is a directory](https://github.com/uwu-tools/peribolos/pull/172) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 day ago)
 - [workflows: Update post org migration](https://github.com/uwu-tools/gh-sync-test/pull/3) on [uwu-tools/gh-sync-test](https://github.com/uwu-tools/gh-sync-test) (1 day ago)
