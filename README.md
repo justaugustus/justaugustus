@@ -22,12 +22,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.3](https://github.com/airconduct/go-probot/releases/tag/v0.0.3), today) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.26.4](https://github.com/cisco-open/fsoc/releases/tag/v0.26.4), 3 days ago) - FSO Control CLI Utility
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.12.2-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.12.2-helm), 1 week ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-alpha.1), 1 week ago) - Production-Grade Container Scheduling and Management
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.3](https://github.com/openclarity/functionclarity/releases/tag/v1.0.3), 1 week ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.0](https://github.com/kubernetes/release/releases/tag/v0.15.0), 2 weeks ago) - Release infrastructure for Kubernetes and related components
-- [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.2](https://github.com/airconduct/go-probot/releases/tag/v0.0.2), 2 weeks ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.1.7](https://github.com/cisco-open/flame/releases/tag/v0.1.7), 1 month ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.7), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.3](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.3), 1 month ago) - Website and API for OpenSSF Scorecard
