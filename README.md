@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [go.mod: Update github.com/airconduct/go-probot to v0.0.3](https://github.com/uwu-tools/peribolos/pull/175) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
 - [workflows: Add peribolos dry-run postsubmit](https://github.com/uwu-tools/peribolos/pull/174) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (5 days ago)
 - [config: Split orgs into component subdirectories based on teams](https://github.com/uwu-tools/peribolos/pull/173) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (5 days ago)
 - [Perform config merges if specified config path is a directory](https://github.com/uwu-tools/peribolos/pull/172) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (5 days ago)
@@ -44,7 +45,6 @@
 - [[not quite] `peribolos`](https://github.com/uwu-tools/peribolos/pull/168) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 week ago)
 - [settings: Don&#39;t default repo visibility to `public`](https://github.com/cisco-open/.github/pull/6) on [cisco-open/.github](https://github.com/cisco-open/.github) (1 week ago)
 - [Add template community health files](https://github.com/cisco-open/.github/pull/5) on [cisco-open/.github](https://github.com/cisco-open/.github) (1 week ago)
-- [Update k8s.io/test-infra and go-probot dependencies](https://github.com/uwu-tools/peribolos/pull/167) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 week ago)
 
 #### ⭐ Recent Stars
 
