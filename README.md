@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [dankingkong](https://github.com/dankingkong)
 - [didiercolens](https://github.com/didiercolens)
 - [sgrimee](https://github.com/sgrimee)
 - [TrongChuongDao](https://github.com/TrongChuongDao)
@@ -70,6 +71,5 @@
 - [ohthatspaul](https://github.com/ohthatspaul)
 - [xmudrii](https://github.com/xmudrii)
 - [imnmo](https://github.com/imnmo)
-- [engasaleh](https://github.com/engasaleh)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
