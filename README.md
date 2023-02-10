@@ -22,6 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ossf/allstar](https://github.com/ossf/allstar) ([v3.0](https://github.com/ossf/allstar/releases/tag/v3.0), today) - GitHub App to set and enforce security policies
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.3](https://github.com/airconduct/go-probot/releases/tag/v0.0.3), 4 days ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.26.4](https://github.com/cisco-open/fsoc/releases/tag/v0.26.4), 1 week ago) - FSO Control CLI Utility
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.12.2-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.12.2-helm), 1 week ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
@@ -31,7 +32,6 @@
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.1.7](https://github.com/cisco-open/flame/releases/tag/v0.1.7), 1 month ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.7), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.3](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.3), 1 month ago) - Website and API for OpenSSF Scorecard
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.2](https://github.com/ossf/scorecard-action/releases/tag/v2.1.2), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
 
 #### 🔨 My recent Pull Requests
 
@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ArkaprabhaChakraborty](https://github.com/ArkaprabhaChakraborty)
 - [dankingkong](https://github.com/dankingkong)
 - [didiercolens](https://github.com/didiercolens)
 - [sgrimee](https://github.com/sgrimee)
@@ -70,6 +71,5 @@
 - [igor-26](https://github.com/igor-26)
 - [ohthatspaul](https://github.com/ohthatspaul)
 - [xmudrii](https://github.com/xmudrii)
-- [imnmo](https://github.com/imnmo)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
