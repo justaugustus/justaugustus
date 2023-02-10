@@ -9,12 +9,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (2 days ago)
+- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (3 days ago)
 - [uwu-tools/gh-sync-test](https://github.com/uwu-tools/gh-sync-test) -  (1 week ago)
 - [cisco-open/.github](https://github.com/cisco-open/.github) - Org-wide GitHub configurations (1 week ago)
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (1 week ago)
 - [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) - openclarity.io (2 weeks ago)
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) - FSO Control CLI Utility (2 weeks ago)
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) - FSO Control CLI Utility (3 weeks ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (3 weeks ago)
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project (3 weeks ago)
 - [uwu-tools/go-ghcrawl](https://github.com/uwu-tools/go-ghcrawl) -  (3 weeks ago)
@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.3](https://github.com/airconduct/go-probot/releases/tag/v0.0.3), 3 days ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.26.4](https://github.com/cisco-open/fsoc/releases/tag/v0.26.4), 6 days ago) - FSO Control CLI Utility
+- [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.3](https://github.com/airconduct/go-probot/releases/tag/v0.0.3), 4 days ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.26.4](https://github.com/cisco-open/fsoc/releases/tag/v0.26.4), 1 week ago) - FSO Control CLI Utility
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.12.2-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.12.2-helm), 1 week ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-alpha.1), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.3](https://github.com/openclarity/functionclarity/releases/tag/v1.0.3), 2 weeks ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [go.mod: Update github.com/airconduct/go-probot to v0.0.3](https://github.com/uwu-tools/peribolos/pull/175) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 days ago)
+- [go.mod: Update github.com/airconduct/go-probot to v0.0.3](https://github.com/uwu-tools/peribolos/pull/175) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (3 days ago)
 - [workflows: Add peribolos dry-run postsubmit](https://github.com/uwu-tools/peribolos/pull/174) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 week ago)
 - [config: Split orgs into component subdirectories based on teams](https://github.com/uwu-tools/peribolos/pull/173) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 week ago)
 - [Perform config merges if specified config path is a directory](https://github.com/uwu-tools/peribolos/pull/172) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 week ago)
