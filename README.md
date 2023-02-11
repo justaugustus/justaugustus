@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (3 days ago)
+- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (4 days ago)
 - [uwu-tools/gh-sync-test](https://github.com/uwu-tools/gh-sync-test) -  (1 week ago)
 - [cisco-open/.github](https://github.com/cisco-open/.github) - Org-wide GitHub configurations (1 week ago)
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (1 week ago)
@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/allstar](https://github.com/ossf/allstar) ([v3.0](https://github.com/ossf/allstar/releases/tag/v3.0), today) - GitHub App to set and enforce security policies
-- [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.3](https://github.com/airconduct/go-probot/releases/tag/v0.0.3), 4 days ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
+- [ossf/allstar](https://github.com/ossf/allstar) ([v3.0](https://github.com/ossf/allstar/releases/tag/v3.0), 1 day ago) - GitHub App to set and enforce security policies
+- [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.3](https://github.com/airconduct/go-probot/releases/tag/v0.0.3), 5 days ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.26.4](https://github.com/cisco-open/fsoc/releases/tag/v0.26.4), 1 week ago) - FSO Control CLI Utility
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.12.2-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.12.2-helm), 1 week ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-alpha.1), 2 weeks ago) - Production-Grade Container Scheduling and Management
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [go.mod: Update github.com/airconduct/go-probot to v0.0.3](https://github.com/uwu-tools/peribolos/pull/175) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (3 days ago)
+- [go.mod: Update github.com/airconduct/go-probot to v0.0.3](https://github.com/uwu-tools/peribolos/pull/175) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (4 days ago)
 - [workflows: Add peribolos dry-run postsubmit](https://github.com/uwu-tools/peribolos/pull/174) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 week ago)
 - [config: Split orgs into component subdirectories based on teams](https://github.com/uwu-tools/peribolos/pull/173) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 week ago)
 - [Perform config merges if specified config path is a directory](https://github.com/uwu-tools/peribolos/pull/172) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 week ago)
