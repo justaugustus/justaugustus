@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (today)
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!  (2 days ago)
 - [actions/actions-sync](https://github.com/actions/actions-sync) - This tool allows GHES administrators to sync Actions to their instances (1 week ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (1 week ago)
@@ -57,7 +58,6 @@
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (2 weeks ago)
 - [airconduct/kuilei](https://github.com/airconduct/kuilei) - 🤖 A Probot App inspired by Kubernetes Prow. Chat-ops, automatic PR merging and more. (2 weeks ago)
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (2 weeks ago)
-- [LogIN-/ospnc](https://github.com/LogIN-/ospnc) - Open Source Project Name Checker - OSPNC is a simple web-service that checks if your new project name is already taken on some of most popular open-source communities (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
