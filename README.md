@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command (today)
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (3 days ago)
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!  (5 days ago)
 - [actions/actions-sync](https://github.com/actions/actions-sync) - This tool allows GHES administrators to sync Actions to their instances (2 weeks ago)
@@ -57,7 +58,6 @@
 - [wayfair-incubator/forker](https://github.com/wayfair-incubator/forker) - ⑂ GitHub action for automating fork creation (2 weeks ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (2 weeks ago)
 - [airconduct/kuilei](https://github.com/airconduct/kuilei) - 🤖 A Probot App inspired by Kubernetes Prow. Chat-ops, automatic PR merging and more. (2 weeks ago)
-- [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
