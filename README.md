@@ -9,24 +9,24 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cisco/node-jose](https://github.com/cisco/node-jose) -  (today)
+- [cisco/node-jose](https://github.com/cisco/node-jose) -  (1 day ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (1 week ago)
 - [uwu-tools/gh-sync-test](https://github.com/uwu-tools/gh-sync-test) -  (2 weeks ago)
 - [cisco-open/.github](https://github.com/cisco-open/.github) - Org-wide GitHub configurations (2 weeks ago)
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (2 weeks ago)
 - [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) - openclarity.io (3 weeks ago)
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) - FSO Control CLI Utility (3 weeks ago)
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) - FSO Control CLI Utility (4 weeks ago)
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project (1 month ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (1 month ago)
 - [uwu-tools/go-ghcrawl](https://github.com/uwu-tools/go-ghcrawl) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.12](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.12), today) - Container and file artifact promotion tooling for the Kubernetes project
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-alpha.2), 1 day ago) - Production-Grade Container Scheduling and Management
-- [ossf/allstar](https://github.com/ossf/allstar) ([v3.0](https://github.com/ossf/allstar/releases/tag/v3.0), 6 days ago) - GitHub App to set and enforce security policies
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.12](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.12), 1 day ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-alpha.2), 2 days ago) - Production-Grade Container Scheduling and Management
+- [ossf/allstar](https://github.com/ossf/allstar) ([v3.0](https://github.com/ossf/allstar/releases/tag/v3.0), 1 week ago) - GitHub App to set and enforce security policies
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.3](https://github.com/airconduct/go-probot/releases/tag/v0.0.3), 1 week ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.26.4](https://github.com/cisco-open/fsoc/releases/tag/v0.26.4), 1 week ago) - FSO Control CLI Utility
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.26.4](https://github.com/cisco-open/fsoc/releases/tag/v0.26.4), 2 weeks ago) - FSO Control CLI Utility
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.12.2-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.12.2-helm), 2 weeks ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.3](https://github.com/openclarity/functionclarity/releases/tag/v1.0.3), 3 weeks ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.0](https://github.com/kubernetes/release/releases/tag/v0.15.0), 4 weeks ago) - Release infrastructure for Kubernetes and related components
@@ -48,9 +48,9 @@
 
 #### ⭐ Recent Stars
 
-- [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command (today)
-- [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (3 days ago)
-- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!  (5 days ago)
+- [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command (1 day ago)
+- [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (4 days ago)
+- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!  (6 days ago)
 - [actions/actions-sync](https://github.com/actions/actions-sync) - This tool allows GHES administrators to sync Actions to their instances (2 weeks ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (2 weeks ago)
 - [actions/gh-actions-cache](https://github.com/actions/gh-actions-cache) - A GitHub (gh) CLI extension to manage the GitHub Actions caches being used in a GitHub repository. (2 weeks ago)
