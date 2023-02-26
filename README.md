@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [aphexahex](https://github.com/aphexahex)
 - [Pablohn26](https://github.com/Pablohn26)
 - [ArkaprabhaChakraborty](https://github.com/ArkaprabhaChakraborty)
 - [dankingkong](https://github.com/dankingkong)
@@ -70,6 +71,5 @@
 - [mpodolsk](https://github.com/mpodolsk)
 - [arksec01](https://github.com/arksec01)
 - [igor-26](https://github.com/igor-26)
-- [ohthatspaul](https://github.com/ohthatspaul)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
