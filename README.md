@@ -13,7 +13,7 @@
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (2 weeks ago)
 - [uwu-tools/gh-sync-test](https://github.com/uwu-tools/gh-sync-test) -  (3 weeks ago)
 - [cisco-open/.github](https://github.com/cisco-open/.github) - Org-wide GitHub configurations (3 weeks ago)
-- [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (3 weeks ago)
+- [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (4 weeks ago)
 - [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) - openclarity.io (1 month ago)
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) - FSO Control CLI Utility (1 month ago)
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project (1 month ago)
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.27.0](https://github.com/cisco-open/fsoc/releases/tag/v0.27.0), 1 day ago) - FSO Control CLI Utility
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.27.0](https://github.com/cisco-open/fsoc/releases/tag/v0.27.0), 2 days ago) - FSO Control CLI Utility
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.12](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.12), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-alpha.2), 1 week ago) - Production-Grade Container Scheduling and Management
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.3](https://github.com/airconduct/go-probot/releases/tag/v0.0.3), 2 weeks ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
-- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.12.2-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.12.2-helm), 3 weeks ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
+- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.12.2-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.12.2-helm), 4 weeks ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.3](https://github.com/openclarity/functionclarity/releases/tag/v1.0.3), 1 month ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.0](https://github.com/kubernetes/release/releases/tag/v0.15.0), 1 month ago) - Release infrastructure for Kubernetes and related components
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.1.7](https://github.com/cisco-open/flame/releases/tag/v0.1.7), 1 month ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
@@ -56,8 +56,8 @@
 - [actions/gh-actions-cache](https://github.com/actions/gh-actions-cache) - A GitHub (gh) CLI extension to manage the GitHub Actions caches being used in a GitHub repository. (3 weeks ago)
 - [wayfair-incubator/oss-template](https://github.com/wayfair-incubator/oss-template) - Open Source Template by Wayfair (3 weeks ago)
 - [wayfair-incubator/forker](https://github.com/wayfair-incubator/forker) - ⑂ GitHub action for automating fork creation (3 weeks ago)
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (3 weeks ago)
-- [airconduct/kuilei](https://github.com/airconduct/kuilei) - 🤖 A Probot App inspired by Kubernetes Prow. Chat-ops, automatic PR merging and more. (3 weeks ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (4 weeks ago)
+- [airconduct/kuilei](https://github.com/airconduct/kuilei) - 🤖 A Probot App inspired by Kubernetes Prow. Chat-ops, automatic PR merging and more. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
