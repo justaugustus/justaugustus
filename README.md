@@ -22,12 +22,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.28.0](https://github.com/cisco-open/fsoc/releases/tag/v0.28.0), 2 days ago) - FSO Control CLI Utility
-- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.13.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.13.0-helm), 2 days ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-alpha.3), 2 days ago) - Production-Grade Container Scheduling and Management
-- [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.2.0](https://github.com/cisco-open/flame/releases/tag/v0.2.0), 5 days ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.28.0](https://github.com/cisco-open/fsoc/releases/tag/v0.28.0), 3 days ago) - FSO Control CLI Utility
+- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.13.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.13.0-helm), 3 days ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-alpha.3), 3 days ago) - Production-Grade Container Scheduling and Management
+- [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.2.0](https://github.com/cisco-open/flame/releases/tag/v0.2.0), 6 days ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.12](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.12), 2 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
-- [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.3](https://github.com/airconduct/go-probot/releases/tag/v0.0.3), 3 weeks ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
+- [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.3](https://github.com/airconduct/go-probot/releases/tag/v0.0.3), 4 weeks ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.3](https://github.com/openclarity/functionclarity/releases/tag/v1.0.3), 1 month ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.0](https://github.com/kubernetes/release/releases/tag/v0.15.0), 1 month ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.7), 2 months ago) - Interfaces and implementations for building Kubernetes releases.
@@ -49,7 +49,7 @@
 #### ⭐ Recent Stars
 
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command (2 weeks ago)
-- [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (2 weeks ago)
+- [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (3 weeks ago)
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!  (3 weeks ago)
 - [actions/actions-sync](https://github.com/actions/actions-sync) - This tool allows GHES administrators to sync Actions to their instances (1 month ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (1 month ago)
