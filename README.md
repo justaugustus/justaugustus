@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.2.1](https://github.com/cisco-open/flame/releases/tag/v0.2.1), today) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.28.0](https://github.com/cisco-open/fsoc/releases/tag/v0.28.0), 3 days ago) - FSO Control CLI Utility
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.13.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.13.0-helm), 3 days ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-alpha.3), 3 days ago) - Production-Grade Container Scheduling and Management
-- [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.2.0](https://github.com/cisco-open/flame/releases/tag/v0.2.0), 6 days ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.12](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.12), 2 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.3](https://github.com/airconduct/go-probot/releases/tag/v0.0.3), 4 weeks ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.3](https://github.com/openclarity/functionclarity/releases/tag/v1.0.3), 1 month ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
