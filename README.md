@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.2.1](https://github.com/cisco-open/flame/releases/tag/v0.2.1), 4 days ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
+- [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.2.1](https://github.com/cisco-open/flame/releases/tag/v0.2.1), 5 days ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.28.0](https://github.com/cisco-open/fsoc/releases/tag/v0.28.0), 1 week ago) - FSO Control CLI Utility
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.13.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.13.0-helm), 1 week ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-alpha.3), 1 week ago) - Production-Grade Container Scheduling and Management
@@ -50,7 +50,7 @@
 
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command (3 weeks ago)
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (3 weeks ago)
-- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!  (3 weeks ago)
+- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!  (4 weeks ago)
 - [actions/actions-sync](https://github.com/actions/actions-sync) - This tool allows GHES administrators to sync Actions to their instances (1 month ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (1 month ago)
 - [actions/gh-actions-cache](https://github.com/actions/gh-actions-cache) - A GitHub (gh) CLI extension to manage the GitHub Actions caches being used in a GitHub repository. (1 month ago)
