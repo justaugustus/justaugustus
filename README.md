@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.2.1](https://github.com/cisco-open/flame/releases/tag/v0.2.1), 5 days ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
+- [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.2.1](https://github.com/cisco-open/flame/releases/tag/v0.2.1), 6 days ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.28.0](https://github.com/cisco-open/fsoc/releases/tag/v0.28.0), 1 week ago) - FSO Control CLI Utility
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.13.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.13.0-helm), 1 week ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-alpha.3), 1 week ago) - Production-Grade Container Scheduling and Management
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[WIP] options: Add TODOs for missing input parameters](https://github.com/uwu-tools/peribolos/pull/179) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
+- [[WIP] options: Add TODOs for missing input parameters](https://github.com/uwu-tools/peribolos/pull/179) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 day ago)
 - [go.mod: Update github.com/airconduct/go-probot to v0.0.3](https://github.com/uwu-tools/peribolos/pull/175) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [workflows: Add peribolos dry-run postsubmit](https://github.com/uwu-tools/peribolos/pull/174) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [config: Split orgs into component subdirectories based on teams](https://github.com/uwu-tools/peribolos/pull/173) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
