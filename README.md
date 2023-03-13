@@ -9,8 +9,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (1 day ago)
 - [cisco/node-jose](https://github.com/cisco/node-jose) -  (3 weeks ago)
-- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (1 month ago)
 - [uwu-tools/gh-sync-test](https://github.com/uwu-tools/gh-sync-test) -  (1 month ago)
 - [cisco-open/.github](https://github.com/cisco-open/.github) - Org-wide GitHub configurations (1 month ago)
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (1 month ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.2.1](https://github.com/cisco-open/flame/releases/tag/v0.2.1), 6 days ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
+- [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.2.1](https://github.com/cisco-open/flame/releases/tag/v0.2.1), 1 week ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.28.0](https://github.com/cisco-open/fsoc/releases/tag/v0.28.0), 1 week ago) - FSO Control CLI Utility
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.13.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.13.0-helm), 1 week ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-alpha.3), 1 week ago) - Production-Grade Container Scheduling and Management
@@ -35,7 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[WIP] options: Add TODOs for missing input parameters](https://github.com/uwu-tools/peribolos/pull/179) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 day ago)
+- [third_party: Vendor k8s.io/test-infra at d6acd1068fe6](https://github.com/uwu-tools/peribolos/pull/180) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 day ago)
+- [options: Add TODOs for missing input parameters](https://github.com/uwu-tools/peribolos/pull/179) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 days ago)
 - [go.mod: Update github.com/airconduct/go-probot to v0.0.3](https://github.com/uwu-tools/peribolos/pull/175) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [workflows: Add peribolos dry-run postsubmit](https://github.com/uwu-tools/peribolos/pull/174) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [config: Split orgs into component subdirectories based on teams](https://github.com/uwu-tools/peribolos/pull/173) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
@@ -44,13 +45,12 @@
 - [Update k8s.io/test-infra and go-probot dependencies](https://github.com/uwu-tools/peribolos/pull/171) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [Script and action cleanups](https://github.com/uwu-tools/peribolos/pull/170) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [[not quite] `peribolos`](https://github.com/uwu-tools/peribolos/pull/168) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
-- [settings: Don&#39;t default repo visibility to `public`](https://github.com/cisco-open/.github/pull/6) on [cisco-open/.github](https://github.com/cisco-open/.github) (1 month ago)
 
 #### ⭐ Recent Stars
 
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command (3 weeks ago)
-- [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (3 weeks ago)
-- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!  (4 weeks ago)
+- [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (4 weeks ago)
+- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!  (1 month ago)
 - [actions/actions-sync](https://github.com/actions/actions-sync) - This tool allows GHES administrators to sync Actions to their instances (1 month ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (1 month ago)
 - [actions/gh-actions-cache](https://github.com/actions/gh-actions-cache) - A GitHub (gh) CLI extension to manage the GitHub Actions caches being used in a GitHub repository. (1 month ago)
