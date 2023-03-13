@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [go.mod: Update k8s.io/apimachinery to v0.26.2](https://github.com/uwu-tools/peribolos/pull/192) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
 - [third_party: Vendor k8s.io/test-infra at d6acd1068fe6](https://github.com/uwu-tools/peribolos/pull/180) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 day ago)
 - [options: Add TODOs for missing input parameters](https://github.com/uwu-tools/peribolos/pull/179) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 days ago)
 - [go.mod: Update github.com/airconduct/go-probot to v0.0.3](https://github.com/uwu-tools/peribolos/pull/175) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
@@ -44,7 +45,6 @@
 - [workflows: Update post org migration](https://github.com/uwu-tools/gh-sync-test/pull/3) on [uwu-tools/gh-sync-test](https://github.com/uwu-tools/gh-sync-test) (1 month ago)
 - [Update k8s.io/test-infra and go-probot dependencies](https://github.com/uwu-tools/peribolos/pull/171) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [Script and action cleanups](https://github.com/uwu-tools/peribolos/pull/170) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
-- [[not quite] `peribolos`](https://github.com/uwu-tools/peribolos/pull/168) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 
 #### ⭐ Recent Stars
 
