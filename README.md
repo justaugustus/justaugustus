@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [github/github-ospo](https://github.com/github/github-ospo) - Helping open source program offices get started (today)
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command (3 weeks ago)
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (4 weeks ago)
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!  (1 month ago)
@@ -57,7 +58,6 @@
 - [wayfair-incubator/oss-template](https://github.com/wayfair-incubator/oss-template) - Open Source Template by Wayfair (1 month ago)
 - [wayfair-incubator/forker](https://github.com/wayfair-incubator/forker) - ⑂ GitHub action for automating fork creation (1 month ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 month ago)
-- [airconduct/kuilei](https://github.com/airconduct/kuilei) - 🤖 A Probot App inspired by Kubernetes Prow. Chat-ops, automatic PR merging and more. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
