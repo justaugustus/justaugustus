@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (1 day ago)
+- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (today)
 - [cisco/node-jose](https://github.com/cisco/node-jose) -  (3 weeks ago)
 - [uwu-tools/gh-sync-test](https://github.com/uwu-tools/gh-sync-test) -  (1 month ago)
 - [cisco-open/.github](https://github.com/cisco-open/.github) - Org-wide GitHub configurations (1 month ago)
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [options: Add missing input parameters for GitHub Actions](https://github.com/uwu-tools/peribolos/pull/196) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
 - [Bump dependencies](https://github.com/uwu-tools/peribolos/pull/195) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 day ago)
 - [go.mod: Update k8s.io/utils to v0.0.0-20230308161112-d77c459e9343](https://github.com/uwu-tools/peribolos/pull/194) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 day ago)
 - [go.mod: Update k8s.io/apimachinery to v0.26.2](https://github.com/uwu-tools/peribolos/pull/192) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 day ago)
@@ -44,7 +45,6 @@
 - [workflows: Add peribolos dry-run postsubmit](https://github.com/uwu-tools/peribolos/pull/174) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [config: Split orgs into component subdirectories based on teams](https://github.com/uwu-tools/peribolos/pull/173) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [Perform config merges if specified config path is a directory](https://github.com/uwu-tools/peribolos/pull/172) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
-- [workflows: Update post org migration](https://github.com/uwu-tools/gh-sync-test/pull/3) on [uwu-tools/gh-sync-test](https://github.com/uwu-tools/gh-sync-test) (1 month ago)
 
 #### ⭐ Recent Stars
 
