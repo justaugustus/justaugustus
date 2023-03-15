@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (today)
+- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (1 day ago)
 - [cisco/node-jose](https://github.com/cisco/node-jose) -  (3 weeks ago)
 - [uwu-tools/gh-sync-test](https://github.com/uwu-tools/gh-sync-test) -  (1 month ago)
 - [cisco-open/.github](https://github.com/cisco-open/.github) - Org-wide GitHub configurations (1 month ago)
@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.14.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.14.0-helm), today) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.29.1](https://github.com/cisco-open/fsoc/releases/tag/v0.29.1), today) - FSO Control CLI Utility
+- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.14.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.14.0-helm), 1 day ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.29.1](https://github.com/cisco-open/fsoc/releases/tag/v0.29.1), 1 day ago) - FSO Control CLI Utility
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.2.1](https://github.com/cisco-open/flame/releases/tag/v0.2.1), 1 week ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-alpha.3), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.4.12](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.4.12), 3 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
@@ -35,12 +35,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [options: Add missing input parameters for GitHub Actions](https://github.com/uwu-tools/peribolos/pull/196) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
-- [Bump dependencies](https://github.com/uwu-tools/peribolos/pull/195) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 day ago)
-- [go.mod: Update k8s.io/utils to v0.0.0-20230308161112-d77c459e9343](https://github.com/uwu-tools/peribolos/pull/194) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 day ago)
-- [go.mod: Update k8s.io/apimachinery to v0.26.2](https://github.com/uwu-tools/peribolos/pull/192) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 day ago)
-- [third_party: Vendor k8s.io/test-infra at d6acd1068fe6](https://github.com/uwu-tools/peribolos/pull/180) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 days ago)
-- [options: Add TODOs for missing input parameters](https://github.com/uwu-tools/peribolos/pull/179) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (3 days ago)
+- [options: Add missing input parameters for GitHub Actions](https://github.com/uwu-tools/peribolos/pull/196) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 day ago)
+- [Bump dependencies](https://github.com/uwu-tools/peribolos/pull/195) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 days ago)
+- [go.mod: Update k8s.io/utils to v0.0.0-20230308161112-d77c459e9343](https://github.com/uwu-tools/peribolos/pull/194) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 days ago)
+- [go.mod: Update k8s.io/apimachinery to v0.26.2](https://github.com/uwu-tools/peribolos/pull/192) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 days ago)
+- [third_party: Vendor k8s.io/test-infra at d6acd1068fe6](https://github.com/uwu-tools/peribolos/pull/180) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (3 days ago)
+- [options: Add TODOs for missing input parameters](https://github.com/uwu-tools/peribolos/pull/179) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (4 days ago)
 - [go.mod: Update github.com/airconduct/go-probot to v0.0.3](https://github.com/uwu-tools/peribolos/pull/175) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [workflows: Add peribolos dry-run postsubmit](https://github.com/uwu-tools/peribolos/pull/174) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [config: Split orgs into component subdirectories based on teams](https://github.com/uwu-tools/peribolos/pull/173) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
@@ -48,9 +48,9 @@
 
 #### ⭐ Recent Stars
 
-- [github/github-ospo](https://github.com/github/github-ospo) - Helping open source program offices get started (1 day ago)
+- [github/github-ospo](https://github.com/github/github-ospo) - Helping open source program offices get started (2 days ago)
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command (3 weeks ago)
-- [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (4 weeks ago)
+- [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (1 month ago)
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!  (1 month ago)
 - [actions/actions-sync](https://github.com/actions/actions-sync) - This tool allows GHES administrators to sync Actions to their instances (1 month ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (1 month ago)
