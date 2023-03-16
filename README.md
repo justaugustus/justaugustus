@@ -9,16 +9,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [uwu-tools/gh-sync-test](https://github.com/uwu-tools/gh-sync-test) -  (today)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (2 days ago)
 - [cisco/node-jose](https://github.com/cisco/node-jose) -  (4 weeks ago)
-- [uwu-tools/gh-sync-test](https://github.com/uwu-tools/gh-sync-test) -  (1 month ago)
 - [cisco-open/.github](https://github.com/cisco-open/.github) - Org-wide GitHub configurations (1 month ago)
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (1 month ago)
 - [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) - openclarity.io (1 month ago)
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) - FSO Control CLI Utility (1 month ago)
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project (1 month ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (1 month ago)
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 month ago)
+- [uwu-tools/go-ghcrawl](https://github.com/uwu-tools/go-ghcrawl) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [workflows: Add production sync](https://github.com/uwu-tools/gh-sync-test/pull/9) on [uwu-tools/gh-sync-test](https://github.com/uwu-tools/gh-sync-test) (today)
+- [workflows: Test GitHub org reconciliation](https://github.com/uwu-tools/gh-sync-test/pull/7) on [uwu-tools/gh-sync-test](https://github.com/uwu-tools/gh-sync-test) (today)
 - [options: Add missing input parameters for GitHub Actions](https://github.com/uwu-tools/peribolos/pull/196) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 days ago)
 - [Bump dependencies](https://github.com/uwu-tools/peribolos/pull/195) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (3 days ago)
 - [go.mod: Update k8s.io/utils to v0.0.0-20230308161112-d77c459e9343](https://github.com/uwu-tools/peribolos/pull/194) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (3 days ago)
@@ -43,8 +45,6 @@
 - [options: Add TODOs for missing input parameters](https://github.com/uwu-tools/peribolos/pull/179) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (5 days ago)
 - [go.mod: Update github.com/airconduct/go-probot to v0.0.3](https://github.com/uwu-tools/peribolos/pull/175) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [workflows: Add peribolos dry-run postsubmit](https://github.com/uwu-tools/peribolos/pull/174) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
-- [config: Split orgs into component subdirectories based on teams](https://github.com/uwu-tools/peribolos/pull/173) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
-- [Perform config merges if specified config path is a directory](https://github.com/uwu-tools/peribolos/pull/172) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 
 #### ⭐ Recent Stars
 
