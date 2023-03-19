@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Aryan-Deshpande](https://github.com/Aryan-Deshpande)
 - [konjoinfinity](https://github.com/konjoinfinity)
 - [aphexahex](https://github.com/aphexahex)
 - [Pablohn26](https://github.com/Pablohn26)
@@ -70,6 +71,5 @@
 - [sgrimee](https://github.com/sgrimee)
 - [TrongChuongDao](https://github.com/TrongChuongDao)
 - [mpodolsk](https://github.com/mpodolsk)
-- [arksec01](https://github.com/arksec01)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
