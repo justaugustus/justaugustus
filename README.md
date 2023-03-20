@@ -18,7 +18,7 @@
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) - FSO Control CLI Utility (1 month ago)
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project (2 months ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (2 months ago)
-- [uwu-tools/go-ghcrawl](https://github.com/uwu-tools/go-ghcrawl) -  (2 months ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
