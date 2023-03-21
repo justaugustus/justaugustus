@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [tylermneher](https://github.com/tylermneher)
 - [Aryan-Deshpande](https://github.com/Aryan-Deshpande)
 - [konjoinfinity](https://github.com/konjoinfinity)
 - [aphexahex](https://github.com/aphexahex)
@@ -70,6 +71,5 @@
 - [didiercolens](https://github.com/didiercolens)
 - [sgrimee](https://github.com/sgrimee)
 - [TrongChuongDao](https://github.com/TrongChuongDao)
-- [mpodolsk](https://github.com/mpodolsk)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
