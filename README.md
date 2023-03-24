@@ -24,7 +24,6 @@
 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-rc.0), 1 day ago) - Production-Grade Container Scheduling and Management
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.2.2](https://github.com/cisco-open/flame/releases/tag/v0.2.2), 4 days ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.10.4](https://github.com/ossf/scorecard/releases/tag/v4.10.4), 1 week ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.5.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.5.1), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.14.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.14.0-helm), 1 week ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.29.1](https://github.com/cisco-open/fsoc/releases/tag/v0.29.1), 1 week ago) - FSO Control CLI Utility
@@ -32,6 +31,7 @@
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.3](https://github.com/openclarity/functionclarity/releases/tag/v1.0.3), 1 month ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.0](https://github.com/kubernetes/release/releases/tag/v0.15.0), 2 months ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.9.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.9.7), 2 months ago) - Interfaces and implementations for building Kubernetes releases.
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.3](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.3), 2 months ago) - Website and API for OpenSSF Scorecard
 
 #### 🔨 My recent Pull Requests
 
