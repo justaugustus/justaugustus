@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.2.2](https://github.com/cisco-open/flame/releases/tag/v0.2.2), 3 days ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-beta.0), 6 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-rc.0), 1 day ago) - Production-Grade Container Scheduling and Management
+- [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.2.2](https://github.com/cisco-open/flame/releases/tag/v0.2.2), 4 days ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.10.4](https://github.com/ossf/scorecard/releases/tag/v4.10.4), 1 week ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.5.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.5.1), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.14.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.14.0-helm), 1 week ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
