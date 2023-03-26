@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.30.0-pre1](https://github.com/cisco-open/fsoc/releases/tag/v0.30.0-pre1), 1 day ago) - FSO Control CLI Utility
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-rc.0), 2 days ago) - Production-Grade Container Scheduling and Management
-- [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.2.2](https://github.com/cisco-open/flame/releases/tag/v0.2.2), 5 days ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.30.0-pre1](https://github.com/cisco-open/fsoc/releases/tag/v0.30.0-pre1), 2 days ago) - FSO Control CLI Utility
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-rc.0), 3 days ago) - Production-Grade Container Scheduling and Management
+- [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.2.2](https://github.com/cisco-open/flame/releases/tag/v0.2.2), 6 days ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.5.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.5.1), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.14.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.14.0-helm), 1 week ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.3](https://github.com/airconduct/go-probot/releases/tag/v0.0.3), 1 month ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
@@ -44,7 +44,7 @@
 - [Bump dependencies](https://github.com/uwu-tools/peribolos/pull/195) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 week ago)
 - [go.mod: Update k8s.io/utils to v0.0.0-20230308161112-d77c459e9343](https://github.com/uwu-tools/peribolos/pull/194) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 week ago)
 - [go.mod: Update k8s.io/apimachinery to v0.26.2](https://github.com/uwu-tools/peribolos/pull/192) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 week ago)
-- [third_party: Vendor k8s.io/test-infra at d6acd1068fe6](https://github.com/uwu-tools/peribolos/pull/180) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 week ago)
+- [third_party: Vendor k8s.io/test-infra at d6acd1068fe6](https://github.com/uwu-tools/peribolos/pull/180) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
