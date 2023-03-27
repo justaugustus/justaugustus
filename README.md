@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.30.0-pre1](https://github.com/cisco-open/fsoc/releases/tag/v0.30.0-pre1), 3 days ago) - FSO Control CLI Utility
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.30.0](https://github.com/cisco-open/fsoc/releases/tag/v0.30.0), today) - FSO Control CLI Utility
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-rc.0), 4 days ago) - Production-Grade Container Scheduling and Management
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.2.2](https://github.com/cisco-open/flame/releases/tag/v0.2.2), 1 week ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.5.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.5.1), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
