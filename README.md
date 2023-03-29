@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.30.0](https://github.com/cisco-open/fsoc/releases/tag/v0.30.0), 1 day ago) - FSO Control CLI Utility
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-rc.0), 5 days ago) - Production-Grade Container Scheduling and Management
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.30.0](https://github.com/cisco-open/fsoc/releases/tag/v0.30.0), 2 days ago) - FSO Control CLI Utility
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-rc.0), 6 days ago) - Production-Grade Container Scheduling and Management
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.2.2](https://github.com/cisco-open/flame/releases/tag/v0.2.2), 1 week ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.5.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.5.1), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.14.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.14.0-helm), 2 weeks ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
