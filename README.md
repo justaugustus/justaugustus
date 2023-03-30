@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [Portshift/grype-server](https://github.com/Portshift/grype-server) - Running Grype scanner as a K8s server (today)
 - [github/github-ospo](https://github.com/github/github-ospo) - Helping open source program offices get started (2 weeks ago)
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command (1 month ago)
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (1 month ago)
@@ -57,7 +58,6 @@
 - [actions/gh-actions-cache](https://github.com/actions/gh-actions-cache) - A GitHub (gh) CLI extension to manage the GitHub Actions caches being used in a GitHub repository. (1 month ago)
 - [wayfair-incubator/oss-template](https://github.com/wayfair-incubator/oss-template) - Open Source Template by Wayfair (1 month ago)
 - [wayfair-incubator/forker](https://github.com/wayfair-incubator/forker) - ⑂ GitHub action for automating fork creation (1 month ago)
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
