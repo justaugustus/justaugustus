@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.30.1](https://github.com/cisco-open/fsoc/releases/tag/v0.30.1), today) - FSO Control CLI Utility
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.3](https://github.com/ossf/scorecard-action/releases/tag/v2.1.3), 1 day ago) - Official GitHub Action for OpenSSF Scorecard.
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.30.2](https://github.com/cisco-open/fsoc/releases/tag/v0.30.2), 1 day ago) - FSO Control CLI Utility
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.3](https://github.com/ossf/scorecard-action/releases/tag/v2.1.3), 2 days ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-rc.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [cisco-open/flame](https://github.com/cisco-open/flame) ([v0.2.2](https://github.com/cisco-open/flame/releases/tag/v0.2.2), 1 week ago) - flame is a federated learning system for edge with flexibility and scalability at the core of its design.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.5.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.5.1), 2 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [Portshift/grype-server](https://github.com/Portshift/grype-server) - Running Grype scanner as a K8s server (today)
+- [Portshift/grype-server](https://github.com/Portshift/grype-server) - Running Grype scanner as a K8s server (1 day ago)
 - [github/github-ospo](https://github.com/github/github-ospo) - Helping open source program offices get started (2 weeks ago)
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command (1 month ago)
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (1 month ago)
@@ -56,8 +56,8 @@
 - [actions/actions-sync](https://github.com/actions/actions-sync) - This tool allows GHES administrators to sync Actions to their instances (1 month ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (1 month ago)
 - [actions/gh-actions-cache](https://github.com/actions/gh-actions-cache) - A GitHub (gh) CLI extension to manage the GitHub Actions caches being used in a GitHub repository. (1 month ago)
-- [wayfair-incubator/oss-template](https://github.com/wayfair-incubator/oss-template) - Open Source Template by Wayfair (1 month ago)
-- [wayfair-incubator/forker](https://github.com/wayfair-incubator/forker) - ⑂ GitHub action for automating fork creation (1 month ago)
+- [wayfair-incubator/oss-template](https://github.com/wayfair-incubator/oss-template) - Open Source Template by Wayfair (2 months ago)
+- [wayfair-incubator/forker](https://github.com/wayfair-incubator/forker) - ⑂ GitHub action for automating fork creation (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
