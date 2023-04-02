@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.4](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.4), 1 day ago) - Website and API for OpenSSF Scorecard
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.0](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.0), 1 day ago) - Interfaces and implementations for building Kubernetes releases.
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.30.2](https://github.com/cisco-open/fsoc/releases/tag/v0.30.2), 2 days ago) - FSO Control CLI Utility
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.3](https://github.com/ossf/scorecard-action/releases/tag/v2.1.3), 3 days ago) - Official GitHub Action for OpenSSF Scorecard.
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.4](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.4), 2 days ago) - Website and API for OpenSSF Scorecard
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.0](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.0), 2 days ago) - Interfaces and implementations for building Kubernetes releases.
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.30.2](https://github.com/cisco-open/fsoc/releases/tag/v0.30.2), 3 days ago) - FSO Control CLI Utility
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.3](https://github.com/ossf/scorecard-action/releases/tag/v2.1.3), 4 days ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0-rc.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.5.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.5.1), 2 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.14.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.14.0-helm), 2 weeks ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
@@ -44,11 +44,11 @@
 - [Bump dependencies](https://github.com/uwu-tools/peribolos/pull/195) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 weeks ago)
 - [go.mod: Update k8s.io/utils to v0.0.0-20230308161112-d77c459e9343](https://github.com/uwu-tools/peribolos/pull/194) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 weeks ago)
 - [go.mod: Update k8s.io/apimachinery to v0.26.2](https://github.com/uwu-tools/peribolos/pull/192) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 weeks ago)
-- [third_party: Vendor k8s.io/test-infra at d6acd1068fe6](https://github.com/uwu-tools/peribolos/pull/180) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 weeks ago)
+- [third_party: Vendor k8s.io/test-infra at d6acd1068fe6](https://github.com/uwu-tools/peribolos/pull/180) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [Portshift/grype-server](https://github.com/Portshift/grype-server) - Running Grype scanner as a K8s server (2 days ago)
+- [Portshift/grype-server](https://github.com/Portshift/grype-server) - Running Grype scanner as a K8s server (3 days ago)
 - [github/github-ospo](https://github.com/github/github-ospo) - Helping open source program offices get started (2 weeks ago)
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command (1 month ago)
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (1 month ago)
