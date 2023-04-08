@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [advanced-security/enterprise-security-team](https://github.com/advanced-security/enterprise-security-team) - Manage a uniform team of security managers for every organization in your enterprise (today)
 - [Portshift/grype-server](https://github.com/Portshift/grype-server) - Running Grype scanner as a K8s server (1 week ago)
 - [github/github-ospo](https://github.com/github/github-ospo) - Helping open source program offices get started (3 weeks ago)
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command (1 month ago)
@@ -57,7 +58,6 @@
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (2 months ago)
 - [actions/gh-actions-cache](https://github.com/actions/gh-actions-cache) - A GitHub (gh) CLI extension to manage the GitHub Actions caches being used in a GitHub repository. (2 months ago)
 - [wayfair-incubator/oss-template](https://github.com/wayfair-incubator/oss-template) - Open Source Template by Wayfair (2 months ago)
-- [wayfair-incubator/forker](https://github.com/wayfair-incubator/forker) - ⑂ GitHub action for automating fork creation (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
