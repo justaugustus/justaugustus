@@ -51,7 +51,7 @@
 - [advanced-security/mrva-code-search](https://github.com/advanced-security/mrva-code-search) - Use code search to populate an MRVA repo list in VSCode (2 days ago)
 - [mchmarny/vimp](https://github.com/mchmarny/vimp) - Compare data from multiple vulnerability scanners to get a more complete picture of potential exposures. (2 days ago)
 - [advanced-security/enterprise-security-team](https://github.com/advanced-security/enterprise-security-team) - Manage a uniform team of security managers for every organization in your enterprise (3 days ago)
-- [Portshift/grype-server](https://github.com/Portshift/grype-server) - Running Grype scanner as a K8s server (1 week ago)
+- [openclarity/grype-server](https://github.com/openclarity/grype-server) - Running Grype scanner as a K8s server (1 week ago)
 - [github/github-ospo](https://github.com/github/github-ospo) - Helping open source program offices get started (4 weeks ago)
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command (1 month ago)
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (1 month ago)
