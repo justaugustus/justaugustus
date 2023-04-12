@@ -22,6 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.27](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.27), today) - Kubernetes website and documentation repo: 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.0), 1 day ago) - Production-Grade Container Scheduling and Management
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.31.0](https://github.com/cisco-open/fsoc/releases/tag/v0.31.0), 2 days ago) - FSO Control CLI Utility
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.5.2](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.5.2), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
@@ -31,7 +32,6 @@
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.3](https://github.com/ossf/scorecard-action/releases/tag/v2.1.3), 2 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.3](https://github.com/airconduct/go-probot/releases/tag/v0.0.3), 2 months ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.3](https://github.com/openclarity/functionclarity/releases/tag/v1.0.3), 2 months ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
-- [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.0](https://github.com/kubernetes/release/releases/tag/v0.15.0), 2 months ago) - Release infrastructure for Kubernetes and related components
 
 #### 🔨 My recent Pull Requests
 
