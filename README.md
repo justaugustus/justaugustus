@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [cisco-open/ResponsibleAI](https://github.com/cisco-open/ResponsibleAI) - RAI is a python library that is written to help AI developers in various aspects of responsible AI development. (today)
 - [advanced-security/mrva-code-search](https://github.com/advanced-security/mrva-code-search) - Use code search to populate an MRVA repo list in VSCode (3 days ago)
 - [mchmarny/vimp](https://github.com/mchmarny/vimp) - Compare data from multiple vulnerability scanners to get a more complete picture of potential exposures. (3 days ago)
 - [advanced-security/enterprise-security-team](https://github.com/advanced-security/enterprise-security-team) - Manage a uniform team of security managers for every organization in your enterprise (4 days ago)
@@ -57,7 +58,6 @@
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (1 month ago)
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!  (2 months ago)
 - [actions/actions-sync](https://github.com/actions/actions-sync) - This tool allows GHES administrators to sync Actions to their instances (2 months ago)
-- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
