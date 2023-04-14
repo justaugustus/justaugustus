@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.31.2](https://github.com/cisco-open/fsoc/releases/tag/v0.31.2), today) - FSO Control CLI Utility
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.1), today) - Production-Grade Container Scheduling and Management
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), today) - Release infrastructure for Kubernetes and related components
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.31.1](https://github.com/cisco-open/fsoc/releases/tag/v0.31.1), 1 day ago) - FSO Control CLI Utility
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.27](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.27), 2 days ago) - Kubernetes website and documentation repo: 
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.5.2](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.5.2), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.15.1-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.15.1-helm), 1 week ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
