@@ -16,8 +16,8 @@
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (2 months ago)
 - [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) - openclarity.io (2 months ago)
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) - FSO Control CLI Utility (2 months ago)
-- [justaugustus/about](https://github.com/justaugustus/about) -  (3 months ago)
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project (3 months ago)
+- [justaugustus/about](https://github.com/justaugustus/about) -  (3 months ago)
 - [uwu-tools/go-ghcrawl](https://github.com/uwu-tools/go-ghcrawl) -  (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
