@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [lelia](https://github.com/lelia)
 - [pearcec](https://github.com/pearcec)
 - [tylermneher](https://github.com/tylermneher)
 - [Aryan-Deshpande](https://github.com/Aryan-Deshpande)
@@ -70,6 +71,5 @@
 - [ArkaprabhaChakraborty](https://github.com/ArkaprabhaChakraborty)
 - [dankingkong](https://github.com/dankingkong)
 - [didiercolens](https://github.com/didiercolens)
-- [sgrimee](https://github.com/sgrimee)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
