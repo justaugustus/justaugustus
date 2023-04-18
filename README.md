@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update Cisco members](https://github.com/todogroup/governance/pull/275) on [todogroup/governance](https://github.com/todogroup/governance) (today)
 - [orgs/relengfam: Add Jason as org admin](https://github.com/uwu-tools/.github/pull/12) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 month ago)
 - [Enforce org &amp; repo settings](https://github.com/uwu-tools/.github/pull/11) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 month ago)
 - [orgs/uwu-tools: Add Jason as org admin and teams maintainer](https://github.com/uwu-tools/.github/pull/10) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 month ago)
@@ -44,7 +45,6 @@
 - [Bump dependencies](https://github.com/uwu-tools/peribolos/pull/195) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [go.mod: Update k8s.io/utils to v0.0.0-20230308161112-d77c459e9343](https://github.com/uwu-tools/peribolos/pull/194) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [go.mod: Update k8s.io/apimachinery to v0.26.2](https://github.com/uwu-tools/peribolos/pull/192) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
-- [third_party: Vendor k8s.io/test-infra at d6acd1068fe6](https://github.com/uwu-tools/peribolos/pull/180) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 
 #### ⭐ Recent Stars
 
