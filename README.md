@@ -22,20 +22,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.16.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.16.0-helm), 1 day ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.33.1](https://github.com/cisco-open/fsoc/releases/tag/v0.33.1), 2 days ago) - FSO Control CLI Utility
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.1), 4 days ago) - Production-Grade Container Scheduling and Management
-- [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 4 days ago) - Release infrastructure for Kubernetes and related components
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.27](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.27), 6 days ago) - Kubernetes website and documentation repo: 
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.5.2](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.5.2), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.16.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.16.0-helm), 2 days ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.33.1](https://github.com/cisco-open/fsoc/releases/tag/v0.33.1), 3 days ago) - FSO Control CLI Utility
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.1), 5 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 5 days ago) - Release infrastructure for Kubernetes and related components
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.27](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.27), 1 week ago) - Kubernetes website and documentation repo: 
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.5.2](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.5.2), 2 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.4](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.4), 2 weeks ago) - Website and API for OpenSSF Scorecard
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.0](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.0), 2 weeks ago) - Interfaces and implementations for building Kubernetes releases.
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.3](https://github.com/ossf/scorecard-action/releases/tag/v2.1.3), 2 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.3](https://github.com/ossf/scorecard-action/releases/tag/v2.1.3), 3 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.3](https://github.com/airconduct/go-probot/releases/tag/v0.0.3), 2 months ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
 
 #### 🔨 My recent Pull Requests
 
-- [Update Cisco members](https://github.com/todogroup/governance/pull/275) on [todogroup/governance](https://github.com/todogroup/governance) (today)
+- [Update Cisco members](https://github.com/todogroup/governance/pull/275) on [todogroup/governance](https://github.com/todogroup/governance) (1 day ago)
 - [orgs/relengfam: Add Jason as org admin](https://github.com/uwu-tools/.github/pull/12) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 month ago)
 - [Enforce org &amp; repo settings](https://github.com/uwu-tools/.github/pull/11) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 month ago)
 - [orgs/uwu-tools: Add Jason as org admin and teams maintainer](https://github.com/uwu-tools/.github/pull/10) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 month ago)
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [cisco-open/ResponsibleAI](https://github.com/cisco-open/ResponsibleAI) - RAI is a python library that is written to help AI developers in various aspects of responsible AI development. (6 days ago)
+- [cisco-open/ResponsibleAI](https://github.com/cisco-open/ResponsibleAI) - RAI is a python library that is written to help AI developers in various aspects of responsible AI development. (1 week ago)
 - [advanced-security/mrva-code-search](https://github.com/advanced-security/mrva-code-search) - Use code search to populate an MRVA repo list in VSCode (1 week ago)
 - [mchmarny/vimp](https://github.com/mchmarny/vimp) - Compare data from multiple vulnerability scanners to get a more complete picture of potential exposures. (1 week ago)
 - [advanced-security/enterprise-security-team](https://github.com/advanced-security/enterprise-security-team) - Manage a uniform team of security managers for every organization in your enterprise (1 week ago)
