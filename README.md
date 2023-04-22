@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [bgeesaman/malicious-compliance](https://github.com/bgeesaman/malicious-compliance) -  (today)
 - [cisco-open/ResponsibleAI](https://github.com/cisco-open/ResponsibleAI) - RAI is a python library that is written to help AI developers in various aspects of responsible AI development. (1 week ago)
 - [advanced-security/mrva-code-search](https://github.com/advanced-security/mrva-code-search) - Use code search to populate an MRVA repo list in VSCode (1 week ago)
 - [mchmarny/vimp](https://github.com/mchmarny/vimp) - Compare data from multiple vulnerability scanners to get a more complete picture of potential exposures. (1 week ago)
@@ -57,7 +58,6 @@
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command (2 months ago)
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (2 months ago)
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!  (2 months ago)
-- [actions/actions-sync](https://github.com/actions/actions-sync) - This tool allows GHES administrators to sync Actions to their instances (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
