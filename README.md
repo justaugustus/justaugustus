@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [bgeesaman/malicious-compliance](https://github.com/bgeesaman/malicious-compliance) -  (2 days ago)
+- [bgeesaman/malicious-compliance](https://github.com/bgeesaman/malicious-compliance) - Supporting code and demos for KubeCon EU 2023 talk &#34;Malicious Compliance: Reflections on Trusting Container Image Scanners&#34; (2 days ago)
 - [cisco-open/ResponsibleAI](https://github.com/cisco-open/ResponsibleAI) - RAI is a python library that is written to help AI developers in various aspects of responsible AI development. (1 week ago)
 - [advanced-security/mrva-code-search](https://github.com/advanced-security/mrva-code-search) - Use code search to populate an MRVA repo list in VSCode (2 weeks ago)
 - [mchmarny/vimp](https://github.com/mchmarny/vimp) - Compare data from multiple vulnerability scanners to get a more complete picture of potential exposures. (2 weeks ago)
