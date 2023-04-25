@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.17.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.17.0-helm), today) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.34.0](https://github.com/cisco-open/fsoc/releases/tag/v0.34.0), today) - FSO Control CLI Utility
+- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.17.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.17.0-helm), 1 day ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.34.0](https://github.com/cisco-open/fsoc/releases/tag/v0.34.0), 1 day ago) - FSO Control CLI Utility
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.1), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 1 week ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.27](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.27), 1 week ago) - Kubernetes website and documentation repo: 
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update Cisco members](https://github.com/todogroup/governance/pull/275) on [todogroup/governance](https://github.com/todogroup/governance) (6 days ago)
+- [Update Cisco members](https://github.com/todogroup/governance/pull/275) on [todogroup/governance](https://github.com/todogroup/governance) (1 week ago)
 - [orgs/relengfam: Add Jason as org admin](https://github.com/uwu-tools/.github/pull/12) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 month ago)
 - [Enforce org &amp; repo settings](https://github.com/uwu-tools/.github/pull/11) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 month ago)
 - [orgs/uwu-tools: Add Jason as org admin and teams maintainer](https://github.com/uwu-tools/.github/pull/10) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 month ago)
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [bgeesaman/malicious-compliance](https://github.com/bgeesaman/malicious-compliance) - Supporting code and demos for KubeCon EU 2023 talk &#34;Malicious Compliance: Reflections on Trusting Container Image Scanners&#34; (2 days ago)
+- [bgeesaman/malicious-compliance](https://github.com/bgeesaman/malicious-compliance) - Supporting code and demos for KubeCon EU 2023 talk &#34;Malicious Compliance: Reflections on Trusting Container Image Scanners&#34; (3 days ago)
 - [cisco-open/ResponsibleAI](https://github.com/cisco-open/ResponsibleAI) - RAI is a python library that is written to help AI developers in various aspects of responsible AI development. (1 week ago)
 - [advanced-security/mrva-code-search](https://github.com/advanced-security/mrva-code-search) - Use code search to populate an MRVA repo list in VSCode (2 weeks ago)
 - [mchmarny/vimp](https://github.com/mchmarny/vimp) - Compare data from multiple vulnerability scanners to get a more complete picture of potential exposures. (2 weeks ago)
