@@ -48,6 +48,8 @@
 
 #### ⭐ Recent Stars
 
+- [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky&#39;s atproto services. NOT STABLE (yet) (today)
+- [bluesky-social/atproto-ecosystem](https://github.com/bluesky-social/atproto-ecosystem) - list of projects and implementations in the AT protocol ecosystem (today)
 - [bgeesaman/malicious-compliance](https://github.com/bgeesaman/malicious-compliance) - Supporting code and demos for KubeCon EU 2023 talk &#34;Malicious Compliance: Reflections on Trusting Container Image Scanners&#34; (4 days ago)
 - [cisco-open/ResponsibleAI](https://github.com/cisco-open/ResponsibleAI) - RAI is a python library that is written to help AI developers in various aspects of responsible AI development. (2 weeks ago)
 - [advanced-security/mrva-code-search](https://github.com/advanced-security/mrva-code-search) - Use code search to populate an MRVA repo list in VSCode (2 weeks ago)
@@ -56,8 +58,6 @@
 - [openclarity/grype-server](https://github.com/openclarity/grype-server) - Running Grype scanner as a K8s server (3 weeks ago)
 - [github/github-ospo](https://github.com/github/github-ospo) - Helping open source program offices get started (1 month ago)
 - [vercel/release](https://github.com/vercel/release) - Generate changelogs with a single command (2 months ago)
-- [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system (2 months ago)
-- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!  (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
