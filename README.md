@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ohmyj](https://github.com/ohmyj)
 - [mause-01](https://github.com/mause-01)
 - [kkpan11](https://github.com/kkpan11)
 - [lelia](https://github.com/lelia)
@@ -70,6 +71,5 @@
 - [konjoinfinity](https://github.com/konjoinfinity)
 - [aphexahex](https://github.com/aphexahex)
 - [Pablohn26](https://github.com/Pablohn26)
-- [ArkaprabhaChakraborty](https://github.com/ArkaprabhaChakraborty)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
