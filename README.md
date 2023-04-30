@@ -22,14 +22,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.35.0](https://github.com/cisco-open/fsoc/releases/tag/v0.35.0), 1 day ago) - FSO Control CLI Utility
-- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.17.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.17.0-helm), 5 days ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.35.0](https://github.com/cisco-open/fsoc/releases/tag/v0.35.0), 2 days ago) - FSO Control CLI Utility
+- [openclarity/kubeclarity](https://github.com/openclarity/kubeclarity) ([kubeclarity-v2.17.0-helm](https://github.com/openclarity/kubeclarity/releases/tag/kubeclarity-v2.17.0-helm), 6 days ago) - KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.1), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 2 weeks ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.27](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.27), 2 weeks ago) - Kubernetes website and documentation repo: 
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.5.2](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.5.2), 3 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.4](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.4), 4 weeks ago) - Website and API for OpenSSF Scorecard
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.0](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.0), 4 weeks ago) - Interfaces and implementations for building Kubernetes releases.
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.4](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.4), 1 month ago) - Website and API for OpenSSF Scorecard
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.0](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.0), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.3](https://github.com/ossf/scorecard-action/releases/tag/v2.1.3), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.3](https://github.com/airconduct/go-probot/releases/tag/v0.0.3), 2 months ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
 
@@ -48,13 +48,13 @@
 
 #### ⭐ Recent Stars
 
-- [credo-ai/credoai_lens](https://github.com/credo-ai/credoai_lens) - Credo AI Lens is a comprehensive assessment framework for AI systems. Lens standardizes model and data assessment, and acts as a central gateway to assessments created in the open source community. (1 day ago)
-- [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky&#39;s atproto services. NOT STABLE (yet) (3 days ago)
-- [bluesky-social/atproto-ecosystem](https://github.com/bluesky-social/atproto-ecosystem) - list of projects and implementations in the AT protocol ecosystem (3 days ago)
+- [credo-ai/credoai_lens](https://github.com/credo-ai/credoai_lens) - Credo AI Lens is a comprehensive assessment framework for AI systems. Lens standardizes model and data assessment, and acts as a central gateway to assessments created in the open source community. (2 days ago)
+- [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky&#39;s atproto services. NOT STABLE (yet) (4 days ago)
+- [bluesky-social/atproto-ecosystem](https://github.com/bluesky-social/atproto-ecosystem) - list of projects and implementations in the AT protocol ecosystem (4 days ago)
 - [bgeesaman/malicious-compliance](https://github.com/bgeesaman/malicious-compliance) - Supporting code and demos for KubeCon EU 2023 talk &#34;Malicious Compliance: Reflections on Trusting Container Image Scanners&#34; (1 week ago)
 - [cisco-open/ResponsibleAI](https://github.com/cisco-open/ResponsibleAI) - RAI is a python library that is written to help AI developers in various aspects of responsible AI development. (2 weeks ago)
-- [advanced-security/mrva-code-search](https://github.com/advanced-security/mrva-code-search) - Use code search to populate an MRVA repo list in VSCode (2 weeks ago)
-- [mchmarny/vimp](https://github.com/mchmarny/vimp) - Compare data from multiple vulnerability scanners to get a more complete picture of potential exposures. (2 weeks ago)
+- [advanced-security/mrva-code-search](https://github.com/advanced-security/mrva-code-search) - Use code search to populate an MRVA repo list in VSCode (3 weeks ago)
+- [mchmarny/vimp](https://github.com/mchmarny/vimp) - Compare data from multiple vulnerability scanners to get a more complete picture of potential exposures. (3 weeks ago)
 - [advanced-security/enterprise-security-team](https://github.com/advanced-security/enterprise-security-team) - Manage a uniform team of security managers for every organization in your enterprise (3 weeks ago)
 - [openclarity/grype-server](https://github.com/openclarity/grype-server) - Running Grype scanner as a K8s server (1 month ago)
 - [github/github-ospo](https://github.com/github/github-ospo) - Helping open source program offices get started (1 month ago)
