@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [travis-ci/gimme](https://github.com/travis-ci/gimme) - Install go, yay! (today)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (today)
 - [teletrace/teletrace](https://github.com/teletrace/teletrace) - Open-Source Tracing Platform (1 day ago)
 - [credo-ai/credoai_lens](https://github.com/credo-ai/credoai_lens) - Credo AI Lens is a comprehensive assessment framework for AI systems. Lens standardizes model and data assessment, and acts as a central gateway to assessments created in the open source community. (4 days ago)
@@ -57,7 +58,6 @@
 - [cisco-open/ResponsibleAI](https://github.com/cisco-open/ResponsibleAI) - RAI is a python library that is written to help AI developers in various aspects of responsible AI development. (2 weeks ago)
 - [advanced-security/mrva-code-search](https://github.com/advanced-security/mrva-code-search) - Use code search to populate an MRVA repo list in VSCode (3 weeks ago)
 - [mchmarny/vimp](https://github.com/mchmarny/vimp) - Compare data from multiple vulnerability scanners to get a more complete picture of potential exposures. (3 weeks ago)
-- [advanced-security/enterprise-security-team](https://github.com/advanced-security/enterprise-security-team) - Manage a uniform team of security managers for every organization in your enterprise (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
