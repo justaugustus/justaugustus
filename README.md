@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependencies](https://github.com/uwu-tools/magex/pull/7) on [uwu-tools/magex](https://github.com/uwu-tools/magex) (today)
 - [Add attribution and &#34;In Memoriam&#34; section for Carolyn Van Slyck](https://github.com/uwu-tools/magex/pull/1) on [uwu-tools/magex](https://github.com/uwu-tools/magex) (today)
 - [Update Cisco members](https://github.com/todogroup/governance/pull/275) on [todogroup/governance](https://github.com/todogroup/governance) (2 weeks ago)
 - [orgs/relengfam: Add Jason as org admin](https://github.com/uwu-tools/.github/pull/12) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 month ago)
@@ -44,7 +45,6 @@
 - [workflows: Test GitHub org reconciliation](https://github.com/uwu-tools/.github/pull/7) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 month ago)
 - [options: Add missing input parameters for GitHub Actions](https://github.com/uwu-tools/peribolos/pull/196) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [Bump dependencies](https://github.com/uwu-tools/peribolos/pull/195) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
-- [go.mod: Update k8s.io/utils to v0.0.0-20230308161112-d77c459e9343](https://github.com/uwu-tools/peribolos/pull/194) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 
 #### ⭐ Recent Stars
 
