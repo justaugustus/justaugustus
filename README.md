@@ -10,6 +10,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (today)
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) -  (today)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (2 weeks ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 month ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (1 month ago)
@@ -18,7 +19,6 @@
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (3 months ago)
 - [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) - openclarity.io (3 months ago)
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) - FSO Control CLI Utility (3 months ago)
-- [justaugustus/about](https://github.com/justaugustus/about) -  (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
