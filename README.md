@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (today)
 - [teletrace/teletrace](https://github.com/teletrace/teletrace) - Open-Source Tracing Platform (1 day ago)
 - [credo-ai/credoai_lens](https://github.com/credo-ai/credoai_lens) - Credo AI Lens is a comprehensive assessment framework for AI systems. Lens standardizes model and data assessment, and acts as a central gateway to assessments created in the open source community. (4 days ago)
 - [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky&#39;s atproto services. NOT STABLE (yet) (6 days ago)
@@ -57,7 +58,6 @@
 - [advanced-security/mrva-code-search](https://github.com/advanced-security/mrva-code-search) - Use code search to populate an MRVA repo list in VSCode (3 weeks ago)
 - [mchmarny/vimp](https://github.com/mchmarny/vimp) - Compare data from multiple vulnerability scanners to get a more complete picture of potential exposures. (3 weeks ago)
 - [advanced-security/enterprise-security-team](https://github.com/advanced-security/enterprise-security-team) - Manage a uniform team of security managers for every organization in your enterprise (3 weeks ago)
-- [openclarity/grype-server](https://github.com/openclarity/grype-server) - Running Grype scanner as a K8s server (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
