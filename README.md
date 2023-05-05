@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Scorecard workflow generation fixes](https://github.com/step-security/secure-repo/pull/2110) on [step-security/secure-repo](https://github.com/step-security/secure-repo) (today)
 - [go.mod: Use uwu-tools/magex](https://github.com/kubernetes-sigs/release-utils/pull/78) on [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) (3 days ago)
 - [Update dependencies](https://github.com/uwu-tools/magex/pull/7) on [uwu-tools/magex](https://github.com/uwu-tools/magex) (3 days ago)
 - [Add attribution and &#34;In Memoriam&#34; section for Carolyn Van Slyck](https://github.com/uwu-tools/magex/pull/1) on [uwu-tools/magex](https://github.com/uwu-tools/magex) (3 days ago)
@@ -44,7 +45,6 @@
 - [orgs/uwu-tools: Add Jason as org admin and teams maintainer](https://github.com/uwu-tools/.github/pull/10) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 month ago)
 - [workflows: Add production sync](https://github.com/uwu-tools/.github/pull/9) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 month ago)
 - [workflows: Test GitHub org reconciliation](https://github.com/uwu-tools/.github/pull/7) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 month ago)
-- [options: Add missing input parameters for GitHub Actions](https://github.com/uwu-tools/peribolos/pull/196) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 
 #### ⭐ Recent Stars
 
