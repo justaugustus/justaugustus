@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [molly/w3igg-crossposter](https://github.com/molly/w3igg-crossposter) - Automate crossposting web3isgoinggreat.com posts to social media (today)
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (2 days ago)
 - [travis-ci/gimme](https://github.com/travis-ci/gimme) - Install go, yay! (4 days ago)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (4 days ago)
@@ -57,7 +58,6 @@
 - [bluesky-social/atproto-ecosystem](https://github.com/bluesky-social/atproto-ecosystem) - list of projects and implementations in the AT protocol ecosystem (1 week ago)
 - [bgeesaman/malicious-compliance](https://github.com/bgeesaman/malicious-compliance) - Supporting code and demos for KubeCon EU 2023 talk &#34;Malicious Compliance: Reflections on Trusting Container Image Scanners&#34; (2 weeks ago)
 - [cisco-open/ResponsibleAI](https://github.com/cisco-open/ResponsibleAI) - RAI is a python library that is written to help AI developers in various aspects of responsible AI development. (3 weeks ago)
-- [advanced-security/mrva-code-search](https://github.com/advanced-security/mrva-code-search) - Use code search to populate an MRVA repo list in VSCode (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
