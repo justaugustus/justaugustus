@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [dubeysuraj864](https://github.com/dubeysuraj864)
 - [harshsingh32](https://github.com/harshsingh32)
 - [able8](https://github.com/able8)
 - [ohmyj](https://github.com/ohmyj)
@@ -70,6 +71,5 @@
 - [pearcec](https://github.com/pearcec)
 - [tylermneher](https://github.com/tylermneher)
 - [Aryan-Deshpande](https://github.com/Aryan-Deshpande)
-- [konjoinfinity](https://github.com/konjoinfinity)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
