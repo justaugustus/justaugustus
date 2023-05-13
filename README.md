@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.39.0](https://github.com/cisco-open/fsoc/releases/tag/v0.39.0), 3 days ago) - FSO Control CLI Utility
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.40.0](https://github.com/cisco-open/fsoc/releases/tag/v0.40.0), today) - FSO Control CLI Utility
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 1 week ago) - 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.1), 4 weeks ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 4 weeks ago) - Release infrastructure for Kubernetes and related components
