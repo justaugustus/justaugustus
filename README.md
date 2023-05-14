@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.40.0](https://github.com/cisco-open/fsoc/releases/tag/v0.40.0), today) - FSO Control CLI Utility
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.40.0](https://github.com/cisco-open/fsoc/releases/tag/v0.40.0), 1 day ago) - FSO Control CLI Utility
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 1 week ago) - 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.1), 4 weeks ago) - Production-Grade Container Scheduling and Management
-- [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 4 weeks ago) - Release infrastructure for Kubernetes and related components
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.1), 1 month ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 1 month ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.27](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.27), 1 month ago) - Kubernetes website and documentation repo: 
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.5.2](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.5.2), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.4](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.4), 1 month ago) - Website and API for OpenSSF Scorecard
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [electron/sheriff](https://github.com/electron/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (today)
+- [electron/sheriff](https://github.com/electron/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (1 day ago)
 - [molly/w3igg-crossposter](https://github.com/molly/w3igg-crossposter) - Automate crossposting web3isgoinggreat.com posts to social media (1 week ago)
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (1 week ago)
 - [travis-ci/gimme](https://github.com/travis-ci/gimme) - Install go, yay! (1 week ago)
