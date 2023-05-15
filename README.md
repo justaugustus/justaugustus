@@ -22,6 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), today) - 
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.1), today) - Interfaces and implementations for building Kubernetes releases.
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.40.0](https://github.com/cisco-open/fsoc/releases/tag/v0.40.0), 2 days ago) - FSO Control CLI Utility
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 1 week ago) - 
@@ -31,7 +32,6 @@
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.5.2](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.5.2), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.4](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.4), 1 month ago) - Website and API for OpenSSF Scorecard
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.1.3](https://github.com/ossf/scorecard-action/releases/tag/v2.1.3), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
-- [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.3](https://github.com/airconduct/go-probot/releases/tag/v0.0.3), 3 months ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
 
 #### 🔨 My recent Pull Requests
 
