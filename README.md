@@ -22,12 +22,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.2), today) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.6.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.6.0), today) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 2 days ago) - 
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.1), 2 days ago) - Interfaces and implementations for building Kubernetes releases.
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.40.0](https://github.com/cisco-open/fsoc/releases/tag/v0.40.0), 4 days ago) - FSO Control CLI Utility
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 2 weeks ago) - 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.27.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.27.1), 1 month ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 1 month ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.27](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.27), 1 month ago) - Kubernetes website and documentation repo: 
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.4](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.4), 1 month ago) - Website and API for OpenSSF Scorecard
@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [dominikhaska](https://github.com/dominikhaska)
 - [harshsingh32](https://github.com/harshsingh32)
 - [able8](https://github.com/able8)
 - [ohmyj](https://github.com/ohmyj)
@@ -70,6 +71,5 @@
 - [pearcec](https://github.com/pearcec)
 - [tylermneher](https://github.com/tylermneher)
 - [Aryan-Deshpande](https://github.com/Aryan-Deshpande)
-- [konjoinfinity](https://github.com/konjoinfinity)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
