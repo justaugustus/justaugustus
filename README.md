@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.41.0](https://github.com/cisco-open/fsoc/releases/tag/v0.41.0), today) - FSO Control CLI Utility
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.24.14](https://github.com/kubernetes/kubernetes/releases/tag/v1.24.14), 3 days ago) - Production-Grade Container Scheduling and Management
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.6.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.6.0), 3 days ago) - Container and file artifact promotion tooling for the Kubernetes project
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 5 days ago) - 
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.1), 5 days ago) - Interfaces and implementations for building Kubernetes releases.
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.41.0](https://github.com/cisco-open/fsoc/releases/tag/v0.41.0), 1 day ago) - FSO Control CLI Utility
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.24.14](https://github.com/kubernetes/kubernetes/releases/tag/v1.24.14), 4 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.6.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.6.0), 4 days ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 6 days ago) - 
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.1), 6 days ago) - Interfaces and implementations for building Kubernetes releases.
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 2 weeks ago) - 
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 1 month ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.27](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.27), 1 month ago) - Kubernetes website and documentation repo: 
