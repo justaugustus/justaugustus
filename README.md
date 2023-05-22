@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know (today)
 - [electron/sheriff](https://github.com/electron/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (1 week ago)
 - [molly/w3igg-crossposter](https://github.com/molly/w3igg-crossposter) - Automate crossposting web3isgoinggreat.com posts to social media (2 weeks ago)
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (2 weeks ago)
@@ -57,7 +58,6 @@
 - [credo-ai/credoai_lens](https://github.com/credo-ai/credoai_lens) - Credo AI Lens is a comprehensive assessment framework for AI systems. Lens standardizes model and data assessment, and acts as a central gateway to assessments created in the open source community. (3 weeks ago)
 - [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky&#39;s atproto services. NOT STABLE (yet) (3 weeks ago)
 - [bluesky-social/atproto-ecosystem](https://github.com/bluesky-social/atproto-ecosystem) - list of projects and implementations in the AT protocol ecosystem (3 weeks ago)
-- [bgeesaman/malicious-compliance](https://github.com/bgeesaman/malicious-compliance) - Supporting code and demos for KubeCon EU 2023 talk &#34;Malicious Compliance: Reflections on Trusting Container Image Scanners&#34; (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
