@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.41.0](https://github.com/cisco-open/fsoc/releases/tag/v0.41.0), 3 days ago) - FSO Control CLI Utility
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.24.14](https://github.com/kubernetes/kubernetes/releases/tag/v1.24.14), 6 days ago) - Production-Grade Container Scheduling and Management
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.6.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.6.0), 6 days ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.41.0](https://github.com/cisco-open/fsoc/releases/tag/v0.41.0), 4 days ago) - FSO Control CLI Utility
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.24.14](https://github.com/kubernetes/kubernetes/releases/tag/v1.24.14), 1 week ago) - Production-Grade Container Scheduling and Management
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.6.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.6.0), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 1 week ago) - 
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.1), 1 week ago) - Interfaces and implementations for building Kubernetes releases.
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 3 weeks ago) - 
@@ -48,8 +48,8 @@
 
 #### ⭐ Recent Stars
 
-- [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&amp;A experiences. (1 day ago)
-- [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know (1 day ago)
+- [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&amp;A experiences. (2 days ago)
+- [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know (2 days ago)
 - [electron/sheriff](https://github.com/electron/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (1 week ago)
 - [molly/w3igg-crossposter](https://github.com/molly/w3igg-crossposter) - Automate crossposting web3isgoinggreat.com posts to social media (2 weeks ago)
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (2 weeks ago)
@@ -57,7 +57,7 @@
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (3 weeks ago)
 - [teletrace/teletrace](https://github.com/teletrace/teletrace) - Open-Source Tracing Platform (3 weeks ago)
 - [credo-ai/credoai_lens](https://github.com/credo-ai/credoai_lens) - Credo AI Lens is a comprehensive assessment framework for AI systems. Lens standardizes model and data assessment, and acts as a central gateway to assessments created in the open source community. (3 weeks ago)
-- [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky&#39;s atproto services. NOT STABLE (yet) (3 weeks ago)
+- [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky&#39;s atproto services. NOT STABLE (yet) (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
