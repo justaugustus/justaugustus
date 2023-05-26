@@ -18,11 +18,11 @@
 - [cisco/node-jose](https://github.com/cisco/node-jose) -  (3 months ago)
 - [cisco-open/.github](https://github.com/cisco-open/.github) - Org-wide GitHub configurations (3 months ago)
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (3 months ago)
-- [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) - openclarity.io (3 months ago)
+- [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) - openclarity.io (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.41.0](https://github.com/cisco-open/fsoc/releases/tag/v0.41.0), 5 days ago) - FSO Control CLI Utility
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.41.0](https://github.com/cisco-open/fsoc/releases/tag/v0.41.0), 6 days ago) - FSO Control CLI Utility
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.24.14](https://github.com/kubernetes/kubernetes/releases/tag/v1.24.14), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.6.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.6.0), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 1 week ago) - 
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Scorecard workflow generation fixes](https://github.com/step-security/secure-repo/pull/2110) on [step-security/secure-repo](https://github.com/step-security/secure-repo) (2 weeks ago)
+- [Scorecard workflow generation fixes](https://github.com/step-security/secure-repo/pull/2110) on [step-security/secure-repo](https://github.com/step-security/secure-repo) (3 weeks ago)
 - [go.mod: Use uwu-tools/magex](https://github.com/kubernetes-sigs/release-utils/pull/78) on [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) (3 weeks ago)
 - [Update dependencies](https://github.com/uwu-tools/magex/pull/7) on [uwu-tools/magex](https://github.com/uwu-tools/magex) (3 weeks ago)
 - [Add attribution and &#34;In Memoriam&#34; section for Carolyn Van Slyck](https://github.com/uwu-tools/magex/pull/1) on [uwu-tools/magex](https://github.com/uwu-tools/magex) (3 weeks ago)
@@ -48,16 +48,16 @@
 
 #### ⭐ Recent Stars
 
-- [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&amp;A experiences. (3 days ago)
-- [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know (3 days ago)
+- [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&amp;A experiences. (4 days ago)
+- [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know (4 days ago)
 - [electron/sheriff](https://github.com/electron/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (1 week ago)
 - [molly/w3igg-crossposter](https://github.com/molly/w3igg-crossposter) - Automate crossposting web3isgoinggreat.com posts to social media (2 weeks ago)
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (3 weeks ago)
 - [travis-ci/gimme](https://github.com/travis-ci/gimme) - Install go, yay! (3 weeks ago)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (3 weeks ago)
 - [teletrace/teletrace](https://github.com/teletrace/teletrace) - Open-Source Tracing Platform (3 weeks ago)
-- [credo-ai/credoai_lens](https://github.com/credo-ai/credoai_lens) - Credo AI Lens is a comprehensive assessment framework for AI systems. Lens standardizes model and data assessment, and acts as a central gateway to assessments created in the open source community. (3 weeks ago)
-- [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky&#39;s atproto services. NOT STABLE (yet) (4 weeks ago)
+- [credo-ai/credoai_lens](https://github.com/credo-ai/credoai_lens) - Credo AI Lens is a comprehensive assessment framework for AI systems. Lens standardizes model and data assessment, and acts as a central gateway to assessments created in the open source community. (4 weeks ago)
+- [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky&#39;s atproto services. NOT STABLE (yet) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
