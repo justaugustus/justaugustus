@@ -10,8 +10,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [cisco-open/inclusive-language](https://github.com/cisco-open/inclusive-language) - Collection of tools and resources for working on eliminating biased language (3 weeks ago)
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) -  (3 weeks ago)
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (3 weeks ago)
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) -  (3 weeks ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 month ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 months ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (2 months ago)
