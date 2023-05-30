@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [cisco-open/DeepVision](https://github.com/cisco-open/DeepVision) -  (today)
 - [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&amp;A experiences. (1 week ago)
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know (1 week ago)
 - [electron/sheriff](https://github.com/electron/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (2 weeks ago)
@@ -57,7 +58,6 @@
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (4 weeks ago)
 - [teletrace/teletrace](https://github.com/teletrace/teletrace) - Open-Source Tracing Platform (4 weeks ago)
 - [credo-ai/credoai_lens](https://github.com/credo-ai/credoai_lens) - Credo AI Lens is a comprehensive assessment framework for AI systems. Lens standardizes model and data assessment, and acts as a central gateway to assessments created in the open source community. (1 month ago)
-- [bluesky-social/indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky&#39;s atproto services. NOT STABLE (yet) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
