@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cisco-open/inclusive-language](https://github.com/cisco-open/inclusive-language) - Collection of tools and resources for working on eliminating biased language (4 weeks ago)
+- [cisco-open/inclusive-language](https://github.com/cisco-open/inclusive-language) - Collection of tools and resources for working on eliminating biased language (1 month ago)
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (1 month ago)
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) -  (1 month ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 month ago)
@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-alpha.1), 2 days ago) - Production-Grade Container Scheduling and Management
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.43.0](https://github.com/cisco-open/fsoc/releases/tag/v0.43.0), 3 days ago) - FSO Control CLI Utility
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-alpha.1), 3 days ago) - Production-Grade Container Scheduling and Management
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.43.0](https://github.com/cisco-open/fsoc/releases/tag/v0.43.0), 4 days ago) - FSO Control CLI Utility
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.6.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.6.0), 2 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 2 weeks ago) - 
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.1), 2 weeks ago) - Interfaces and implementations for building Kubernetes releases.
@@ -48,12 +48,12 @@
 
 #### ⭐ Recent Stars
 
-- [cisco-open/DeepVision](https://github.com/cisco-open/DeepVision) -  (3 days ago)
+- [cisco-open/DeepVision](https://github.com/cisco-open/DeepVision) -  (4 days ago)
 - [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&amp;A experiences. (1 week ago)
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know (1 week ago)
-- [electron/sheriff](https://github.com/electron/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (2 weeks ago)
-- [molly/w3igg-crossposter](https://github.com/molly/w3igg-crossposter) - Automate crossposting web3isgoinggreat.com posts to social media (3 weeks ago)
-- [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (4 weeks ago)
+- [electron/sheriff](https://github.com/electron/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (3 weeks ago)
+- [molly/w3igg-crossposter](https://github.com/molly/w3igg-crossposter) - Automate crossposting web3isgoinggreat.com posts to social media (4 weeks ago)
+- [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (1 month ago)
 - [travis-ci/gimme](https://github.com/travis-ci/gimme) - Install go, yay! (1 month ago)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (1 month ago)
 - [teletrace/teletrace](https://github.com/teletrace/teletrace) - Open-Source Tracing Platform (1 month ago)
