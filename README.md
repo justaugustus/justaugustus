@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [wespanther](https://github.com/wespanther)
 - [iAlexeze](https://github.com/iAlexeze)
 - [patrickdappollonio](https://github.com/patrickdappollonio)
 - [dominikhaska](https://github.com/dominikhaska)
@@ -70,6 +71,5 @@
 - [mause-01](https://github.com/mause-01)
 - [kkpan11](https://github.com/kkpan11)
 - [lelia](https://github.com/lelia)
-- [pearcec](https://github.com/pearcec)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
