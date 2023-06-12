@@ -14,7 +14,7 @@
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) -  (1 month ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 month ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 months ago)
-- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (2 months ago)
+- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (3 months ago)
 - [cisco/node-jose](https://github.com/cisco/node-jose) -  (3 months ago)
 - [cisco-open/.github](https://github.com/cisco-open/.github) - Org-wide GitHub configurations (4 months ago)
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (4 months ago)
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.43.2](https://github.com/cisco-open/fsoc/releases/tag/v0.43.2), today) - FSO Control CLI Utility
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-alpha.2), 3 days ago) - Production-Grade Container Scheduling and Management
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.43.2](https://github.com/cisco-open/fsoc/releases/tag/v0.43.2), 1 day ago) - FSO Control CLI Utility
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-alpha.2), 4 days ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v3.6.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v3.6.0), 3 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 3 weeks ago) - 
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.1), 3 weeks ago) - Interfaces and implementations for building Kubernetes releases.
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 4 weeks ago) - 
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.1), 4 weeks ago) - Interfaces and implementations for building Kubernetes releases.
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 1 month ago) - 
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 1 month ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.27](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.27), 2 months ago) - Kubernetes website and documentation repo: 
@@ -49,9 +49,9 @@
 #### ⭐ Recent Stars
 
 - [cisco-open/DeepVision](https://github.com/cisco-open/DeepVision) -  (1 week ago)
-- [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&amp;A experiences. (2 weeks ago)
-- [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know (2 weeks ago)
-- [electron/sheriff](https://github.com/electron/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (4 weeks ago)
+- [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&amp;A experiences. (3 weeks ago)
+- [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know (3 weeks ago)
+- [electron/sheriff](https://github.com/electron/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (1 month ago)
 - [molly/w3igg-crossposter](https://github.com/molly/w3igg-crossposter) - Automate crossposting web3isgoinggreat.com posts to social media (1 month ago)
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (1 month ago)
 - [travis-ci/gimme](https://github.com/travis-ci/gimme) - Install go, yay! (1 month ago)
