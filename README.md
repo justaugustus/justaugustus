@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [cisco-open/homebrew-experimental](https://github.com/cisco-open/homebrew-experimental) - This is a work in progress repository, might not go into production as is. (today)
 - [cisco-open/DeepVision](https://github.com/cisco-open/DeepVision) -  (2 weeks ago)
 - [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&amp;A experiences. (3 weeks ago)
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know (3 weeks ago)
@@ -57,7 +58,6 @@
 - [travis-ci/gimme](https://github.com/travis-ci/gimme) - Install go, yay! (1 month ago)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (1 month ago)
 - [teletrace/teletrace](https://github.com/teletrace/teletrace) - Open-Source Tracing Platform (1 month ago)
-- [credo-ai/credoai_lens](https://github.com/credo-ai/credoai_lens) - Credo AI Lens is a comprehensive assessment framework for AI systems. Lens standardizes model and data assessment, and acts as a central gateway to assessments created in the open source community. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
