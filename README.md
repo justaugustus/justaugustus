@@ -13,7 +13,7 @@
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (1 month ago)
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) -  (1 month ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 month ago)
-- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 months ago)
+- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (3 months ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (3 months ago)
 - [cisco/node-jose](https://github.com/cisco/node-jose) -  (3 months ago)
 - [cisco-open/.github](https://github.com/cisco-open/.github) - Org-wide GitHub configurations (4 months ago)
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.1), today) - Container and file artifact promotion tooling for the Kubernetes project
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.43.2](https://github.com/cisco-open/fsoc/releases/tag/v0.43.2), 2 days ago) - FSO Control CLI Utility
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-alpha.2), 5 days ago) - Production-Grade Container Scheduling and Management
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 4 weeks ago) - 
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.1), 4 weeks ago) - Interfaces and implementations for building Kubernetes releases.
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.1), 1 day ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.43.2](https://github.com/cisco-open/fsoc/releases/tag/v0.43.2), 3 days ago) - FSO Control CLI Utility
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-alpha.2), 6 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 1 month ago) - 
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.1), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 1 month ago) - 
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 2 months ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.27](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.27), 2 months ago) - Kubernetes website and documentation repo: 
@@ -40,11 +40,11 @@
 - [Update dependencies](https://github.com/uwu-tools/magex/pull/7) on [uwu-tools/magex](https://github.com/uwu-tools/magex) (1 month ago)
 - [Add attribution and &#34;In Memoriam&#34; section for Carolyn Van Slyck](https://github.com/uwu-tools/magex/pull/1) on [uwu-tools/magex](https://github.com/uwu-tools/magex) (1 month ago)
 - [Update Cisco members](https://github.com/todogroup/governance/pull/275) on [todogroup/governance](https://github.com/todogroup/governance) (1 month ago)
-- [orgs/relengfam: Add Jason as org admin](https://github.com/uwu-tools/.github/pull/12) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 months ago)
-- [Enforce org &amp; repo settings](https://github.com/uwu-tools/.github/pull/11) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 months ago)
-- [orgs/uwu-tools: Add Jason as org admin and teams maintainer](https://github.com/uwu-tools/.github/pull/10) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 months ago)
-- [workflows: Add production sync](https://github.com/uwu-tools/.github/pull/9) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 months ago)
-- [workflows: Test GitHub org reconciliation](https://github.com/uwu-tools/.github/pull/7) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 months ago)
+- [orgs/relengfam: Add Jason as org admin](https://github.com/uwu-tools/.github/pull/12) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (3 months ago)
+- [Enforce org &amp; repo settings](https://github.com/uwu-tools/.github/pull/11) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (3 months ago)
+- [orgs/uwu-tools: Add Jason as org admin and teams maintainer](https://github.com/uwu-tools/.github/pull/10) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (3 months ago)
+- [workflows: Add production sync](https://github.com/uwu-tools/.github/pull/9) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (3 months ago)
+- [workflows: Test GitHub org reconciliation](https://github.com/uwu-tools/.github/pull/7) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (3 months ago)
 
 #### ⭐ Recent Stars
 
