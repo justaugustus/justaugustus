@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [keephq/keep](https://github.com/keephq/keep) - Open source alerts management platform (today)
 - [Homebrew/homebrew-test-bot](https://github.com/Homebrew/homebrew-test-bot) - 🎰 Tests the full lifecycle of a Homebrew change. (today)
 - [cisco-open/homebrew-experimental](https://github.com/cisco-open/homebrew-experimental) - This is a work in progress repository, might not go into production as is. (today)
 - [cisco-open/DeepVision](https://github.com/cisco-open/DeepVision) -  (2 weeks ago)
@@ -57,7 +58,6 @@
 - [molly/w3igg-crossposter](https://github.com/molly/w3igg-crossposter) - Automate crossposting web3isgoinggreat.com posts to social media (1 month ago)
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (1 month ago)
 - [travis-ci/gimme](https://github.com/travis-ci/gimme) - Install go, yay! (1 month ago)
-- [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
