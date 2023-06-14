@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [Homebrew/homebrew-test-bot](https://github.com/Homebrew/homebrew-test-bot) - 🎰 Tests the full lifecycle of a Homebrew change. (today)
 - [cisco-open/homebrew-experimental](https://github.com/cisco-open/homebrew-experimental) - This is a work in progress repository, might not go into production as is. (today)
 - [cisco-open/DeepVision](https://github.com/cisco-open/DeepVision) -  (2 weeks ago)
 - [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&amp;A experiences. (3 weeks ago)
@@ -57,7 +58,6 @@
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (1 month ago)
 - [travis-ci/gimme](https://github.com/travis-ci/gimme) - Install go, yay! (1 month ago)
 - [carolynvs/magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles (1 month ago)
-- [teletrace/teletrace](https://github.com/teletrace/teletrace) - Open-Source Tracing Platform (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
