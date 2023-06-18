@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.43.3](https://github.com/cisco-open/fsoc/releases/tag/v0.43.3), today) - FSO Control CLI Utility
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.6](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.6), 3 days ago) - Production-Grade Container Scheduling and Management
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.1), 4 days ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.43.3](https://github.com/cisco-open/fsoc/releases/tag/v0.43.3), 1 day ago) - FSO Control CLI Utility
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.6](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.6), 4 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.1), 5 days ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 1 month ago) - 
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.1), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 1 month ago) - 
@@ -48,9 +48,9 @@
 
 #### ⭐ Recent Stars
 
-- [keephq/keep](https://github.com/keephq/keep) - Open source alerts management platform (3 days ago)
-- [Homebrew/homebrew-test-bot](https://github.com/Homebrew/homebrew-test-bot) - 🎰 Tests the full lifecycle of a Homebrew change. (3 days ago)
-- [cisco-open/homebrew-experimental](https://github.com/cisco-open/homebrew-experimental) - This is a work in progress repository, might not go into production as is. (3 days ago)
+- [keephq/keep](https://github.com/keephq/keep) - Open source alerts management platform (4 days ago)
+- [Homebrew/homebrew-test-bot](https://github.com/Homebrew/homebrew-test-bot) - 🎰 Tests the full lifecycle of a Homebrew change. (4 days ago)
+- [cisco-open/homebrew-experimental](https://github.com/cisco-open/homebrew-experimental) - This is a work in progress repository, might not go into production as is. (4 days ago)
 - [cisco-open/DeepVision](https://github.com/cisco-open/DeepVision) -  (2 weeks ago)
 - [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&amp;A experiences. (3 weeks ago)
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know (3 weeks ago)
