@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.3](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.3), today) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-alpha.3), 1 day ago) - Production-Grade Container Scheduling and Management
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.2](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.2), 2 days ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.2](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.2), 2 days ago) - Interfaces and implementations for building Kubernetes releases.
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.43.3](https://github.com/cisco-open/fsoc/releases/tag/v0.43.3), 4 days ago) - FSO Control CLI Utility
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 1 month ago) - 
