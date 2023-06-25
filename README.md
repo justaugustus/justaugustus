@@ -18,16 +18,16 @@
 - [cisco/node-jose](https://github.com/cisco/node-jose) -  (4 months ago)
 - [cisco-open/.github](https://github.com/cisco-open/.github) - Org-wide GitHub configurations (4 months ago)
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (4 months ago)
-- [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) - openclarity.io (4 months ago)
+- [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) - openclarity.io (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.2.0](https://github.com/ossf/scorecard-action/releases/tag/v2.2.0), 1 day ago) - Official GitHub Action for OpenSSF Scorecard.
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.44.0-pre2](https://github.com/cisco-open/fsoc/releases/tag/v0.44.0-pre2), 1 day ago) - FSO Control CLI Utility
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 2 days ago) - Container and file artifact promotion tooling for the Kubernetes project
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.5](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.5), 3 days ago) - Website and API for OpenSSF Scorecard
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-alpha.3), 4 days ago) - Production-Grade Container Scheduling and Management
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.2](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.2), 5 days ago) - Interfaces and implementations for building Kubernetes releases.
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.2.0](https://github.com/ossf/scorecard-action/releases/tag/v2.2.0), 2 days ago) - Official GitHub Action for OpenSSF Scorecard.
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.44.0-pre2](https://github.com/cisco-open/fsoc/releases/tag/v0.44.0-pre2), 2 days ago) - FSO Control CLI Utility
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 3 days ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.5](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.5), 4 days ago) - Website and API for OpenSSF Scorecard
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-alpha.3), 5 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.2](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.2), 6 days ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 1 month ago) - 
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 1 month ago) - 
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 2 months ago) - Release infrastructure for Kubernetes and related components
@@ -48,8 +48,8 @@
 
 #### ⭐ Recent Stars
 
-- [cncf/sheriff](https://github.com/cncf/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (1 day ago)
-- [cncf/clowarden](https://github.com/cncf/clowarden) - CLOWarden is a tool that automatically manages organizations users, teams and other resources across multiple services (1 day ago)
+- [cncf/sheriff](https://github.com/cncf/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (2 days ago)
+- [cncf/clowarden](https://github.com/cncf/clowarden) - CLOWarden is a tool that automatically manages organizations users, teams and other resources across multiple services (2 days ago)
 - [keephq/keep](https://github.com/keephq/keep) - Open source alerts management platform (1 week ago)
 - [Homebrew/homebrew-test-bot](https://github.com/Homebrew/homebrew-test-bot) - 🎰 Tests the full lifecycle of a Homebrew change. (1 week ago)
 - [cisco-open/homebrew-experimental](https://github.com/cisco-open/homebrew-experimental) - This is a work in progress repository, might not go into production as is. (1 week ago)
