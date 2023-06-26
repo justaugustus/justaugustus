@@ -48,6 +48,8 @@
 
 #### ⭐ Recent Stars
 
+- [cisco-open/homebrew-tap](https://github.com/cisco-open/homebrew-tap) - A homebrew tap for open source projects by Cisco. (today)
+- [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues (today)
 - [cncf/sheriff](https://github.com/cncf/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (3 days ago)
 - [cncf/clowarden](https://github.com/cncf/clowarden) - CLOWarden is a tool that automatically manages organizations users, teams and other resources across multiple services (3 days ago)
 - [keephq/keep](https://github.com/keephq/keep) - Open source alerts management platform (1 week ago)
@@ -56,8 +58,6 @@
 - [cisco-open/DeepVision](https://github.com/cisco-open/DeepVision) -  (3 weeks ago)
 - [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&amp;A experiences. (1 month ago)
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know (1 month ago)
-- [electron/sheriff](https://github.com/electron/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (1 month ago)
-- [molly/w3igg-crossposter](https://github.com/molly/w3igg-crossposter) - Automate crossposting web3isgoinggreat.com posts to social media (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
