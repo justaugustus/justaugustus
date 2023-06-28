@@ -17,15 +17,15 @@
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (3 months ago)
 - [cisco/node-jose](https://github.com/cisco/node-jose) -  (4 months ago)
 - [cisco-open/.github](https://github.com/cisco-open/.github) - Org-wide GitHub configurations (4 months ago)
-- [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (4 months ago)
+- [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (5 months ago)
 - [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) - openclarity.io (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.44.0](https://github.com/cisco-open/fsoc/releases/tag/v0.44.0), 1 day ago) - FSO Control CLI Utility
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.2.0](https://github.com/ossf/scorecard-action/releases/tag/v2.2.0), 4 days ago) - Official GitHub Action for OpenSSF Scorecard.
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 5 days ago) - Container and file artifact promotion tooling for the Kubernetes project
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.5](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.5), 6 days ago) - Website and API for OpenSSF Scorecard
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.44.0](https://github.com/cisco-open/fsoc/releases/tag/v0.44.0), 2 days ago) - FSO Control CLI Utility
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.2.0](https://github.com/ossf/scorecard-action/releases/tag/v2.2.0), 5 days ago) - Official GitHub Action for OpenSSF Scorecard.
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 6 days ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.5](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.5), 1 week ago) - Website and API for OpenSSF Scorecard
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-alpha.3), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.2](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.2), 1 week ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 1 month ago) - 
@@ -48,13 +48,13 @@
 
 #### ⭐ Recent Stars
 
-- [cisco-open/homebrew-tap](https://github.com/cisco-open/homebrew-tap) - A homebrew tap for open source projects by Cisco. (1 day ago)
-- [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues (1 day ago)
-- [cncf/sheriff](https://github.com/cncf/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (4 days ago)
-- [cncf/clowarden](https://github.com/cncf/clowarden) - CLOWarden is a tool that automatically manages organizations users, teams and other resources across multiple services (4 days ago)
-- [keephq/keep](https://github.com/keephq/keep) - Open source alerts management platform (1 week ago)
-- [Homebrew/homebrew-test-bot](https://github.com/Homebrew/homebrew-test-bot) - 🎰 Tests the full lifecycle of a Homebrew change. (1 week ago)
-- [cisco-open/homebrew-experimental](https://github.com/cisco-open/homebrew-experimental) - This is a work in progress repository, might not go into production as is. (1 week ago)
+- [cisco-open/homebrew-tap](https://github.com/cisco-open/homebrew-tap) - A homebrew tap for open source projects by Cisco. (2 days ago)
+- [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues (2 days ago)
+- [cncf/sheriff](https://github.com/cncf/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (5 days ago)
+- [cncf/clowarden](https://github.com/cncf/clowarden) - CLOWarden is a tool that automatically manages organizations users, teams and other resources across multiple services (5 days ago)
+- [keephq/keep](https://github.com/keephq/keep) - Open source alerts management platform (2 weeks ago)
+- [Homebrew/homebrew-test-bot](https://github.com/Homebrew/homebrew-test-bot) - 🎰 Tests the full lifecycle of a Homebrew change. (2 weeks ago)
+- [cisco-open/homebrew-experimental](https://github.com/cisco-open/homebrew-experimental) - This is a work in progress repository, might not go into production as is. (2 weeks ago)
 - [cisco-open/DeepVision](https://github.com/cisco-open/DeepVision) -  (4 weeks ago)
 - [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&amp;A experiences. (1 month ago)
 - [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know (1 month ago)
