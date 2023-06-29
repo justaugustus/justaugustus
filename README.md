@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [torgo/Scorecard4Purl](https://github.com/torgo/Scorecard4Purl) - Retrieve the Scorecard for a given PURL (today)
 - [cisco-open/homebrew-tap](https://github.com/cisco-open/homebrew-tap) - A homebrew tap for open source projects by Cisco. (3 days ago)
 - [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues (3 days ago)
 - [cncf/sheriff](https://github.com/cncf/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (6 days ago)
@@ -57,7 +58,6 @@
 - [cisco-open/homebrew-experimental](https://github.com/cisco-open/homebrew-experimental) - This is a work in progress repository, might not go into production as is. (2 weeks ago)
 - [cisco-open/DeepVision](https://github.com/cisco-open/DeepVision) -  (1 month ago)
 - [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&amp;A experiences. (1 month ago)
-- [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
