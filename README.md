@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.44.0](https://github.com/cisco-open/fsoc/releases/tag/v0.44.0), 5 days ago) - FSO Control CLI Utility
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.44.0](https://github.com/cisco-open/fsoc/releases/tag/v0.44.0), 6 days ago) - FSO Control CLI Utility
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.2.0](https://github.com/ossf/scorecard-action/releases/tag/v2.2.0), 1 week ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.5](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.5), 1 week ago) - Website and API for OpenSSF Scorecard
@@ -48,9 +48,9 @@
 
 #### ⭐ Recent Stars
 
-- [torgo/Scorecard4Purl](https://github.com/torgo/Scorecard4Purl) - Retrieve the Scorecard for a given PURL (2 days ago)
-- [cisco-open/homebrew-tap](https://github.com/cisco-open/homebrew-tap) - A homebrew tap for open source projects by Cisco. (5 days ago)
-- [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues (5 days ago)
+- [torgo/Scorecard4Purl](https://github.com/torgo/Scorecard4Purl) - Retrieve the Scorecard for a given PURL (3 days ago)
+- [cisco-open/homebrew-tap](https://github.com/cisco-open/homebrew-tap) - A homebrew tap for open source projects by Cisco. (6 days ago)
+- [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues (6 days ago)
 - [cncf/sheriff](https://github.com/cncf/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (1 week ago)
 - [cncf/clowarden](https://github.com/cncf/clowarden) - CLOWarden is a tool that automatically manages organizations users, teams and other resources across multiple services (1 week ago)
 - [keephq/keep](https://github.com/keephq/keep) - Open source alerts management platform (2 weeks ago)
