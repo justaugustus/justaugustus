@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [KoolTheba/openssf-scorecard-api-visualizer](https://github.com/KoolTheba/openssf-scorecard-api-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (today)
 - [torgo/Scorecard4Purl](https://github.com/torgo/Scorecard4Purl) - Retrieve the Scorecard for a given PURL (3 days ago)
 - [cisco-open/homebrew-tap](https://github.com/cisco-open/homebrew-tap) - A homebrew tap for open source projects by Cisco. (6 days ago)
 - [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues (6 days ago)
@@ -57,7 +58,6 @@
 - [Homebrew/homebrew-test-bot](https://github.com/Homebrew/homebrew-test-bot) - 🎰 Tests the full lifecycle of a Homebrew change. (2 weeks ago)
 - [cisco-open/homebrew-experimental](https://github.com/cisco-open/homebrew-experimental) - This is a work in progress repository, might not go into production as is. (2 weeks ago)
 - [cisco-open/DeepVision](https://github.com/cisco-open/DeepVision) -  (1 month ago)
-- [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&amp;A experiences. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
