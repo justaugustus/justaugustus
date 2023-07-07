@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.45.1](https://github.com/cisco-open/fsoc/releases/tag/v0.45.1), today) - FSO Control CLI Utility
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.2.0](https://github.com/ossf/scorecard-action/releases/tag/v2.2.0), 1 week ago) - Official GitHub Action for OpenSSF Scorecard.
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-alpha.4](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-alpha.4), today) - Production-Grade Container Scheduling and Management
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.45.1](https://github.com/cisco-open/fsoc/releases/tag/v0.45.1), 1 day ago) - FSO Control CLI Utility
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.2.0](https://github.com/ossf/scorecard-action/releases/tag/v2.2.0), 2 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 2 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.5](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.5), 2 weeks ago) - Website and API for OpenSSF Scorecard
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-alpha.3), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.2](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.2), 2 weeks ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 1 month ago) - 
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 2 months ago) - 
@@ -48,16 +48,16 @@
 
 #### ⭐ Recent Stars
 
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired fine-grained permissions database (3 days ago)
-- [authzed/zed](https://github.com/authzed/zed) - Official command-line tool for managing SpiceDB (3 days ago)
-- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (3 days ago)
-- [openfga/homebrew-tap](https://github.com/openfga/homebrew-tap) - A collection of @Homebrew formula for @openfga (3 days ago)
-- [KoolTheba/openssf-scorecard-api-visualizer](https://github.com/KoolTheba/openssf-scorecard-api-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (4 days ago)
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired fine-grained permissions database (4 days ago)
+- [authzed/zed](https://github.com/authzed/zed) - Official command-line tool for managing SpiceDB (4 days ago)
+- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (4 days ago)
+- [openfga/homebrew-tap](https://github.com/openfga/homebrew-tap) - A collection of @Homebrew formula for @openfga (4 days ago)
+- [KoolTheba/openssf-scorecard-api-visualizer](https://github.com/KoolTheba/openssf-scorecard-api-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (5 days ago)
 - [torgo/Scorecard4Purl](https://github.com/torgo/Scorecard4Purl) - Retrieve the Scorecard for a given PURL (1 week ago)
 - [cisco-open/homebrew-tap](https://github.com/cisco-open/homebrew-tap) - A homebrew tap for open source projects by Cisco. (1 week ago)
 - [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues (1 week ago)
-- [cncf/sheriff](https://github.com/cncf/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (1 week ago)
-- [cncf/clowarden](https://github.com/cncf/clowarden) - CLOWarden is a tool that automatically manages organizations users, teams and other resources across multiple services (1 week ago)
+- [cncf/sheriff](https://github.com/cncf/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (2 weeks ago)
+- [cncf/clowarden](https://github.com/cncf/clowarden) - CLOWarden is a tool that automatically manages organizations users, teams and other resources across multiple services (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
