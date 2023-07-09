@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.46.0-pre1](https://github.com/cisco-open/fsoc/releases/tag/v0.46.0-pre1), today) - FSO Control CLI Utility
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-alpha.4](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-alpha.4), 2 days ago) - Production-Grade Container Scheduling and Management
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.45.1](https://github.com/cisco-open/fsoc/releases/tag/v0.45.1), 3 days ago) - FSO Control CLI Utility
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.2.0](https://github.com/ossf/scorecard-action/releases/tag/v2.2.0), 2 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 2 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.5](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.5), 2 weeks ago) - Website and API for OpenSSF Scorecard
