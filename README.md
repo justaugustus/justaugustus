@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.46.0-pre1](https://github.com/cisco-open/fsoc/releases/tag/v0.46.0-pre1), 1 day ago) - FSO Control CLI Utility
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-alpha.4](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-alpha.4), 3 days ago) - Production-Grade Container Scheduling and Management
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.46.0-pre1](https://github.com/cisco-open/fsoc/releases/tag/v0.46.0-pre1), 2 days ago) - FSO Control CLI Utility
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-alpha.4](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-alpha.4), 4 days ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.2.0](https://github.com/ossf/scorecard-action/releases/tag/v2.2.0), 2 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 2 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.5](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.5), 2 weeks ago) - Website and API for OpenSSF Scorecard
@@ -31,7 +31,7 @@
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 1 month ago) - 
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 2 months ago) - 
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 2 months ago) - Release infrastructure for Kubernetes and related components
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.27](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.27), 2 months ago) - Kubernetes website and documentation repo: 
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.27](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.27), 3 months ago) - Kubernetes website and documentation repo: 
 
 #### 🔨 My recent Pull Requests
 
