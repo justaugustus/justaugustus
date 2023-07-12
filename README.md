@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [OAI/oascomply](https://github.com/OAI/oascomply) -  (today)
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired fine-grained permissions database (1 week ago)
 - [authzed/zed](https://github.com/authzed/zed) - Official command-line tool for managing SpiceDB (1 week ago)
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (1 week ago)
@@ -57,7 +58,6 @@
 - [cisco-open/homebrew-tap](https://github.com/cisco-open/homebrew-tap) - A homebrew tap for open source projects by Cisco. (2 weeks ago)
 - [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues (2 weeks ago)
 - [cncf/sheriff](https://github.com/cncf/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (2 weeks ago)
-- [cncf/clowarden](https://github.com/cncf/clowarden) - CLOWarden is a tool that automatically manages organizations users, teams and other resources across multiple services (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
