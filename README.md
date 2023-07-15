@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.46.0-pre4](https://github.com/cisco-open/fsoc/releases/tag/v0.46.0-pre4), today) - FSO Control CLI Utility
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.46.0-pre4](https://github.com/cisco-open/fsoc/releases/tag/v0.46.0-pre4), 1 day ago) - FSO Control CLI Utility
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-alpha.4](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-alpha.4), 1 week ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.2.0](https://github.com/ossf/scorecard-action/releases/tag/v2.2.0), 3 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 3 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [OAI/oascomply](https://github.com/OAI/oascomply) -  (2 days ago)
+- [OAI/oascomply](https://github.com/OAI/oascomply) -  (3 days ago)
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired fine-grained permissions database (1 week ago)
 - [authzed/zed](https://github.com/authzed/zed) - Official command-line tool for managing SpiceDB (1 week ago)
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (1 week ago)
