@@ -12,17 +12,17 @@
 - [cisco-open/inclusive-language](https://github.com/cisco-open/inclusive-language) - Collection of tools and resources for working on eliminating biased language (2 months ago)
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (2 months ago)
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) -  (2 months ago)
-- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (2 months ago)
+- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (3 months ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (4 months ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (4 months ago)
-- [cisco/node-jose](https://github.com/cisco/node-jose) -  (4 months ago)
+- [cisco/node-jose](https://github.com/cisco/node-jose) -  (5 months ago)
 - [cisco-open/.github](https://github.com/cisco-open/.github) - Org-wide GitHub configurations (5 months ago)
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (5 months ago)
 - [openclarity/openclarity.io](https://github.com/openclarity/openclarity.io) - openclarity.io (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.46.0-pre5](https://github.com/cisco-open/fsoc/releases/tag/v0.46.0-pre5), today) - FSO Control CLI Utility
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.46.0-pre5](https://github.com/cisco-open/fsoc/releases/tag/v0.46.0-pre5), 1 day ago) - FSO Control CLI Utility
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-alpha.4](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-alpha.4), 1 week ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.2.0](https://github.com/ossf/scorecard-action/releases/tag/v2.2.0), 3 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 3 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
@@ -48,12 +48,12 @@
 
 #### ⭐ Recent Stars
 
-- [OAI/oascomply](https://github.com/OAI/oascomply) -  (3 days ago)
+- [OAI/oascomply](https://github.com/OAI/oascomply) -  (4 days ago)
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired fine-grained permissions database (1 week ago)
 - [authzed/zed](https://github.com/authzed/zed) - Official command-line tool for managing SpiceDB (1 week ago)
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (1 week ago)
 - [openfga/homebrew-tap](https://github.com/openfga/homebrew-tap) - A collection of @Homebrew formula for @openfga (1 week ago)
-- [KoolTheba/openssf-scorecard-api-visualizer](https://github.com/KoolTheba/openssf-scorecard-api-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (1 week ago)
+- [KoolTheba/openssf-scorecard-api-visualizer](https://github.com/KoolTheba/openssf-scorecard-api-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (2 weeks ago)
 - [torgo/Scorecard4Purl](https://github.com/torgo/Scorecard4Purl) - Retrieve the Scorecard for a given PURL (2 weeks ago)
 - [cisco-open/homebrew-tap](https://github.com/cisco-open/homebrew-tap) - A homebrew tap for open source projects by Cisco. (2 weeks ago)
 - [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues (2 weeks ago)
