@@ -22,12 +22,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.46.0-pre5](https://github.com/cisco-open/fsoc/releases/tag/v0.46.0-pre5), 1 day ago) - FSO Control CLI Utility
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.46.0-pre5](https://github.com/cisco-open/fsoc/releases/tag/v0.46.0-pre5), 2 days ago) - FSO Control CLI Utility
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-alpha.4](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-alpha.4), 1 week ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.2.0](https://github.com/ossf/scorecard-action/releases/tag/v2.2.0), 3 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 3 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.5](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.5), 3 weeks ago) - Website and API for OpenSSF Scorecard
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.2](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.2), 3 weeks ago) - Interfaces and implementations for building Kubernetes releases.
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.2](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.2), 4 weeks ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 2 months ago) - 
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 2 months ago) - 
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 3 months ago) - Release infrastructure for Kubernetes and related components
@@ -39,7 +39,7 @@
 - [go.mod: Use uwu-tools/magex](https://github.com/kubernetes-sigs/release-utils/pull/78) on [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) (2 months ago)
 - [Update dependencies](https://github.com/uwu-tools/magex/pull/7) on [uwu-tools/magex](https://github.com/uwu-tools/magex) (2 months ago)
 - [Add attribution and &#34;In Memoriam&#34; section for Carolyn Van Slyck](https://github.com/uwu-tools/magex/pull/1) on [uwu-tools/magex](https://github.com/uwu-tools/magex) (2 months ago)
-- [Update Cisco members](https://github.com/todogroup/governance/pull/275) on [todogroup/governance](https://github.com/todogroup/governance) (2 months ago)
+- [Update Cisco members](https://github.com/todogroup/governance/pull/275) on [todogroup/governance](https://github.com/todogroup/governance) (3 months ago)
 - [orgs/relengfam: Add Jason as org admin](https://github.com/uwu-tools/.github/pull/12) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (4 months ago)
 - [Enforce org &amp; repo settings](https://github.com/uwu-tools/.github/pull/11) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (4 months ago)
 - [orgs/uwu-tools: Add Jason as org admin and teams maintainer](https://github.com/uwu-tools/.github/pull/10) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (4 months ago)
@@ -48,15 +48,15 @@
 
 #### ⭐ Recent Stars
 
-- [OAI/oascomply](https://github.com/OAI/oascomply) -  (4 days ago)
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired fine-grained permissions database (1 week ago)
-- [authzed/zed](https://github.com/authzed/zed) - Official command-line tool for managing SpiceDB (1 week ago)
-- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (1 week ago)
-- [openfga/homebrew-tap](https://github.com/openfga/homebrew-tap) - A collection of @Homebrew formula for @openfga (1 week ago)
+- [OAI/oascomply](https://github.com/OAI/oascomply) -  (5 days ago)
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired fine-grained permissions database (2 weeks ago)
+- [authzed/zed](https://github.com/authzed/zed) - Official command-line tool for managing SpiceDB (2 weeks ago)
+- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (2 weeks ago)
+- [openfga/homebrew-tap](https://github.com/openfga/homebrew-tap) - A collection of @Homebrew formula for @openfga (2 weeks ago)
 - [KoolTheba/openssf-scorecard-api-visualizer](https://github.com/KoolTheba/openssf-scorecard-api-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (2 weeks ago)
 - [torgo/Scorecard4Purl](https://github.com/torgo/Scorecard4Purl) - Retrieve the Scorecard for a given PURL (2 weeks ago)
-- [cisco-open/homebrew-tap](https://github.com/cisco-open/homebrew-tap) - A homebrew tap for open source projects by Cisco. (2 weeks ago)
-- [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues (2 weeks ago)
+- [cisco-open/homebrew-tap](https://github.com/cisco-open/homebrew-tap) - A homebrew tap for open source projects by Cisco. (3 weeks ago)
+- [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues (3 weeks ago)
 - [cncf/sheriff](https://github.com/cncf/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
