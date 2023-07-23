@@ -9,16 +9,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) - Open Source Project Template (today)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (4 days ago)
 - [cisco-open/inclusive-language](https://github.com/cisco-open/inclusive-language) - Collection of tools and resources for working on eliminating biased language (2 months ago)
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) -  (2 months ago)
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (2 months ago)
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) -  (2 months ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (3 months ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (4 months ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (4 months ago)
 - [cisco/node-jose](https://github.com/cisco/node-jose) -  (5 months ago)
 - [cisco-open/.github](https://github.com/cisco-open/.github) - Org-wide GitHub configurations (5 months ago)
-- [airconduct/go-probot](https://github.com/airconduct/go-probot) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
