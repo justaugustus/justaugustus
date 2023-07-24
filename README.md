@@ -9,8 +9,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) - Open Source Project Template (today)
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (4 days ago)
+- [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) - Open Source Project Template (1 day ago)
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (5 days ago)
 - [cisco-open/inclusive-language](https://github.com/cisco-open/inclusive-language) - Collection of tools and resources for working on eliminating biased language (2 months ago)
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (2 months ago)
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) -  (2 months ago)
@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-beta.0), 2 days ago) - Production-Grade Container Scheduling and Management
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.46.1](https://github.com/cisco-open/fsoc/releases/tag/v0.46.1), 5 days ago) - FSO Control CLI Utility
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.3), 5 days ago) - Interfaces and implementations for building Kubernetes releases.
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-beta.0), 3 days ago) - Production-Grade Container Scheduling and Management
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.46.1](https://github.com/cisco-open/fsoc/releases/tag/v0.46.1), 6 days ago) - FSO Control CLI Utility
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.3), 6 days ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.2.0](https://github.com/ossf/scorecard-action/releases/tag/v2.2.0), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.5](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.5), 1 month ago) - Website and API for OpenSSF Scorecard
@@ -49,14 +49,14 @@
 #### ⭐ Recent Stars
 
 - [OAI/oascomply](https://github.com/OAI/oascomply) -  (1 week ago)
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired fine-grained permissions database (2 weeks ago)
-- [authzed/zed](https://github.com/authzed/zed) - Official command-line tool for managing SpiceDB (2 weeks ago)
-- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (2 weeks ago)
-- [openfga/homebrew-tap](https://github.com/openfga/homebrew-tap) - A collection of @Homebrew formula for @openfga (2 weeks ago)
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired fine-grained permissions database (3 weeks ago)
+- [authzed/zed](https://github.com/authzed/zed) - Official command-line tool for managing SpiceDB (3 weeks ago)
+- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (3 weeks ago)
+- [openfga/homebrew-tap](https://github.com/openfga/homebrew-tap) - A collection of @Homebrew formula for @openfga (3 weeks ago)
 - [KoolTheba/openssf-scorecard-api-visualizer](https://github.com/KoolTheba/openssf-scorecard-api-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (3 weeks ago)
 - [torgo/Scorecard4Purl](https://github.com/torgo/Scorecard4Purl) - Retrieve the Scorecard for a given PURL (3 weeks ago)
-- [cisco-open/homebrew-tap](https://github.com/cisco-open/homebrew-tap) - A homebrew tap for open source projects by Cisco. (3 weeks ago)
-- [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues (3 weeks ago)
+- [cisco-open/homebrew-tap](https://github.com/cisco-open/homebrew-tap) - A homebrew tap for open source projects by Cisco. (4 weeks ago)
+- [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues (4 weeks ago)
 - [cncf/sheriff](https://github.com/cncf/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (1 month ago)
 
 #### 👯 Check out some of my recent followers
