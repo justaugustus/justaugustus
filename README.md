@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ZL91](https://github.com/ZL91)
 - [MehrabHussain47](https://github.com/MehrabHussain47)
 - [wespanther](https://github.com/wespanther)
 - [iAlexeze](https://github.com/iAlexeze)
@@ -70,6 +71,5 @@
 - [able8](https://github.com/able8)
 - [ohmyj](https://github.com/ohmyj)
 - [mause-01](https://github.com/mause-01)
-- [kkpan11](https://github.com/kkpan11)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
