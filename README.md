@@ -9,6 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (today)
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) - Open Source Project Template (1 week ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 week ago)
 - [cisco-open/inclusive-language](https://github.com/cisco-open/inclusive-language) - Collection of tools and resources for working on eliminating biased language (2 months ago)
@@ -18,7 +19,6 @@
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (4 months ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (4 months ago)
 - [cisco/node-jose](https://github.com/cisco/node-jose) -  (5 months ago)
-- [cisco-open/.github](https://github.com/cisco-open/.github) - Org-wide GitHub configurations (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [dependabot: Fix indentation on `groups` config](https://github.com/uwu-tools/gh-jira-issue-sync/pull/138) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
+- [dependabot: Add grouped version update configs](https://github.com/uwu-tools/gh-jira-issue-sync/pull/137) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [Scorecard workflow generation fixes](https://github.com/step-security/secure-repo/pull/2110) on [step-security/secure-repo](https://github.com/step-security/secure-repo) (2 months ago)
 - [go.mod: Use uwu-tools/magex](https://github.com/kubernetes-sigs/release-utils/pull/78) on [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) (3 months ago)
 - [Update dependencies](https://github.com/uwu-tools/magex/pull/7) on [uwu-tools/magex](https://github.com/uwu-tools/magex) (3 months ago)
@@ -43,8 +45,6 @@
 - [orgs/relengfam: Add Jason as org admin](https://github.com/uwu-tools/.github/pull/12) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (4 months ago)
 - [Enforce org &amp; repo settings](https://github.com/uwu-tools/.github/pull/11) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (4 months ago)
 - [orgs/uwu-tools: Add Jason as org admin and teams maintainer](https://github.com/uwu-tools/.github/pull/10) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (4 months ago)
-- [workflows: Add production sync](https://github.com/uwu-tools/.github/pull/9) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (4 months ago)
-- [workflows: Test GitHub org reconciliation](https://github.com/uwu-tools/.github/pull/7) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (4 months ago)
 
 #### ⭐ Recent Stars
 
