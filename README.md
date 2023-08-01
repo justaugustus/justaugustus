@@ -9,6 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (today)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (today)
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) - Open Source Project Template (1 week ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 week ago)
@@ -16,7 +17,6 @@
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (3 months ago)
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) -  (3 months ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (3 months ago)
-- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (4 months ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (4 months ago)
 - [cisco/node-jose](https://github.com/cisco/node-jose) -  (5 months ago)
 
@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Org updates](https://github.com/uwu-tools/.github/pull/21) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (today)
+- [Comment fixes](https://github.com/uwu-tools/gh-jira-issue-sync/pull/146) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [go.mod: Temporarily update module name to allow imports](https://github.com/uwu-tools/go-jira/pull/1) on [uwu-tools/go-jira](https://github.com/uwu-tools/go-jira) (today)
 - [dependabot: Fix indentation on `groups` config](https://github.com/uwu-tools/gh-jira-issue-sync/pull/138) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [dependabot: Add grouped version update configs](https://github.com/uwu-tools/gh-jira-issue-sync/pull/137) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
@@ -43,8 +45,6 @@
 - [Update dependencies](https://github.com/uwu-tools/magex/pull/7) on [uwu-tools/magex](https://github.com/uwu-tools/magex) (3 months ago)
 - [Add attribution and &#34;In Memoriam&#34; section for Carolyn Van Slyck](https://github.com/uwu-tools/magex/pull/1) on [uwu-tools/magex](https://github.com/uwu-tools/magex) (3 months ago)
 - [Update Cisco members](https://github.com/todogroup/governance/pull/275) on [todogroup/governance](https://github.com/todogroup/governance) (3 months ago)
-- [orgs/relengfam: Add Jason as org admin](https://github.com/uwu-tools/.github/pull/12) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (4 months ago)
-- [Enforce org &amp; repo settings](https://github.com/uwu-tools/.github/pull/11) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (4 months ago)
 
 #### ⭐ Recent Stars
 
