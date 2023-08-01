@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [go.mod: Temporarily update module name to allow imports](https://github.com/uwu-tools/go-jira/pull/1) on [uwu-tools/go-jira](https://github.com/uwu-tools/go-jira) (today)
 - [dependabot: Fix indentation on `groups` config](https://github.com/uwu-tools/gh-jira-issue-sync/pull/138) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [dependabot: Add grouped version update configs](https://github.com/uwu-tools/gh-jira-issue-sync/pull/137) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (today)
 - [Scorecard workflow generation fixes](https://github.com/step-security/secure-repo/pull/2110) on [step-security/secure-repo](https://github.com/step-security/secure-repo) (2 months ago)
@@ -44,7 +45,6 @@
 - [Update Cisco members](https://github.com/todogroup/governance/pull/275) on [todogroup/governance](https://github.com/todogroup/governance) (3 months ago)
 - [orgs/relengfam: Add Jason as org admin](https://github.com/uwu-tools/.github/pull/12) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (4 months ago)
 - [Enforce org &amp; repo settings](https://github.com/uwu-tools/.github/pull/11) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (4 months ago)
-- [orgs/uwu-tools: Add Jason as org admin and teams maintainer](https://github.com/uwu-tools/.github/pull/10) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (4 months ago)
 
 #### ⭐ Recent Stars
 
