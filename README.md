@@ -9,8 +9,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (today)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 days ago)
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (2 days ago)
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) - Open Source Project Template (1 week ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (2 weeks ago)
 - [cisco-open/inclusive-language](https://github.com/cisco-open/inclusive-language) - Collection of tools and resources for working on eliminating biased language (3 months ago)
