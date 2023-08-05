@@ -9,8 +9,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 day ago)
-- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (3 days ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (2 days ago)
+- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (4 days ago)
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) - Open Source Project Template (1 week ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (2 weeks ago)
 - [cisco-open/inclusive-language](https://github.com/cisco-open/inclusive-language) - Collection of tools and resources for working on eliminating biased language (3 months ago)
@@ -35,11 +35,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Org updates](https://github.com/uwu-tools/.github/pull/21) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (3 days ago)
-- [Comment fixes](https://github.com/uwu-tools/gh-jira-issue-sync/pull/146) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
-- [go.mod: Temporarily update module name to allow imports](https://github.com/uwu-tools/go-jira/pull/1) on [uwu-tools/go-jira](https://github.com/uwu-tools/go-jira) (3 days ago)
-- [dependabot: Fix indentation on `groups` config](https://github.com/uwu-tools/gh-jira-issue-sync/pull/138) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
-- [dependabot: Add grouped version update configs](https://github.com/uwu-tools/gh-jira-issue-sync/pull/137) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 days ago)
+- [Org updates](https://github.com/uwu-tools/.github/pull/21) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (4 days ago)
+- [Comment fixes](https://github.com/uwu-tools/gh-jira-issue-sync/pull/146) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (4 days ago)
+- [go.mod: Temporarily update module name to allow imports](https://github.com/uwu-tools/go-jira/pull/1) on [uwu-tools/go-jira](https://github.com/uwu-tools/go-jira) (4 days ago)
+- [dependabot: Fix indentation on `groups` config](https://github.com/uwu-tools/gh-jira-issue-sync/pull/138) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (4 days ago)
+- [dependabot: Add grouped version update configs](https://github.com/uwu-tools/gh-jira-issue-sync/pull/137) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (4 days ago)
 - [Scorecard workflow generation fixes](https://github.com/step-security/secure-repo/pull/2110) on [step-security/secure-repo](https://github.com/step-security/secure-repo) (3 months ago)
 - [go.mod: Use uwu-tools/magex](https://github.com/kubernetes-sigs/release-utils/pull/78) on [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) (3 months ago)
 - [Update dependencies](https://github.com/uwu-tools/magex/pull/7) on [uwu-tools/magex](https://github.com/uwu-tools/magex) (3 months ago)
