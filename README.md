@@ -27,11 +27,11 @@
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.3), 3 weeks ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.2.0](https://github.com/ossf/scorecard-action/releases/tag/v2.2.0), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.5](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.5), 1 month ago) - Website and API for OpenSSF Scorecard
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 2 months ago) - 
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 3 months ago) - 
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 3 months ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.27](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.27), 3 months ago) - Kubernetes website and documentation repo: 
+- [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.3](https://github.com/airconduct/go-probot/releases/tag/v0.0.3), 6 months ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
 
 #### 🔨 My recent Pull Requests
 
