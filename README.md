@@ -9,10 +9,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (5 days ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (6 days ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 week ago)
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) - Open Source Project Template (2 weeks ago)
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (2 weeks ago)
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (3 weeks ago)
 - [cisco-open/inclusive-language](https://github.com/cisco-open/inclusive-language) - Collection of tools and resources for working on eliminating biased language (3 months ago)
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (3 months ago)
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) -  (3 months ago)
@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.47.0-pre2](https://github.com/cisco-open/fsoc/releases/tag/v0.47.0-pre2), today) - FSO Control CLI Utility
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-rc.0), 1 week ago) - Production-Grade Container Scheduling and Management
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.47.0-pre2](https://github.com/cisco-open/fsoc/releases/tag/v0.47.0-pre2), 1 day ago) - FSO Control CLI Utility
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0-rc.0), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.3), 3 weeks ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.2.0](https://github.com/ossf/scorecard-action/releases/tag/v2.2.0), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [OAI/oascomply](https://github.com/OAI/oascomply) -  (3 weeks ago)
+- [OAI/oascomply](https://github.com/OAI/oascomply) -  (4 weeks ago)
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired fine-grained permissions database (1 month ago)
 - [authzed/zed](https://github.com/authzed/zed) - Official command-line tool for managing SpiceDB (1 month ago)
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (1 month ago)
