@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [urfave/gimme](https://github.com/urfave/gimme) -  (today)
 - [OAI/oascomply](https://github.com/OAI/oascomply) -  (1 month ago)
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired fine-grained permissions database (1 month ago)
 - [authzed/zed](https://github.com/authzed/zed) - Official command-line tool for managing SpiceDB (1 month ago)
@@ -57,7 +58,6 @@
 - [torgo/Scorecard4Purl](https://github.com/torgo/Scorecard4Purl) - Retrieve the Scorecard for a given PURL (1 month ago)
 - [cisco-open/homebrew-tap](https://github.com/cisco-open/homebrew-tap) - A homebrew tap for open source projects by Cisco. (1 month ago)
 - [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues (1 month ago)
-- [cncf/sheriff](https://github.com/cncf/sheriff) - Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
