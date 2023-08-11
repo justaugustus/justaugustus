@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [cisco-open/martian-bank-demo](https://github.com/cisco-open/martian-bank-demo) - MartianBank is a microservices demo application that allows customers to access and manage their bank accounts, perform financial transactions, locate ATMs, and apply for loans. (today)
 - [urfave/gimme](https://github.com/urfave/gimme) -  (today)
 - [OAI/oascomply](https://github.com/OAI/oascomply) -  (1 month ago)
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired fine-grained permissions database (1 month ago)
@@ -57,7 +58,6 @@
 - [KoolTheba/openssf-scorecard-api-visualizer](https://github.com/KoolTheba/openssf-scorecard-api-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (1 month ago)
 - [torgo/Scorecard4Purl](https://github.com/torgo/Scorecard4Purl) - Retrieve the Scorecard for a given PURL (1 month ago)
 - [cisco-open/homebrew-tap](https://github.com/cisco-open/homebrew-tap) - A homebrew tap for open source projects by Cisco. (1 month ago)
-- [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
