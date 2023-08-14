@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization. (today)
 - [AloisReitbauer/open-source-canvas](https://github.com/AloisReitbauer/open-source-canvas) -  (1 day ago)
 - [cisco-open/martian-bank-demo](https://github.com/cisco-open/martian-bank-demo) - MartianBank is a microservices demo application that allows customers to access and manage their bank accounts, perform financial transactions, locate ATMs, and apply for loans. (3 days ago)
 - [urfave/gimme](https://github.com/urfave/gimme) -  (3 days ago)
@@ -57,7 +58,6 @@
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (1 month ago)
 - [openfga/homebrew-tap](https://github.com/openfga/homebrew-tap) - A collection of @Homebrew formula for @openfga (1 month ago)
 - [KoolTheba/openssf-scorecard-api-visualizer](https://github.com/KoolTheba/openssf-scorecard-api-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (1 month ago)
-- [torgo/Scorecard4Purl](https://github.com/torgo/Scorecard4Purl) - Retrieve the Scorecard for a given PURL (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
