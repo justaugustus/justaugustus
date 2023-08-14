@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Neustradamus](https://github.com/Neustradamus)
 - [adamdmharvey](https://github.com/adamdmharvey)
 - [Mohamed988o](https://github.com/Mohamed988o)
 - [ZL91](https://github.com/ZL91)
@@ -70,6 +71,5 @@
 - [patrickdappollonio](https://github.com/patrickdappollonio)
 - [dominikhaska](https://github.com/dominikhaska)
 - [harshsingh32](https://github.com/harshsingh32)
-- [able8](https://github.com/able8)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
