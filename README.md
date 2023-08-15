@@ -22,6 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.28](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.28), today) - Kubernetes website and documentation repo: 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0), today) - Production-Grade Container Scheduling and Management
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.47.0](https://github.com/cisco-open/fsoc/releases/tag/v0.47.0), today) - FSO Control CLI Utility
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.3), 4 weeks ago) - Interfaces and implementations for building Kubernetes releases.
@@ -30,11 +31,11 @@
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 3 months ago) - 
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 3 months ago) - 
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 4 months ago) - Release infrastructure for Kubernetes and related components
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.27](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.27), 4 months ago) - Kubernetes website and documentation repo: 
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.3](https://github.com/airconduct/go-probot/releases/tag/v0.0.3), 6 months ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
 
 #### 🔨 My recent Pull Requests
 
+- [[WIP] Committee Conflict of Interest resolution](https://github.com/kubernetes/community/pull/7468) on [kubernetes/community](https://github.com/kubernetes/community) (today)
 - [images: Build images via `ko`](https://github.com/uwu-tools/gh-jira-issue-sync/pull/165) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 days ago)
 - [Org updates](https://github.com/uwu-tools/.github/pull/21) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 weeks ago)
 - [Comment fixes](https://github.com/uwu-tools/gh-jira-issue-sync/pull/146) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 weeks ago)
@@ -44,7 +45,6 @@
 - [Scorecard workflow generation fixes](https://github.com/step-security/secure-repo/pull/2110) on [step-security/secure-repo](https://github.com/step-security/secure-repo) (3 months ago)
 - [go.mod: Use uwu-tools/magex](https://github.com/kubernetes-sigs/release-utils/pull/78) on [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) (3 months ago)
 - [Update dependencies](https://github.com/uwu-tools/magex/pull/7) on [uwu-tools/magex](https://github.com/uwu-tools/magex) (3 months ago)
-- [Add attribution and &#34;In Memoriam&#34; section for Carolyn Van Slyck](https://github.com/uwu-tools/magex/pull/1) on [uwu-tools/magex](https://github.com/uwu-tools/magex) (3 months ago)
 
 #### ⭐ Recent Stars
 
