@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.47.1](https://github.com/cisco-open/fsoc/releases/tag/v0.47.1), today) - FSO Control CLI Utility
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.28](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.28), 1 day ago) - Kubernetes website and documentation repo: 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0), 1 day ago) - Production-Grade Container Scheduling and Management
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.47.0](https://github.com/cisco-open/fsoc/releases/tag/v0.47.0), 1 day ago) - FSO Control CLI Utility
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.3), 4 weeks ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.2.0](https://github.com/ossf/scorecard-action/releases/tag/v2.2.0), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Larrychi101](https://github.com/Larrychi101)
 - [krook](https://github.com/krook)
 - [Neustradamus](https://github.com/Neustradamus)
 - [adamdmharvey](https://github.com/adamdmharvey)
@@ -70,6 +71,5 @@
 - [wespanther](https://github.com/wespanther)
 - [iAlexeze](https://github.com/iAlexeze)
 - [patrickdappollonio](https://github.com/patrickdappollonio)
-- [dominikhaska](https://github.com/dominikhaska)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
