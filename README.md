@@ -22,12 +22,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.47.2](https://github.com/cisco-open/fsoc/releases/tag/v0.47.2), 4 days ago) - FSO Control CLI Utility
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.28](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.28), 5 days ago) - Kubernetes website and documentation repo: 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0), 5 days ago) - Production-Grade Container Scheduling and Management
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.47.2](https://github.com/cisco-open/fsoc/releases/tag/v0.47.2), 5 days ago) - FSO Control CLI Utility
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.28](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.28), 6 days ago) - Kubernetes website and documentation repo: 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0), 6 days ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.3), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.2.0](https://github.com/ossf/scorecard-action/releases/tag/v2.2.0), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 2 months ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 3 months ago) - 
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 3 months ago) - 
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.15.1](https://github.com/kubernetes/release/releases/tag/v0.15.1), 4 months ago) - Release infrastructure for Kubernetes and related components
@@ -35,8 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Committee Conflict of Interest resolution (Steering&#39;s version)](https://github.com/kubernetes/steering/pull/272) on [kubernetes/steering](https://github.com/kubernetes/steering) (4 days ago)
-- [Committee Conflict of Interest resolution](https://github.com/kubernetes/community/pull/7468) on [kubernetes/community](https://github.com/kubernetes/community) (5 days ago)
+- [Committee Conflict of Interest resolution (Steering&#39;s version)](https://github.com/kubernetes/steering/pull/272) on [kubernetes/steering](https://github.com/kubernetes/steering) (5 days ago)
+- [Committee Conflict of Interest resolution](https://github.com/kubernetes/community/pull/7468) on [kubernetes/community](https://github.com/kubernetes/community) (6 days ago)
 - [images: Build images via `ko`](https://github.com/uwu-tools/gh-jira-issue-sync/pull/165) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
 - [Org updates](https://github.com/uwu-tools/.github/pull/21) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 weeks ago)
 - [Comment fixes](https://github.com/uwu-tools/gh-jira-issue-sync/pull/146) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 weeks ago)
@@ -48,9 +48,9 @@
 
 #### ⭐ Recent Stars
 
-- [ospoco/AzureChatGPT](https://github.com/ospoco/AzureChatGPT) -  🤖 Azure ChatGPT: Private &amp; secure ChatGPT for internal enterprise use 💼 credits : https://github.com/microsoft/azurechatgpt (4 days ago)
-- [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc. (5 days ago)
-- [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization. (6 days ago)
+- [ospoco/AzureChatGPT](https://github.com/ospoco/AzureChatGPT) -  🤖 Azure ChatGPT: Private &amp; secure ChatGPT for internal enterprise use 💼 credits : https://github.com/microsoft/azurechatgpt (5 days ago)
+- [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc. (6 days ago)
+- [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization. (1 week ago)
 - [AloisReitbauer/open-source-canvas](https://github.com/AloisReitbauer/open-source-canvas) -  (1 week ago)
 - [cisco-open/martian-bank-demo](https://github.com/cisco-open/martian-bank-demo) - MartianBank is a microservices demo application that allows customers to access and manage their bank accounts, perform financial transactions, locate ATMs, and apply for loans. (1 week ago)
 - [urfave/gimme](https://github.com/urfave/gimme) -  (1 week ago)
