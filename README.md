@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.25.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.25.13), today) - Production-Grade Container Scheduling and Management
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.47.2](https://github.com/cisco-open/fsoc/releases/tag/v0.47.2), 1 week ago) - FSO Control CLI Utility
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.28](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.28), 1 week ago) - Kubernetes website and documentation repo: 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.3), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.2.0](https://github.com/ossf/scorecard-action/releases/tag/v2.2.0), 2 months ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 2 months ago) - Container and file artifact promotion tooling for the Kubernetes project
