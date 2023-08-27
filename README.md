@@ -9,8 +9,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [justaugustus/about](https://github.com/justaugustus/about) -  (2 days ago)
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 week ago)
+- [justaugustus/about](https://github.com/justaugustus/about) -  (3 days ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (2 weeks ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (3 weeks ago)
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) - Open Source Project Template (1 month ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 month ago)
@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.48.0](https://github.com/cisco-open/fsoc/releases/tag/v0.48.0), today) - FSO Control CLI Utility
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.1), 2 days ago) - Production-Grade Container Scheduling and Management
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.48.0](https://github.com/cisco-open/fsoc/releases/tag/v0.48.0), 1 day ago) - FSO Control CLI Utility
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.1), 3 days ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.28](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.28), 1 week ago) - Kubernetes website and documentation repo: 
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.3), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.2.0](https://github.com/ossf/scorecard-action/releases/tag/v2.2.0), 2 months ago) - Official GitHub Action for OpenSSF Scorecard.
@@ -35,10 +35,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[2023-08] Update community roles](https://github.com/justaugustus/about/pull/10) on [justaugustus/about](https://github.com/justaugustus/about) (2 days ago)
+- [[2023-08] Update community roles](https://github.com/justaugustus/about/pull/10) on [justaugustus/about](https://github.com/justaugustus/about) (3 days ago)
 - [Committee Conflict of Interest resolution (Steering&#39;s version)](https://github.com/kubernetes/steering/pull/272) on [kubernetes/steering](https://github.com/kubernetes/steering) (1 week ago)
 - [Committee Conflict of Interest resolution](https://github.com/kubernetes/community/pull/7468) on [kubernetes/community](https://github.com/kubernetes/community) (1 week ago)
-- [images: Build images via `ko`](https://github.com/uwu-tools/gh-jira-issue-sync/pull/165) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 week ago)
+- [images: Build images via `ko`](https://github.com/uwu-tools/gh-jira-issue-sync/pull/165) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 weeks ago)
 - [Org updates](https://github.com/uwu-tools/.github/pull/21) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (3 weeks ago)
 - [Comment fixes](https://github.com/uwu-tools/gh-jira-issue-sync/pull/146) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (3 weeks ago)
 - [go.mod: Temporarily update module name to allow imports](https://github.com/uwu-tools/go-jira/pull/1) on [uwu-tools/go-jira](https://github.com/uwu-tools/go-jira) (3 weeks ago)
@@ -51,7 +51,7 @@
 - [ospoco/AzureChatGPT](https://github.com/ospoco/AzureChatGPT) -  🤖 Azure ChatGPT: Private &amp; secure ChatGPT for internal enterprise use 💼 credits : https://github.com/microsoft/azurechatgpt (1 week ago)
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc. (1 week ago)
 - [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization. (1 week ago)
-- [AloisReitbauer/open-source-canvas](https://github.com/AloisReitbauer/open-source-canvas) -  (1 week ago)
+- [AloisReitbauer/open-source-canvas](https://github.com/AloisReitbauer/open-source-canvas) -  (2 weeks ago)
 - [cisco-open/martian-bank-demo](https://github.com/cisco-open/martian-bank-demo) - MartianBank is a microservices demo application that allows customers to access and manage their bank accounts, perform financial transactions, locate ATMs, and apply for loans. (2 weeks ago)
 - [urfave/gimme](https://github.com/urfave/gimme) -  (2 weeks ago)
 - [OAI/oascomply](https://github.com/OAI/oascomply) -  (1 month ago)
