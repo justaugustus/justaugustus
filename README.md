@@ -9,6 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 days ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (4 days ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (2 weeks ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (3 weeks ago)
@@ -18,7 +19,6 @@
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) -  (3 months ago)
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (3 months ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (4 months ago)
-- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
