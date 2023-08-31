@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [wosores](https://github.com/wosores)
 - [Larrychi101](https://github.com/Larrychi101)
 - [krook](https://github.com/krook)
 - [Neustradamus](https://github.com/Neustradamus)
@@ -70,6 +71,5 @@
 - [MehrabHussain47](https://github.com/MehrabHussain47)
 - [wespanther](https://github.com/wespanther)
 - [iAlexeze](https://github.com/iAlexeze)
-- [patrickdappollonio](https://github.com/patrickdappollonio)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
