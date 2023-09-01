@@ -9,6 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [onlytacos/lookitup.baby](https://github.com/onlytacos/lookitup.baby) - you&#39;ll see our names on it (today)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (6 days ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (1 week ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (2 weeks ago)
@@ -16,9 +17,8 @@
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) - Open Source Project Template (1 month ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 month ago)
 - [cisco-open/inclusive-language](https://github.com/cisco-open/inclusive-language) - Collection of tools and resources for working on eliminating biased language (4 months ago)
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) -  (4 months ago)
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) -  (4 months ago)
-- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (4 months ago)
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) -  (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
