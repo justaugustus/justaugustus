@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [cncf/clomonitor](https://github.com/cncf/clomonitor) - CLOMonitor is a tool that periodically checks open source projects repositories to verify they meet certain project health best practices (today)
 - [ospoco/AzureChatGPT](https://github.com/ospoco/AzureChatGPT) -  🤖 Azure ChatGPT: Private &amp; secure ChatGPT for internal enterprise use 💼 credits : https://github.com/microsoft/azurechatgpt (2 weeks ago)
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc. (2 weeks ago)
 - [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization. (2 weeks ago)
@@ -57,7 +58,6 @@
 - [OAI/oascomply](https://github.com/OAI/oascomply) -  (1 month ago)
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired fine-grained permissions database (2 months ago)
 - [authzed/zed](https://github.com/authzed/zed) - Official command-line tool for managing SpiceDB (2 months ago)
-- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
