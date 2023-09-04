@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[WIP] K org](https://github.com/uwu-tools/peribolos/pull/257) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
 - [Add grady-uml redirect](https://github.com/onlytacos/lookitup.baby/pull/10) on [onlytacos/lookitup.baby](https://github.com/onlytacos/lookitup.baby) (3 days ago)
 - [elections/steering/2023: Add Stephen Augustus (justaugustus) bio](https://github.com/kubernetes/community/pull/7505) on [kubernetes/community](https://github.com/kubernetes/community) (1 week ago)
 - [[2023-08] Update community roles](https://github.com/justaugustus/about/pull/10) on [justaugustus/about](https://github.com/justaugustus/about) (1 week ago)
@@ -44,7 +45,6 @@
 - [Org updates](https://github.com/uwu-tools/.github/pull/21) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 month ago)
 - [Comment fixes](https://github.com/uwu-tools/gh-jira-issue-sync/pull/146) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 month ago)
 - [go.mod: Temporarily update module name to allow imports](https://github.com/uwu-tools/go-jira/pull/1) on [uwu-tools/go-jira](https://github.com/uwu-tools/go-jira) (1 month ago)
-- [dependabot: Fix indentation on `groups` config](https://github.com/uwu-tools/gh-jira-issue-sync/pull/138) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 month ago)
 
 #### ⭐ Recent Stars
 
