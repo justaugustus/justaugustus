@@ -48,6 +48,9 @@
 
 #### ⭐ Recent Stars
 
+- [cncf/clotributor](https://github.com/cncf/clotributor) - Discover great opportunities to become a Cloud Native contributor (today)
+- [cncf/clo-ui](https://github.com/cncf/clo-ui) - UI components and styles shared across CLO* projects (today)
+- [cncf/gitvote](https://github.com/cncf/gitvote) - GitVote is a GitHub application that allows holding a vote on issues and pull requests (today)
 - [cncf/clomonitor](https://github.com/cncf/clomonitor) - CLOMonitor is a tool that periodically checks open source projects repositories to verify they meet certain project health best practices (2 days ago)
 - [ospoco/AzureChatGPT](https://github.com/ospoco/AzureChatGPT) -  🤖 Azure ChatGPT: Private &amp; secure ChatGPT for internal enterprise use 💼 credits : https://github.com/microsoft/azurechatgpt (2 weeks ago)
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc. (2 weeks ago)
@@ -55,9 +58,6 @@
 - [AloisReitbauer/open-source-canvas](https://github.com/AloisReitbauer/open-source-canvas) -  (3 weeks ago)
 - [cisco-open/martian-bank-demo](https://github.com/cisco-open/martian-bank-demo) - MartianBank is a microservices demo application that allows customers to access and manage their bank accounts, perform financial transactions, locate ATMs, and apply for loans. (3 weeks ago)
 - [urfave/gimme](https://github.com/urfave/gimme) -  (3 weeks ago)
-- [OAI/oascomply](https://github.com/OAI/oascomply) -  (1 month ago)
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired fine-grained permissions database (2 months ago)
-- [authzed/zed](https://github.com/authzed/zed) - Official command-line tool for managing SpiceDB (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
