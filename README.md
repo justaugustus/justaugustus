@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [AudMonte01](https://github.com/AudMonte01)
 - [ramizpolic](https://github.com/ramizpolic)
 - [wosores](https://github.com/wosores)
 - [Larrychi101](https://github.com/Larrychi101)
@@ -70,6 +71,5 @@
 - [Mohamed988o](https://github.com/Mohamed988o)
 - [ZL91](https://github.com/ZL91)
 - [MehrabHussain47](https://github.com/MehrabHussain47)
-- [wespanther](https://github.com/wespanther)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
