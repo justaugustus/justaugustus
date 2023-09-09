@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor (today)
 - [cncf/clotributor](https://github.com/cncf/clotributor) - Discover great opportunities to become a Cloud Native contributor (5 days ago)
 - [cncf/clo-ui](https://github.com/cncf/clo-ui) - UI components and styles shared across CLO* projects (5 days ago)
 - [cncf/gitvote](https://github.com/cncf/gitvote) - GitVote is a GitHub application that allows holding a vote on issues and pull requests (5 days ago)
@@ -57,7 +58,6 @@
 - [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization. (3 weeks ago)
 - [AloisReitbauer/open-source-canvas](https://github.com/AloisReitbauer/open-source-canvas) -  (3 weeks ago)
 - [cisco-open/martian-bank-demo](https://github.com/cisco-open/martian-bank-demo) - MartianBank is a microservices demo application that allows customers to access and manage their bank accounts, perform financial transactions, locate ATMs, and apply for loans. (4 weeks ago)
-- [urfave/gimme](https://github.com/urfave/gimme) -  (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
