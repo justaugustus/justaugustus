@@ -9,9 +9,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (5 days ago)
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (5 days ago)
-- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (6 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (6 days ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (6 days ago)
+- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (1 week ago)
 - [onlytacos/lookitup.baby](https://github.com/onlytacos/lookitup.baby) - you&#39;ll see our names on it (1 week ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 weeks ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (2 weeks ago)
@@ -35,8 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [k/test-infra: Carry pull requests](https://github.com/uwu-tools/peribolos/pull/258) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (5 days ago)
-- [k/org: Add `restrictions` tool and force strict YAML unmarshalling](https://github.com/uwu-tools/peribolos/pull/257) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (6 days ago)
+- [k/test-infra: Carry pull requests](https://github.com/uwu-tools/peribolos/pull/258) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (6 days ago)
+- [k/org: Add `restrictions` tool and force strict YAML unmarshalling](https://github.com/uwu-tools/peribolos/pull/257) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 week ago)
 - [Add grady-uml redirect](https://github.com/onlytacos/lookitup.baby/pull/10) on [onlytacos/lookitup.baby](https://github.com/onlytacos/lookitup.baby) (1 week ago)
 - [elections/steering/2023: Add Stephen Augustus (justaugustus) bio](https://github.com/kubernetes/community/pull/7505) on [kubernetes/community](https://github.com/kubernetes/community) (2 weeks ago)
 - [[2023-08] Update community roles](https://github.com/justaugustus/about/pull/10) on [justaugustus/about](https://github.com/justaugustus/about) (2 weeks ago)
@@ -48,14 +48,14 @@
 
 #### ⭐ Recent Stars
 
-- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor (1 day ago)
-- [cncf/clotributor](https://github.com/cncf/clotributor) - Discover great opportunities to become a Cloud Native contributor (6 days ago)
-- [cncf/clo-ui](https://github.com/cncf/clo-ui) - UI components and styles shared across CLO* projects (6 days ago)
-- [cncf/gitvote](https://github.com/cncf/gitvote) - GitVote is a GitHub application that allows holding a vote on issues and pull requests (6 days ago)
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor (2 days ago)
+- [cncf/clotributor](https://github.com/cncf/clotributor) - Discover great opportunities to become a Cloud Native contributor (1 week ago)
+- [cncf/clo-ui](https://github.com/cncf/clo-ui) - UI components and styles shared across CLO* projects (1 week ago)
+- [cncf/gitvote](https://github.com/cncf/gitvote) - GitVote is a GitHub application that allows holding a vote on issues and pull requests (1 week ago)
 - [cncf/clomonitor](https://github.com/cncf/clomonitor) - CLOMonitor is a tool that periodically checks open source projects repositories to verify they meet certain project health best practices (1 week ago)
 - [ospoco/AzureChatGPT](https://github.com/ospoco/AzureChatGPT) -  🤖 Azure ChatGPT: Private &amp; secure ChatGPT for internal enterprise use 💼 credits : https://github.com/microsoft/azurechatgpt (3 weeks ago)
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc. (3 weeks ago)
-- [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization. (3 weeks ago)
+- [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization. (4 weeks ago)
 - [AloisReitbauer/open-source-canvas](https://github.com/AloisReitbauer/open-source-canvas) -  (4 weeks ago)
 - [cisco-open/martian-bank-demo](https://github.com/cisco-open/martian-bank-demo) - MartianBank is a microservices demo application that allows customers to access and manage their bank accounts, perform financial transactions, locate ATMs, and apply for loans. (1 month ago)
 
