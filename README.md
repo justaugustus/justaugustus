@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [package-url/packageurl-go](https://github.com/package-url/packageurl-go) - Go implementation of the package url spec (today)
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor (4 days ago)
 - [cncf/clotributor](https://github.com/cncf/clotributor) - Discover great opportunities to become a Cloud Native contributor (1 week ago)
 - [cncf/clo-ui](https://github.com/cncf/clo-ui) - UI components and styles shared across CLO* projects (1 week ago)
@@ -57,7 +58,6 @@
 - [github/issue-metrics](https://github.com/github/issue-metrics) - Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc. (4 weeks ago)
 - [github/stale-repos](https://github.com/github/stale-repos) - Find stale repositories in a GitHub organization. (1 month ago)
 - [AloisReitbauer/open-source-canvas](https://github.com/AloisReitbauer/open-source-canvas) -  (1 month ago)
-- [cisco-open/martian-bank-demo](https://github.com/cisco-open/martian-bank-demo) - MartianBank is a microservices demo application that allows customers to access and manage their bank accounts, perform financial transactions, locate ATMs, and apply for loans. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
