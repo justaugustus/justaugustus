@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [MilijanBogdanovic](https://github.com/MilijanBogdanovic)
 - [AudMonte01](https://github.com/AudMonte01)
 - [ramizpolic](https://github.com/ramizpolic)
 - [wosores](https://github.com/wosores)
@@ -70,6 +71,5 @@
 - [adamdmharvey](https://github.com/adamdmharvey)
 - [Mohamed988o](https://github.com/Mohamed988o)
 - [ZL91](https://github.com/ZL91)
-- [MehrabHussain47](https://github.com/MehrabHussain47)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
