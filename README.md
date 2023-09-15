@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.49.1](https://github.com/cisco-open/fsoc/releases/tag/v0.49.1), today) - FSO Control CLI Utility
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.9](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.9), 2 days ago) - Production-Grade Container Scheduling and Management
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.49.0](https://github.com/cisco-open/fsoc/releases/tag/v0.49.0), 1 week ago) - FSO Control CLI Utility
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.4](https://github.com/airconduct/go-probot/releases/tag/v0.0.4), 2 weeks ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.28](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.28), 1 month ago) - Kubernetes website and documentation repo: 
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.12.0](https://github.com/ossf/scorecard/releases/tag/v4.12.0), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
