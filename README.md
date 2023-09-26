@@ -10,8 +10,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (1 week ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 weeks ago)
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (2 weeks ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 weeks ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (3 weeks ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (3 weeks ago)
 - [onlytacos/lookitup.baby](https://github.com/onlytacos/lookitup.baby) - you&#39;ll see our names on it (3 weeks ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0-alpha.1), today) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0-alpha.1), 1 day ago) - Production-Grade Container Scheduling and Management
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.50.0-pre1](https://github.com/cisco-open/fsoc/releases/tag/v0.50.0-pre1), 1 week ago) - FSO Control CLI Utility
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.4](https://github.com/airconduct/go-probot/releases/tag/v0.0.4), 3 weeks ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.28](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.28), 1 month ago) - Kubernetes website and documentation repo: 
@@ -35,10 +35,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [k/test-infra: Carry pull requests](https://github.com/uwu-tools/peribolos/pull/258) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 weeks ago)
+- [k/test-infra: Carry pull requests](https://github.com/uwu-tools/peribolos/pull/258) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (3 weeks ago)
 - [k/org: Add `restrictions` tool and force strict YAML unmarshalling](https://github.com/uwu-tools/peribolos/pull/257) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (3 weeks ago)
 - [Add grady-uml redirect](https://github.com/onlytacos/lookitup.baby/pull/10) on [onlytacos/lookitup.baby](https://github.com/onlytacos/lookitup.baby) (3 weeks ago)
-- [elections/steering/2023: Add Stephen Augustus (justaugustus) bio](https://github.com/kubernetes/community/pull/7505) on [kubernetes/community](https://github.com/kubernetes/community) (4 weeks ago)
+- [elections/steering/2023: Add Stephen Augustus (justaugustus) bio](https://github.com/kubernetes/community/pull/7505) on [kubernetes/community](https://github.com/kubernetes/community) (1 month ago)
 - [[2023-08] Update community roles](https://github.com/justaugustus/about/pull/10) on [justaugustus/about](https://github.com/justaugustus/about) (1 month ago)
 - [Committee Conflict of Interest resolution (Steering&#39;s version)](https://github.com/kubernetes/steering/pull/272) on [kubernetes/steering](https://github.com/kubernetes/steering) (1 month ago)
 - [Committee Conflict of Interest resolution](https://github.com/kubernetes/community/pull/7468) on [kubernetes/community](https://github.com/kubernetes/community) (1 month ago)
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [ossf/scorecard-dependencyanalysis](https://github.com/ossf/scorecard-dependencyanalysis) - Scorecard action for checking when new dependencies are added to the repository.  (6 days ago)
+- [ossf/scorecard-dependencyanalysis](https://github.com/ossf/scorecard-dependencyanalysis) - Scorecard action for checking when new dependencies are added to the repository.  (1 week ago)
 - [package-url/packageurl-go](https://github.com/package-url/packageurl-go) - Go implementation of the package url spec (1 week ago)
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor (2 weeks ago)
 - [cncf/clotributor](https://github.com/cncf/clotributor) - Discover great opportunities to become a Cloud Native contributor (3 weeks ago)
