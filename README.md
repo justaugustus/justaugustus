@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Teun-vdB](https://github.com/Teun-vdB)
 - [hoyho](https://github.com/hoyho)
 - [MilijanBogdanovic](https://github.com/MilijanBogdanovic)
 - [AudMonte01](https://github.com/AudMonte01)
@@ -70,6 +71,5 @@
 - [krook](https://github.com/krook)
 - [Neustradamus](https://github.com/Neustradamus)
 - [adamdmharvey](https://github.com/adamdmharvey)
-- [Mohamed988o](https://github.com/Mohamed988o)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
