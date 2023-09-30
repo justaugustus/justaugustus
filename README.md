@@ -63,7 +63,7 @@
 
 - [Teun-vdB](https://github.com/Teun-vdB)
 - [hoyho](https://github.com/hoyho)
-- [MilijanBogdanovic](https://github.com/MilijanBogdanovic)
+- [bogdanovicdev](https://github.com/bogdanovicdev)
 - [AudMonte01](https://github.com/AudMonte01)
 - [ramizpolic](https://github.com/ramizpolic)
 - [wosores](https://github.com/wosores)
