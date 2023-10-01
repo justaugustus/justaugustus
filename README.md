@@ -13,7 +13,7 @@
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 weeks ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (3 weeks ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (3 weeks ago)
-- [onlytacos/lookitup.baby](https://github.com/onlytacos/lookitup.baby) - you&#39;ll see our names on it (4 weeks ago)
+- [onlytacos/lookitup.baby](https://github.com/onlytacos/lookitup.baby) - you&#39;ll see our names on it (1 month ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (1 month ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 months ago)
@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0-alpha.1), 5 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0-alpha.1), 6 days ago) - Production-Grade Container Scheduling and Management
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.50.0-pre1](https://github.com/cisco-open/fsoc/releases/tag/v0.50.0-pre1), 1 week ago) - FSO Control CLI Utility
-- [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.4](https://github.com/airconduct/go-probot/releases/tag/v0.0.4), 4 weeks ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
+- [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.4](https://github.com/airconduct/go-probot/releases/tag/v0.0.4), 1 month ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.28](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.28), 1 month ago) - Kubernetes website and documentation repo: 
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.3), 2 months ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.2.0](https://github.com/ossf/scorecard-action/releases/tag/v2.2.0), 3 months ago) - Official GitHub Action for OpenSSF Scorecard.
@@ -37,7 +37,7 @@
 
 - [k/test-infra: Carry pull requests](https://github.com/uwu-tools/peribolos/pull/258) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (3 weeks ago)
 - [k/org: Add `restrictions` tool and force strict YAML unmarshalling](https://github.com/uwu-tools/peribolos/pull/257) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (3 weeks ago)
-- [Add grady-uml redirect](https://github.com/onlytacos/lookitup.baby/pull/10) on [onlytacos/lookitup.baby](https://github.com/onlytacos/lookitup.baby) (4 weeks ago)
+- [Add grady-uml redirect](https://github.com/onlytacos/lookitup.baby/pull/10) on [onlytacos/lookitup.baby](https://github.com/onlytacos/lookitup.baby) (1 month ago)
 - [elections/steering/2023: Add Stephen Augustus (justaugustus) bio](https://github.com/kubernetes/community/pull/7505) on [kubernetes/community](https://github.com/kubernetes/community) (1 month ago)
 - [[2023-08] Update community roles](https://github.com/justaugustus/about/pull/10) on [justaugustus/about](https://github.com/justaugustus/about) (1 month ago)
 - [Committee Conflict of Interest resolution (Steering&#39;s version)](https://github.com/kubernetes/steering/pull/272) on [kubernetes/steering](https://github.com/kubernetes/steering) (1 month ago)
