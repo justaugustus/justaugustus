@@ -35,6 +35,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update Steering members following annual election cycle](https://github.com/kubernetes/steering/pull/274) on [kubernetes/steering](https://github.com/kubernetes/steering) (today)
+- [steering: Update committee members following annual election cycle](https://github.com/kubernetes/community/pull/7558) on [kubernetes/community](https://github.com/kubernetes/community) (today)
 - [k/test-infra: Carry pull requests](https://github.com/uwu-tools/peribolos/pull/258) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (3 weeks ago)
 - [k/org: Add `restrictions` tool and force strict YAML unmarshalling](https://github.com/uwu-tools/peribolos/pull/257) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (4 weeks ago)
 - [Add grady-uml redirect](https://github.com/onlytacos/lookitup.baby/pull/10) on [onlytacos/lookitup.baby](https://github.com/onlytacos/lookitup.baby) (1 month ago)
@@ -43,8 +45,6 @@
 - [Committee Conflict of Interest resolution (Steering&#39;s version)](https://github.com/kubernetes/steering/pull/272) on [kubernetes/steering](https://github.com/kubernetes/steering) (1 month ago)
 - [Committee Conflict of Interest resolution](https://github.com/kubernetes/community/pull/7468) on [kubernetes/community](https://github.com/kubernetes/community) (1 month ago)
 - [images: Build images via `ko`](https://github.com/uwu-tools/gh-jira-issue-sync/pull/165) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (1 month ago)
-- [Org updates](https://github.com/uwu-tools/.github/pull/21) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 months ago)
-- [Comment fixes](https://github.com/uwu-tools/gh-jira-issue-sync/pull/146) on [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) (2 months ago)
 
 #### ⭐ Recent Stars
 
