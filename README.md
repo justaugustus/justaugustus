@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Liaison updates following 2023 Steering election](https://github.com/kubernetes/community/pull/7560) on [kubernetes/community](https://github.com/kubernetes/community) (today)
 - [project_maintainers: Update Kubernetes memberships](https://github.com/cncf/foundation/pull/643) on [cncf/foundation](https://github.com/cncf/foundation) (today)
 - [Update Steering members following 2023 election cycle](https://github.com/kubernetes/k8s.io/pull/5918) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Update Steering members following 2023 election cycle](https://github.com/kubernetes/org/pull/4497) on [kubernetes/org](https://github.com/kubernetes/org) (today)
@@ -44,7 +45,6 @@
 - [k/org: Add `restrictions` tool and force strict YAML unmarshalling](https://github.com/uwu-tools/peribolos/pull/257) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (4 weeks ago)
 - [Add grady-uml redirect](https://github.com/onlytacos/lookitup.baby/pull/10) on [onlytacos/lookitup.baby](https://github.com/onlytacos/lookitup.baby) (1 month ago)
 - [elections/steering/2023: Add Stephen Augustus (justaugustus) bio](https://github.com/kubernetes/community/pull/7505) on [kubernetes/community](https://github.com/kubernetes/community) (1 month ago)
-- [[2023-08] Update community roles](https://github.com/justaugustus/about/pull/10) on [justaugustus/about](https://github.com/justaugustus/about) (1 month ago)
 
 #### ⭐ Recent Stars
 
