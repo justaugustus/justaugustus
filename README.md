@@ -9,13 +9,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 day ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 days ago)
-- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 days ago)
-- [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (3 days ago)
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 days ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 days ago)
+- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (3 days ago)
+- [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (4 days ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (2 weeks ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (4 weeks ago)
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (4 weeks ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 month ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (1 month ago)
 - [onlytacos/lookitup.baby](https://github.com/onlytacos/lookitup.baby) - you&#39;ll see our names on it (1 month ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (1 month ago)
@@ -35,13 +35,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Liaison updates following 2023 Steering election](https://github.com/kubernetes/community/pull/7560) on [kubernetes/community](https://github.com/kubernetes/community) (2 days ago)
-- [project_maintainers: Update Kubernetes memberships](https://github.com/cncf/foundation/pull/643) on [cncf/foundation](https://github.com/cncf/foundation) (2 days ago)
-- [Update Steering members following 2023 election cycle](https://github.com/kubernetes/k8s.io/pull/5918) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
-- [Update Steering members following 2023 election cycle](https://github.com/kubernetes/org/pull/4497) on [kubernetes/org](https://github.com/kubernetes/org) (2 days ago)
-- [Update Steering members following annual election cycle](https://github.com/kubernetes/steering/pull/274) on [kubernetes/steering](https://github.com/kubernetes/steering) (2 days ago)
-- [steering: Update committee members following annual election cycle](https://github.com/kubernetes/community/pull/7558) on [kubernetes/community](https://github.com/kubernetes/community) (2 days ago)
-- [k/test-infra: Carry pull requests](https://github.com/uwu-tools/peribolos/pull/258) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (4 weeks ago)
+- [Liaison updates following 2023 Steering election](https://github.com/kubernetes/community/pull/7560) on [kubernetes/community](https://github.com/kubernetes/community) (3 days ago)
+- [project_maintainers: Update Kubernetes memberships](https://github.com/cncf/foundation/pull/643) on [cncf/foundation](https://github.com/cncf/foundation) (3 days ago)
+- [Update Steering members following 2023 election cycle](https://github.com/kubernetes/k8s.io/pull/5918) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 days ago)
+- [Update Steering members following 2023 election cycle](https://github.com/kubernetes/org/pull/4497) on [kubernetes/org](https://github.com/kubernetes/org) (3 days ago)
+- [Update Steering members following annual election cycle](https://github.com/kubernetes/steering/pull/274) on [kubernetes/steering](https://github.com/kubernetes/steering) (3 days ago)
+- [steering: Update committee members following annual election cycle](https://github.com/kubernetes/community/pull/7558) on [kubernetes/community](https://github.com/kubernetes/community) (3 days ago)
+- [k/test-infra: Carry pull requests](https://github.com/uwu-tools/peribolos/pull/258) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [k/org: Add `restrictions` tool and force strict YAML unmarshalling](https://github.com/uwu-tools/peribolos/pull/257) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [Add grady-uml redirect](https://github.com/onlytacos/lookitup.baby/pull/10) on [onlytacos/lookitup.baby](https://github.com/onlytacos/lookitup.baby) (1 month ago)
 - [elections/steering/2023: Add Stephen Augustus (justaugustus) bio](https://github.com/kubernetes/community/pull/7505) on [kubernetes/community](https://github.com/kubernetes/community) (1 month ago)
