@@ -22,6 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.0](https://github.com/ossf/scorecard-action/releases/tag/v2.3.0), today) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.0](https://github.com/ossf/scorecard/releases/tag/v4.13.0), today) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.1](https://github.com/kubernetes/release/releases/tag/v0.16.1), 1 day ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0-alpha.1), 1 week ago) - Production-Grade Container Scheduling and Management
@@ -31,7 +32,6 @@
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.3), 2 months ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 3 months ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.4), 4 months ago) - 
-- [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 5 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
