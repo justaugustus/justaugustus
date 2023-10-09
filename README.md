@@ -10,12 +10,12 @@
 #### 👷 Check out what I'm currently working on
 
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (6 days ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 week ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (1 week ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (3 weeks ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 month ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (1 month ago)
 - [onlytacos/lookitup.baby](https://github.com/onlytacos/lookitup.baby) - you&#39;ll see our names on it (1 month ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (1 month ago)
