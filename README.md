@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [JuliaMurray](https://github.com/JuliaMurray)
 - [akshay-nimbal](https://github.com/akshay-nimbal)
 - [abhijeetgauravm](https://github.com/abhijeetgauravm)
 - [Teun-vdB](https://github.com/Teun-vdB)
@@ -70,6 +71,5 @@
 - [ramizpolic](https://github.com/ramizpolic)
 - [wosores](https://github.com/wosores)
 - [Larrychi101](https://github.com/Larrychi101)
-- [krook](https://github.com/krook)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
