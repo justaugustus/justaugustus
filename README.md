@@ -66,10 +66,10 @@
 - [JuliaMurray](https://github.com/JuliaMurray)
 - [akshay-nimbal](https://github.com/akshay-nimbal)
 - [abhijeetgauravm](https://github.com/abhijeetgauravm)
-- [Teun-vdB](https://github.com/Teun-vdB)
 - [hoyho](https://github.com/hoyho)
 - [bogdanovicdev](https://github.com/bogdanovicdev)
 - [AudMonte01](https://github.com/AudMonte01)
 - [ramizpolic](https://github.com/ramizpolic)
+- [wosores](https://github.com/wosores)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
