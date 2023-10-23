@@ -10,9 +10,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 weeks ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 weeks ago)
-- [cncf/foundation](https://github.com/cncf/foundation) - ☁️♮🏛File non-technical issues related to CNCF (2 weeks ago)
-- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 weeks ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 weeks ago)
+- [cncf/foundation](https://github.com/cncf/foundation) - ☁️♮🏛File non-technical issues related to CNCF (3 weeks ago)
+- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (3 weeks ago)
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (3 weeks ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (1 month ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
@@ -22,11 +22,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 2 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.25.15](https://github.com/kubernetes/kubernetes/releases/tag/v1.25.15), 4 days ago) - Production-Grade Container Scheduling and Management
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 3 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.25.15](https://github.com/kubernetes/kubernetes/releases/tag/v1.25.15), 5 days ago) - Production-Grade Container Scheduling and Management
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.50.0](https://github.com/cisco-open/fsoc/releases/tag/v0.50.0), 1 week ago) - FSO Control CLI Utility
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.3](https://github.com/kubernetes/release/releases/tag/v0.16.3), 1 week ago) - Release infrastructure for Kubernetes and related components
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.5](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.5), 1 week ago) - 
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.5](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.5), 2 weeks ago) - 
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.0](https://github.com/ossf/scorecard-action/releases/tag/v2.3.0), 2 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.4](https://github.com/airconduct/go-probot/releases/tag/v0.0.4), 1 month ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.28](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.28), 2 months ago) - Kubernetes website and documentation repo: 
@@ -35,12 +35,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Liaison updates following 2023 Steering election](https://github.com/kubernetes/community/pull/7560) on [kubernetes/community](https://github.com/kubernetes/community) (2 weeks ago)
-- [project_maintainers: Update Kubernetes memberships](https://github.com/cncf/foundation/pull/643) on [cncf/foundation](https://github.com/cncf/foundation) (2 weeks ago)
-- [Update Steering members following 2023 election cycle](https://github.com/kubernetes/k8s.io/pull/5918) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
-- [Update Steering members following 2023 election cycle](https://github.com/kubernetes/org/pull/4497) on [kubernetes/org](https://github.com/kubernetes/org) (2 weeks ago)
-- [Update Steering members following annual election cycle](https://github.com/kubernetes/steering/pull/274) on [kubernetes/steering](https://github.com/kubernetes/steering) (2 weeks ago)
-- [steering: Update committee members following annual election cycle](https://github.com/kubernetes/community/pull/7558) on [kubernetes/community](https://github.com/kubernetes/community) (2 weeks ago)
+- [Liaison updates following 2023 Steering election](https://github.com/kubernetes/community/pull/7560) on [kubernetes/community](https://github.com/kubernetes/community) (3 weeks ago)
+- [project_maintainers: Update Kubernetes memberships](https://github.com/cncf/foundation/pull/643) on [cncf/foundation](https://github.com/cncf/foundation) (3 weeks ago)
+- [Update Steering members following 2023 election cycle](https://github.com/kubernetes/k8s.io/pull/5918) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
+- [Update Steering members following 2023 election cycle](https://github.com/kubernetes/org/pull/4497) on [kubernetes/org](https://github.com/kubernetes/org) (3 weeks ago)
+- [Update Steering members following annual election cycle](https://github.com/kubernetes/steering/pull/274) on [kubernetes/steering](https://github.com/kubernetes/steering) (3 weeks ago)
+- [steering: Update committee members following annual election cycle](https://github.com/kubernetes/community/pull/7558) on [kubernetes/community](https://github.com/kubernetes/community) (3 weeks ago)
 - [k/test-infra: Carry pull requests](https://github.com/uwu-tools/peribolos/pull/258) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [k/org: Add `restrictions` tool and force strict YAML unmarshalling](https://github.com/uwu-tools/peribolos/pull/257) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [Add grady-uml redirect](https://github.com/onlytacos/lookitup.baby/pull/10) on [onlytacos/lookitup.baby](https://github.com/onlytacos/lookitup.baby) (1 month ago)
