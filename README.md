@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (3 weeks ago)
 - [cncf/foundation](https://github.com/cncf/foundation) - ☁️♮🏛File non-technical issues related to CNCF (3 weeks ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (3 weeks ago)
@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.6](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.6), today) - 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.51.0-pre1](https://github.com/cisco-open/fsoc/releases/tag/v0.51.0-pre1), today) - FSO Control CLI Utility
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.1](https://github.com/ossf/scorecard-action/releases/tag/v2.3.1), 4 days ago) - Official GitHub Action for OpenSSF Scorecard.
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.6](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.6), 1 day ago) - 
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.51.0-pre1](https://github.com/cisco-open/fsoc/releases/tag/v0.51.0-pre1), 1 day ago) - FSO Control CLI Utility
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.1](https://github.com/ossf/scorecard-action/releases/tag/v2.3.1), 5 days ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 1 week ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.25.15](https://github.com/kubernetes/kubernetes/releases/tag/v1.25.15), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.3](https://github.com/kubernetes/release/releases/tag/v0.16.3), 2 weeks ago) - Release infrastructure for Kubernetes and related components
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [:book: CODEOWNERS: Support distribution of code reviews via team assignments](https://github.com/ossf/scorecard/pull/3620) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
+- [:book: CODEOWNERS: Support distribution of code reviews via team assignments](https://github.com/ossf/scorecard/pull/3620) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [Liaison updates following 2023 Steering election](https://github.com/kubernetes/community/pull/7560) on [kubernetes/community](https://github.com/kubernetes/community) (3 weeks ago)
 - [project_maintainers: Update Kubernetes memberships](https://github.com/cncf/foundation/pull/643) on [cncf/foundation](https://github.com/cncf/foundation) (3 weeks ago)
 - [Update Steering members following 2023 election cycle](https://github.com/kubernetes/k8s.io/pull/5918) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (3 weeks ago)
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [caniszczyk/opensource-relicensing](https://github.com/caniszczyk/opensource-relicensing) -  (2 days ago)
+- [caniszczyk/opensource-relicensing](https://github.com/caniszczyk/opensource-relicensing) -  (3 days ago)
 - [ossf/scorecard-dependencyanalysis](https://github.com/ossf/scorecard-dependencyanalysis) - Scorecard action for checking when new dependencies are added to the repository.  (1 month ago)
 - [package-url/packageurl-go](https://github.com/package-url/packageurl-go) - Go implementation of the package url spec (1 month ago)
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor (1 month ago)
