@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [ossf/si-tooling](https://github.com/ossf/si-tooling) -  (today)
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (1 week ago)
 - [caniszczyk/opensource-relicensing](https://github.com/caniszczyk/opensource-relicensing) -  (1 week ago)
 - [ossf/scorecard-dependencyanalysis](https://github.com/ossf/scorecard-dependencyanalysis) - Scorecard action for checking when new dependencies are added to the repository.  (1 month ago)
@@ -57,7 +58,6 @@
 - [cncf/clo-ui](https://github.com/cncf/clo-ui) - UI components and styles shared across CLO* projects (2 months ago)
 - [cncf/gitvote](https://github.com/cncf/gitvote) - GitVote is a GitHub application that allows holding a vote on issues and pull requests (2 months ago)
 - [cncf/clomonitor](https://github.com/cncf/clomonitor) - CLOMonitor is a tool that periodically checks open source projects repositories to verify they meet certain project health best practices (2 months ago)
-- [ospoco/AzureChatGPT](https://github.com/ospoco/AzureChatGPT) -  🤖 Azure ChatGPT: Private &amp; secure ChatGPT for internal enterprise use 💼 credits : https://github.com/microsoft/azurechatgpt (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
