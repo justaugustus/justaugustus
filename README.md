@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0-alpha.3), 3 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0-alpha.3), 4 days ago) - Production-Grade Container Scheduling and Management
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.51.1](https://github.com/cisco-open/fsoc/releases/tag/v0.51.1), 1 week ago) - FSO Control CLI Utility
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.6](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.6), 1 week ago) - 
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.1](https://github.com/ossf/scorecard-action/releases/tag/v2.3.1), 1 week ago) - Official GitHub Action for OpenSSF Scorecard.
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.1](https://github.com/ossf/scorecard-action/releases/tag/v2.3.1), 2 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 2 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.3](https://github.com/kubernetes/release/releases/tag/v0.16.3), 3 weeks ago) - Release infrastructure for Kubernetes and related components
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.4](https://github.com/airconduct/go-probot/releases/tag/v0.0.4), 2 months ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [ossf/si-tooling](https://github.com/ossf/si-tooling) -  (today)
+- [ossf/si-tooling](https://github.com/ossf/si-tooling) -  (1 day ago)
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (1 week ago)
 - [caniszczyk/opensource-relicensing](https://github.com/caniszczyk/opensource-relicensing) -  (1 week ago)
 - [ossf/scorecard-dependencyanalysis](https://github.com/ossf/scorecard-dependencyanalysis) - Scorecard action for checking when new dependencies are added to the repository.  (1 month ago)
