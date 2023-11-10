@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -  (today)
 - [ossf/si-tooling](https://github.com/ossf/si-tooling) -  (5 days ago)
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (1 week ago)
 - [caniszczyk/opensource-relicensing](https://github.com/caniszczyk/opensource-relicensing) -  (2 weeks ago)
@@ -57,7 +58,6 @@
 - [cncf/clotributor](https://github.com/cncf/clotributor) - Discover great opportunities to become a Cloud Native contributor (2 months ago)
 - [cncf/clo-ui](https://github.com/cncf/clo-ui) - UI components and styles shared across CLO* projects (2 months ago)
 - [cncf/gitvote](https://github.com/cncf/gitvote) - GitVote is a GitHub application that allows holding a vote on issues and pull requests (2 months ago)
-- [cncf/clomonitor](https://github.com/cncf/clomonitor) - CLOMonitor is a tool that periodically checks open source projects repositories to verify they meet certain project health best practices (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
