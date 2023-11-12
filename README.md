@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cisco-open/opensource.cisco.com](https://github.com/cisco-open/opensource.cisco.com) - Website configuration for opensource.cisco.com (4 days ago)
+- [cisco-open/opensource.cisco.com](https://github.com/cisco-open/opensource.cisco.com) - Website configuration for opensource.cisco.com (5 days ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 weeks ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 month ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.52.0-pre1](https://github.com/cisco-open/fsoc/releases/tag/v0.52.0-pre1), today) - FSO Control CLI Utility
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.52.0-pre1](https://github.com/cisco-open/fsoc/releases/tag/v0.52.0-pre1), 1 day ago) - FSO Control CLI Utility
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0-alpha.3), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.6](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.6), 2 weeks ago) - 
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.1](https://github.com/ossf/scorecard-action/releases/tag/v2.3.1), 2 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
@@ -48,12 +48,12 @@
 
 #### ⭐ Recent Stars
 
-- [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -  (1 day ago)
-- [ossf/si-tooling](https://github.com/ossf/si-tooling) -  (6 days ago)
+- [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -  (2 days ago)
+- [ossf/si-tooling](https://github.com/ossf/si-tooling) -  (1 week ago)
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (2 weeks ago)
 - [caniszczyk/opensource-relicensing](https://github.com/caniszczyk/opensource-relicensing) -  (2 weeks ago)
 - [ossf/scorecard-dependencyanalysis](https://github.com/ossf/scorecard-dependencyanalysis) - Scorecard action for checking when new dependencies are added to the repository.  (1 month ago)
-- [package-url/packageurl-go](https://github.com/package-url/packageurl-go) - Go implementation of the package url spec (1 month ago)
+- [package-url/packageurl-go](https://github.com/package-url/packageurl-go) - Go implementation of the package url spec (2 months ago)
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor (2 months ago)
 - [cncf/clotributor](https://github.com/cncf/clotributor) - Discover great opportunities to become a Cloud Native contributor (2 months ago)
 - [cncf/clo-ui](https://github.com/cncf/clo-ui) - UI components and styles shared across CLO* projects (2 months ago)
