@@ -22,9 +22,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.7](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.7), today) - 
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.53.0](https://github.com/cisco-open/fsoc/releases/tag/v0.53.0), 1 day ago) - FSO Control CLI Utility
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.0-alpha.3), 1 week ago) - Production-Grade Container Scheduling and Management
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.6](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.6), 2 weeks ago) - 
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.1](https://github.com/ossf/scorecard-action/releases/tag/v2.3.1), 3 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 3 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.3](https://github.com/kubernetes/release/releases/tag/v0.16.3), 1 month ago) - Release infrastructure for Kubernetes and related components
