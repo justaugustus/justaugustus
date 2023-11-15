@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.28.4](https://github.com/kubernetes/kubernetes/releases/tag/v1.28.4), today) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.11](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.11), today) - Production-Grade Container Scheduling and Management
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.4](https://github.com/kubernetes/release/releases/tag/v0.16.4), today) - Release infrastructure for Kubernetes and related components
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.7](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.7), 1 day ago) - 
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.53.0](https://github.com/cisco-open/fsoc/releases/tag/v0.53.0), 2 days ago) - FSO Control CLI Utility
