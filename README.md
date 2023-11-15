@@ -48,6 +48,8 @@
 
 #### ⭐ Recent Stars
 
+- [imjasonh/gcpslog](https://github.com/imjasonh/gcpslog) - Lightweight structured logging for Google Cloud using `slog` (today)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (today)
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -  (5 days ago)
 - [ossf/si-tooling](https://github.com/ossf/si-tooling) -  (1 week ago)
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (2 weeks ago)
@@ -56,8 +58,6 @@
 - [package-url/packageurl-go](https://github.com/package-url/packageurl-go) - Go implementation of the package url spec (2 months ago)
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor (2 months ago)
 - [cncf/clotributor](https://github.com/cncf/clotributor) - Discover great opportunities to become a Cloud Native contributor (2 months ago)
-- [cncf/clo-ui](https://github.com/cncf/clo-ui) - UI components and styles shared across CLO* projects (2 months ago)
-- [cncf/gitvote](https://github.com/cncf/gitvote) - GitVote is a GitHub application that allows holding a vote on issues and pull requests (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
