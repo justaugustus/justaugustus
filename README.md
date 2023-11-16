@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.11](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.11), today) - Production-Grade Container Scheduling and Management
-- [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.4](https://github.com/kubernetes/release/releases/tag/v0.16.4), today) - Release infrastructure for Kubernetes and related components
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.7](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.7), 1 day ago) - 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.53.0](https://github.com/cisco-open/fsoc/releases/tag/v0.53.0), 2 days ago) - FSO Control CLI Utility
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.26.11](https://github.com/kubernetes/kubernetes/releases/tag/v1.26.11), 1 day ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.4](https://github.com/kubernetes/release/releases/tag/v0.16.4), 1 day ago) - Release infrastructure for Kubernetes and related components
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.7](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.7), 2 days ago) - 
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.53.0](https://github.com/cisco-open/fsoc/releases/tag/v0.53.0), 3 days ago) - FSO Control CLI Utility
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.1](https://github.com/ossf/scorecard-action/releases/tag/v2.3.1), 3 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 3 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.4](https://github.com/airconduct/go-probot/releases/tag/v0.0.4), 2 months ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
@@ -48,9 +48,9 @@
 
 #### ⭐ Recent Stars
 
-- [imjasonh/gcpslog](https://github.com/imjasonh/gcpslog) - Lightweight structured logging for Google Cloud using `slog` (today)
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (today)
-- [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -  (5 days ago)
+- [imjasonh/gcpslog](https://github.com/imjasonh/gcpslog) - Lightweight structured logging for Google Cloud using `slog` (1 day ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (1 day ago)
+- [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -  (6 days ago)
 - [ossf/si-tooling](https://github.com/ossf/si-tooling) -  (1 week ago)
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (2 weeks ago)
 - [caniszczyk/opensource-relicensing](https://github.com/caniszczyk/opensource-relicensing) -  (3 weeks ago)
