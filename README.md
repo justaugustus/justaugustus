@@ -11,7 +11,6 @@
 
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (1 day ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 day ago)
-- [cisco-open/opensource.cisco.com](https://github.com/cisco-open/opensource.cisco.com) - Website configuration for opensource.cisco.com (1 week ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 weeks ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
 - [cncf/foundation](https://github.com/cncf/foundation) - ☁️♮🏛File non-technical issues related to CNCF (1 month ago)
@@ -19,6 +18,7 @@
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 month ago)
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (1 month ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (2 months ago)
+- [onlytacos/lookitup.baby](https://github.com/onlytacos/lookitup.baby) - you&#39;ll see our names on it (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [helpers: Add uwu-tools/magex](https://github.com/magefile/awesome-mage/pull/4) on [magefile/awesome-mage](https://github.com/magefile/awesome-mage) (today)
 - [:book: CODEOWNERS: Support distribution of code reviews via team assignments](https://github.com/ossf/scorecard/pull/3620) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 weeks ago)
 - [Liaison updates following 2023 Steering election](https://github.com/kubernetes/community/pull/7560) on [kubernetes/community](https://github.com/kubernetes/community) (1 month ago)
 - [project_maintainers: Update Kubernetes memberships](https://github.com/cncf/foundation/pull/643) on [cncf/foundation](https://github.com/cncf/foundation) (1 month ago)
@@ -44,7 +45,6 @@
 - [steering: Update committee members following annual election cycle](https://github.com/kubernetes/community/pull/7558) on [kubernetes/community](https://github.com/kubernetes/community) (1 month ago)
 - [k/test-infra: Carry pull requests](https://github.com/uwu-tools/peribolos/pull/258) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 months ago)
 - [k/org: Add `restrictions` tool and force strict YAML unmarshalling](https://github.com/uwu-tools/peribolos/pull/257) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 months ago)
-- [Add grady-uml redirect](https://github.com/onlytacos/lookitup.baby/pull/10) on [onlytacos/lookitup.baby](https://github.com/onlytacos/lookitup.baby) (2 months ago)
 
 #### ⭐ Recent Stars
 
