@@ -9,6 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (today)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (1 day ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 day ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 weeks ago)
@@ -18,7 +19,6 @@
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 month ago)
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (1 month ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (2 months ago)
-- [onlytacos/lookitup.baby](https://github.com/onlytacos/lookitup.baby) - you&#39;ll see our names on it (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
