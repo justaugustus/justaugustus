@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (today)
 - [imjasonh/gcpslog](https://github.com/imjasonh/gcpslog) - Lightweight structured logging for Google Cloud using `slog` (4 days ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (4 days ago)
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -  (1 week ago)
@@ -57,7 +58,6 @@
 - [ossf/scorecard-dependencyanalysis](https://github.com/ossf/scorecard-dependencyanalysis) - Scorecard action for checking when new dependencies are added to the repository.  (2 months ago)
 - [package-url/packageurl-go](https://github.com/package-url/packageurl-go) - Go implementation of the package url spec (2 months ago)
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor (2 months ago)
-- [cncf/clotributor](https://github.com/cncf/clotributor) - Discover great opportunities to become a Cloud Native contributor (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
