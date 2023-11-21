@@ -9,9 +9,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 day ago)
 - [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (2 days ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (3 days ago)
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (3 days ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 weeks ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
 - [cncf/foundation](https://github.com/cncf/foundation) - ☁️♮🏛File non-technical issues related to CNCF (1 month ago)
