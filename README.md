@@ -9,9 +9,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 day ago)
-- [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (2 days ago)
-- [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (3 days ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (2 days ago)
+- [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (3 days ago)
+- [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (4 days ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 weeks ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
 - [cncf/foundation](https://github.com/cncf/foundation) - ☁️♮🏛File non-technical issues related to CNCF (1 month ago)
@@ -22,12 +22,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.4](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.4), 1 day ago) - Interfaces and implementations for building Kubernetes releases.
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.55.0](https://github.com/cisco-open/fsoc/releases/tag/v0.55.0), 3 days ago) - Cisco Observability Platform Control CLI Utility
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.25.16](https://github.com/kubernetes/kubernetes/releases/tag/v1.25.16), 5 days ago) - Production-Grade Container Scheduling and Management
-- [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.4](https://github.com/kubernetes/release/releases/tag/v0.16.4), 6 days ago) - Release infrastructure for Kubernetes and related components
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.4](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.4), 2 days ago) - Interfaces and implementations for building Kubernetes releases.
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.55.0](https://github.com/cisco-open/fsoc/releases/tag/v0.55.0), 4 days ago) - Cisco Observability Platform Control CLI Utility
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.25.16](https://github.com/kubernetes/kubernetes/releases/tag/v1.25.16), 6 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.4](https://github.com/kubernetes/release/releases/tag/v0.16.4), 1 week ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.7](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.7), 1 week ago) - 
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.1](https://github.com/ossf/scorecard-action/releases/tag/v2.3.1), 4 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.1](https://github.com/ossf/scorecard-action/releases/tag/v2.3.1), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.4](https://github.com/airconduct/go-probot/releases/tag/v0.0.4), 2 months ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.28](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.28), 3 months ago) - Kubernetes website and documentation repo: 
@@ -35,7 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [helpers: Add uwu-tools/magex](https://github.com/magefile/awesome-mage/pull/4) on [magefile/awesome-mage](https://github.com/magefile/awesome-mage) (2 days ago)
+- [helpers: Add uwu-tools/magex](https://github.com/magefile/awesome-mage/pull/4) on [magefile/awesome-mage](https://github.com/magefile/awesome-mage) (3 days ago)
 - [:book: CODEOWNERS: Support distribution of code reviews via team assignments](https://github.com/ossf/scorecard/pull/3620) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 weeks ago)
 - [Liaison updates following 2023 Steering election](https://github.com/kubernetes/community/pull/7560) on [kubernetes/community](https://github.com/kubernetes/community) (1 month ago)
 - [project_maintainers: Update Kubernetes memberships](https://github.com/cncf/foundation/pull/643) on [cncf/foundation](https://github.com/cncf/foundation) (1 month ago)
@@ -48,13 +48,13 @@
 
 #### ⭐ Recent Stars
 
-- [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (2 days ago)
-- [imjasonh/gcpslog](https://github.com/imjasonh/gcpslog) - Lightweight structured logging for Google Cloud using `slog` (6 days ago)
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (6 days ago)
+- [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (3 days ago)
+- [imjasonh/gcpslog](https://github.com/imjasonh/gcpslog) - Lightweight structured logging for Google Cloud using `slog` (1 week ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (1 week ago)
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -  (1 week ago)
 - [ossf/si-tooling](https://github.com/ossf/si-tooling) -  (2 weeks ago)
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (3 weeks ago)
-- [caniszczyk/opensource-relicensing](https://github.com/caniszczyk/opensource-relicensing) -  (3 weeks ago)
+- [caniszczyk/opensource-relicensing](https://github.com/caniszczyk/opensource-relicensing) -  (4 weeks ago)
 - [ossf/scorecard-dependencyanalysis](https://github.com/ossf/scorecard-dependencyanalysis) - Scorecard action for checking when new dependencies are added to the repository.  (2 months ago)
 - [package-url/packageurl-go](https://github.com/package-url/packageurl-go) - Go implementation of the package url spec (2 months ago)
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor (2 months ago)
