@@ -25,12 +25,12 @@
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.4](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.4), 1 week ago) - Interfaces and implementations for building Kubernetes releases.
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.55.0](https://github.com/cisco-open/fsoc/releases/tag/v0.55.0), 1 week ago) - Cisco Observability Platform Control CLI Utility
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.4](https://github.com/kubernetes/release/releases/tag/v0.16.4), 1 week ago) - Release infrastructure for Kubernetes and related components
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.7](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.7), 1 week ago) - 
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.7](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.7), 2 weeks ago) - 
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.1](https://github.com/ossf/scorecard-action/releases/tag/v2.3.1), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.4](https://github.com/airconduct/go-probot/releases/tag/v0.0.4), 2 months ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 5 months ago) - Container and file artifact promotion tooling for the Kubernetes project
-- [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 6 months ago) - Helper methods for Magefiles
+- [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 7 months ago) - Helper methods for Magefiles
 - [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.3](https://github.com/openclarity/functionclarity/releases/tag/v1.0.3), 10 months ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
 
 #### 🔨 My recent Pull Requests
