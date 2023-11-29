@@ -61,6 +61,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [natalisucks](https://github.com/natalisucks)
 - [ikurochkin](https://github.com/ikurochkin)
 - [AntGarSil](https://github.com/AntGarSil)
 - [wrslatz](https://github.com/wrslatz)
@@ -70,6 +71,5 @@
 - [abhijeetgauravm](https://github.com/abhijeetgauravm)
 - [hoyho](https://github.com/hoyho)
 - [bogdanovicdev](https://github.com/bogdanovicdev)
-- [AudMonte01](https://github.com/AudMonte01)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
