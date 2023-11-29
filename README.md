@@ -24,7 +24,7 @@
 
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.4](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.4), 1 week ago) - Interfaces and implementations for building Kubernetes releases.
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.55.0](https://github.com/cisco-open/fsoc/releases/tag/v0.55.0), 1 week ago) - Cisco Observability Platform Control CLI Utility
-- [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.4](https://github.com/kubernetes/release/releases/tag/v0.16.4), 1 week ago) - Release infrastructure for Kubernetes and related components
+- [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.4](https://github.com/kubernetes/release/releases/tag/v0.16.4), 2 weeks ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.7](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.7), 2 weeks ago) - 
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.1](https://github.com/ossf/scorecard-action/releases/tag/v2.3.1), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
@@ -49,8 +49,8 @@
 #### ⭐ Recent Stars
 
 - [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (1 week ago)
-- [imjasonh/gcpslog](https://github.com/imjasonh/gcpslog) - Lightweight structured logging for Google Cloud using `slog` (1 week ago)
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (1 week ago)
+- [imjasonh/gcpslog](https://github.com/imjasonh/gcpslog) - Lightweight structured logging for Google Cloud using `slog` (2 weeks ago)
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (2 weeks ago)
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -  (2 weeks ago)
 - [ossf/si-tooling](https://github.com/ossf/si-tooling) -  (3 weeks ago)
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (1 month ago)
