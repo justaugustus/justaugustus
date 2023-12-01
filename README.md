@@ -31,7 +31,6 @@
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.4](https://github.com/airconduct/go-probot/releases/tag/v0.0.4), 3 months ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 5 months ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 7 months ago) - Helper methods for Magefiles
-- [openclarity/functionclarity](https://github.com/openclarity/functionclarity) ([v1.0.3](https://github.com/openclarity/functionclarity/releases/tag/v1.0.3), 10 months ago) - FunctionClarity is an infrastructure solution for signing and verifying serverless functions
 
 #### 🔨 My recent Pull Requests
 
