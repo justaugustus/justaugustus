@@ -11,9 +11,9 @@
 
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 week ago)
 - [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (1 week ago)
-- [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (1 week ago)
+- [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (2 weeks ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 months ago)
 - [cncf/foundation](https://github.com/cncf/foundation) - ☁️♮🏛File non-technical issues related to CNCF (2 months ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 months ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 months ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.56.0](https://github.com/cisco-open/fsoc/releases/tag/v0.56.0), today) - Cisco Observability Platform Control CLI Utility
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.56.0](https://github.com/cisco-open/fsoc/releases/tag/v0.56.0), 1 day ago) - Cisco Observability Platform Control CLI Utility
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.10.4](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.10.4), 1 week ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes/release](https://github.com/kubernetes/release) ([v0.16.4](https://github.com/kubernetes/release/releases/tag/v0.16.4), 2 weeks ago) - Release infrastructure for Kubernetes and related components
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.7](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.7), 2 weeks ago) - 
