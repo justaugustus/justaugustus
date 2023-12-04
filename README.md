@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (today)
 - [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter (today)
 - [kusaridev/skootrs](https://github.com/kusaridev/skootrs) - A CLI tool for creating secure by design/default source repos. (today)
 - [mlieberman85/talks](https://github.com/mlieberman85/talks) - My talks (today)
@@ -56,7 +57,6 @@
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (2 weeks ago)
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -  (3 weeks ago)
 - [ossf/si-tooling](https://github.com/ossf/si-tooling) -  (4 weeks ago)
-- [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
