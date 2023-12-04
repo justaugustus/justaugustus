@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter (today)
 - [kusaridev/skootrs](https://github.com/kusaridev/skootrs) - A CLI tool for creating secure by design/default source repos. (today)
 - [mlieberman85/talks](https://github.com/mlieberman85/talks) - My talks (today)
 - [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions) - A set of reusable GitHub actions based on the Kubernetes Release Engineering Tooling (2 days ago)
@@ -56,7 +57,6 @@
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -  (3 weeks ago)
 - [ossf/si-tooling](https://github.com/ossf/si-tooling) -  (4 weeks ago)
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (1 month ago)
-- [caniszczyk/opensource-relicensing](https://github.com/caniszczyk/opensource-relicensing) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
