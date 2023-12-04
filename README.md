@@ -47,6 +47,8 @@
 
 #### ⭐ Recent Stars
 
+- [kusaridev/skootrs](https://github.com/kusaridev/skootrs) - A CLI tool for creating secure by design/default source repos. (today)
+- [mlieberman85/talks](https://github.com/mlieberman85/talks) - My talks (today)
 - [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions) - A set of reusable GitHub actions based on the Kubernetes Release Engineering Tooling (2 days ago)
 - [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (2 weeks ago)
 - [imjasonh/gcpslog](https://github.com/imjasonh/gcpslog) - Lightweight structured logging for Google Cloud using `slog` (2 weeks ago)
@@ -55,8 +57,6 @@
 - [ossf/si-tooling](https://github.com/ossf/si-tooling) -  (4 weeks ago)
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (1 month ago)
 - [caniszczyk/opensource-relicensing](https://github.com/caniszczyk/opensource-relicensing) -  (1 month ago)
-- [ossf/scorecard-dependencyanalysis](https://github.com/ossf/scorecard-dependencyanalysis) - Scorecard action for checking when new dependencies are added to the repository.  (2 months ago)
-- [package-url/packageurl-go](https://github.com/package-url/packageurl-go) - Go implementation of the package url spec (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
