@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/47) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (today)
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/45) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (today)
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/40) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (2 weeks ago)
 - [workflows: Fix target branch for scorecard report pull requests](https://github.com/cisco-ospo/.github/pull/39) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (2 weeks ago)
@@ -42,7 +43,6 @@
 - [reports: Touch Scorecard Monitor config files](https://github.com/cisco-ospo/.github/pull/35) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (2 weeks ago)
 - [Add Scorecard Monitor reporting for initial Cisco organizations](https://github.com/cisco-ospo/.github/pull/34) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (2 weeks ago)
 - [helpers: Add uwu-tools/magex](https://github.com/magefile/awesome-mage/pull/4) on [magefile/awesome-mage](https://github.com/magefile/awesome-mage) (1 month ago)
-- [:book: CODEOWNERS: Support distribution of code reviews via team assignments](https://github.com/ossf/scorecard/pull/3620) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 month ago)
 
 #### ⭐ Recent Stars
 
