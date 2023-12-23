@@ -59,6 +59,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [danmanners](https://github.com/danmanners)
 - [Pranab-Pratik-Sahoo](https://github.com/Pranab-Pratik-Sahoo)
 - [natalisucks](https://github.com/natalisucks)
 - [ikurochkin](https://github.com/ikurochkin)
@@ -68,6 +69,5 @@
 - [JuliaMurray](https://github.com/JuliaMurray)
 - [akshay-nimbal](https://github.com/akshay-nimbal)
 - [abhijeetgauravm](https://github.com/abhijeetgauravm)
-- [hoyho](https://github.com/hoyho)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
