@@ -59,6 +59,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [tcchawla](https://github.com/tcchawla)
 - [b-](https://github.com/b-)
 - [nidr0x](https://github.com/nidr0x)
 - [danmanners](https://github.com/danmanners)
@@ -68,6 +69,5 @@
 - [AntGarSil](https://github.com/AntGarSil)
 - [wrslatz](https://github.com/wrslatz)
 - [gianlucam76](https://github.com/gianlucam76)
-- [JuliaMurray](https://github.com/JuliaMurray)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
