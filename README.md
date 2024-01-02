@@ -59,6 +59,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [b-abderrahmane](https://github.com/b-abderrahmane)
 - [chxmxii](https://github.com/chxmxii)
 - [tcchawla](https://github.com/tcchawla)
 - [b-](https://github.com/b-)
@@ -68,6 +69,5 @@
 - [natalisucks](https://github.com/natalisucks)
 - [ikurochkin](https://github.com/ikurochkin)
 - [AntGarSil](https://github.com/AntGarSil)
-- [wrslatz](https://github.com/wrslatz)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
