@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - a ✨ special ✨ repository for special things 💫 (3 days ago)
+- [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - a ✨ special ✨ repository for special things 💫 (4 days ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 month ago)
 - [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (1 month ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (1 month ago)
@@ -32,20 +32,20 @@
 
 #### 🔨 My recent Pull Requests
 
-- [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/53) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (3 days ago)
+- [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/53) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (4 days ago)
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/47) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (2 weeks ago)
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/45) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (2 weeks ago)
-- [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/40) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (4 weeks ago)
-- [workflows: Fix target branch for scorecard report pull requests](https://github.com/cisco-ospo/.github/pull/39) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (4 weeks ago)
-- [reports: Remove Scorecard Monitor DB file to trigger auto-generation](https://github.com/cisco-ospo/.github/pull/38) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (4 weeks ago)
-- [reports: Remove Scorecard Monitor scope to trigger auto-generation](https://github.com/cisco-ospo/.github/pull/37) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (4 weeks ago)
-- [reports: Ensure Scorecard Monitor configs are valid JSON](https://github.com/cisco-ospo/.github/pull/36) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (4 weeks ago)
-- [reports: Touch Scorecard Monitor config files](https://github.com/cisco-ospo/.github/pull/35) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (4 weeks ago)
-- [Add Scorecard Monitor reporting for initial Cisco organizations](https://github.com/cisco-ospo/.github/pull/34) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (4 weeks ago)
+- [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/40) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
+- [workflows: Fix target branch for scorecard report pull requests](https://github.com/cisco-ospo/.github/pull/39) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
+- [reports: Remove Scorecard Monitor DB file to trigger auto-generation](https://github.com/cisco-ospo/.github/pull/38) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
+- [reports: Remove Scorecard Monitor scope to trigger auto-generation](https://github.com/cisco-ospo/.github/pull/37) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
+- [reports: Ensure Scorecard Monitor configs are valid JSON](https://github.com/cisco-ospo/.github/pull/36) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
+- [reports: Touch Scorecard Monitor config files](https://github.com/cisco-ospo/.github/pull/35) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
+- [Add Scorecard Monitor reporting for initial Cisco organizations](https://github.com/cisco-ospo/.github/pull/34) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (4 weeks ago)
+- [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (1 month ago)
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (1 month ago)
 - [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter (1 month ago)
 - [kusaridev/skootrs](https://github.com/kusaridev/skootrs) - A CLI tool for creating secure by design/default source repos. (1 month ago)
