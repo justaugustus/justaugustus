@@ -9,16 +9,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (today)
 - [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - a ✨ special ✨ repository for special things 💫 (1 week ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 month ago)
 - [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (1 month ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (1 month ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 months ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (3 months ago)
-- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (3 months ago)
-- [cncf/foundation](https://github.com/cncf/foundation) - ☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here. (3 months ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (3 months ago)
-- [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (3 months ago)
+- [cncf/foundation](https://github.com/cncf/foundation) - ☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here. (3 months ago)
+- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [release-1.30: Fix typo in Kat&#39;s name](https://github.com/kubernetes/sig-release/pull/2406) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (today)
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/53) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 week ago)
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/47) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (2 weeks ago)
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/45) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (2 weeks ago)
@@ -41,7 +42,6 @@
 - [reports: Remove Scorecard Monitor scope to trigger auto-generation](https://github.com/cisco-ospo/.github/pull/37) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
 - [reports: Ensure Scorecard Monitor configs are valid JSON](https://github.com/cisco-ospo/.github/pull/36) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
 - [reports: Touch Scorecard Monitor config files](https://github.com/cisco-ospo/.github/pull/35) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
-- [Add Scorecard Monitor reporting for initial Cisco organizations](https://github.com/cisco-ospo/.github/pull/34) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
 
 #### ⭐ Recent Stars
 
