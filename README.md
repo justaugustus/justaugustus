@@ -58,6 +58,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [drewhagen](https://github.com/drewhagen)
 - [isheriff123](https://github.com/isheriff123)
 - [b-abderrahmane](https://github.com/b-abderrahmane)
 - [chxmxii](https://github.com/chxmxii)
@@ -67,6 +68,5 @@
 - [danmanners](https://github.com/danmanners)
 - [Pranab-Pratik-Sahoo](https://github.com/Pranab-Pratik-Sahoo)
 - [natalisucks](https://github.com/natalisucks)
-- [ikurochkin](https://github.com/ikurochkin)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
