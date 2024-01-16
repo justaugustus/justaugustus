@@ -58,6 +58,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [mostafalarki1368mos](https://github.com/mostafalarki1368mos)
 - [SD-13](https://github.com/SD-13)
 - [salaxander](https://github.com/salaxander)
 - [drewhagen](https://github.com/drewhagen)
@@ -67,6 +68,5 @@
 - [tcchawla](https://github.com/tcchawla)
 - [b-](https://github.com/b-)
 - [nidr0x](https://github.com/nidr0x)
-- [danmanners](https://github.com/danmanners)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
