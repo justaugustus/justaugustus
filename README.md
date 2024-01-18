@@ -12,7 +12,7 @@
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 week ago)
 - [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - a ✨ special ✨ repository for special things 💫 (2 weeks ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 month ago)
-- [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (1 month ago)
+- [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (2 months ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (2 months ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 months ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (3 months ago)
@@ -25,9 +25,9 @@
 - [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.57.0](https://github.com/cisco-open/fsoc/releases/tag/v0.57.0), 1 month ago) - Cisco Observability Platform Control CLI Utility
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.7](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.7), 2 months ago) - 
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.1](https://github.com/ossf/scorecard-action/releases/tag/v2.3.1), 2 months ago) - Official GitHub Action for OpenSSF Scorecard.
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 2 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 3 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.4](https://github.com/airconduct/go-probot/releases/tag/v0.0.4), 4 months ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 6 months ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.4](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.4), 7 months ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 8 months ago) - Helper methods for Magefiles
 
 #### 🔨 My recent Pull Requests
@@ -51,7 +51,7 @@
 - [kusaridev/skootrs](https://github.com/kusaridev/skootrs) - A CLI tool for creating secure by design/default source repos. (1 month ago)
 - [mlieberman85/talks](https://github.com/mlieberman85/talks) - My talks (1 month ago)
 - [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions) - A set of reusable GitHub actions based on the Kubernetes Release Engineering Tooling (1 month ago)
-- [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (1 month ago)
+- [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (2 months ago)
 - [imjasonh/gcpslog](https://github.com/imjasonh/gcpslog) - Lightweight structured logging for Google Cloud using `slog` (2 months ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (2 months ago)
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -  (2 months ago)
