@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.57.1](https://github.com/cisco-open/fsoc/releases/tag/v0.57.1), today) - Cisco Observability Platform Control CLI Utility
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) ([v2.0.0-beta7](https://github.com/UlisesGascon/openssf-scorecard-monitor/releases/tag/v2.0.0-beta7), today) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.57.0](https://github.com/cisco-open/fsoc/releases/tag/v0.57.0), 1 month ago) - Cisco Observability Platform Control CLI Utility
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.7](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.7), 2 months ago) - 
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.1](https://github.com/ossf/scorecard-action/releases/tag/v2.3.1), 2 months ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 3 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
