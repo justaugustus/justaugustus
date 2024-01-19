@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Minor docs cleanup](https://github.com/UlisesGascon/openssf-scorecard-monitor/pull/72) on [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) (today)
 - [release-1.30: Fix typo in Kat&#39;s name](https://github.com/kubernetes/sig-release/pull/2406) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (1 week ago)
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/53) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (2 weeks ago)
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/47) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
@@ -40,7 +41,6 @@
 - [reports: Remove Scorecard Monitor DB file to trigger auto-generation](https://github.com/cisco-ospo/.github/pull/38) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
 - [reports: Remove Scorecard Monitor scope to trigger auto-generation](https://github.com/cisco-ospo/.github/pull/37) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
 - [reports: Ensure Scorecard Monitor configs are valid JSON](https://github.com/cisco-ospo/.github/pull/36) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
-- [reports: Touch Scorecard Monitor config files](https://github.com/cisco-ospo/.github/pull/35) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
 
 #### ⭐ Recent Stars
 
