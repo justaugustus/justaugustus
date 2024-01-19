@@ -33,8 +33,8 @@
 
 - [release-1.30: Fix typo in Kat&#39;s name](https://github.com/kubernetes/sig-release/pull/2406) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (1 week ago)
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/53) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (2 weeks ago)
-- [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/47) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (4 weeks ago)
-- [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/45) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (4 weeks ago)
+- [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/47) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
+- [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/45) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/40) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
 - [workflows: Fix target branch for scorecard report pull requests](https://github.com/cisco-ospo/.github/pull/39) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
 - [reports: Remove Scorecard Monitor DB file to trigger auto-generation](https://github.com/cisco-ospo/.github/pull/38) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
