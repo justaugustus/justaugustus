@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (1 day ago)
+- [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (2 days ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 week ago)
 - [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - a ✨ special ✨ repository for special things 💫 (2 weeks ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 month ago)
@@ -22,17 +22,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.57.2](https://github.com/cisco-open/fsoc/releases/tag/v0.57.2), 1 day ago) - Cisco Observability Platform Control CLI Utility
-- [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) ([v2.0.0-beta7](https://github.com/UlisesGascon/openssf-scorecard-monitor/releases/tag/v2.0.0-beta7), 1 day ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
+- [cisco-open/fsoc](https://github.com/cisco-open/fsoc) ([v0.57.2](https://github.com/cisco-open/fsoc/releases/tag/v0.57.2), 2 days ago) - Cisco Observability Platform Control CLI Utility
+- [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) ([v2.0.0-beta7](https://github.com/UlisesGascon/openssf-scorecard-monitor/releases/tag/v2.0.0-beta7), 2 days ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.7](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.7), 2 months ago) - 
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.1](https://github.com/ossf/scorecard-action/releases/tag/v2.3.1), 2 months ago) - Official GitHub Action for OpenSSF Scorecard.
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.1](https://github.com/ossf/scorecard-action/releases/tag/v2.3.1), 3 months ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 3 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [airconduct/go-probot](https://github.com/airconduct/go-probot) ([v0.0.4](https://github.com/airconduct/go-probot/releases/tag/v0.0.4), 4 months ago) - 🤖 A framework in Golang for building GitHub Apps to automate and improve your workflow, inspired by Probot
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 8 months ago) - Helper methods for Magefiles
 
 #### 🔨 My recent Pull Requests
 
-- [Minor docs cleanup](https://github.com/UlisesGascon/openssf-scorecard-monitor/pull/72) on [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) (1 day ago)
+- [Minor docs cleanup](https://github.com/UlisesGascon/openssf-scorecard-monitor/pull/72) on [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) (2 days ago)
 - [release-1.30: Fix typo in Kat&#39;s name](https://github.com/kubernetes/sig-release/pull/2406) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (1 week ago)
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/53) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (2 weeks ago)
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/47) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
