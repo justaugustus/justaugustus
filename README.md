@@ -9,10 +9,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - a ✨ special ✨ repository for special things 💫 (4 days ago)
-- [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (1 week ago)
+- [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - a ✨ special ✨ repository for special things 💫 (5 days ago)
+- [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (2 weeks ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (3 weeks ago)
-- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (1 month ago)
+- [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (2 months ago)
 - [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (2 months ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (2 months ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 months ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) ([v2.0.0-beta7](https://github.com/UlisesGascon/openssf-scorecard-monitor/releases/tag/v2.0.0-beta7), 1 week ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
+- [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) ([v2.0.0-beta7](https://github.com/UlisesGascon/openssf-scorecard-monitor/releases/tag/v2.0.0-beta7), 2 weeks ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.7](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.7), 2 months ago) - 
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.1](https://github.com/ossf/scorecard-action/releases/tag/v2.3.1), 3 months ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v4.13.1](https://github.com/ossf/scorecard/releases/tag/v4.13.1), 3 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
@@ -30,7 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Minor docs cleanup](https://github.com/UlisesGascon/openssf-scorecard-monitor/pull/72) on [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) (1 week ago)
+- [Minor docs cleanup](https://github.com/UlisesGascon/openssf-scorecard-monitor/pull/72) on [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) (2 weeks ago)
 - [release-1.30: Fix typo in Kat&#39;s name](https://github.com/kubernetes/sig-release/pull/2406) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (3 weeks ago)
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/53) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/47) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
@@ -44,10 +44,10 @@
 #### ⭐ Recent Stars
 
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (1 month ago)
-- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (1 month ago)
-- [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter (1 month ago)
-- [kusaridev/skootrs](https://github.com/kusaridev/skootrs) - A CLI tool for creating secure by design/default source repos. (1 month ago)
-- [mlieberman85/talks](https://github.com/mlieberman85/talks) - My talks (1 month ago)
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (2 months ago)
+- [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter (2 months ago)
+- [kusaridev/skootrs](https://github.com/kusaridev/skootrs) - A CLI tool for creating secure by design/default source repos. (2 months ago)
+- [mlieberman85/talks](https://github.com/mlieberman85/talks) - My talks (2 months ago)
 - [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions) - A set of reusable GitHub actions based on the Kubernetes Release Engineering Tooling (2 months ago)
 - [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (2 months ago)
 - [imjasonh/gcpslog](https://github.com/imjasonh/gcpslog) - Lightweight structured logging for Google Cloud using `slog` (2 months ago)
