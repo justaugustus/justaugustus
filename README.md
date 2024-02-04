@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - a ✨ special ✨ repository for special things 💫 (6 days ago)
+- [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - a ✨ special ✨ repository for special things 💫 (1 week ago)
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (2 weeks ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (3 weeks ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (2 months ago)
@@ -35,15 +35,15 @@
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/53) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/47) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/45) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
-- [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/40) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
-- [workflows: Fix target branch for scorecard report pull requests](https://github.com/cisco-ospo/.github/pull/39) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
-- [reports: Remove Scorecard Monitor DB file to trigger auto-generation](https://github.com/cisco-ospo/.github/pull/38) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
-- [reports: Remove Scorecard Monitor scope to trigger auto-generation](https://github.com/cisco-ospo/.github/pull/37) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
-- [reports: Ensure Scorecard Monitor configs are valid JSON](https://github.com/cisco-ospo/.github/pull/36) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 month ago)
+- [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/40) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (2 months ago)
+- [workflows: Fix target branch for scorecard report pull requests](https://github.com/cisco-ospo/.github/pull/39) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (2 months ago)
+- [reports: Remove Scorecard Monitor DB file to trigger auto-generation](https://github.com/cisco-ospo/.github/pull/38) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (2 months ago)
+- [reports: Remove Scorecard Monitor scope to trigger auto-generation](https://github.com/cisco-ospo/.github/pull/37) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (2 months ago)
+- [reports: Ensure Scorecard Monitor configs are valid JSON](https://github.com/cisco-ospo/.github/pull/36) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (1 month ago)
+- [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (2 months ago)
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (2 months ago)
 - [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter (2 months ago)
 - [kusaridev/skootrs](https://github.com/kusaridev/skootrs) - A CLI tool for creating secure by design/default source repos. (2 months ago)
