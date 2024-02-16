@@ -43,6 +43,8 @@
 
 #### ⭐ Recent Stars
 
+- [github/evergreen](https://github.com/github/evergreen) - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file (today)
+- [github/contributors](https://github.com/github/contributors) - GitHub Action that given an organization or repository, produces information about the contributors over the specified time period. (today)
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (2 months ago)
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (2 months ago)
 - [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter (2 months ago)
@@ -51,8 +53,6 @@
 - [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions) - A set of reusable GitHub actions based on the Kubernetes Release Engineering Tooling (2 months ago)
 - [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (2 months ago)
 - [imjasonh/gcpslog](https://github.com/imjasonh/gcpslog) - Lightweight structured logging for Google Cloud using `slog` (3 months ago)
-- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (3 months ago)
-- [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -  (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
