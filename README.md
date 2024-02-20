@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers (today)
 - [github/evergreen](https://github.com/github/evergreen) - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file (4 days ago)
 - [github/contributors](https://github.com/github/contributors) - GitHub Action that given an organization or repository, produces information about the contributors over the specified time period. (4 days ago)
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (2 months ago)
@@ -53,7 +54,6 @@
 - [mlieberman85/talks](https://github.com/mlieberman85/talks) - My talks (2 months ago)
 - [kubernetes-sigs/release-actions](https://github.com/kubernetes-sigs/release-actions) - A set of reusable GitHub actions based on the Kubernetes Release Engineering Tooling (2 months ago)
 - [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (3 months ago)
-- [imjasonh/gcpslog](https://github.com/imjasonh/gcpslog) - Lightweight structured logging for Google Cloud using `slog` (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
