@@ -57,7 +57,6 @@
 
 #### 👯 Check out some of my recent followers
 
-- [rafaelbmateus](https://github.com/rafaelbmateus)
 - [zvfvrv](https://github.com/zvfvrv)
 - [SD-13](https://github.com/SD-13)
 - [salaxander](https://github.com/salaxander)
@@ -67,5 +66,6 @@
 - [chxmxii](https://github.com/chxmxii)
 - [tcchawla](https://github.com/tcchawla)
 - [b-](https://github.com/b-)
+- [nidr0x](https://github.com/nidr0x)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
