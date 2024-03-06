@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower (6 days ago)
+- [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower (1 week ago)
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers (2 weeks ago)
 - [github/evergreen](https://github.com/github/evergreen) - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file (2 weeks ago)
 - [github/contributors](https://github.com/github/contributors) - GitHub Action that given an organization or repository, produces information about the contributors over the specified time period. (2 weeks ago)
