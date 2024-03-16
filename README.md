@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) ([v1.0.0](https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.0), 3 weeks ago) - Open Source Project Template
+- [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) ([v1.0.0](https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.0), 4 weeks ago) - Open Source Project Template
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) ([v2.0.0-beta7](https://github.com/UlisesGascon/openssf-scorecard-monitor/releases/tag/v2.0.0-beta7), 1 month ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.7.7](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.7.7), 4 months ago) - 
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.1](https://github.com/ossf/scorecard-action/releases/tag/v2.3.1), 4 months ago) - Official GitHub Action for OpenSSF Scorecard.
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [github/cleanowners](https://github.com/github/cleanowners) - A GitHub Action to suggest removal of non-organization members from CODEOWNERS files (6 days ago)
+- [github/cleanowners](https://github.com/github/cleanowners) - A GitHub Action to suggest removal of non-organization members from CODEOWNERS files (1 week ago)
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower (2 weeks ago)
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers (3 weeks ago)
 - [github/evergreen](https://github.com/github/evergreen) - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file (4 weeks ago)
