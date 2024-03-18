@@ -57,6 +57,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [beeehappyandfree](https://github.com/beeehappyandfree)
 - [wexkalebur](https://github.com/wexkalebur)
 - [zvfvrv](https://github.com/zvfvrv)
 - [SD-13](https://github.com/SD-13)
@@ -66,6 +67,5 @@
 - [b-abderrahmane](https://github.com/b-abderrahmane)
 - [chxmxii](https://github.com/chxmxii)
 - [tcchawla](https://github.com/tcchawla)
-- [b-](https://github.com/b-)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
