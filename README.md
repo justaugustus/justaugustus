@@ -9,9 +9,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (today)
 - [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (1 month ago)
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (2 months ago)
-- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (2 months ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (3 months ago)
 - [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (4 months ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (4 months ago)
@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [v1.30: Docs personnel update](https://github.com/kubernetes/sig-release/pull/2458) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (today)
 - [Minor docs cleanup](https://github.com/UlisesGascon/openssf-scorecard-monitor/pull/72) on [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) (2 months ago)
 - [release-1.30: Fix typo in Kat&#39;s name](https://github.com/kubernetes/sig-release/pull/2406) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (2 months ago)
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/53) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (2 months ago)
@@ -40,7 +41,6 @@
 - [workflows: Fix target branch for scorecard report pull requests](https://github.com/cisco-ospo/.github/pull/39) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (3 months ago)
 - [reports: Remove Scorecard Monitor DB file to trigger auto-generation](https://github.com/cisco-ospo/.github/pull/38) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (3 months ago)
 - [reports: Remove Scorecard Monitor scope to trigger auto-generation](https://github.com/cisco-ospo/.github/pull/37) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (3 months ago)
-- [reports: Ensure Scorecard Monitor configs are valid JSON](https://github.com/cisco-ospo/.github/pull/36) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (3 months ago)
 
 #### ⭐ Recent Stars
 
