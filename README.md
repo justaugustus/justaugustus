@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [DSACMS/repo-scaffolder](https://github.com/DSACMS/repo-scaffolder) - Templates and commandline tools for creating repositories for US Federal open source projects  (today)
 - [github-community-projects/internal-contribution-forks](https://github.com/github-community-projects/internal-contribution-forks) - A GitHub App that allows you to contribute upstream using a &#34;private fork&#34; (today)
 - [github/cleanowners](https://github.com/github/cleanowners) - A GitHub Action to suggest removal of non-organization members from CODEOWNERS files (2 weeks ago)
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower (3 weeks ago)
@@ -53,7 +54,6 @@
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (3 months ago)
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (3 months ago)
 - [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter (3 months ago)
-- [kusaridev/skootrs](https://github.com/kusaridev/skootrs) - A CLI tool for creating secure by design/default source repos. (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
