@@ -57,6 +57,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [magisystem0408](https://github.com/magisystem0408)
 - [przemone](https://github.com/przemone)
 - [beeehappyandfree](https://github.com/beeehappyandfree)
 - [wexkalebur](https://github.com/wexkalebur)
@@ -66,6 +67,5 @@
 - [drewhagen](https://github.com/drewhagen)
 - [isheriff123](https://github.com/isheriff123)
 - [b-abderrahmane](https://github.com/b-abderrahmane)
-- [chxmxii](https://github.com/chxmxii)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
