@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (6 days ago)
+- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 week ago)
 - [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (2 months ago)
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (2 months ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (3 months ago)
@@ -31,7 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [v1.30: Docs personnel update](https://github.com/kubernetes/sig-release/pull/2458) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (6 days ago)
+- [v1.30: Docs personnel update](https://github.com/kubernetes/sig-release/pull/2458) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (1 week ago)
 - [Minor docs cleanup](https://github.com/UlisesGascon/openssf-scorecard-monitor/pull/72) on [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) (2 months ago)
 - [release-1.30: Fix typo in Kat&#39;s name](https://github.com/kubernetes/sig-release/pull/2406) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (2 months ago)
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/53) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (3 months ago)
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [DSACMS/repo-scaffolder](https://github.com/DSACMS/repo-scaffolder) - Templates and commandline tools for creating repositories for US Federal open source projects  (5 days ago)
-- [github-community-projects/internal-contribution-forks](https://github.com/github-community-projects/internal-contribution-forks) - A GitHub App that allows you to contribute upstream using a &#34;private fork&#34; (5 days ago)
+- [DSACMS/repo-scaffolder](https://github.com/DSACMS/repo-scaffolder) - Templates and commandline tools for creating repositories for US Federal open source projects  (6 days ago)
+- [github-community-projects/internal-contribution-forks](https://github.com/github-community-projects/internal-contribution-forks) - A GitHub App that allows you to contribute upstream using a &#34;private fork&#34; (6 days ago)
 - [github/cleanowners](https://github.com/github/cleanowners) - A GitHub Action to suggest removal of non-organization members from CODEOWNERS files (3 weeks ago)
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower (1 month ago)
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers (1 month ago)
