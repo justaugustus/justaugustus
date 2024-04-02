@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [Everything-Open-Source/open-source-events](https://github.com/Everything-Open-Source/open-source-events) - A list of Open Source conferences or events to look out for. (today)
 - [DSACMS/repo-scaffolder](https://github.com/DSACMS/repo-scaffolder) - Templates and commandline tools for creating repositories for US Federal open source projects  (1 week ago)
 - [github-community-projects/internal-contribution-forks](https://github.com/github-community-projects/internal-contribution-forks) - A GitHub App that allows you to contribute upstream using a &#34;private fork&#34; (1 week ago)
 - [github/cleanowners](https://github.com/github/cleanowners) - A GitHub Action to suggest removal of non-organization members from CODEOWNERS files (3 weeks ago)
@@ -53,7 +54,6 @@
 - [github/contributors](https://github.com/github/contributors) - GitHub Action that given an organization or repository, produces information about the contributors over the specified time period. (1 month ago)
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (3 months ago)
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices (4 months ago)
-- [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
