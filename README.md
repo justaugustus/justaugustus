@@ -57,6 +57,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [kehoecj](https://github.com/kehoecj)
 - [kbhuvanteja](https://github.com/kbhuvanteja)
 - [magisystem0408](https://github.com/magisystem0408)
 - [przemone](https://github.com/przemone)
@@ -66,6 +67,5 @@
 - [SD-13](https://github.com/SD-13)
 - [salaxander](https://github.com/salaxander)
 - [drewhagen](https://github.com/drewhagen)
-- [isheriff123](https://github.com/isheriff123)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
