@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.8.0](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.8.0), 3 days ago) - 
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.8.1](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.8.1), today) - 
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) ([v1.0.0](https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.0), 1 month ago) - Open Source Project Template
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) ([v2.0.0-beta7](https://github.com/UlisesGascon/openssf-scorecard-monitor/releases/tag/v2.0.0-beta7), 2 months ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.1](https://github.com/ossf/scorecard-action/releases/tag/v2.3.1), 5 months ago) - Official GitHub Action for OpenSSF Scorecard.
@@ -57,6 +57,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [matoszz](https://github.com/matoszz)
 - [kehoecj](https://github.com/kehoecj)
 - [kbhuvanteja](https://github.com/kbhuvanteja)
 - [magisystem0408](https://github.com/magisystem0408)
@@ -66,6 +67,5 @@
 - [zvfvrv](https://github.com/zvfvrv)
 - [SD-13](https://github.com/SD-13)
 - [salaxander](https://github.com/salaxander)
-- [drewhagen](https://github.com/drewhagen)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
