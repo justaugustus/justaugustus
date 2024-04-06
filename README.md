@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.8.1](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.8.1), today) - 
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.8.1](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.8.1), 1 day ago) - 
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) ([v1.0.0](https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.0), 1 month ago) - Open Source Project Template
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) ([v2.0.0-beta7](https://github.com/UlisesGascon/openssf-scorecard-monitor/releases/tag/v2.0.0-beta7), 2 months ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.1](https://github.com/ossf/scorecard-action/releases/tag/v2.3.1), 5 months ago) - Official GitHub Action for OpenSSF Scorecard.
@@ -44,10 +44,10 @@
 
 #### ⭐ Recent Stars
 
-- [Everything-Open-Source/open-source-events](https://github.com/Everything-Open-Source/open-source-events) - A list of Open Source conferences or events to look out for. (3 days ago)
+- [Everything-Open-Source/open-source-events](https://github.com/Everything-Open-Source/open-source-events) - A list of Open Source conferences or events to look out for. (4 days ago)
 - [DSACMS/repo-scaffolder](https://github.com/DSACMS/repo-scaffolder) - Templates and commandline tools for creating repositories for US Federal open source projects  (1 week ago)
 - [github-community-projects/internal-contribution-forks](https://github.com/github-community-projects/internal-contribution-forks) - A GitHub App that allows you to contribute upstream using a &#34;private fork&#34; (1 week ago)
-- [github/cleanowners](https://github.com/github/cleanowners) - A GitHub Action to suggest removal of non-organization members from CODEOWNERS files (3 weeks ago)
+- [github/cleanowners](https://github.com/github/cleanowners) - A GitHub Action to suggest removal of non-organization members from CODEOWNERS files (4 weeks ago)
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower (1 month ago)
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers (1 month ago)
 - [github/evergreen](https://github.com/github/evergreen) - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file (1 month ago)
