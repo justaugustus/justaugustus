@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (2 weeks ago)
+- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (3 weeks ago)
 - [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (2 months ago)
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (2 months ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (4 months ago)
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc1](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc1), 2 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc1](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc1), 3 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.8.1](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.8.1), 1 week ago) - 
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) ([v1.0.0](https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.0), 1 month ago) - Open Source Project Template
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) ([v2.0.0-beta7](https://github.com/UlisesGascon/openssf-scorecard-monitor/releases/tag/v2.0.0-beta7), 2 months ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
@@ -31,7 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [v1.30: Docs personnel update](https://github.com/kubernetes/sig-release/pull/2458) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (2 weeks ago)
+- [v1.30: Docs personnel update](https://github.com/kubernetes/sig-release/pull/2458) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (3 weeks ago)
 - [Minor docs cleanup](https://github.com/UlisesGascon/openssf-scorecard-monitor/pull/72) on [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) (2 months ago)
 - [release-1.30: Fix typo in Kat&#39;s name](https://github.com/kubernetes/sig-release/pull/2406) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (3 months ago)
 - [OpenSSF Scorecard Report Updated](https://github.com/cisco-ospo/.github/pull/53) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (3 months ago)
