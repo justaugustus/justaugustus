@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc1](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc1), 6 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.8.1](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.8.1), 1 week ago) - 
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc1](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc1), 1 week ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.8.1](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.8.1), 2 weeks ago) - 
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) ([v1.0.0](https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.0), 2 months ago) - Open Source Project Template
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) ([v2.0.0-beta7](https://github.com/UlisesGascon/openssf-scorecard-monitor/releases/tag/v2.0.0-beta7), 3 months ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.1](https://github.com/ossf/scorecard-action/releases/tag/v2.3.1), 5 months ago) - Official GitHub Action for OpenSSF Scorecard.
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (2 days ago)
-- [microsoft/foss-fund](https://github.com/microsoft/foss-fund) - The Microsoft FOSS Fund provides a direct way for Microsoft engineers to participate in the nomination and selection process to help communities and projects they are passionate about. The FOSS Fund provides $10,000 sponsorships to open source projects as selected by Microsoft employees. (3 days ago)
+- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (3 days ago)
+- [microsoft/foss-fund](https://github.com/microsoft/foss-fund) - The Microsoft FOSS Fund provides a direct way for Microsoft engineers to participate in the nomination and selection process to help communities and projects they are passionate about. The FOSS Fund provides $10,000 sponsorships to open source projects as selected by Microsoft employees. (4 days ago)
 - [zkoppert/innersource-crawler](https://github.com/zkoppert/innersource-crawler) - This project creates a repos.json that can be utilized by the SAP InnerSource Portal. (1 week ago)
 - [Everything-Open-Source/open-source-events](https://github.com/Everything-Open-Source/open-source-events) - A list of Open Source conferences or events to look out for. (2 weeks ago)
 - [DSACMS/repo-scaffolder](https://github.com/DSACMS/repo-scaffolder) - Templates and commandline tools for creating repositories for US Federal open source projects  (3 weeks ago)
