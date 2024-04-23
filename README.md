@@ -44,15 +44,15 @@
 
 #### ⭐ Recent Stars
 
-- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant) (today)
-- [contributor-assistant/github-action](https://github.com/contributor-assistant/github-action) - CLA Assistant GitHub Action (today)
-- [splunk/cla-agreement](https://github.com/splunk/cla-agreement) - This repository is used to track contributor license agreement for shared source projects (today)
-- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (6 days ago)
+- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant) (1 day ago)
+- [contributor-assistant/github-action](https://github.com/contributor-assistant/github-action) - CLA Assistant GitHub Action (1 day ago)
+- [splunk/cla-agreement](https://github.com/splunk/cla-agreement) - This repository is used to track contributor license agreement for shared source projects (1 day ago)
+- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (1 week ago)
 - [microsoft/foss-fund](https://github.com/microsoft/foss-fund) - The Microsoft FOSS Fund provides a direct way for Microsoft engineers to participate in the nomination and selection process to help communities and projects they are passionate about. The FOSS Fund provides $10,000 sponsorships to open source projects as selected by Microsoft employees. (1 week ago)
 - [zkoppert/innersource-crawler](https://github.com/zkoppert/innersource-crawler) - This project creates a repos.json that can be utilized by the SAP InnerSource Portal. (2 weeks ago)
-- [Everything-Open-Source/open-source-events](https://github.com/Everything-Open-Source/open-source-events) - A list of Open Source conferences or events to look out for. (2 weeks ago)
-- [DSACMS/repo-scaffolder](https://github.com/DSACMS/repo-scaffolder) - Templates and commandline tools for creating repositories for US Federal open source projects  (3 weeks ago)
-- [github-community-projects/internal-contribution-forks](https://github.com/github-community-projects/internal-contribution-forks) - A GitHub App that allows you to contribute upstream using a &#34;private fork&#34; (3 weeks ago)
+- [Everything-Open-Source/open-source-events](https://github.com/Everything-Open-Source/open-source-events) - A list of Open Source conferences or events to look out for. (3 weeks ago)
+- [DSACMS/repo-scaffolder](https://github.com/DSACMS/repo-scaffolder) - Templates and commandline tools for creating repositories for US Federal open source projects  (4 weeks ago)
+- [github-community-projects/internal-contribution-forks](https://github.com/github-community-projects/internal-contribution-forks) - A GitHub App that allows you to contribute upstream using a &#34;private fork&#34; (4 weeks ago)
 - [github/cleanowners](https://github.com/github/cleanowners) - A GitHub Action to suggest removal of non-organization members from CODEOWNERS files (1 month ago)
 
 #### 👯 Check out some of my recent followers
