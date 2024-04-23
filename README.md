@@ -57,7 +57,6 @@
 
 #### 👯 Check out some of my recent followers
 
-- [Warcop](https://github.com/Warcop)
 - [matoszz](https://github.com/matoszz)
 - [kehoecj](https://github.com/kehoecj)
 - [kbhuvanteja](https://github.com/kbhuvanteja)
@@ -67,5 +66,6 @@
 - [wexkalebur](https://github.com/wexkalebur)
 - [zvfvrv](https://github.com/zvfvrv)
 - [SD-13](https://github.com/SD-13)
+- [salaxander](https://github.com/salaxander)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
