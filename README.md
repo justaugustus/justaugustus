@@ -9,6 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (today)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (4 weeks ago)
 - [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (2 months ago)
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (3 months ago)
@@ -16,7 +17,6 @@
 - [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (5 months ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (5 months ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (5 months ago)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (6 months ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (6 months ago)
 - [cncf/foundation](https://github.com/cncf/foundation) - ☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here. (6 months ago)
 
