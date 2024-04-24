@@ -56,6 +56,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [a1exsok](https://github.com/a1exsok)
 - [Thabokani](https://github.com/Thabokani)
 - [matoszz](https://github.com/matoszz)
 - [kehoecj](https://github.com/kehoecj)
@@ -65,6 +66,5 @@
 - [beeehappyandfree](https://github.com/beeehappyandfree)
 - [wexkalebur](https://github.com/wexkalebur)
 - [zvfvrv](https://github.com/zvfvrv)
-- [SD-13](https://github.com/SD-13)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
