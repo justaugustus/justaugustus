@@ -56,6 +56,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [TheHuman2022](https://github.com/TheHuman2022)
 - [HarshKapoor01](https://github.com/HarshKapoor01)
 - [a1exsok](https://github.com/a1exsok)
 - [Thabokani](https://github.com/Thabokani)
@@ -65,6 +66,5 @@
 - [magisystem0408](https://github.com/magisystem0408)
 - [przemone](https://github.com/przemone)
 - [beeehappyandfree](https://github.com/beeehappyandfree)
-- [wexkalebur](https://github.com/wexkalebur)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
