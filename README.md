@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data (today)
 - [oss-aspen/8Knot](https://github.com/oss-aspen/8Knot) - Dash app in development to serve open source community visualizations using GitHub data from Augur. Hosted app: https://eightknot.osci.io (2 days ago)
 - [contributor-assistant/github-action](https://github.com/contributor-assistant/github-action) - CLA Assistant GitHub Action (2 days ago)
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant) (6 days ago)
@@ -52,7 +53,6 @@
 - [zkoppert/innersource-crawler](https://github.com/zkoppert/innersource-crawler) - This project creates a repos.json that can be utilized by the SAP InnerSource Portal. (3 weeks ago)
 - [Everything-Open-Source/open-source-events](https://github.com/Everything-Open-Source/open-source-events) - A list of Open Source conferences or events to look out for. (3 weeks ago)
 - [DSACMS/repo-scaffolder](https://github.com/DSACMS/repo-scaffolder) - Templates and commandline tools for creating repositories for US Federal open source projects  (1 month ago)
-- [github-community-projects/internal-contribution-forks](https://github.com/github-community-projects/internal-contribution-forks) - A GitHub App that allows you to contribute upstream using a &#34;private fork&#34; (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
