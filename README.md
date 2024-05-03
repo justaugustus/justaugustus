@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (today)
+- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 day ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 week ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 month ago)
@@ -22,19 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc1](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc1), 2 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.8.1](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.8.1), 3 weeks ago) - 
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc1](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc1), 3 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.8.1](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.8.1), 4 weeks ago) - 
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) ([v1.0.0](https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.0), 2 months ago) - Open Source Project Template
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) ([v2.0.0-beta7](https://github.com/UlisesGascon/openssf-scorecard-monitor/releases/tag/v2.0.0-beta7), 3 months ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 - [uwu-tools/magex](https://github.com/uwu-tools/magex) ([v0.10.0](https://github.com/uwu-tools/magex/releases/tag/v0.10.0), 1 year ago) - Helper methods for Magefiles
 
 #### 🔨 My recent Pull Requests
 
-- [gitvote: Update pass threshold to a simple majority](https://github.com/todogroup/governance/pull/330) on [todogroup/governance](https://github.com/todogroup/governance) (today)
-- [[HOLD] Prow migrate](https://github.com/uwu-tools/peribolos/pull/338) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (5 days ago)
-- [gitvote: Do not exclude team maintainers from voting](https://github.com/todogroup/governance/pull/329) on [todogroup/governance](https://github.com/todogroup/governance) (5 days ago)
-- [gitvote: Fix teams configuration](https://github.com/todogroup/governance/pull/328) on [todogroup/governance](https://github.com/todogroup/governance) (5 days ago)
-- [gitvote: Add initial configuration](https://github.com/todogroup/governance/pull/327) on [todogroup/governance](https://github.com/todogroup/governance) (5 days ago)
+- [gitvote: Update pass threshold to a simple majority](https://github.com/todogroup/governance/pull/330) on [todogroup/governance](https://github.com/todogroup/governance) (1 day ago)
+- [[HOLD] Prow migrate](https://github.com/uwu-tools/peribolos/pull/338) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (6 days ago)
+- [gitvote: Do not exclude team maintainers from voting](https://github.com/todogroup/governance/pull/329) on [todogroup/governance](https://github.com/todogroup/governance) (6 days ago)
+- [gitvote: Fix teams configuration](https://github.com/todogroup/governance/pull/328) on [todogroup/governance](https://github.com/todogroup/governance) (6 days ago)
+- [gitvote: Add initial configuration](https://github.com/todogroup/governance/pull/327) on [todogroup/governance](https://github.com/todogroup/governance) (6 days ago)
 - [:book: governance: Adopt Scorecard project charter](https://github.com/ossf/scorecard/pull/4054) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [sig-release: Add inaugural subproject leads](https://github.com/kubernetes/community/pull/7839) on [kubernetes/community](https://github.com/kubernetes/community) (1 week ago)
 - [v1.30: Docs personnel update](https://github.com/kubernetes/sig-release/pull/2458) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (1 month ago)
@@ -43,11 +43,11 @@
 
 #### ⭐ Recent Stars
 
-- [Boeing/config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files (3 days ago)
-- [microsoft/OSPO](https://github.com/microsoft/OSPO) - A place for sharing (3 days ago)
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data (4 days ago)
-- [oss-aspen/8Knot](https://github.com/oss-aspen/8Knot) - Dash app in development to serve open source community visualizations using GitHub data from Augur. Hosted app: https://eightknot.osci.io (6 days ago)
-- [contributor-assistant/github-action](https://github.com/contributor-assistant/github-action) - CLA Assistant GitHub Action (6 days ago)
+- [Boeing/config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files (4 days ago)
+- [microsoft/OSPO](https://github.com/microsoft/OSPO) - A place for sharing (4 days ago)
+- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data (5 days ago)
+- [oss-aspen/8Knot](https://github.com/oss-aspen/8Knot) - Dash app in development to serve open source community visualizations using GitHub data from Augur. Hosted app: https://eightknot.osci.io (1 week ago)
+- [contributor-assistant/github-action](https://github.com/contributor-assistant/github-action) - CLA Assistant GitHub Action (1 week ago)
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant) (1 week ago)
 - [splunk/cla-agreement](https://github.com/splunk/cla-agreement) - This repository is used to track contributor license agreement for shared source projects (1 week ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (2 weeks ago)
