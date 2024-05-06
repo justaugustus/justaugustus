@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (3 days ago)
+- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (4 days ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 week ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [gitvote: Update pass threshold to a simple majority](https://github.com/todogroup/governance/pull/330) on [todogroup/governance](https://github.com/todogroup/governance) (3 days ago)
+- [gitvote: Update pass threshold to a simple majority](https://github.com/todogroup/governance/pull/330) on [todogroup/governance](https://github.com/todogroup/governance) (4 days ago)
 - [[HOLD] Prow migrate](https://github.com/uwu-tools/peribolos/pull/338) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 week ago)
 - [gitvote: Do not exclude team maintainers from voting](https://github.com/todogroup/governance/pull/329) on [todogroup/governance](https://github.com/todogroup/governance) (1 week ago)
 - [gitvote: Fix teams configuration](https://github.com/todogroup/governance/pull/328) on [todogroup/governance](https://github.com/todogroup/governance) (1 week ago)
@@ -41,15 +41,15 @@
 
 #### ⭐ Recent Stars
 
-- [Boeing/config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files (6 days ago)
-- [microsoft/OSPO](https://github.com/microsoft/OSPO) - A place for sharing (6 days ago)
+- [Boeing/config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files (1 week ago)
+- [microsoft/OSPO](https://github.com/microsoft/OSPO) - A place for sharing (1 week ago)
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data (1 week ago)
 - [oss-aspen/8Knot](https://github.com/oss-aspen/8Knot) - Dash app in development to serve open source community visualizations using GitHub data from Augur. Hosted app: https://eightknot.osci.io (1 week ago)
 - [contributor-assistant/github-action](https://github.com/contributor-assistant/github-action) - CLA Assistant GitHub Action (1 week ago)
-- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant) (1 week ago)
-- [splunk/cla-agreement](https://github.com/splunk/cla-agreement) - This repository is used to track contributor license agreement for shared source projects (1 week ago)
+- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant) (2 weeks ago)
+- [splunk/cla-agreement](https://github.com/splunk/cla-agreement) - This repository is used to track contributor license agreement for shared source projects (2 weeks ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (2 weeks ago)
-- [microsoft/foss-fund](https://github.com/microsoft/foss-fund) - The Microsoft FOSS Fund provides a direct way for Microsoft engineers to participate in the nomination and selection process to help communities and projects they are passionate about. The FOSS Fund provides $10,000 sponsorships to open source projects as selected by Microsoft employees. (2 weeks ago)
+- [microsoft/foss-fund](https://github.com/microsoft/foss-fund) - The Microsoft FOSS Fund provides a direct way for Microsoft engineers to participate in the nomination and selection process to help communities and projects they are passionate about. The FOSS Fund provides $10,000 sponsorships to open source projects as selected by Microsoft employees. (3 weeks ago)
 - [zkoppert/innersource-crawler](https://github.com/zkoppert/innersource-crawler) - This project creates a repos.json that can be utilized by the SAP InnerSource Portal. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
