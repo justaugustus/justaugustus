@@ -18,7 +18,7 @@
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (5 months ago)
 - [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (5 months ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (5 months ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (7 months ago)
+- [cncf/foundation](https://github.com/cncf/foundation) - ☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here. (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
