@@ -9,6 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (today)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (5 days ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 weeks ago)
@@ -18,10 +19,10 @@
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (5 months ago)
 - [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (5 months ago)
 - [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (5 months ago)
-- [cncf/foundation](https://github.com/cncf/foundation) - ☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here. (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.10](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.10), 2 weeks ago) - Website and API for OpenSSF Scorecard
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc1](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc1), 3 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) ([v1.0.0](https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.0), 2 months ago) - Open Source Project Template
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) ([v2.0.0-beta7](https://github.com/UlisesGascon/openssf-scorecard-monitor/releases/tag/v2.0.0-beta7), 3 months ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
