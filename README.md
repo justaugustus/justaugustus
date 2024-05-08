@@ -9,8 +9,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (today)
-- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (5 days ago)
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 day ago)
+- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (6 days ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 weeks ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 month ago)
@@ -22,14 +22,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc2](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc2), today) - OpenSSF Scorecard - Security health metrics for Open Source
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc2](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc2), 1 day ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.10](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.10), 2 weeks ago) - Website and API for OpenSSF Scorecard
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) ([v1.0.0](https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.0), 2 months ago) - Open Source Project Template
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) ([v2.0.0-beta7](https://github.com/UlisesGascon/openssf-scorecard-monitor/releases/tag/v2.0.0-beta7), 3 months ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 
 #### 🔨 My recent Pull Requests
 
-- [gitvote: Update pass threshold to a simple majority](https://github.com/todogroup/governance/pull/330) on [todogroup/governance](https://github.com/todogroup/governance) (5 days ago)
+- [gitvote: Update pass threshold to a simple majority](https://github.com/todogroup/governance/pull/330) on [todogroup/governance](https://github.com/todogroup/governance) (6 days ago)
 - [[HOLD] Prow migrate](https://github.com/uwu-tools/peribolos/pull/338) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 week ago)
 - [gitvote: Do not exclude team maintainers from voting](https://github.com/todogroup/governance/pull/329) on [todogroup/governance](https://github.com/todogroup/governance) (1 week ago)
 - [gitvote: Fix teams configuration](https://github.com/todogroup/governance/pull/328) on [todogroup/governance](https://github.com/todogroup/governance) (1 week ago)
@@ -38,7 +38,7 @@
 - [sig-release: Add inaugural subproject leads](https://github.com/kubernetes/community/pull/7839) on [kubernetes/community](https://github.com/kubernetes/community) (2 weeks ago)
 - [v1.30: Docs personnel update](https://github.com/kubernetes/sig-release/pull/2458) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (1 month ago)
 - [Minor docs cleanup](https://github.com/UlisesGascon/openssf-scorecard-monitor/pull/72) on [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) (3 months ago)
-- [release-1.30: Fix typo in Kat&#39;s name](https://github.com/kubernetes/sig-release/pull/2406) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (3 months ago)
+- [release-1.30: Fix typo in Kat&#39;s name](https://github.com/kubernetes/sig-release/pull/2406) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (4 months ago)
 
 #### ⭐ Recent Stars
 
