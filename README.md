@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [chaoss/wg-data-science](https://github.com/chaoss/wg-data-science) - CHAOSS Data Science Working Group: collaborate and improve open source project health using data science-based approaches (today)
 - [SecurityCRob/presentations](https://github.com/SecurityCRob/presentations) - Presentations CRob has given over the years (1 week ago)
 - [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer (1 week ago)
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source (1 week ago)
@@ -52,7 +53,6 @@
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data (3 weeks ago)
 - [oss-aspen/8Knot](https://github.com/oss-aspen/8Knot) - Dash app in development to serve open source community visualizations using GitHub data from Augur. Hosted app: https://eightknot.osci.io (3 weeks ago)
 - [contributor-assistant/github-action](https://github.com/contributor-assistant/github-action) - CLA Assistant GitHub Action (3 weeks ago)
-- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant) (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
