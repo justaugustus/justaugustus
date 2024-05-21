@@ -56,6 +56,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [azenla](https://github.com/azenla)
 - [kapoorharsh01](https://github.com/kapoorharsh01)
 - [Tkthabo](https://github.com/Tkthabo)
 - [TheHuman2022](https://github.com/TheHuman2022)
@@ -65,6 +66,5 @@
 - [matoszz](https://github.com/matoszz)
 - [kehoecj](https://github.com/kehoecj)
 - [kbhuvanteja](https://github.com/kbhuvanteja)
-- [magisystem0408](https://github.com/magisystem0408)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
