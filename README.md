@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) ([v1.0.1](https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.1), 4 days ago) - Open Source Project Template
+- [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) ([v1.0.1](https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.1), 5 days ago) - Open Source Project Template
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.3](https://github.com/ossf/scorecard-action/releases/tag/v2.3.3), 1 week ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc2](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc2), 2 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.10](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.10), 4 weeks ago) - Website and API for OpenSSF Scorecard
@@ -43,11 +43,11 @@
 
 #### ⭐ Recent Stars
 
-- [chaoss/wg-data-science](https://github.com/chaoss/wg-data-science) - CHAOSS Data Science Working Group: collaborate and improve open source project health using data science-based approaches (1 day ago)
+- [chaoss/wg-data-science](https://github.com/chaoss/wg-data-science) - CHAOSS Data Science Working Group: collaborate and improve open source project health using data science-based approaches (2 days ago)
 - [SecurityCRob/presentations](https://github.com/SecurityCRob/presentations) - Presentations CRob has given over the years (1 week ago)
-- [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer (1 week ago)
-- [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source (1 week ago)
-- [actions/create-github-app-token](https://github.com/actions/create-github-app-token) - GitHub Action for creating a GitHub App Installation Access Token (1 week ago)
+- [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer (2 weeks ago)
+- [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source (2 weeks ago)
+- [actions/create-github-app-token](https://github.com/actions/create-github-app-token) - GitHub Action for creating a GitHub App Installation Access Token (2 weeks ago)
 - [Boeing/config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files (3 weeks ago)
 - [microsoft/OSPO](https://github.com/microsoft/OSPO) - A place for sharing (3 weeks ago)
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data (3 weeks ago)
