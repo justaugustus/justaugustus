@@ -11,7 +11,7 @@
 
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (2 weeks ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (3 weeks ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (4 weeks ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (2 months ago)
 - [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (3 months ago)
@@ -30,20 +30,20 @@
 
 #### 🔨 My recent Pull Requests
 
-- [📖 Add repository guidelines e.g., for project donations](https://github.com/ossf/scorecard/pull/4123) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
+- [📖 Add repository guidelines e.g., for project donations](https://github.com/ossf/scorecard/pull/4123) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [gitvote: Update pass threshold to a simple majority](https://github.com/todogroup/governance/pull/330) on [todogroup/governance](https://github.com/todogroup/governance) (3 weeks ago)
-- [[HOLD] Prow migrate](https://github.com/uwu-tools/peribolos/pull/338) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (3 weeks ago)
-- [gitvote: Do not exclude team maintainers from voting](https://github.com/todogroup/governance/pull/329) on [todogroup/governance](https://github.com/todogroup/governance) (3 weeks ago)
-- [gitvote: Fix teams configuration](https://github.com/todogroup/governance/pull/328) on [todogroup/governance](https://github.com/todogroup/governance) (3 weeks ago)
-- [gitvote: Add initial configuration](https://github.com/todogroup/governance/pull/327) on [todogroup/governance](https://github.com/todogroup/governance) (3 weeks ago)
-- [:book: governance: Adopt Scorecard project charter](https://github.com/ossf/scorecard/pull/4054) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 weeks ago)
+- [[HOLD] Prow migrate](https://github.com/uwu-tools/peribolos/pull/338) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (4 weeks ago)
+- [gitvote: Do not exclude team maintainers from voting](https://github.com/todogroup/governance/pull/329) on [todogroup/governance](https://github.com/todogroup/governance) (4 weeks ago)
+- [gitvote: Fix teams configuration](https://github.com/todogroup/governance/pull/328) on [todogroup/governance](https://github.com/todogroup/governance) (4 weeks ago)
+- [gitvote: Add initial configuration](https://github.com/todogroup/governance/pull/327) on [todogroup/governance](https://github.com/todogroup/governance) (4 weeks ago)
+- [:book: governance: Adopt Scorecard project charter](https://github.com/ossf/scorecard/pull/4054) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 month ago)
 - [sig-release: Add inaugural subproject leads](https://github.com/kubernetes/community/pull/7839) on [kubernetes/community](https://github.com/kubernetes/community) (1 month ago)
 - [v1.30: Docs personnel update](https://github.com/kubernetes/sig-release/pull/2458) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (2 months ago)
 - [Minor docs cleanup](https://github.com/UlisesGascon/openssf-scorecard-monitor/pull/72) on [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [chaoss/wg-data-science](https://github.com/chaoss/wg-data-science) - CHAOSS Data Science Working Group: collaborate and improve open source project health using data science-based approaches (4 days ago)
+- [chaoss/wg-data-science](https://github.com/chaoss/wg-data-science) - CHAOSS Data Science Working Group: collaborate and improve open source project health using data science-based approaches (5 days ago)
 - [SecurityCRob/presentations](https://github.com/SecurityCRob/presentations) - Presentations CRob has given over the years (2 weeks ago)
 - [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer (2 weeks ago)
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source (2 weeks ago)
