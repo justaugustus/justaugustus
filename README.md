@@ -30,7 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [📖 Add repository guidelines e.g., for project donations](https://github.com/ossf/scorecard/pull/4123) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
+- [📖 Add repository guidelines e.g., for project donations](https://github.com/ossf/scorecard/pull/4123) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
 - [gitvote: Update pass threshold to a simple majority](https://github.com/todogroup/governance/pull/330) on [todogroup/governance](https://github.com/todogroup/governance) (3 weeks ago)
 - [[HOLD] Prow migrate](https://github.com/uwu-tools/peribolos/pull/338) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (4 weeks ago)
 - [gitvote: Do not exclude team maintainers from voting](https://github.com/todogroup/governance/pull/329) on [todogroup/governance](https://github.com/todogroup/governance) (4 weeks ago)
@@ -43,16 +43,16 @@
 
 #### ⭐ Recent Stars
 
-- [chaoss/wg-data-science](https://github.com/chaoss/wg-data-science) - CHAOSS Data Science Working Group: collaborate and improve open source project health using data science-based approaches (5 days ago)
+- [chaoss/wg-data-science](https://github.com/chaoss/wg-data-science) - CHAOSS Data Science Working Group: collaborate and improve open source project health using data science-based approaches (6 days ago)
 - [SecurityCRob/presentations](https://github.com/SecurityCRob/presentations) - Presentations CRob has given over the years (2 weeks ago)
 - [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer (2 weeks ago)
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source (2 weeks ago)
 - [actions/create-github-app-token](https://github.com/actions/create-github-app-token) - GitHub Action for creating a GitHub App Installation Access Token (2 weeks ago)
 - [Boeing/config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files (3 weeks ago)
 - [microsoft/OSPO](https://github.com/microsoft/OSPO) - A place for sharing (3 weeks ago)
-- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data (3 weeks ago)
-- [oss-aspen/8Knot](https://github.com/oss-aspen/8Knot) - Dash app in development to serve open source community visualizations using GitHub data from Augur. Hosted app: https://eightknot.osci.io (4 weeks ago)
-- [contributor-assistant/github-action](https://github.com/contributor-assistant/github-action) - CLA Assistant GitHub Action (4 weeks ago)
+- [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data (4 weeks ago)
+- [oss-aspen/8Knot](https://github.com/oss-aspen/8Knot) - Dash app in development to serve open source community visualizations using GitHub data from Augur. Hosted app: https://eightknot.osci.io (1 month ago)
+- [contributor-assistant/github-action](https://github.com/contributor-assistant/github-action) - CLA Assistant GitHub Action (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
