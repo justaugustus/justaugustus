@@ -43,6 +43,8 @@
 
 #### ⭐ Recent Stars
 
+- [ossf/wg-securing-critical-projects](https://github.com/ossf/wg-securing-critical-projects) - Helping allocate resources to secure the critical open source projects we all depend on. (today)
+- [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers. (today)
 - [chaoss/wg-data-science](https://github.com/chaoss/wg-data-science) - CHAOSS Data Science Working Group: collaborate and improve open source project health using data science-based approaches (1 week ago)
 - [SecurityCRob/presentations](https://github.com/SecurityCRob/presentations) - Presentations CRob has given over the years (2 weeks ago)
 - [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer (2 weeks ago)
@@ -51,8 +53,6 @@
 - [Boeing/config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files (4 weeks ago)
 - [microsoft/OSPO](https://github.com/microsoft/OSPO) - A place for sharing (4 weeks ago)
 - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data (4 weeks ago)
-- [oss-aspen/8Knot](https://github.com/oss-aspen/8Knot) - Dash app in development to serve open source community visualizations using GitHub data from Augur. Hosted app: https://eightknot.osci.io (1 month ago)
-- [contributor-assistant/github-action](https://github.com/contributor-assistant/github-action) - CLA Assistant GitHub Action (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
