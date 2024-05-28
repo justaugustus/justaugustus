@@ -30,6 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: Add Allstar is now a part of the OpenSSF Scorecard project](https://github.com/ossf/wg-securing-critical-projects/pull/91) on [ossf/wg-securing-critical-projects](https://github.com/ossf/wg-securing-critical-projects) (today)
 - [docs: Add Allstar as part of the OpenSSF Scorecard project](https://github.com/ossf/wg-best-practices-os-developers/pull/504) on [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) (1 day ago)
 - [📖 Add repository guidelines e.g., for project donations](https://github.com/ossf/scorecard/pull/4123) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
 - [gitvote: Update pass threshold to a simple majority](https://github.com/todogroup/governance/pull/330) on [todogroup/governance](https://github.com/todogroup/governance) (3 weeks ago)
@@ -39,7 +40,6 @@
 - [gitvote: Add initial configuration](https://github.com/todogroup/governance/pull/327) on [todogroup/governance](https://github.com/todogroup/governance) (1 month ago)
 - [:book: governance: Adopt Scorecard project charter](https://github.com/ossf/scorecard/pull/4054) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 month ago)
 - [sig-release: Add inaugural subproject leads](https://github.com/kubernetes/community/pull/7839) on [kubernetes/community](https://github.com/kubernetes/community) (1 month ago)
-- [v1.30: Docs personnel update](https://github.com/kubernetes/sig-release/pull/2458) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (2 months ago)
 
 #### ⭐ Recent Stars
 
