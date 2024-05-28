@@ -30,6 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: Adopt OpenSSF Scorecard contributor ladder](https://github.com/ossf/allstar/pull/519) on [ossf/allstar](https://github.com/ossf/allstar) (today)
 - [allstar: Add initial config for Allstar GitHub App](https://github.com/uwu-tools/.github/pull/39) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (today)
 - [:book: MAINTAINERS: Add details on the OpenSSF Scorecard Steering Committee](https://github.com/ossf/scorecard/pull/4129) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [docs: Allstar is now a part of the OpenSSF Scorecard project](https://github.com/ossf/allstar/pull/517) on [ossf/allstar](https://github.com/ossf/allstar) (today)
@@ -39,7 +40,6 @@
 - [gitvote: Update pass threshold to a simple majority](https://github.com/todogroup/governance/pull/330) on [todogroup/governance](https://github.com/todogroup/governance) (3 weeks ago)
 - [[HOLD] Prow migrate](https://github.com/uwu-tools/peribolos/pull/338) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [gitvote: Do not exclude team maintainers from voting](https://github.com/todogroup/governance/pull/329) on [todogroup/governance](https://github.com/todogroup/governance) (1 month ago)
-- [gitvote: Fix teams configuration](https://github.com/todogroup/governance/pull/328) on [todogroup/governance](https://github.com/todogroup/governance) (1 month ago)
 
 #### ⭐ Recent Stars
 
