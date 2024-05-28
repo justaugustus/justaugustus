@@ -9,6 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (today)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 weeks ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (3 weeks ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
@@ -18,7 +19,6 @@
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (4 months ago)
 - [uwu-tools/gh-jira-issue-sync](https://github.com/uwu-tools/gh-jira-issue-sync) - A tool for synchronizing issue tracking from GitHub to Jira (5 months ago)
 - [magefile/awesome-mage](https://github.com/magefile/awesome-mage) - A collection of awesome Mage and Magefile resources (6 months ago)
-- [openclarity/.github](https://github.com/openclarity/.github) - Org-wide GitHub configurations (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -30,6 +30,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [allstar: Add initial config for Allstar GitHub App](https://github.com/uwu-tools/.github/pull/39) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (today)
+- [:book: MAINTAINERS: Add details on the OpenSSF Scorecard Steering Committee](https://github.com/ossf/scorecard/pull/4129) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [docs: Allstar is now a part of the OpenSSF Scorecard project](https://github.com/ossf/allstar/pull/517) on [ossf/allstar](https://github.com/ossf/allstar) (today)
 - [docs: Add Allstar is now a part of the OpenSSF Scorecard project](https://github.com/ossf/wg-securing-critical-projects/pull/91) on [ossf/wg-securing-critical-projects](https://github.com/ossf/wg-securing-critical-projects) (today)
 - [docs: Add Allstar as part of the OpenSSF Scorecard project](https://github.com/ossf/wg-best-practices-os-developers/pull/504) on [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) (1 day ago)
@@ -38,8 +40,6 @@
 - [[HOLD] Prow migrate](https://github.com/uwu-tools/peribolos/pull/338) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (1 month ago)
 - [gitvote: Do not exclude team maintainers from voting](https://github.com/todogroup/governance/pull/329) on [todogroup/governance](https://github.com/todogroup/governance) (1 month ago)
 - [gitvote: Fix teams configuration](https://github.com/todogroup/governance/pull/328) on [todogroup/governance](https://github.com/todogroup/governance) (1 month ago)
-- [gitvote: Add initial configuration](https://github.com/todogroup/governance/pull/327) on [todogroup/governance](https://github.com/todogroup/governance) (1 month ago)
-- [:book: governance: Adopt Scorecard project charter](https://github.com/ossf/scorecard/pull/4054) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 month ago)
 
 #### ⭐ Recent Stars
 
