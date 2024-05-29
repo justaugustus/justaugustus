@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.11](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.11), today) - Website and API for OpenSSF Scorecard
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) ([v1.0.1](https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.1), 1 week ago) - Open Source Project Template
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.3](https://github.com/ossf/scorecard-action/releases/tag/v2.3.3), 2 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc2](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc2), 3 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.10](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.10), 1 month ago) - Website and API for OpenSSF Scorecard
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) ([v2.0.0-beta7](https://github.com/UlisesGascon/openssf-scorecard-monitor/releases/tag/v2.0.0-beta7), 4 months ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 
 #### 🔨 My recent Pull Requests
