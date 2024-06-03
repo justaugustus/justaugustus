@@ -57,6 +57,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Rohit-Kumar18](https://github.com/Rohit-Kumar18)
 - [steffolbum](https://github.com/steffolbum)
 - [azenla](https://github.com/azenla)
 - [kapoorharsh01](https://github.com/kapoorharsh01)
@@ -66,6 +67,5 @@
 - [a1exsok](https://github.com/a1exsok)
 - [Thabokani](https://github.com/Thabokani)
 - [matoszz](https://github.com/matoszz)
-- [kehoecj](https://github.com/kehoecj)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
