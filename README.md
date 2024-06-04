@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [contributors: Add SIG ContribEx as owners](https://github.com/kubernetes/community/pull/7930) on [kubernetes/community](https://github.com/kubernetes/community) (today)
 - [sig-release: Add 2023 meeting notes archive](https://github.com/kubernetes/community/pull/7929) on [kubernetes/community](https://github.com/kubernetes/community) (today)
 - [sig-release: Add subproject leads as reviewers/approvers](https://github.com/kubernetes/org/pull/4995) on [kubernetes/org](https://github.com/kubernetes/org) (1 day ago)
 - [sig-release: Add subproject leads as reviewers/approvers for subdirs](https://github.com/kubernetes/community/pull/7926) on [kubernetes/community](https://github.com/kubernetes/community) (1 day ago)
@@ -40,7 +41,6 @@
 - [docs: Allstar is now a part of the OpenSSF Scorecard project](https://github.com/ossf/allstar/pull/517) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
 - [docs: Add Allstar is now a part of the OpenSSF Scorecard project](https://github.com/ossf/wg-securing-critical-projects/pull/91) on [ossf/wg-securing-critical-projects](https://github.com/ossf/wg-securing-critical-projects) (1 week ago)
 - [docs: Add Allstar as part of the OpenSSF Scorecard project](https://github.com/ossf/wg-best-practices-os-developers/pull/504) on [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) (1 week ago)
-- [📖 Add repository guidelines e.g., for project donations](https://github.com/ossf/scorecard/pull/4123) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 
 #### ⭐ Recent Stars
 
@@ -57,6 +57,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [chubakakid](https://github.com/chubakakid)
 - [Rohit-Kumar18](https://github.com/Rohit-Kumar18)
 - [steffolbum](https://github.com/steffolbum)
 - [azenla](https://github.com/azenla)
@@ -66,6 +67,5 @@
 - [HarshKapoor01](https://github.com/HarshKapoor01)
 - [a1exsok](https://github.com/a1exsok)
 - [Thabokani](https://github.com/Thabokani)
-- [matoszz](https://github.com/matoszz)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
