@@ -22,7 +22,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.11](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.11), 1 week ago) - Website and API for OpenSSF Scorecard
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) ([v1.0.1](https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.1), 2 weeks ago) - Open Source Project Template
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.3](https://github.com/ossf/scorecard-action/releases/tag/v2.3.3), 4 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc2](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc2), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
