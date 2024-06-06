@@ -57,6 +57,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Luckymhe](https://github.com/Luckymhe)
 - [chubakakid](https://github.com/chubakakid)
 - [Rohit-Kumar18](https://github.com/Rohit-Kumar18)
 - [steffolbum](https://github.com/steffolbum)
@@ -66,6 +67,5 @@
 - [TheHuman2022](https://github.com/TheHuman2022)
 - [HarshKapoor01](https://github.com/HarshKapoor01)
 - [a1exsok](https://github.com/a1exsok)
-- [Thabokani](https://github.com/Thabokani)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
