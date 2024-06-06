@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[WIP] Voting updates](https://github.com/todogroup/governance/pull/334) on [todogroup/governance](https://github.com/todogroup/governance) (today)
 - [contributors: Add SIG ContribEx as owners](https://github.com/kubernetes/community/pull/7930) on [kubernetes/community](https://github.com/kubernetes/community) (2 days ago)
 - [sig-release: Add 2023 meeting notes archive](https://github.com/kubernetes/community/pull/7929) on [kubernetes/community](https://github.com/kubernetes/community) (2 days ago)
 - [sig-release: Add subproject leads as reviewers/approvers](https://github.com/kubernetes/org/pull/4995) on [kubernetes/org](https://github.com/kubernetes/org) (3 days ago)
@@ -40,7 +41,6 @@
 - [:book: MAINTAINERS: Add details on the OpenSSF Scorecard Steering Committee](https://github.com/ossf/scorecard/pull/4129) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [docs: Allstar is now a part of the OpenSSF Scorecard project](https://github.com/ossf/allstar/pull/517) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
 - [docs: Add Allstar is now a part of the OpenSSF Scorecard project](https://github.com/ossf/wg-securing-critical-projects/pull/91) on [ossf/wg-securing-critical-projects](https://github.com/ossf/wg-securing-critical-projects) (1 week ago)
-- [docs: Add Allstar as part of the OpenSSF Scorecard project](https://github.com/ossf/wg-best-practices-os-developers/pull/504) on [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) (1 week ago)
 
 #### ⭐ Recent Stars
 
