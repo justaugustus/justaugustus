@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [dcoapp/app](https://github.com/dcoapp/app) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests (today)
 - [ossf/eng-openssf-scorecard](https://github.com/ossf/eng-openssf-scorecard) - OpenSSF Scorecard Analytics (3 days ago)
 - [coreinfrastructure/best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - 🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge) (5 days ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (5 days ago)
@@ -52,7 +53,6 @@
 - [chaoss/wg-data-science](https://github.com/chaoss/wg-data-science) - CHAOSS Data Science Working Group: collaborate and improve open source project health using data science-based approaches (2 weeks ago)
 - [SecurityCRob/presentations](https://github.com/SecurityCRob/presentations) - Presentations CRob has given over the years (1 month ago)
 - [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer (1 month ago)
-- [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
