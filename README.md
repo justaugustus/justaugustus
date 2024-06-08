@@ -9,8 +9,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (3 days ago)
-- [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (4 days ago)
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (4 days ago)
+- [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (5 days ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [ossf/wg-securing-critical-projects](https://github.com/ossf/wg-securing-critical-projects) - Helping allocate resources to secure the critical open source projects we all depend on. (1 week ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 week ago)
@@ -23,18 +23,18 @@
 #### 🔭 Latest releases I've contributed to
 
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) ([v1.0.1](https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.1), 3 weeks ago) - Open Source Project Template
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.3](https://github.com/ossf/scorecard-action/releases/tag/v2.3.3), 4 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.3.3](https://github.com/ossf/scorecard-action/releases/tag/v2.3.3), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0-rc2](https://github.com/ossf/scorecard/releases/tag/v5.0.0-rc2), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.1](https://github.com/ossf/allstar/releases/tag/v4.1), 1 month ago) - GitHub App to set and enforce security policies
 - [UlisesGascon/openssf-scorecard-monitor](https://github.com/UlisesGascon/openssf-scorecard-monitor) ([v2.0.0-beta7](https://github.com/UlisesGascon/openssf-scorecard-monitor/releases/tag/v2.0.0-beta7), 4 months ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 
 #### 🔨 My recent Pull Requests
 
-- [[WIP] Voting updates](https://github.com/todogroup/governance/pull/334) on [todogroup/governance](https://github.com/todogroup/governance) (1 day ago)
-- [contributors: Add SIG ContribEx as owners](https://github.com/kubernetes/community/pull/7930) on [kubernetes/community](https://github.com/kubernetes/community) (3 days ago)
-- [sig-release: Add 2023 meeting notes archive](https://github.com/kubernetes/community/pull/7929) on [kubernetes/community](https://github.com/kubernetes/community) (3 days ago)
-- [sig-release: Add subproject leads as reviewers/approvers](https://github.com/kubernetes/org/pull/4995) on [kubernetes/org](https://github.com/kubernetes/org) (4 days ago)
-- [sig-release: Add subproject leads as reviewers/approvers for subdirs](https://github.com/kubernetes/community/pull/7926) on [kubernetes/community](https://github.com/kubernetes/community) (4 days ago)
+- [[WIP] Voting updates](https://github.com/todogroup/governance/pull/334) on [todogroup/governance](https://github.com/todogroup/governance) (2 days ago)
+- [contributors: Add SIG ContribEx as owners](https://github.com/kubernetes/community/pull/7930) on [kubernetes/community](https://github.com/kubernetes/community) (4 days ago)
+- [sig-release: Add 2023 meeting notes archive](https://github.com/kubernetes/community/pull/7929) on [kubernetes/community](https://github.com/kubernetes/community) (4 days ago)
+- [sig-release: Add subproject leads as reviewers/approvers](https://github.com/kubernetes/org/pull/4995) on [kubernetes/org](https://github.com/kubernetes/org) (5 days ago)
+- [sig-release: Add subproject leads as reviewers/approvers for subdirs](https://github.com/kubernetes/community/pull/7926) on [kubernetes/community](https://github.com/kubernetes/community) (5 days ago)
 - [docs: Adopt OpenSSF Scorecard contributor ladder](https://github.com/ossf/allstar/pull/519) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
 - [allstar: Add initial config for Allstar GitHub App](https://github.com/uwu-tools/.github/pull/39) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 week ago)
 - [:book: MAINTAINERS: Add details on the OpenSSF Scorecard Steering Committee](https://github.com/ossf/scorecard/pull/4129) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
@@ -43,14 +43,14 @@
 
 #### ⭐ Recent Stars
 
-- [ossf/eng-openssf-scorecard](https://github.com/ossf/eng-openssf-scorecard) - OpenSSF Scorecard Analytics (2 days ago)
-- [coreinfrastructure/best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - 🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge) (4 days ago)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (4 days ago)
+- [ossf/eng-openssf-scorecard](https://github.com/ossf/eng-openssf-scorecard) - OpenSSF Scorecard Analytics (3 days ago)
+- [coreinfrastructure/best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - 🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge) (5 days ago)
+- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (5 days ago)
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! (1 week ago)
 - [ossf/wg-securing-critical-projects](https://github.com/ossf/wg-securing-critical-projects) - Helping allocate resources to secure the critical open source projects we all depend on. (1 week ago)
 - [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers. (1 week ago)
 - [chaoss/wg-data-science](https://github.com/chaoss/wg-data-science) - CHAOSS Data Science Working Group: collaborate and improve open source project health using data science-based approaches (2 weeks ago)
-- [SecurityCRob/presentations](https://github.com/SecurityCRob/presentations) - Presentations CRob has given over the years (4 weeks ago)
+- [SecurityCRob/presentations](https://github.com/SecurityCRob/presentations) - Presentations CRob has given over the years (1 month ago)
 - [nayafia/awesome-maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer (1 month ago)
 - [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand) - A handy guide to financial support for open source (1 month ago)
 
