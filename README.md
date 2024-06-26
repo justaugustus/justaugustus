@@ -30,6 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [docs: Minor cleanups including lint warnings and structure](https://github.com/ossf/scorecard-monitor/pull/87) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (today)
 - [Add initial config file for CLOWarden testing](https://github.com/cisco-ospo/.github/pull/185) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 day ago)
 - [[WIP] Voting updates](https://github.com/todogroup/governance/pull/334) on [todogroup/governance](https://github.com/todogroup/governance) (2 weeks ago)
 - [contributors: Add SIG ContribEx as owners](https://github.com/kubernetes/community/pull/7930) on [kubernetes/community](https://github.com/kubernetes/community) (3 weeks ago)
@@ -39,7 +40,6 @@
 - [docs: Adopt OpenSSF Scorecard contributor ladder](https://github.com/ossf/allstar/pull/519) on [ossf/allstar](https://github.com/ossf/allstar) (4 weeks ago)
 - [allstar: Add initial config for Allstar GitHub App](https://github.com/uwu-tools/.github/pull/39) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (4 weeks ago)
 - [:book: MAINTAINERS: Add details on the OpenSSF Scorecard Steering Committee](https://github.com/ossf/scorecard/pull/4129) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 weeks ago)
-- [docs: Allstar is now a part of the OpenSSF Scorecard project](https://github.com/ossf/allstar/pull/517) on [ossf/allstar](https://github.com/ossf/allstar) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
