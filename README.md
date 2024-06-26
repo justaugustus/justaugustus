@@ -9,8 +9,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (today)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
+- [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (1 day ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
 - [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (2 weeks ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (3 weeks ago)
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (3 weeks ago)
@@ -18,7 +18,7 @@
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (4 weeks ago)
 - [ossf/wg-securing-critical-projects](https://github.com/ossf/wg-securing-critical-projects) - Helping allocate resources to secure the critical open source projects we all depend on. (4 weeks ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (4 weeks ago)
-- [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers. (4 weeks ago)
+- [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -30,7 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add initial config file for CLOWarden testing](https://github.com/cisco-ospo/.github/pull/185) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (today)
+- [Add initial config file for CLOWarden testing](https://github.com/cisco-ospo/.github/pull/185) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 day ago)
 - [[WIP] Voting updates](https://github.com/todogroup/governance/pull/334) on [todogroup/governance](https://github.com/todogroup/governance) (2 weeks ago)
 - [contributors: Add SIG ContribEx as owners](https://github.com/kubernetes/community/pull/7930) on [kubernetes/community](https://github.com/kubernetes/community) (3 weeks ago)
 - [sig-release: Add 2023 meeting notes archive](https://github.com/kubernetes/community/pull/7929) on [kubernetes/community](https://github.com/kubernetes/community) (3 weeks ago)
@@ -43,15 +43,15 @@
 
 #### ⭐ Recent Stars
 
-- [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (1 day ago)
-- [cncf-tags/org-admin](https://github.com/cncf-tags/org-admin) - Used by CLOWarden to maintain who has access to repos in the cncf-tags org (1 day ago)
+- [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (2 days ago)
+- [cncf-tags/org-admin](https://github.com/cncf-tags/org-admin) - Used by CLOWarden to maintain who has access to repos in the cncf-tags org (2 days ago)
 - [dcoapp/app](https://github.com/dcoapp/app) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests (2 weeks ago)
-- [ossf/eng-openssf-scorecard](https://github.com/ossf/eng-openssf-scorecard) - OpenSSF Scorecard Analytics (2 weeks ago)
+- [ossf/eng-openssf-scorecard](https://github.com/ossf/eng-openssf-scorecard) - OpenSSF Scorecard Analytics (3 weeks ago)
 - [coreinfrastructure/best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - 🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge) (3 weeks ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (3 weeks ago)
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! (3 weeks ago)
-- [ossf/wg-securing-critical-projects](https://github.com/ossf/wg-securing-critical-projects) - Helping allocate resources to secure the critical open source projects we all depend on. (4 weeks ago)
-- [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers. (4 weeks ago)
+- [ossf/wg-securing-critical-projects](https://github.com/ossf/wg-securing-critical-projects) - Helping allocate resources to secure the critical open source projects we all depend on. (1 month ago)
+- [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers. (1 month ago)
 - [chaoss/wg-data-science](https://github.com/chaoss/wg-data-science) - CHAOSS Data Science Working Group: collaborate and improve open source project health using data science-based approaches (1 month ago)
 
 #### 👯 Check out some of my recent followers
