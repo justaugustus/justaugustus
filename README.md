@@ -30,6 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[DRAFT] governance: Draft Incubation application submission](https://github.com/ossf/scorecard/pull/4200) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [docs: Minor cleanups including lint warnings and structure](https://github.com/ossf/scorecard-monitor/pull/87) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (1 day ago)
 - [Add initial config file for CLOWarden testing](https://github.com/cisco-ospo/.github/pull/185) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (2 days ago)
 - [[WIP] Voting updates](https://github.com/todogroup/governance/pull/334) on [todogroup/governance](https://github.com/todogroup/governance) (3 weeks ago)
@@ -39,7 +40,6 @@
 - [sig-release: Add subproject leads as reviewers/approvers for subdirs](https://github.com/kubernetes/community/pull/7926) on [kubernetes/community](https://github.com/kubernetes/community) (3 weeks ago)
 - [docs: Adopt OpenSSF Scorecard contributor ladder](https://github.com/ossf/allstar/pull/519) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
 - [allstar: Add initial config for Allstar GitHub App](https://github.com/uwu-tools/.github/pull/39) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 month ago)
-- [:book: MAINTAINERS: Add details on the OpenSSF Scorecard Steering Committee](https://github.com/ossf/scorecard/pull/4129) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 month ago)
 
 #### ⭐ Recent Stars
 
