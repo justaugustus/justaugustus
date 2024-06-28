@@ -30,6 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [gitvote: Automatically trigger on the proposal of new resolutions](https://github.com/todogroup/governance/pull/337) on [todogroup/governance](https://github.com/todogroup/governance) (today)
 - [[CLOWarden test] Update org.yaml](https://github.com/cisco-ospo/.github/pull/192) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 day ago)
 - [[DRAFT] governance: Draft Incubation application submission](https://github.com/ossf/scorecard/pull/4200) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [docs: Minor cleanups including lint warnings and structure](https://github.com/ossf/scorecard-monitor/pull/87) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (2 days ago)
@@ -39,7 +40,6 @@
 - [sig-release: Add 2023 meeting notes archive](https://github.com/kubernetes/community/pull/7929) on [kubernetes/community](https://github.com/kubernetes/community) (3 weeks ago)
 - [sig-release: Add subproject leads as reviewers/approvers](https://github.com/kubernetes/org/pull/4995) on [kubernetes/org](https://github.com/kubernetes/org) (3 weeks ago)
 - [sig-release: Add subproject leads as reviewers/approvers for subdirs](https://github.com/kubernetes/community/pull/7926) on [kubernetes/community](https://github.com/kubernetes/community) (3 weeks ago)
-- [docs: Adopt OpenSSF Scorecard contributor ladder](https://github.com/ossf/allstar/pull/519) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
 
 #### ⭐ Recent Stars
 
