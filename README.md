@@ -30,6 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [.github: Add initial CODEOWNERS](https://github.com/ossf/allstar/pull/527) on [ossf/allstar](https://github.com/ossf/allstar) (today)
 - [gitvote: Automatically trigger on the proposal of new resolutions](https://github.com/todogroup/governance/pull/337) on [todogroup/governance](https://github.com/todogroup/governance) (3 days ago)
 - [[CLOWarden test] Update org.yaml](https://github.com/cisco-ospo/.github/pull/192) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (4 days ago)
 - [[DRAFT] governance: Draft Incubation application submission](https://github.com/ossf/scorecard/pull/4200) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
@@ -39,7 +40,6 @@
 - [contributors: Add SIG ContribEx as owners](https://github.com/kubernetes/community/pull/7930) on [kubernetes/community](https://github.com/kubernetes/community) (3 weeks ago)
 - [sig-release: Add 2023 meeting notes archive](https://github.com/kubernetes/community/pull/7929) on [kubernetes/community](https://github.com/kubernetes/community) (3 weeks ago)
 - [sig-release: Add subproject leads as reviewers/approvers](https://github.com/kubernetes/org/pull/4995) on [kubernetes/org](https://github.com/kubernetes/org) (4 weeks ago)
-- [sig-release: Add subproject leads as reviewers/approvers for subdirs](https://github.com/kubernetes/community/pull/7926) on [kubernetes/community](https://github.com/kubernetes/community) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
