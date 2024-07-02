@@ -9,8 +9,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (today)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (today)
+- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (today)
 - [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (5 days ago)
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (6 days ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
