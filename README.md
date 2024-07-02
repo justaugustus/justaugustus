@@ -30,6 +30,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [go.mod: Update Scorecard to v5.0.0-rc2](https://github.com/ossf/allstar/pull/534) on [ossf/allstar](https://github.com/ossf/allstar) (today)
+- [.github: Create codeql.yml](https://github.com/ossf/allstar/pull/533) on [ossf/allstar](https://github.com/ossf/allstar) (today)
 - [.github: Add initial CODEOWNERS](https://github.com/ossf/allstar/pull/527) on [ossf/allstar](https://github.com/ossf/allstar) (1 day ago)
 - [gitvote: Automatically trigger on the proposal of new resolutions](https://github.com/todogroup/governance/pull/337) on [todogroup/governance](https://github.com/todogroup/governance) (4 days ago)
 - [[CLOWarden test] Update org.yaml](https://github.com/cisco-ospo/.github/pull/192) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (5 days ago)
@@ -38,8 +40,6 @@
 - [Add initial config file for CLOWarden testing](https://github.com/cisco-ospo/.github/pull/185) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 week ago)
 - [[WIP] Voting updates](https://github.com/todogroup/governance/pull/334) on [todogroup/governance](https://github.com/todogroup/governance) (3 weeks ago)
 - [contributors: Add SIG ContribEx as owners](https://github.com/kubernetes/community/pull/7930) on [kubernetes/community](https://github.com/kubernetes/community) (4 weeks ago)
-- [sig-release: Add 2023 meeting notes archive](https://github.com/kubernetes/community/pull/7929) on [kubernetes/community](https://github.com/kubernetes/community) (4 weeks ago)
-- [sig-release: Add subproject leads as reviewers/approvers](https://github.com/kubernetes/org/pull/4995) on [kubernetes/org](https://github.com/kubernetes/org) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
