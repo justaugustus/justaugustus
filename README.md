@@ -30,6 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:book: Update security policy to be specific to OpenSSF Scorecard](https://github.com/ossf/scorecard/pull/4212) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [Correct references to OpenSSF Scorecard](https://github.com/ossf/allstar/pull/536) on [ossf/allstar](https://github.com/ossf/allstar) (1 day ago)
 - [go.mod: Update Scorecard to v5.0.0-rc2](https://github.com/ossf/allstar/pull/534) on [ossf/allstar](https://github.com/ossf/allstar) (1 day ago)
 - [.github: Create codeql.yml](https://github.com/ossf/allstar/pull/533) on [ossf/allstar](https://github.com/ossf/allstar) (1 day ago)
@@ -39,7 +40,6 @@
 - [[DRAFT] governance: Draft Incubation application submission](https://github.com/ossf/scorecard/pull/4200) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
 - [docs: Minor cleanups including lint warnings and structure](https://github.com/ossf/scorecard-monitor/pull/87) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (1 week ago)
 - [Add initial config file for CLOWarden testing](https://github.com/cisco-ospo/.github/pull/185) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 week ago)
-- [[WIP] Voting updates](https://github.com/todogroup/governance/pull/334) on [todogroup/governance](https://github.com/todogroup/governance) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
