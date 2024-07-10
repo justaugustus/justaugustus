@@ -9,12 +9,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (6 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 week ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 week ago)
 - [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (1 week ago)
-- [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (1 week ago)
-- [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (4 weeks ago)
+- [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (2 weeks ago)
+- [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (1 month ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 month ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 month ago)
@@ -30,8 +30,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [📖 SECURITY: Represent response times in business days instead of hours](https://github.com/ossf/scorecard/pull/4217) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
-- [:book: Update security policy to be specific to OpenSSF Scorecard](https://github.com/ossf/scorecard/pull/4212) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
+- [📖 SECURITY: Represent response times in business days instead of hours](https://github.com/ossf/scorecard/pull/4217) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
+- [:book: Update security policy to be specific to OpenSSF Scorecard](https://github.com/ossf/scorecard/pull/4212) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [Correct references to OpenSSF Scorecard](https://github.com/ossf/allstar/pull/536) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
 - [go.mod: Update Scorecard to v5.0.0-rc2](https://github.com/ossf/allstar/pull/534) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
 - [.github: Create codeql.yml](https://github.com/ossf/allstar/pull/533) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
@@ -39,7 +39,7 @@
 - [gitvote: Automatically trigger on the proposal of new resolutions](https://github.com/todogroup/governance/pull/337) on [todogroup/governance](https://github.com/todogroup/governance) (1 week ago)
 - [[CLOWarden test] Update org.yaml](https://github.com/cisco-ospo/.github/pull/192) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (1 week ago)
 - [[DRAFT] governance: Draft Incubation application submission](https://github.com/ossf/scorecard/pull/4200) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [docs: Minor cleanups including lint warnings and structure](https://github.com/ossf/scorecard-monitor/pull/87) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (1 week ago)
+- [docs: Minor cleanups including lint warnings and structure](https://github.com/ossf/scorecard-monitor/pull/87) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
