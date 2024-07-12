@@ -35,7 +35,7 @@
 - [go.mod: Update Scorecard to v5.0.0-rc2](https://github.com/ossf/allstar/pull/534) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
 - [.github: Create codeql.yml](https://github.com/ossf/allstar/pull/533) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
 - [.github: Add initial CODEOWNERS](https://github.com/ossf/allstar/pull/527) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
-- [gitvote: Automatically trigger on the proposal of new resolutions](https://github.com/todogroup/governance/pull/337) on [todogroup/governance](https://github.com/todogroup/governance) (1 week ago)
+- [gitvote: Automatically trigger on the proposal of new resolutions](https://github.com/todogroup/governance/pull/337) on [todogroup/governance](https://github.com/todogroup/governance) (2 weeks ago)
 - [[CLOWarden test] Update org.yaml](https://github.com/cisco-ospo/.github/pull/192) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (2 weeks ago)
 - [[DRAFT] governance: Draft Incubation application submission](https://github.com/ossf/scorecard/pull/4200) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 weeks ago)
 - [docs: Minor cleanups including lint warnings and structure](https://github.com/ossf/scorecard-monitor/pull/87) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (2 weeks ago)
