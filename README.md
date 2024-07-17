@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [mitre/hipcheck](https://github.com/mitre/hipcheck) - Automatically assess and score software repositories for supply chain risk. (today)
 - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (3 weeks ago)
 - [cncf-tags/org-admin](https://github.com/cncf-tags/org-admin) - Used by CLOWarden to maintain who has access to repos in the cncf-tags org (3 weeks ago)
 - [dcoapp/app](https://github.com/dcoapp/app) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests (1 month ago)
@@ -51,7 +52,6 @@
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! (1 month ago)
 - [ossf/wg-securing-critical-projects](https://github.com/ossf/wg-securing-critical-projects) - Helping allocate resources to secure the critical open source projects we all depend on. (1 month ago)
 - [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers. (1 month ago)
-- [chaoss/wg-data-science](https://github.com/chaoss/wg-data-science) - CHAOSS Data Science Working Group: collaborate and improve open source project health using data science-based approaches (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
