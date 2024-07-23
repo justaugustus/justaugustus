@@ -55,7 +55,6 @@
 
 #### 👯 Check out some of my recent followers
 
-- [vintagewang](https://github.com/vintagewang)
 - [mark8s](https://github.com/mark8s)
 - [KoolTheba](https://github.com/KoolTheba)
 - [Luckymhe](https://github.com/Luckymhe)
@@ -65,5 +64,6 @@
 - [azenla](https://github.com/azenla)
 - [kapoorharsh01](https://github.com/kapoorharsh01)
 - [Tkthabo](https://github.com/Tkthabo)
+- [TheHuman2022](https://github.com/TheHuman2022)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
