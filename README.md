@@ -22,10 +22,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ossf/allstar](https://github.com/ossf/allstar) ([v4.2](https://github.com/ossf/allstar/releases/tag/v4.2), today) - GitHub App to set and enforce security policies
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0](https://github.com/ossf/scorecard/releases/tag/v5.0.0), 4 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) ([v1.0.2](https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.2), 1 week ago) - Open Source Project Template
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) ([v2.0.0-beta8](https://github.com/ossf/scorecard-monitor/releases/tag/v2.0.0-beta8), 3 weeks ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
-- [ossf/allstar](https://github.com/ossf/allstar) ([v4.1](https://github.com/ossf/allstar/releases/tag/v4.1), 2 months ago) - GitHub App to set and enforce security policies
 
 #### 🔨 My recent Pull Requests
 
