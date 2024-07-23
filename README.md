@@ -17,8 +17,8 @@
 - [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (1 month ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 month ago)
-- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 month ago)
 - [ossf/wg-securing-critical-projects](https://github.com/ossf/wg-securing-critical-projects) - Helping allocate resources to secure the critical open source projects we all depend on. (1 month ago)
+- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
