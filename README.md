@@ -24,7 +24,6 @@
 
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.2](https://github.com/ossf/allstar/releases/tag/v4.2), 1 day ago) - GitHub App to set and enforce security policies
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0](https://github.com/ossf/scorecard/releases/tag/v5.0.0), 5 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
-- [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) ([v1.0.2](https://github.com/cisco-ospo/oss-template/releases/tag/v1.0.2), 1 week ago) - Open Source Project Template
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) ([v2.0.0-beta8](https://github.com/ossf/scorecard-monitor/releases/tag/v2.0.0-beta8), 3 weeks ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 
 #### 🔨 My recent Pull Requests
@@ -55,6 +54,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [mouzong](https://github.com/mouzong)
 - [mark8s](https://github.com/mark8s)
 - [KoolTheba](https://github.com/KoolTheba)
 - [Luckymhe](https://github.com/Luckymhe)
@@ -64,6 +64,5 @@
 - [azenla](https://github.com/azenla)
 - [kapoorharsh01](https://github.com/kapoorharsh01)
 - [Tkthabo](https://github.com/Tkthabo)
-- [TheHuman2022](https://github.com/TheHuman2022)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
