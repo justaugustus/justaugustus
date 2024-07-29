@@ -54,6 +54,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Jjajsja](https://github.com/Jjajsja)
 - [mouzong](https://github.com/mouzong)
 - [mark8s](https://github.com/mark8s)
 - [KoolTheba](https://github.com/KoolTheba)
@@ -63,6 +64,5 @@
 - [steffolbum](https://github.com/steffolbum)
 - [azenla](https://github.com/azenla)
 - [kapoorharsh01](https://github.com/kapoorharsh01)
-- [Tkthabo](https://github.com/Tkthabo)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
