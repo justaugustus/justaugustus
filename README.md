@@ -58,11 +58,11 @@
 - [mouzong](https://github.com/mouzong)
 - [mark8s](https://github.com/mark8s)
 - [KoolTheba](https://github.com/KoolTheba)
-- [Luckymhe](https://github.com/Luckymhe)
 - [chubakakid](https://github.com/chubakakid)
 - [Rohit-Kumar18](https://github.com/Rohit-Kumar18)
 - [steffolbum](https://github.com/steffolbum)
 - [azenla](https://github.com/azenla)
 - [kapoorharsh01](https://github.com/kapoorharsh01)
+- [Tkthabo](https://github.com/Tkthabo)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
