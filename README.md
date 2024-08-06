@@ -9,6 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [justaugustus/about](https://github.com/justaugustus/about) -  (today)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 weeks ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 month ago)
@@ -18,7 +19,6 @@
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 months ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 months ago)
 - [ossf/wg-securing-critical-projects](https://github.com/ossf/wg-securing-critical-projects) - Helping allocate resources to secure the critical open source projects we all depend on. (2 months ago)
-- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[2024-08] Content update](https://github.com/justaugustus/about/pull/11) on [justaugustus/about](https://github.com/justaugustus/about) (1 day ago)
+- [[2024-08] Content and structure update](https://github.com/justaugustus/about/pull/11) on [justaugustus/about](https://github.com/justaugustus/about) (1 day ago)
 - [📖 SECURITY: Represent response times in business days instead of hours](https://github.com/ossf/scorecard/pull/4217) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 month ago)
 - [:book: Update security policy to be specific to OpenSSF Scorecard](https://github.com/ossf/scorecard/pull/4212) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 month ago)
 - [Correct references to OpenSSF Scorecard](https://github.com/ossf/allstar/pull/536) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
