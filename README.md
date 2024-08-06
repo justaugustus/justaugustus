@@ -22,13 +22,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/allstar](https://github.com/ossf/allstar) ([v4.2](https://github.com/ossf/allstar/releases/tag/v4.2), 1 week ago) - GitHub App to set and enforce security policies
+- [ossf/allstar](https://github.com/ossf/allstar) ([v4.2](https://github.com/ossf/allstar/releases/tag/v4.2), 2 weeks ago) - GitHub App to set and enforce security policies
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0](https://github.com/ossf/scorecard/releases/tag/v5.0.0), 2 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) ([v2.0.0-beta8](https://github.com/ossf/scorecard-monitor/releases/tag/v2.0.0-beta8), 1 month ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 
 #### 🔨 My recent Pull Requests
 
-- [[2024-08] Content update](https://github.com/justaugustus/about/pull/11) on [justaugustus/about](https://github.com/justaugustus/about) (today)
+- [[2024-08] Content update](https://github.com/justaugustus/about/pull/11) on [justaugustus/about](https://github.com/justaugustus/about) (1 day ago)
 - [📖 SECURITY: Represent response times in business days instead of hours](https://github.com/ossf/scorecard/pull/4217) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 month ago)
 - [:book: Update security policy to be specific to OpenSSF Scorecard](https://github.com/ossf/scorecard/pull/4212) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 month ago)
 - [Correct references to OpenSSF Scorecard](https://github.com/ossf/allstar/pull/536) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
