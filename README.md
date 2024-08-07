@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [justaugustus/about](https://github.com/justaugustus/about) -  (today)
+- [justaugustus/about](https://github.com/justaugustus/about) -  (1 day ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 weeks ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[2024-08] Content and structure update](https://github.com/justaugustus/about/pull/11) on [justaugustus/about](https://github.com/justaugustus/about) (1 day ago)
+- [[2024-08] Content and structure update](https://github.com/justaugustus/about/pull/11) on [justaugustus/about](https://github.com/justaugustus/about) (2 days ago)
 - [📖 SECURITY: Represent response times in business days instead of hours](https://github.com/ossf/scorecard/pull/4217) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 month ago)
 - [:book: Update security policy to be specific to OpenSSF Scorecard](https://github.com/ossf/scorecard/pull/4212) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 month ago)
 - [Correct references to OpenSSF Scorecard](https://github.com/ossf/allstar/pull/536) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
@@ -41,10 +41,10 @@
 
 #### ⭐ Recent Stars
 
-- [mitre/hipcheck](https://github.com/mitre/hipcheck) - Automatically assess and score software repositories for supply chain risk. (2 weeks ago)
+- [mitre/hipcheck](https://github.com/mitre/hipcheck) - Automatically assess and score software repositories for supply chain risk. (3 weeks ago)
 - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (1 month ago)
 - [cncf-tags/org-admin](https://github.com/cncf-tags/org-admin) - Used by CLOWarden to maintain who has access to repos in the cncf-tags org (1 month ago)
-- [dcoapp/app](https://github.com/dcoapp/app) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests (1 month ago)
+- [dcoapp/app](https://github.com/dcoapp/app) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests (2 months ago)
 - [ossf/eng-openssf-scorecard](https://github.com/ossf/eng-openssf-scorecard) - OpenSSF Scorecard Analytics (2 months ago)
 - [coreinfrastructure/best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - 🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge) (2 months ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 months ago)
