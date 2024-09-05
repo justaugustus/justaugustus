@@ -10,7 +10,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (3 weeks ago)
-- [justaugustus/about](https://github.com/justaugustus/about) -  (4 weeks ago)
+- [justaugustus/about](https://github.com/justaugustus/about) -  (1 month ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 month ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 months ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (2 months ago)
