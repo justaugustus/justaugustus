@@ -14,7 +14,7 @@
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 months ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 months ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (2 months ago)
-- [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (2 months ago)
+- [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (3 months ago)
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (3 months ago)
 - [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (3 months ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (3 months ago)
@@ -25,7 +25,7 @@
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.0](https://github.com/ossf/scorecard-action/releases/tag/v2.4.0), 2 months ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.2](https://github.com/ossf/allstar/releases/tag/v4.2), 2 months ago) - GitHub App to set and enforce security policies
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0](https://github.com/ossf/scorecard/releases/tag/v5.0.0), 2 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
-- [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) ([v2.0.0-beta8](https://github.com/ossf/scorecard-monitor/releases/tag/v2.0.0-beta8), 2 months ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
+- [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) ([v2.0.0-beta8](https://github.com/ossf/scorecard-monitor/releases/tag/v2.0.0-beta8), 3 months ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 
 #### 🔨 My recent Pull Requests
 
@@ -37,12 +37,12 @@
 - [.github: Create codeql.yml](https://github.com/ossf/allstar/pull/533) on [ossf/allstar](https://github.com/ossf/allstar) (2 months ago)
 - [.github: Add initial CODEOWNERS](https://github.com/ossf/allstar/pull/527) on [ossf/allstar](https://github.com/ossf/allstar) (2 months ago)
 - [gitvote: Automatically trigger on the proposal of new resolutions](https://github.com/todogroup/governance/pull/337) on [todogroup/governance](https://github.com/todogroup/governance) (2 months ago)
-- [[CLOWarden test] Update org.yaml](https://github.com/cisco-ospo/.github/pull/192) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (2 months ago)
-- [[DRAFT] governance: Draft Incubation application submission](https://github.com/ossf/scorecard/pull/4200) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 months ago)
+- [[CLOWarden test] Update org.yaml](https://github.com/cisco-ospo/.github/pull/192) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (3 months ago)
+- [[DRAFT] governance: Draft Incubation application submission](https://github.com/ossf/scorecard/pull/4200) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [mercedes-benz/foss](https://github.com/mercedes-benz/foss) - A collection of information on Mercedes-Benz Open Source Stuff - Code of Conduct, Mercedes-Benz CLA, and more.  (today)
+- [mercedes-benz/foss](https://github.com/mercedes-benz/foss) - A collection of information on Mercedes-Benz Open Source Stuff - Code of Conduct, Mercedes-Benz CLA, and more.  (1 day ago)
 - [mitre/hipcheck](https://github.com/mitre/hipcheck) - Automatically assess and score software repositories for supply chain risk. (2 months ago)
 - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (3 months ago)
 - [cncf-tags/org-admin](https://github.com/cncf-tags/org-admin) - Used by CLOWarden to maintain who has access to repos in the cncf-tags org (3 months ago)
@@ -55,6 +55,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [irishgordo](https://github.com/irishgordo)
 - [ponchotitlan](https://github.com/ponchotitlan)
 - [bartmkraus](https://github.com/bartmkraus)
 - [Connor9994](https://github.com/Connor9994)
@@ -64,6 +65,5 @@
 - [chubakakid](https://github.com/chubakakid)
 - [Rohit-Kumar18](https://github.com/Rohit-Kumar18)
 - [steffolbum](https://github.com/steffolbum)
-- [azenla](https://github.com/azenla)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
