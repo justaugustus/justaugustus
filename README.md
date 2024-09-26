@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (3 days ago)
+- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (4 days ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 month ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (1 month ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 months ago)
@@ -36,13 +36,13 @@
 - [go.mod: Update Scorecard to v5.0.0-rc2](https://github.com/ossf/allstar/pull/534) on [ossf/allstar](https://github.com/ossf/allstar) (2 months ago)
 - [.github: Create codeql.yml](https://github.com/ossf/allstar/pull/533) on [ossf/allstar](https://github.com/ossf/allstar) (2 months ago)
 - [.github: Add initial CODEOWNERS](https://github.com/ossf/allstar/pull/527) on [ossf/allstar](https://github.com/ossf/allstar) (2 months ago)
-- [gitvote: Automatically trigger on the proposal of new resolutions](https://github.com/todogroup/governance/pull/337) on [todogroup/governance](https://github.com/todogroup/governance) (2 months ago)
+- [gitvote: Automatically trigger on the proposal of new resolutions](https://github.com/todogroup/governance/pull/337) on [todogroup/governance](https://github.com/todogroup/governance) (3 months ago)
 - [[CLOWarden test] Update org.yaml](https://github.com/cisco-ospo/.github/pull/192) on [cisco-ospo/.github](https://github.com/cisco-ospo/.github) (3 months ago)
 - [[DRAFT] governance: Draft Incubation application submission](https://github.com/ossf/scorecard/pull/4200) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [mercedes-benz/foss](https://github.com/mercedes-benz/foss) - A collection of information on Mercedes-Benz Open Source Stuff - Code of Conduct, Mercedes-Benz CLA, and more.  (1 day ago)
+- [mercedes-benz/foss](https://github.com/mercedes-benz/foss) - A collection of information on Mercedes-Benz Open Source Stuff - Code of Conduct, Mercedes-Benz CLA, and more.  (2 days ago)
 - [mitre/hipcheck](https://github.com/mitre/hipcheck) - Automatically assess and score software repositories for supply chain risk. (2 months ago)
 - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (3 months ago)
 - [cncf-tags/org-admin](https://github.com/cncf-tags/org-admin) - Used by CLOWarden to maintain who has access to repos in the cncf-tags org (3 months ago)
