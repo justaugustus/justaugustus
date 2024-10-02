@@ -17,7 +17,7 @@
 - [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (3 months ago)
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (3 months ago)
 - [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (3 months ago)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (3 months ago)
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (4 months ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -55,6 +55,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Khalilheyrani6367](https://github.com/Khalilheyrani6367)
 - [irishgordo](https://github.com/irishgordo)
 - [ponchotitlan](https://github.com/ponchotitlan)
 - [bartmkraus](https://github.com/bartmkraus)
@@ -64,6 +65,5 @@
 - [KoolTheba](https://github.com/KoolTheba)
 - [chubakakid](https://github.com/chubakakid)
 - [Rohit-Kumar18](https://github.com/Rohit-Kumar18)
-- [steffolbum](https://github.com/steffolbum)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
