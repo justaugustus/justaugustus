@@ -56,6 +56,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [madhavsonkamble](https://github.com/madhavsonkamble)
 - [azaynul10](https://github.com/azaynul10)
 - [Khalilheyrani6367](https://github.com/Khalilheyrani6367)
 - [irishgordo](https://github.com/irishgordo)
@@ -65,6 +66,5 @@
 - [mouzong](https://github.com/mouzong)
 - [mark8s](https://github.com/mark8s)
 - [KoolTheba](https://github.com/KoolTheba)
-- [chubakakid](https://github.com/chubakakid)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
