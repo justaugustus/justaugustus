@@ -11,6 +11,7 @@
 
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 days ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (3 days ago)
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (4 days ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 week ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 month ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (2 months ago)
@@ -18,7 +19,6 @@
 - [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (3 months ago)
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (3 months ago)
 - [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (3 months ago)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
