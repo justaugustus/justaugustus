@@ -9,11 +9,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
-- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 days ago)
+- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (3 days ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 week ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 month ago)
-- [justaugustus/about](https://github.com/justaugustus/about) -  (1 month ago)
+- [justaugustus/about](https://github.com/justaugustus/about) -  (2 months ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 months ago)
 - [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (3 months ago)
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (3 months ago)
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [OpenSSF Scorecard Incubating application](https://github.com/ossf/tac/pull/390) on [ossf/tac](https://github.com/ossf/tac) (1 day ago)
-- [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/website/pull/48164) on [kubernetes/website](https://github.com/kubernetes/website) (2 days ago)
-- [Update Steering members following 2024 election cycle](https://github.com/kubernetes/org/pull/5199) on [kubernetes/org](https://github.com/kubernetes/org) (2 days ago)
-- [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/community/pull/8095) on [kubernetes/community](https://github.com/kubernetes/community) (2 days ago)
-- [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/steering/pull/287) on [kubernetes/steering](https://github.com/kubernetes/steering) (2 days ago)
+- [OpenSSF Scorecard Incubating application](https://github.com/ossf/tac/pull/390) on [ossf/tac](https://github.com/ossf/tac) (2 days ago)
+- [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/website/pull/48164) on [kubernetes/website](https://github.com/kubernetes/website) (3 days ago)
+- [Update Steering members following 2024 election cycle](https://github.com/kubernetes/org/pull/5199) on [kubernetes/org](https://github.com/kubernetes/org) (3 days ago)
+- [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/community/pull/8095) on [kubernetes/community](https://github.com/kubernetes/community) (3 days ago)
+- [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/steering/pull/287) on [kubernetes/steering](https://github.com/kubernetes/steering) (3 days ago)
 - [[2024-08] Content and structure update](https://github.com/justaugustus/about/pull/11) on [justaugustus/about](https://github.com/justaugustus/about) (2 months ago)
 - [📖 SECURITY: Represent response times in business days instead of hours](https://github.com/ossf/scorecard/pull/4217) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 months ago)
 - [:book: Update security policy to be specific to OpenSSF Scorecard](https://github.com/ossf/scorecard/pull/4212) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 months ago)
