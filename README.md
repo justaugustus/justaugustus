@@ -56,6 +56,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [JajkhContinue](https://github.com/JajkhContinue)
 - [hareeshborugula](https://github.com/hareeshborugula)
 - [madhavsonkamble](https://github.com/madhavsonkamble)
 - [azaynul10](https://github.com/azaynul10)
@@ -65,6 +66,5 @@
 - [bartmkraus](https://github.com/bartmkraus)
 - [Connor9994](https://github.com/Connor9994)
 - [mouzong](https://github.com/mouzong)
-- [mark8s](https://github.com/mark8s)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
