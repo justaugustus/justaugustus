@@ -9,16 +9,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (4 days ago)
-- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (5 days ago)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (6 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (5 days ago)
+- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (6 days ago)
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 week ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (2 weeks ago)
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 month ago)
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (2 months ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (2 months ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 months ago)
 - [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (3 months ago)
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (3 months ago)
-- [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (3 months ago)
+- [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -30,11 +30,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [OpenSSF Scorecard Incubating application](https://github.com/ossf/tac/pull/390) on [ossf/tac](https://github.com/ossf/tac) (4 days ago)
-- [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/website/pull/48164) on [kubernetes/website](https://github.com/kubernetes/website) (5 days ago)
-- [Update Steering members following 2024 election cycle](https://github.com/kubernetes/org/pull/5199) on [kubernetes/org](https://github.com/kubernetes/org) (5 days ago)
-- [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/community/pull/8095) on [kubernetes/community](https://github.com/kubernetes/community) (5 days ago)
-- [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/steering/pull/287) on [kubernetes/steering](https://github.com/kubernetes/steering) (5 days ago)
+- [OpenSSF Scorecard Incubating application](https://github.com/ossf/tac/pull/390) on [ossf/tac](https://github.com/ossf/tac) (5 days ago)
+- [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/website/pull/48164) on [kubernetes/website](https://github.com/kubernetes/website) (6 days ago)
+- [Update Steering members following 2024 election cycle](https://github.com/kubernetes/org/pull/5199) on [kubernetes/org](https://github.com/kubernetes/org) (6 days ago)
+- [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/community/pull/8095) on [kubernetes/community](https://github.com/kubernetes/community) (6 days ago)
+- [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/steering/pull/287) on [kubernetes/steering](https://github.com/kubernetes/steering) (6 days ago)
 - [[2024-08] Content and structure update](https://github.com/justaugustus/about/pull/11) on [justaugustus/about](https://github.com/justaugustus/about) (2 months ago)
 - [📖 SECURITY: Represent response times in business days instead of hours](https://github.com/ossf/scorecard/pull/4217) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 months ago)
 - [:book: Update security policy to be specific to OpenSSF Scorecard](https://github.com/ossf/scorecard/pull/4212) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 months ago)
@@ -43,8 +43,8 @@
 
 #### ⭐ Recent Stars
 
-- [diggsweden/open-source-project-template](https://github.com/diggsweden/open-source-project-template) - Open Source project helper and getting started template(s) (today)
-- [mercedes-benz/foss](https://github.com/mercedes-benz/foss) - A collection of information on Mercedes-Benz Open Source Stuff - Code of Conduct, Mercedes-Benz CLA, and more.  (1 week ago)
+- [diggsweden/open-source-project-template](https://github.com/diggsweden/open-source-project-template) - Open Source project helper and getting started template(s) (1 day ago)
+- [mercedes-benz/foss](https://github.com/mercedes-benz/foss) - A collection of information on Mercedes-Benz Open Source Stuff - Code of Conduct, Mercedes-Benz CLA, and more.  (2 weeks ago)
 - [mitre/hipcheck](https://github.com/mitre/hipcheck) - Automatically assess and score software repositories for supply chain risk. (2 months ago)
 - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (3 months ago)
 - [cncf-tags/org-admin](https://github.com/cncf-tags/org-admin) - Used by CLOWarden to maintain who has access to repos in the cncf-tags org (3 months ago)
