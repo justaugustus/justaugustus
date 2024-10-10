@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (6 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 week ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 week ago)
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (1 week ago)
@@ -30,7 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [OpenSSF Scorecard Incubating application](https://github.com/ossf/tac/pull/390) on [ossf/tac](https://github.com/ossf/tac) (6 days ago)
+- [OpenSSF Scorecard Incubating application](https://github.com/ossf/tac/pull/390) on [ossf/tac](https://github.com/ossf/tac) (1 week ago)
 - [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/website/pull/48164) on [kubernetes/website](https://github.com/kubernetes/website) (1 week ago)
 - [Update Steering members following 2024 election cycle](https://github.com/kubernetes/org/pull/5199) on [kubernetes/org](https://github.com/kubernetes/org) (1 week ago)
 - [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/community/pull/8095) on [kubernetes/community](https://github.com/kubernetes/community) (1 week ago)
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent Stars
 
-- [diggsweden/open-source-project-template](https://github.com/diggsweden/open-source-project-template) - Open Source project helper and getting started template(s) (2 days ago)
+- [diggsweden/open-source-project-template](https://github.com/diggsweden/open-source-project-template) - Open Source project helper and getting started template(s) (3 days ago)
 - [mercedes-benz/foss](https://github.com/mercedes-benz/foss) - A collection of information on Mercedes-Benz Open Source Stuff - Code of Conduct, Mercedes-Benz CLA, and more.  (2 weeks ago)
 - [mitre/hipcheck](https://github.com/mitre/hipcheck) - Automatically assess and score software repositories for supply chain risk. (2 months ago)
 - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (3 months ago)
