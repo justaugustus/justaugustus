@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (today)
 - [alliander-opensource/ospo-code-scanner](https://github.com/alliander-opensource/ospo-code-scanner) - Analyse code repositories for ahering to typical open source practices (2 days ago)
 - [diggsweden/open-source-project-template](https://github.com/diggsweden/open-source-project-template) - Open Source project helper and getting started template(s) (5 days ago)
 - [mercedes-benz/foss](https://github.com/mercedes-benz/foss) - A collection of information on Mercedes-Benz Open Source Stuff - Code of Conduct, Mercedes-Benz CLA, and more.  (2 weeks ago)
@@ -52,7 +53,6 @@
 - [dcoapp/app](https://github.com/dcoapp/app) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests (4 months ago)
 - [ossf/eng-openssf-scorecard](https://github.com/ossf/eng-openssf-scorecard) - OpenSSF Scorecard Analytics (4 months ago)
 - [coreinfrastructure/best-practices-badge](https://github.com/coreinfrastructure/best-practices-badge) - 🏆Open Source Security Foundation (OpenSSF) Best Practices Badge (formerly Core Infrastructure Initiative (CII) Best Practices Badge) (4 months ago)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
