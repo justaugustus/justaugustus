@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 1 month ago) - Kubernetes website and documentation repo: 
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 2 months ago) - Kubernetes website and documentation repo: 
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.0](https://github.com/ossf/scorecard-action/releases/tag/v2.4.0), 2 months ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.2](https://github.com/ossf/allstar/releases/tag/v4.2), 2 months ago) - GitHub App to set and enforce security policies
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0](https://github.com/ossf/scorecard/releases/tag/v5.0.0), 2 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
@@ -43,8 +43,8 @@
 
 #### ⭐ Recent Stars
 
-- [alliander-opensource/ospo-code-scanner](https://github.com/alliander-opensource/ospo-code-scanner) - Analyse code repositories for ahering to typical open source practices (1 day ago)
-- [diggsweden/open-source-project-template](https://github.com/diggsweden/open-source-project-template) - Open Source project helper and getting started template(s) (4 days ago)
+- [alliander-opensource/ospo-code-scanner](https://github.com/alliander-opensource/ospo-code-scanner) - Analyse code repositories for ahering to typical open source practices (2 days ago)
+- [diggsweden/open-source-project-template](https://github.com/diggsweden/open-source-project-template) - Open Source project helper and getting started template(s) (5 days ago)
 - [mercedes-benz/foss](https://github.com/mercedes-benz/foss) - A collection of information on Mercedes-Benz Open Source Stuff - Code of Conduct, Mercedes-Benz CLA, and more.  (2 weeks ago)
 - [mitre/hipcheck](https://github.com/mitre/hipcheck) - Automatically assess and score software repositories for supply chain risk. (2 months ago)
 - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (3 months ago)
