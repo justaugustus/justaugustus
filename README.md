@@ -43,9 +43,9 @@
 
 #### ⭐ Recent Stars
 
-- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (1 day ago)
-- [alliander-opensource/ospo-code-scanner](https://github.com/alliander-opensource/ospo-code-scanner) - Analyse code repositories for ahering to typical open source practices (3 days ago)
-- [diggsweden/open-source-project-template](https://github.com/diggsweden/open-source-project-template) - Open Source project helper and getting started template(s) (6 days ago)
+- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (2 days ago)
+- [alliander-opensource/ospo-code-scanner](https://github.com/alliander-opensource/ospo-code-scanner) - Analyse code repositories for ahering to typical open source practices (4 days ago)
+- [diggsweden/open-source-project-template](https://github.com/diggsweden/open-source-project-template) - Open Source project helper and getting started template(s) (1 week ago)
 - [mercedes-benz/foss](https://github.com/mercedes-benz/foss) - A collection of information on Mercedes-Benz Open Source Stuff - Code of Conduct, Mercedes-Benz CLA, and more.  (2 weeks ago)
 - [mitre/hipcheck](https://github.com/mitre/hipcheck) - Automatically assess and score software repositories for supply chain risk. (2 months ago)
 - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (3 months ago)
