@@ -11,9 +11,9 @@
 
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 week ago)
-- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 week ago)
-- [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (1 week ago)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 week ago)
+- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 weeks ago)
+- [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (2 weeks ago)
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 weeks ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (3 weeks ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (2 months ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (2 months ago)
@@ -43,11 +43,11 @@
 
 #### ⭐ Recent Stars
 
-- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (2 days ago)
-- [alliander-opensource/ospo-code-scanner](https://github.com/alliander-opensource/ospo-code-scanner) - Analyse code repositories for ahering to typical open source practices (4 days ago)
+- [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (3 days ago)
+- [alliander-opensource/ospo-code-scanner](https://github.com/alliander-opensource/ospo-code-scanner) - Analyse code repositories for ahering to typical open source practices (5 days ago)
 - [diggsweden/open-source-project-template](https://github.com/diggsweden/open-source-project-template) - Open Source project helper and getting started template(s) (1 week ago)
-- [mercedes-benz/foss](https://github.com/mercedes-benz/foss) - A collection of information on Mercedes-Benz Open Source Stuff - Code of Conduct, Mercedes-Benz CLA, and more.  (2 weeks ago)
-- [mitre/hipcheck](https://github.com/mitre/hipcheck) - Automatically assess and score software repositories for supply chain risk. (2 months ago)
+- [mercedes-benz/foss](https://github.com/mercedes-benz/foss) - A collection of information on Mercedes-Benz Open Source Stuff - Code of Conduct, Mercedes-Benz CLA, and more.  (3 weeks ago)
+- [mitre/hipcheck](https://github.com/mitre/hipcheck) - Automatically assess and score software repositories for supply chain risk. (3 months ago)
 - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (3 months ago)
 - [cncf-tags/org-admin](https://github.com/cncf-tags/org-admin) - Used by CLOWarden to maintain who has access to repos in the cncf-tags org (3 months ago)
 - [dcoapp/app](https://github.com/dcoapp/app) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests (4 months ago)
