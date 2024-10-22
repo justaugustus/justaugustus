@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [jeffmendoza/multi-scorecard](https://github.com/jeffmendoza/multi-scorecard) -  (today)
 - [marcomaroni-github/twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account. (today)
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back (today)
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (1 week ago)
@@ -52,7 +53,6 @@
 - [mitre/hipcheck](https://github.com/mitre/hipcheck) - Automatically assess and score software repositories for supply chain risk. (3 months ago)
 - [cncf/people](https://github.com/cncf/people) - Stores the data that will populate the various people listings on cncf.io (4 months ago)
 - [cncf-tags/org-admin](https://github.com/cncf-tags/org-admin) - Used by CLOWarden to maintain who has access to repos in the cncf-tags org (4 months ago)
-- [dcoapp/app](https://github.com/dcoapp/app) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
