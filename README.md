@@ -56,6 +56,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Mmagkooo](https://github.com/Mmagkooo)
 - [MananKansara09](https://github.com/MananKansara09)
 - [JajkhContinue](https://github.com/JajkhContinue)
 - [hareeshborugula](https://github.com/hareeshborugula)
@@ -65,6 +66,5 @@
 - [irishgordo](https://github.com/irishgordo)
 - [ponchotitlan](https://github.com/ponchotitlan)
 - [bartmkraus](https://github.com/bartmkraus)
-- [Connor9994](https://github.com/Connor9994)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
