@@ -9,9 +9,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 day ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 days ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 weeks ago)
-- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 weeks ago)
+- [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (3 weeks ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (3 weeks ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (3 weeks ago)
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (3 weeks ago)
@@ -31,10 +31,10 @@
 #### 🔨 My recent Pull Requests
 
 - [OpenSSF Scorecard Incubating application](https://github.com/ossf/tac/pull/390) on [ossf/tac](https://github.com/ossf/tac) (2 weeks ago)
-- [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/website/pull/48164) on [kubernetes/website](https://github.com/kubernetes/website) (2 weeks ago)
-- [Update Steering members following 2024 election cycle](https://github.com/kubernetes/org/pull/5199) on [kubernetes/org](https://github.com/kubernetes/org) (2 weeks ago)
-- [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/community/pull/8095) on [kubernetes/community](https://github.com/kubernetes/community) (2 weeks ago)
-- [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/steering/pull/287) on [kubernetes/steering](https://github.com/kubernetes/steering) (2 weeks ago)
+- [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/website/pull/48164) on [kubernetes/website](https://github.com/kubernetes/website) (3 weeks ago)
+- [Update Steering members following 2024 election cycle](https://github.com/kubernetes/org/pull/5199) on [kubernetes/org](https://github.com/kubernetes/org) (3 weeks ago)
+- [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/community/pull/8095) on [kubernetes/community](https://github.com/kubernetes/community) (3 weeks ago)
+- [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/steering/pull/287) on [kubernetes/steering](https://github.com/kubernetes/steering) (3 weeks ago)
 - [[2024-08] Content and structure update](https://github.com/justaugustus/about/pull/11) on [justaugustus/about](https://github.com/justaugustus/about) (2 months ago)
 - [📖 SECURITY: Represent response times in business days instead of hours](https://github.com/ossf/scorecard/pull/4217) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 months ago)
 - [:book: Update security policy to be specific to OpenSSF Scorecard](https://github.com/ossf/scorecard/pull/4212) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 months ago)
@@ -43,9 +43,9 @@
 
 #### ⭐ Recent Stars
 
-- [jeffmendoza/multi-scorecard](https://github.com/jeffmendoza/multi-scorecard) -  (today)
-- [marcomaroni-github/twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account. (today)
-- [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back (today)
+- [jeffmendoza/multi-scorecard](https://github.com/jeffmendoza/multi-scorecard) -  (1 day ago)
+- [marcomaroni-github/twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account. (1 day ago)
+- [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back (1 day ago)
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (1 week ago)
 - [alliander-opensource/ospo-code-scanner](https://github.com/alliander-opensource/ospo-code-scanner) - Analyse code repositories for ahering to typical open source practices (1 week ago)
 - [diggsweden/open-source-project-template](https://github.com/diggsweden/open-source-project-template) - Open Source project helper and getting started template(s) (2 weeks ago)
