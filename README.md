@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 week ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 weeks ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 month ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 month ago)
@@ -17,7 +17,7 @@
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (1 month ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 month ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (2 months ago)
-- [justaugustus/about](https://github.com/justaugustus/about) -  (2 months ago)
+- [justaugustus/about](https://github.com/justaugustus/about) -  (3 months ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -43,15 +43,15 @@
 
 #### ⭐ Recent Stars
 
-- [ljharb/repo-report](https://github.com/ljharb/repo-report) - CLI to list all repos a user has access to, and report on their configuration in aggregate. (6 days ago)
-- [Homebrew/actions](https://github.com/Homebrew/actions) - 🚀 Homebrew&#39;s GitHub Actions (6 days ago)
+- [ljharb/repo-report](https://github.com/ljharb/repo-report) - CLI to list all repos a user has access to, and report on their configuration in aggregate. (1 week ago)
+- [Homebrew/actions](https://github.com/Homebrew/actions) - 🚀 Homebrew&#39;s GitHub Actions (1 week ago)
 - [mozzius/backdate-labeller](https://github.com/mozzius/backdate-labeller) - atproto labeller for backdated posts (1 week ago)
 - [jeffmendoza/multi-scorecard](https://github.com/jeffmendoza/multi-scorecard) -  (1 week ago)
 - [marcomaroni-github/twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account. (1 week ago)
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back (1 week ago)
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (3 weeks ago)
 - [alliander-opensource/ospo-code-scanner](https://github.com/alliander-opensource/ospo-code-scanner) - Analyse code repositories for ahering to typical open source practices (3 weeks ago)
-- [diggsweden/open-source-project-template](https://github.com/diggsweden/open-source-project-template) - Open Source project helper and getting started template(s) (3 weeks ago)
+- [diggsweden/open-source-project-template](https://github.com/diggsweden/open-source-project-template) - Open Source project helper and getting started template(s) (4 weeks ago)
 - [mercedes-benz/foss](https://github.com/mercedes-benz/foss) - A collection of information on Mercedes-Benz Open Source Stuff - Code of Conduct, Mercedes-Benz CLA, and more.  (1 month ago)
 
 #### 👯 Check out some of my recent followers
