@@ -58,7 +58,6 @@
 
 - [toursonlk](https://github.com/toursonlk)
 - [Ramyromel](https://github.com/Ramyromel)
-- [Mmagkooo](https://github.com/Mmagkooo)
 - [MananKansara09](https://github.com/MananKansara09)
 - [JajkhContinue](https://github.com/JajkhContinue)
 - [hareeshborugula](https://github.com/hareeshborugula)
@@ -66,5 +65,6 @@
 - [azaynul10](https://github.com/azaynul10)
 - [Khalilheyrani6367](https://github.com/Khalilheyrani6367)
 - [irishgordo](https://github.com/irishgordo)
+- [ponchotitlan](https://github.com/ponchotitlan)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
