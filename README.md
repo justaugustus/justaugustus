@@ -51,7 +51,7 @@
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back (2 weeks ago)
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (3 weeks ago)
 - [alliander-opensource/ospo-code-scanner](https://github.com/alliander-opensource/ospo-code-scanner) - Analyse code repositories for ahering to typical open source practices (3 weeks ago)
-- [diggsweden/open-source-project-template](https://github.com/diggsweden/open-source-project-template) - Open Source project helper and getting started template(s) (4 weeks ago)
+- [diggsweden/open-source-project-template](https://github.com/diggsweden/open-source-project-template) - Open Source project helper and getting started template(s) (1 month ago)
 - [mercedes-benz/foss](https://github.com/mercedes-benz/foss) - A collection of information on Mercedes-Benz Open Source Stuff - Code of Conduct, Mercedes-Benz CLA, and more.  (1 month ago)
 
 #### 👯 Check out some of my recent followers
