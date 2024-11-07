@@ -16,7 +16,7 @@
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (1 month ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 month ago)
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (2 months ago)
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (3 months ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (3 months ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (3 months ago)
 
@@ -30,7 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[WIP] Code of Conduct Committee Elections — 2025](https://github.com/kubernetes/community/pull/8137) on [kubernetes/community](https://github.com/kubernetes/community) (today)
+- [[WIP] Code of Conduct Committee Elections — 2025](https://github.com/kubernetes/community/pull/8137) on [kubernetes/community](https://github.com/kubernetes/community) (1 day ago)
 - [OpenSSF Scorecard Incubating application](https://github.com/ossf/tac/pull/390) on [ossf/tac](https://github.com/ossf/tac) (1 month ago)
 - [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/website/pull/48164) on [kubernetes/website](https://github.com/kubernetes/website) (1 month ago)
 - [Update Steering members following 2024 election cycle](https://github.com/kubernetes/org/pull/5199) on [kubernetes/org](https://github.com/kubernetes/org) (1 month ago)
@@ -50,7 +50,7 @@
 - [marcomaroni-github/twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account. (2 weeks ago)
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back (2 weeks ago)
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (3 weeks ago)
-- [alliander-opensource/ospo-code-scanner](https://github.com/alliander-opensource/ospo-code-scanner) - Analyse code repositories for ahering to typical open source practices (3 weeks ago)
+- [alliander-opensource/ospo-code-scanner](https://github.com/alliander-opensource/ospo-code-scanner) - Analyse code repositories for ahering to typical open source practices (4 weeks ago)
 - [diggsweden/open-source-project-template](https://github.com/diggsweden/open-source-project-template) - Open Source project helper and getting started template(s) (1 month ago)
 - [mercedes-benz/foss](https://github.com/mercedes-benz/foss) - A collection of information on Mercedes-Benz Open Source Stuff - Code of Conduct, Mercedes-Benz CLA, and more.  (1 month ago)
 
