@@ -30,7 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[WIP] Code of Conduct Committee Elections — 2025](https://github.com/kubernetes/community/pull/8137) on [kubernetes/community](https://github.com/kubernetes/community) (3 days ago)
+- [[WIP] Code of Conduct Committee Elections — 2025](https://github.com/kubernetes/community/pull/8137) on [kubernetes/community](https://github.com/kubernetes/community) (4 days ago)
 - [OpenSSF Scorecard Incubating application](https://github.com/ossf/tac/pull/390) on [ossf/tac](https://github.com/ossf/tac) (1 month ago)
 - [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/website/pull/48164) on [kubernetes/website](https://github.com/kubernetes/website) (1 month ago)
 - [Update Steering members following 2024 election cycle](https://github.com/kubernetes/org/pull/5199) on [kubernetes/org](https://github.com/kubernetes/org) (1 month ago)
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent Stars
 
-- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A tool for finding security issues in GitHub Actions setups. (1 day ago)
+- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A tool for finding security issues in GitHub Actions setups. (2 days ago)
 - [ljharb/repo-report](https://github.com/ljharb/repo-report) - CLI to list all repos a user has access to, and report on their configuration in aggregate. (1 week ago)
 - [Homebrew/actions](https://github.com/Homebrew/actions) - 🚀 Homebrew&#39;s GitHub Actions (1 week ago)
 - [mozzius/backdate-labeller](https://github.com/mozzius/backdate-labeller) - atproto labeller for backdated posts (2 weeks ago)
