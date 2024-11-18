@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (3 weeks ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (4 weeks ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 month ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 month ago)
@@ -44,8 +44,8 @@
 #### ⭐ Recent Stars
 
 - [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A tool for finding security issues in GitHub Actions setups. (1 week ago)
-- [ljharb/repo-report](https://github.com/ljharb/repo-report) - CLI to list all repos a user has access to, and report on their configuration in aggregate. (2 weeks ago)
-- [Homebrew/actions](https://github.com/Homebrew/actions) - 🚀 Homebrew&#39;s GitHub Actions (2 weeks ago)
+- [ljharb/repo-report](https://github.com/ljharb/repo-report) - CLI to list all repos a user has access to, and report on their configuration in aggregate. (3 weeks ago)
+- [Homebrew/actions](https://github.com/Homebrew/actions) - 🚀 Homebrew&#39;s GitHub Actions (3 weeks ago)
 - [mozzius/backdate-labeller](https://github.com/mozzius/backdate-labeller) - atproto labeller for backdated posts (3 weeks ago)
 - [jeffmendoza/multi-scorecard](https://github.com/jeffmendoza/multi-scorecard) -  (3 weeks ago)
 - [marcomaroni-github/twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account. (3 weeks ago)
