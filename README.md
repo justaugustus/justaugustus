@@ -56,6 +56,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [randomizer7](https://github.com/randomizer7)
 - [jorgecontreras](https://github.com/jorgecontreras)
 - [kakkoyun](https://github.com/kakkoyun)
 - [toursonlk](https://github.com/toursonlk)
@@ -65,6 +66,5 @@
 - [hareeshborugula](https://github.com/hareeshborugula)
 - [madhavsonkamble](https://github.com/madhavsonkamble)
 - [azaynul10](https://github.com/azaynul10)
-- [Khalilheyrani6367](https://github.com/Khalilheyrani6367)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
