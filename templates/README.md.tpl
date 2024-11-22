@@ -3,9 +3,8 @@
 #### 📫 How to reach me
 
 - Website: https://whois.auggie.dev/
-- Fediverse (Mastodon): https://hachyderm.io/@justaugustus
+- Bluesky: https://bsky.app/profile/auggie.dev
 - LinkedIn: https://www.linkedin.com/in/stephenaugustus
-- Twitter: https://twitter.com/stephenaugustus
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
@@ -27,9 +26,11 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
+<!--
 #### 👯 Check out some of my recent followers
-{{range followers 10}}
+{{range followers 20}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
+-->
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
