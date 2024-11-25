@@ -8,6 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [justaugustus/about](https://github.com/justaugustus/about) -  (today)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (4 days ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (5 days ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 month ago)
@@ -16,7 +17,6 @@
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 month ago)
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (1 month ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (3 months ago)
-- [justaugustus/about](https://github.com/justaugustus/about) -  (3 months ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -29,6 +29,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[2024-11] Content update](https://github.com/justaugustus/about/pull/12) on [justaugustus/about](https://github.com/justaugustus/about) (today)
 - [MEMBERS: Update Cisco contacts](https://github.com/todogroup/governance/pull/353) on [todogroup/governance](https://github.com/todogroup/governance) (5 days ago)
 - [Code of Conduct Committee Elections — 2025](https://github.com/kubernetes/community/pull/8137) on [kubernetes/community](https://github.com/kubernetes/community) (2 weeks ago)
 - [OpenSSF Scorecard Incubating application](https://github.com/ossf/tac/pull/390) on [ossf/tac](https://github.com/ossf/tac) (1 month ago)
@@ -37,7 +38,6 @@
 - [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/community/pull/8095) on [kubernetes/community](https://github.com/kubernetes/community) (1 month ago)
 - [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/steering/pull/287) on [kubernetes/steering](https://github.com/kubernetes/steering) (1 month ago)
 - [[2024-08] Content and structure update](https://github.com/justaugustus/about/pull/11) on [justaugustus/about](https://github.com/justaugustus/about) (3 months ago)
-- [📖 SECURITY: Represent response times in business days instead of hours](https://github.com/ossf/scorecard/pull/4217) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 months ago)
 
 #### ⭐ Recent Stars
 
