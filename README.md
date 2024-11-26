@@ -8,9 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [justaugustus/about](https://github.com/justaugustus/about) -  (today)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (4 days ago)
-- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (5 days ago)
+- [justaugustus/about](https://github.com/justaugustus/about) -  (1 day ago)
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (5 days ago)
+- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (6 days ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 month ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 month ago)
@@ -29,8 +29,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[2024-11] Content update](https://github.com/justaugustus/about/pull/12) on [justaugustus/about](https://github.com/justaugustus/about) (today)
-- [MEMBERS: Update Cisco contacts](https://github.com/todogroup/governance/pull/353) on [todogroup/governance](https://github.com/todogroup/governance) (5 days ago)
+- [[2024-11] Content update](https://github.com/justaugustus/about/pull/12) on [justaugustus/about](https://github.com/justaugustus/about) (1 day ago)
+- [MEMBERS: Update Cisco contacts](https://github.com/todogroup/governance/pull/353) on [todogroup/governance](https://github.com/todogroup/governance) (6 days ago)
 - [Code of Conduct Committee Elections — 2025](https://github.com/kubernetes/community/pull/8137) on [kubernetes/community](https://github.com/kubernetes/community) (2 weeks ago)
 - [OpenSSF Scorecard Incubating application](https://github.com/ossf/tac/pull/390) on [ossf/tac](https://github.com/ossf/tac) (1 month ago)
 - [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/website/pull/48164) on [kubernetes/website](https://github.com/kubernetes/website) (1 month ago)
