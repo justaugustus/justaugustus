@@ -42,7 +42,7 @@
 #### ⭐ Recent Stars
 
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (today)
-- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A tool for finding security issues in GitHub Actions setups. (2 weeks ago)
+- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (2 weeks ago)
 - [ljharb/repo-report](https://github.com/ljharb/repo-report) - CLI to list all repos a user has access to, and report on their configuration in aggregate. (4 weeks ago)
 - [Homebrew/actions](https://github.com/Homebrew/actions) - 🚀 Homebrew&#39;s GitHub Actions (4 weeks ago)
 - [mozzius/backdate-labeller](https://github.com/mozzius/backdate-labeller) - atproto labeller for backdated posts (1 month ago)
