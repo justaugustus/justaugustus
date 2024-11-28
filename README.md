@@ -8,6 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (today)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (3 days ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 week ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 week ago)
@@ -17,7 +18,6 @@
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (1 month ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 month ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (3 months ago)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
