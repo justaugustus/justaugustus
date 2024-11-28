@@ -29,6 +29,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Enable Bluesky comments](https://github.com/uwu-tools/blahg-bsky/pull/5) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (today)
 - [[2024-11] Content update](https://github.com/justaugustus/about/pull/12) on [justaugustus/about](https://github.com/justaugustus/about) (3 days ago)
 - [MEMBERS: Update Cisco contacts](https://github.com/todogroup/governance/pull/353) on [todogroup/governance](https://github.com/todogroup/governance) (1 week ago)
 - [Code of Conduct Committee Elections — 2025](https://github.com/kubernetes/community/pull/8137) on [kubernetes/community](https://github.com/kubernetes/community) (3 weeks ago)
@@ -37,7 +38,6 @@
 - [Update Steering members following 2024 election cycle](https://github.com/kubernetes/org/pull/5199) on [kubernetes/org](https://github.com/kubernetes/org) (1 month ago)
 - [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/community/pull/8095) on [kubernetes/community](https://github.com/kubernetes/community) (1 month ago)
 - [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/steering/pull/287) on [kubernetes/steering](https://github.com/kubernetes/steering) (1 month ago)
-- [[2024-08] Content and structure update](https://github.com/justaugustus/about/pull/11) on [justaugustus/about](https://github.com/justaugustus/about) (3 months ago)
 
 #### ⭐ Recent Stars
 
