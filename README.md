@@ -15,8 +15,8 @@
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 month ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (1 month ago)
-- [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (1 month ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 month ago)
+- [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (1 month ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -29,6 +29,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [package.json: Update package name](https://github.com/uwu-tools/blahg-bsky/pull/12) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (today)
+- [generated: Run `npm install &amp;&amp; npm run dev` to fix tina lock issues](https://github.com/uwu-tools/blahg-bsky/pull/11) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (today)
 - [Update template site URL](https://github.com/uwu-tools/blahg-bsky/pull/10) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (today)
 - [Enable Bluesky comments](https://github.com/uwu-tools/blahg-bsky/pull/5) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (today)
 - [[2024-11] Content update](https://github.com/justaugustus/about/pull/12) on [justaugustus/about](https://github.com/justaugustus/about) (3 days ago)
@@ -37,8 +39,6 @@
 - [OpenSSF Scorecard Incubating application](https://github.com/ossf/tac/pull/390) on [ossf/tac](https://github.com/ossf/tac) (1 month ago)
 - [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/website/pull/48164) on [kubernetes/website](https://github.com/kubernetes/website) (1 month ago)
 - [Update Steering members following 2024 election cycle](https://github.com/kubernetes/org/pull/5199) on [kubernetes/org](https://github.com/kubernetes/org) (1 month ago)
-- [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/community/pull/8095) on [kubernetes/community](https://github.com/kubernetes/community) (1 month ago)
-- [steering: Onboard/offboard members following 2024 election results](https://github.com/kubernetes/steering/pull/287) on [kubernetes/steering](https://github.com/kubernetes/steering) (1 month ago)
 
 #### ⭐ Recent Stars
 
