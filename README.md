@@ -41,6 +41,7 @@
 
 #### ⭐ Recent Stars
 
+- [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (today)
 - [cassidoo/blahg](https://github.com/cassidoo/blahg) - Cassidy&#39;s blog template built with Astro and TinaCMS! (1 day ago)
 - [czue/bluesky-comments](https://github.com/czue/bluesky-comments) - Add a comments thread to any page using bluesky. (1 day ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (2 days ago)
@@ -50,7 +51,6 @@
 - [mozzius/backdate-labeller](https://github.com/mozzius/backdate-labeller) - atproto labeller for backdated posts (1 month ago)
 - [jeffmendoza/multi-scorecard](https://github.com/jeffmendoza/multi-scorecard) -  (1 month ago)
 - [marcomaroni-github/twitter-to-bluesky](https://github.com/marcomaroni-github/twitter-to-bluesky) - Import all tweets exported from X/Twitter to a Bluesky account. (1 month ago)
-- [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back (1 month ago)
 
 
 
