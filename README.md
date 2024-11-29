@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (today)
-- [justaugustus/about](https://github.com/justaugustus/about) -  (3 days ago)
+- [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (1 day ago)
+- [justaugustus/about](https://github.com/justaugustus/about) -  (4 days ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 week ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 week ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 month ago)
@@ -29,11 +29,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [package.json: Update package name](https://github.com/uwu-tools/blahg-bsky/pull/12) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (today)
-- [generated: Run `npm install &amp;&amp; npm run dev` to fix tina lock issues](https://github.com/uwu-tools/blahg-bsky/pull/11) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (today)
-- [Update template site URL](https://github.com/uwu-tools/blahg-bsky/pull/10) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (today)
-- [Enable Bluesky comments](https://github.com/uwu-tools/blahg-bsky/pull/5) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (today)
-- [[2024-11] Content update](https://github.com/justaugustus/about/pull/12) on [justaugustus/about](https://github.com/justaugustus/about) (3 days ago)
+- [package.json: Update package name](https://github.com/uwu-tools/blahg-bsky/pull/12) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (1 day ago)
+- [generated: Run `npm install &amp;&amp; npm run dev` to fix tina lock issues](https://github.com/uwu-tools/blahg-bsky/pull/11) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (1 day ago)
+- [Update template site URL](https://github.com/uwu-tools/blahg-bsky/pull/10) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (1 day ago)
+- [Enable Bluesky comments](https://github.com/uwu-tools/blahg-bsky/pull/5) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (1 day ago)
+- [[2024-11] Content update](https://github.com/justaugustus/about/pull/12) on [justaugustus/about](https://github.com/justaugustus/about) (4 days ago)
 - [MEMBERS: Update Cisco contacts](https://github.com/todogroup/governance/pull/353) on [todogroup/governance](https://github.com/todogroup/governance) (1 week ago)
 - [Code of Conduct Committee Elections — 2025](https://github.com/kubernetes/community/pull/8137) on [kubernetes/community](https://github.com/kubernetes/community) (3 weeks ago)
 - [OpenSSF Scorecard Incubating application](https://github.com/ossf/tac/pull/390) on [ossf/tac](https://github.com/ossf/tac) (1 month ago)
@@ -42,11 +42,11 @@
 
 #### ⭐ Recent Stars
 
-- [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (today)
-- [cassidoo/blahg](https://github.com/cassidoo/blahg) - Cassidy&#39;s blog template built with Astro and TinaCMS! (1 day ago)
-- [czue/bluesky-comments](https://github.com/czue/bluesky-comments) - Add a comments thread to any page using bluesky. (1 day ago)
-- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (2 days ago)
-- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (2 weeks ago)
+- [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (1 day ago)
+- [cassidoo/blahg](https://github.com/cassidoo/blahg) - Cassidy&#39;s blog template built with Astro and TinaCMS! (2 days ago)
+- [czue/bluesky-comments](https://github.com/czue/bluesky-comments) - Add a comments thread to any page using bluesky. (2 days ago)
+- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (3 days ago)
+- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (3 weeks ago)
 - [ljharb/repo-report](https://github.com/ljharb/repo-report) - CLI to list all repos a user has access to, and report on their configuration in aggregate. (1 month ago)
 - [Homebrew/actions](https://github.com/Homebrew/actions) - 🚀 Homebrew&#39;s GitHub Actions (1 month ago)
 - [mozzius/backdate-labeller](https://github.com/mozzius/backdate-labeller) - atproto labeller for backdated posts (1 month ago)
