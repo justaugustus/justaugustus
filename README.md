@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (1 day ago)
+- [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (today)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (4 days ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 week ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 week ago)
@@ -29,6 +29,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [✨ Add a little polish ✨](https://github.com/uwu-tools/blahg-bsky/pull/17) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (today)
 - [.github: Add Dependabot config file](https://github.com/uwu-tools/blahg-bsky/pull/14) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (today)
 - [generated: Run `npm install &amp;&amp; npm audit fix`](https://github.com/uwu-tools/blahg-bsky/pull/13) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (today)
 - [package.json: Update package name](https://github.com/uwu-tools/blahg-bsky/pull/12) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (1 day ago)
@@ -38,7 +39,6 @@
 - [[2024-11] Content update](https://github.com/justaugustus/about/pull/12) on [justaugustus/about](https://github.com/justaugustus/about) (4 days ago)
 - [MEMBERS: Update Cisco contacts](https://github.com/todogroup/governance/pull/353) on [todogroup/governance](https://github.com/todogroup/governance) (1 week ago)
 - [Code of Conduct Committee Elections — 2025](https://github.com/kubernetes/community/pull/8137) on [kubernetes/community](https://github.com/kubernetes/community) (3 weeks ago)
-- [OpenSSF Scorecard Incubating application](https://github.com/ossf/tac/pull/390) on [ossf/tac](https://github.com/ossf/tac) (1 month ago)
 
 #### ⭐ Recent Stars
 
