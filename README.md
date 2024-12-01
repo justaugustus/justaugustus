@@ -16,8 +16,8 @@
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 month ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 months ago)
-- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 months ago)
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (2 months ago)
+- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -29,6 +29,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [🚀 Initial site build](https://github.com/justaugustus/site/pull/1) on [justaugustus/site](https://github.com/justaugustus/site) (today)
 - [about: Fix Jade&#39;s username in attribution](https://github.com/uwu-tools/blahg-bsky/pull/18) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (today)
 - [✨ Add a little polish ✨](https://github.com/uwu-tools/blahg-bsky/pull/17) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (2 days ago)
 - [.github: Add Dependabot config file](https://github.com/uwu-tools/blahg-bsky/pull/14) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (2 days ago)
@@ -38,7 +39,6 @@
 - [Update template site URL](https://github.com/uwu-tools/blahg-bsky/pull/10) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (3 days ago)
 - [Enable Bluesky comments](https://github.com/uwu-tools/blahg-bsky/pull/5) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (3 days ago)
 - [[2024-11] Content update](https://github.com/justaugustus/about/pull/12) on [justaugustus/about](https://github.com/justaugustus/about) (6 days ago)
-- [MEMBERS: Update Cisco contacts](https://github.com/todogroup/governance/pull/353) on [todogroup/governance](https://github.com/todogroup/governance) (1 week ago)
 
 #### ⭐ Recent Stars
 
