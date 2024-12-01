@@ -8,6 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [justaugustus/site](https://github.com/justaugustus/site) -  (today)
 - [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (1 day ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (6 days ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 week ago)
@@ -17,7 +18,6 @@
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 months ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 months ago)
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (2 months ago)
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
