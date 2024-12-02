@@ -8,6 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (today)
 - [justaugustus/site](https://github.com/justaugustus/site) -  (1 day ago)
 - [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (2 days ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (1 week ago)
@@ -17,7 +18,6 @@
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 months ago)
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:  (2 months ago)
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (2 months ago)
-- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -29,6 +29,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [workflows/production-sync: Set `min-admins` to 3](https://github.com/uwu-tools/.github/pull/53) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (today)
+- [orgs/uwu-tools: Cleanups](https://github.com/uwu-tools/.github/pull/52) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (today)
 - [🚀 Initial site build](https://github.com/justaugustus/site/pull/1) on [justaugustus/site](https://github.com/justaugustus/site) (1 day ago)
 - [about: Fix Jade&#39;s username in attribution](https://github.com/uwu-tools/blahg-bsky/pull/18) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (1 day ago)
 - [✨ Add a little polish ✨](https://github.com/uwu-tools/blahg-bsky/pull/17) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (3 days ago)
@@ -37,8 +39,6 @@
 - [package.json: Update package name](https://github.com/uwu-tools/blahg-bsky/pull/12) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (4 days ago)
 - [generated: Run `npm install &amp;&amp; npm run dev` to fix tina lock issues](https://github.com/uwu-tools/blahg-bsky/pull/11) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (4 days ago)
 - [Update template site URL](https://github.com/uwu-tools/blahg-bsky/pull/10) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (4 days ago)
-- [Enable Bluesky comments](https://github.com/uwu-tools/blahg-bsky/pull/5) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (4 days ago)
-- [[2024-11] Content update](https://github.com/justaugustus/about/pull/12) on [justaugustus/about](https://github.com/justaugustus/about) (1 week ago)
 
 #### ⭐ Recent Stars
 
