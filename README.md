@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (today)
 - [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (3 days ago)
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (4 days ago)
 - [cassidoo/blahg](https://github.com/cassidoo/blahg) - Cassidy&#39;s blog template built with Astro and TinaCMS! (5 days ago)
@@ -51,7 +52,6 @@
 - [ljharb/repo-report](https://github.com/ljharb/repo-report) - CLI to list all repos a user has access to, and report on their configuration in aggregate. (1 month ago)
 - [Homebrew/actions](https://github.com/Homebrew/actions) - 🚀 Homebrew&#39;s GitHub Actions (1 month ago)
 - [mozzius/backdate-labeller](https://github.com/mozzius/backdate-labeller) - atproto labeller for backdated posts (1 month ago)
-- [jeffmendoza/multi-scorecard](https://github.com/jeffmendoza/multi-scorecard) -  (1 month ago)
 
 
 
