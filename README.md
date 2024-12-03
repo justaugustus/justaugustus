@@ -29,6 +29,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [steering: Reflect the results of the 2024 elections](https://github.com/todogroup/governance/pull/357) on [todogroup/governance](https://github.com/todogroup/governance) (today)
 - [go.mod: Replace `carolynvs/magex` with `uwu-tools/magex` v0.10.0](https://github.com/getporter/magefiles/pull/45) on [getporter/magefiles](https://github.com/getporter/magefiles) (today)
 - [go.mod: Replace `carolynvs/magex` with `uwu-tools/magex` v0.10.0](https://github.com/getporter/porter/pull/3270) on [getporter/porter](https://github.com/getporter/porter) (today)
 - [Steering term and affiliation fixes](https://github.com/todogroup/governance/pull/355) on [todogroup/governance](https://github.com/todogroup/governance) (today)
@@ -38,7 +39,6 @@
 - [about: Fix Jade&#39;s username in attribution](https://github.com/uwu-tools/blahg-bsky/pull/18) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (2 days ago)
 - [✨ Add a little polish ✨](https://github.com/uwu-tools/blahg-bsky/pull/17) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (4 days ago)
 - [.github: Add Dependabot config file](https://github.com/uwu-tools/blahg-bsky/pull/14) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (4 days ago)
-- [generated: Run `npm install &amp;&amp; npm audit fix`](https://github.com/uwu-tools/blahg-bsky/pull/13) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (4 days ago)
 
 #### ⭐ Recent Stars
 
