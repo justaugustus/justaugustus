@@ -29,6 +29,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [go.mod: Replace `carolynvs/magex` with `uwu-tools/magex` v0.10.0](https://github.com/getporter/magefiles/pull/45) on [getporter/magefiles](https://github.com/getporter/magefiles) (today)
+- [go.mod: Replace `carolynvs/magex` with `uwu-tools/magex` v0.10.0](https://github.com/getporter/porter/pull/3270) on [getporter/porter](https://github.com/getporter/porter) (today)
 - [Steering term and affiliation fixes](https://github.com/todogroup/governance/pull/355) on [todogroup/governance](https://github.com/todogroup/governance) (today)
 - [workflows/production-sync: Set `min-admins` to 3](https://github.com/uwu-tools/.github/pull/53) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 day ago)
 - [orgs/uwu-tools: Cleanups](https://github.com/uwu-tools/.github/pull/52) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 day ago)
@@ -37,8 +39,6 @@
 - [✨ Add a little polish ✨](https://github.com/uwu-tools/blahg-bsky/pull/17) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (4 days ago)
 - [.github: Add Dependabot config file](https://github.com/uwu-tools/blahg-bsky/pull/14) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (4 days ago)
 - [generated: Run `npm install &amp;&amp; npm audit fix`](https://github.com/uwu-tools/blahg-bsky/pull/13) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (4 days ago)
-- [package.json: Update package name](https://github.com/uwu-tools/blahg-bsky/pull/12) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (5 days ago)
-- [generated: Run `npm install &amp;&amp; npm run dev` to fix tina lock issues](https://github.com/uwu-tools/blahg-bsky/pull/11) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (5 days ago)
 
 #### ⭐ Recent Stars
 
