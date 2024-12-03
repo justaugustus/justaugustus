@@ -29,6 +29,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Steering term and affiliation fixes](https://github.com/todogroup/governance/pull/355) on [todogroup/governance](https://github.com/todogroup/governance) (today)
 - [workflows/production-sync: Set `min-admins` to 3](https://github.com/uwu-tools/.github/pull/53) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 day ago)
 - [orgs/uwu-tools: Cleanups](https://github.com/uwu-tools/.github/pull/52) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 day ago)
 - [🚀 Initial site build](https://github.com/justaugustus/site/pull/1) on [justaugustus/site](https://github.com/justaugustus/site) (2 days ago)
@@ -38,7 +39,6 @@
 - [generated: Run `npm install &amp;&amp; npm audit fix`](https://github.com/uwu-tools/blahg-bsky/pull/13) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (4 days ago)
 - [package.json: Update package name](https://github.com/uwu-tools/blahg-bsky/pull/12) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (5 days ago)
 - [generated: Run `npm install &amp;&amp; npm run dev` to fix tina lock issues](https://github.com/uwu-tools/blahg-bsky/pull/11) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (5 days ago)
-- [Update template site URL](https://github.com/uwu-tools/blahg-bsky/pull/10) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (5 days ago)
 
 #### ⭐ Recent Stars
 
