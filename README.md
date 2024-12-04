@@ -8,12 +8,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (today)
-- [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command. (today)
-- [getporter/magefiles](https://github.com/getporter/magefiles) - Magefile helpers for porter repositories (today)
-- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 day ago)
-- [justaugustus/site](https://github.com/justaugustus/site) -  (2 days ago)
-- [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (3 days ago)
+- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 day ago)
+- [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command. (1 day ago)
+- [getporter/magefiles](https://github.com/getporter/magefiles) - Magefile helpers for porter repositories (1 day ago)
+- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 days ago)
+- [justaugustus/site](https://github.com/justaugustus/site) -  (3 days ago)
+- [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (4 days ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (1 week ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 week ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 month ago)
@@ -31,24 +31,24 @@
 
 #### 🔨 My recent Pull Requests
 
-- [steering: Reflect the results of the 2024 elections](https://github.com/todogroup/governance/pull/357) on [todogroup/governance](https://github.com/todogroup/governance) (today)
-- [go.mod: Replace `carolynvs/magex` with `uwu-tools/magex` v0.10.0](https://github.com/getporter/magefiles/pull/45) on [getporter/magefiles](https://github.com/getporter/magefiles) (today)
-- [go.mod: Replace `carolynvs/magex` with `uwu-tools/magex` v0.10.0](https://github.com/getporter/porter/pull/3270) on [getporter/porter](https://github.com/getporter/porter) (today)
-- [Steering term and affiliation fixes](https://github.com/todogroup/governance/pull/355) on [todogroup/governance](https://github.com/todogroup/governance) (today)
-- [workflows/production-sync: Set `min-admins` to 3](https://github.com/uwu-tools/.github/pull/53) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 day ago)
-- [orgs/uwu-tools: Cleanups](https://github.com/uwu-tools/.github/pull/52) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 day ago)
-- [🚀 Initial site build](https://github.com/justaugustus/site/pull/1) on [justaugustus/site](https://github.com/justaugustus/site) (2 days ago)
-- [about: Fix Jade&#39;s username in attribution](https://github.com/uwu-tools/blahg-bsky/pull/18) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (2 days ago)
-- [✨ Add a little polish ✨](https://github.com/uwu-tools/blahg-bsky/pull/17) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (4 days ago)
-- [.github: Add Dependabot config file](https://github.com/uwu-tools/blahg-bsky/pull/14) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (4 days ago)
+- [steering: Reflect the results of the 2024 elections](https://github.com/todogroup/governance/pull/357) on [todogroup/governance](https://github.com/todogroup/governance) (1 day ago)
+- [go.mod: Replace `carolynvs/magex` with `uwu-tools/magex` v0.10.0](https://github.com/getporter/magefiles/pull/45) on [getporter/magefiles](https://github.com/getporter/magefiles) (1 day ago)
+- [go.mod: Replace `carolynvs/magex` with `uwu-tools/magex` v0.10.0](https://github.com/getporter/porter/pull/3270) on [getporter/porter](https://github.com/getporter/porter) (1 day ago)
+- [Steering term and affiliation fixes](https://github.com/todogroup/governance/pull/355) on [todogroup/governance](https://github.com/todogroup/governance) (1 day ago)
+- [workflows/production-sync: Set `min-admins` to 3](https://github.com/uwu-tools/.github/pull/53) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 days ago)
+- [orgs/uwu-tools: Cleanups](https://github.com/uwu-tools/.github/pull/52) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 days ago)
+- [🚀 Initial site build](https://github.com/justaugustus/site/pull/1) on [justaugustus/site](https://github.com/justaugustus/site) (3 days ago)
+- [about: Fix Jade&#39;s username in attribution](https://github.com/uwu-tools/blahg-bsky/pull/18) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (3 days ago)
+- [✨ Add a little polish ✨](https://github.com/uwu-tools/blahg-bsky/pull/17) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (5 days ago)
+- [.github: Add Dependabot config file](https://github.com/uwu-tools/blahg-bsky/pull/14) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (1 day ago)
-- [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (4 days ago)
-- [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (5 days ago)
-- [cassidoo/blahg](https://github.com/cassidoo/blahg) - Cassidy&#39;s blog template built with Astro and TinaCMS! (6 days ago)
-- [czue/bluesky-comments](https://github.com/czue/bluesky-comments) - Add a comments thread to any page using bluesky. (6 days ago)
+- [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (2 days ago)
+- [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (5 days ago)
+- [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (6 days ago)
+- [cassidoo/blahg](https://github.com/cassidoo/blahg) - Cassidy&#39;s blog template built with Astro and TinaCMS! (1 week ago)
+- [czue/bluesky-comments](https://github.com/czue/bluesky-comments) - Add a comments thread to any page using bluesky. (1 week ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (1 week ago)
 - [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (3 weeks ago)
 - [ljharb/repo-report](https://github.com/ljharb/repo-report) - CLI to list all repos a user has access to, and report on their configuration in aggregate. (1 month ago)
