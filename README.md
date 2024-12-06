@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications. (today)
 - [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (4 days ago)
 - [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (1 week ago)
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (1 week ago)
@@ -52,7 +53,6 @@
 - [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (4 weeks ago)
 - [ljharb/repo-report](https://github.com/ljharb/repo-report) - CLI to list all repos a user has access to, and report on their configuration in aggregate. (1 month ago)
 - [Homebrew/actions](https://github.com/Homebrew/actions) - 🚀 Homebrew&#39;s GitHub Actions (1 month ago)
-- [mozzius/backdate-labeller](https://github.com/mozzius/backdate-labeller) - atproto labeller for backdated posts (1 month ago)
 
 
 
