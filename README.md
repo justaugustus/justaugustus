@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (4 days ago)
-- [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command. (4 days ago)
-- [getporter/magefiles](https://github.com/getporter/magefiles) - Magefile helpers for porter repositories (4 days ago)
-- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (5 days ago)
-- [justaugustus/site](https://github.com/justaugustus/site) -  (6 days ago)
+- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (5 days ago)
+- [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command. (5 days ago)
+- [getporter/magefiles](https://github.com/getporter/magefiles) - Magefile helpers for porter repositories (5 days ago)
+- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (6 days ago)
+- [justaugustus/site](https://github.com/justaugustus/site) -  (1 week ago)
 - [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (1 week ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (1 week ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 weeks ago)
@@ -30,27 +30,27 @@
 
 #### 🔨 My recent Pull Requests
 
-- [steering: Reflect the results of the 2024 elections](https://github.com/todogroup/governance/pull/357) on [todogroup/governance](https://github.com/todogroup/governance) (4 days ago)
-- [go.mod: Replace `carolynvs/magex` with `uwu-tools/magex` v0.10.0](https://github.com/getporter/magefiles/pull/45) on [getporter/magefiles](https://github.com/getporter/magefiles) (4 days ago)
-- [go.mod: Replace `carolynvs/magex` with `uwu-tools/magex` v0.10.0](https://github.com/getporter/porter/pull/3270) on [getporter/porter](https://github.com/getporter/porter) (4 days ago)
-- [Steering term and affiliation fixes](https://github.com/todogroup/governance/pull/355) on [todogroup/governance](https://github.com/todogroup/governance) (4 days ago)
-- [workflows/production-sync: Set `min-admins` to 3](https://github.com/uwu-tools/.github/pull/53) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (5 days ago)
-- [orgs/uwu-tools: Cleanups](https://github.com/uwu-tools/.github/pull/52) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (5 days ago)
-- [🚀 Initial site build](https://github.com/justaugustus/site/pull/1) on [justaugustus/site](https://github.com/justaugustus/site) (6 days ago)
-- [about: Fix Jade&#39;s username in attribution](https://github.com/uwu-tools/blahg-bsky/pull/18) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (6 days ago)
+- [steering: Reflect the results of the 2024 elections](https://github.com/todogroup/governance/pull/357) on [todogroup/governance](https://github.com/todogroup/governance) (5 days ago)
+- [go.mod: Replace `carolynvs/magex` with `uwu-tools/magex` v0.10.0](https://github.com/getporter/magefiles/pull/45) on [getporter/magefiles](https://github.com/getporter/magefiles) (5 days ago)
+- [go.mod: Replace `carolynvs/magex` with `uwu-tools/magex` v0.10.0](https://github.com/getporter/porter/pull/3270) on [getporter/porter](https://github.com/getporter/porter) (5 days ago)
+- [Steering term and affiliation fixes](https://github.com/todogroup/governance/pull/355) on [todogroup/governance](https://github.com/todogroup/governance) (5 days ago)
+- [workflows/production-sync: Set `min-admins` to 3](https://github.com/uwu-tools/.github/pull/53) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (6 days ago)
+- [orgs/uwu-tools: Cleanups](https://github.com/uwu-tools/.github/pull/52) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (6 days ago)
+- [🚀 Initial site build](https://github.com/justaugustus/site/pull/1) on [justaugustus/site](https://github.com/justaugustus/site) (1 week ago)
+- [about: Fix Jade&#39;s username in attribution](https://github.com/uwu-tools/blahg-bsky/pull/18) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (1 week ago)
 - [✨ Add a little polish ✨](https://github.com/uwu-tools/blahg-bsky/pull/17) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (1 week ago)
 - [.github: Add Dependabot config file](https://github.com/uwu-tools/blahg-bsky/pull/14) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications. (1 day ago)
-- [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (5 days ago)
+- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications. (2 days ago)
+- [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (6 days ago)
 - [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (1 week ago)
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (1 week ago)
 - [cassidoo/blahg](https://github.com/cassidoo/blahg) - Cassidy&#39;s blog template built with Astro and TinaCMS! (1 week ago)
 - [czue/bluesky-comments](https://github.com/czue/bluesky-comments) - Add a comments thread to any page using bluesky. (1 week ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (1 week ago)
-- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (4 weeks ago)
+- [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (1 month ago)
 - [ljharb/repo-report](https://github.com/ljharb/repo-report) - CLI to list all repos a user has access to, and report on their configuration in aggregate. (1 month ago)
 - [Homebrew/actions](https://github.com/Homebrew/actions) - 🚀 Homebrew&#39;s GitHub Actions (1 month ago)
 
