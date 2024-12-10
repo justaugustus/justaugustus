@@ -43,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - #supply #chain #attack #detection (today)
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications. (4 days ago)
 - [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (1 week ago)
 - [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (1 week ago)
@@ -52,7 +53,6 @@
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (2 weeks ago)
 - [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (1 month ago)
 - [ljharb/repo-report](https://github.com/ljharb/repo-report) - CLI to list all repos a user has access to, and report on their configuration in aggregate. (1 month ago)
-- [Homebrew/actions](https://github.com/Homebrew/actions) - 🚀 Homebrew&#39;s GitHub Actions (1 month ago)
 
 
 
