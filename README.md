@@ -22,7 +22,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.9](https://github.com/getporter/magefiles/releases/tag/v0.6.9), 3 weeks ago) - Magefile helpers for porter repositories
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 3 months ago) - Kubernetes website and documentation repo: 
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.31](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.31), 4 months ago) - Kubernetes website and documentation repo: 
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.2](https://github.com/ossf/allstar/releases/tag/v4.2), 4 months ago) - GitHub App to set and enforce security policies
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0](https://github.com/ossf/scorecard/releases/tag/v5.0.0), 4 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) ([v2.0.0-beta8](https://github.com/ossf/scorecard-monitor/releases/tag/v2.0.0-beta8), 5 months ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
@@ -43,13 +43,13 @@
 
 #### ⭐ Recent Stars
 
-- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - #supply #chain #attack #detection (today)
-- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications. (4 days ago)
+- [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - #supply #chain #attack #detection (1 day ago)
+- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications. (5 days ago)
 - [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (1 week ago)
 - [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (1 week ago)
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (1 week ago)
-- [cassidoo/blahg](https://github.com/cassidoo/blahg) - Cassidy&#39;s blog template built with Astro and TinaCMS! (1 week ago)
-- [czue/bluesky-comments](https://github.com/czue/bluesky-comments) - Add a comments thread to any page using bluesky. (1 week ago)
+- [cassidoo/blahg](https://github.com/cassidoo/blahg) - Cassidy&#39;s blog template built with Astro and TinaCMS! (2 weeks ago)
+- [czue/bluesky-comments](https://github.com/czue/bluesky-comments) - Add a comments thread to any page using bluesky. (2 weeks ago)
 - [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (2 weeks ago)
 - [woodruffw/zizmor](https://github.com/woodruffw/zizmor) - A static analysis tool for GitHub Actions (1 month ago)
 - [ljharb/repo-report](https://github.com/ljharb/repo-report) - CLI to list all repos a user has access to, and report on their configuration in aggregate. (1 month ago)
