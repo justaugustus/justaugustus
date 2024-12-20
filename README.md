@@ -17,14 +17,14 @@
 - [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (2 weeks ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (3 weeks ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (4 weeks ago)
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 month ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 1 week ago) - Kubernetes website and documentation repo: 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.9](https://github.com/getporter/magefiles/releases/tag/v0.6.9), 1 month ago) - Magefile helpers for porter repositories
-- [ossf/allstar](https://github.com/ossf/allstar) ([v4.2](https://github.com/ossf/allstar/releases/tag/v4.2), 4 months ago) - GitHub App to set and enforce security policies
+- [ossf/allstar](https://github.com/ossf/allstar) ([v4.2](https://github.com/ossf/allstar/releases/tag/v4.2), 5 months ago) - GitHub App to set and enforce security policies
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0](https://github.com/ossf/scorecard/releases/tag/v5.0.0), 5 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) ([v2.0.0-beta8](https://github.com/ossf/scorecard-monitor/releases/tag/v2.0.0-beta8), 5 months ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 - [getporter/porter](https://github.com/getporter/porter) ([canary](https://github.com/getporter/porter/releases/tag/canary), 3 years ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
@@ -40,16 +40,16 @@
 - [orgs/uwu-tools: Cleanups](https://github.com/uwu-tools/.github/pull/52) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 weeks ago)
 - [🚀 Initial site build](https://github.com/justaugustus/site/pull/1) on [justaugustus/site](https://github.com/justaugustus/site) (2 weeks ago)
 - [about: Fix Jade&#39;s username in attribution](https://github.com/uwu-tools/blahg-bsky/pull/18) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (2 weeks ago)
-- [✨ Add a little polish ✨](https://github.com/uwu-tools/blahg-bsky/pull/17) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (2 weeks ago)
+- [✨ Add a little polish ✨](https://github.com/uwu-tools/blahg-bsky/pull/17) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. (2 days ago)
-- [actions/publish-immutable-action](https://github.com/actions/publish-immutable-action) - A GitHub Action used for publishing an Action to ghcr.io as an OCI container.  (2 days ago)
+- [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. (3 days ago)
+- [actions/publish-immutable-action](https://github.com/actions/publish-immutable-action) - A GitHub Action used for publishing an Action to ghcr.io as an OCI container.  (3 days ago)
 - [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - #supply #chain #attack #detection (1 week ago)
-- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications. (1 week ago)
+- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications. (2 weeks ago)
 - [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (2 weeks ago)
-- [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (2 weeks ago)
+- [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (3 weeks ago)
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (3 weeks ago)
 - [cassidoo/blahg](https://github.com/cassidoo/blahg) - Cassidy&#39;s blog template built with Astro and TinaCMS! (3 weeks ago)
 - [czue/bluesky-comments](https://github.com/czue/bluesky-comments) - Add a comments thread to any page using bluesky. (3 weeks ago)
