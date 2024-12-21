@@ -14,9 +14,9 @@
 - [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command. (2 weeks ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 weeks ago)
 - [justaugustus/site](https://github.com/justaugustus/site) -  (2 weeks ago)
-- [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (2 weeks ago)
+- [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (3 weeks ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (3 weeks ago)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (4 weeks ago)
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -44,8 +44,8 @@
 
 #### ⭐ Recent Stars
 
-- [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. (3 days ago)
-- [actions/publish-immutable-action](https://github.com/actions/publish-immutable-action) - A GitHub Action used for publishing an Action to ghcr.io as an OCI container.  (3 days ago)
+- [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. (4 days ago)
+- [actions/publish-immutable-action](https://github.com/actions/publish-immutable-action) - A GitHub Action used for publishing an Action to ghcr.io as an OCI container.  (4 days ago)
 - [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - #supply #chain #attack #detection (1 week ago)
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications. (2 weeks ago)
 - [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (2 weeks ago)
