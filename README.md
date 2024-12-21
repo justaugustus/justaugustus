@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨ (today)
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. (4 days ago)
 - [actions/publish-immutable-action](https://github.com/actions/publish-immutable-action) - A GitHub Action used for publishing an Action to ghcr.io as an OCI container.  (4 days ago)
 - [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - #supply #chain #attack #detection (1 week ago)
@@ -53,7 +54,6 @@
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (3 weeks ago)
 - [cassidoo/blahg](https://github.com/cassidoo/blahg) - Cassidy&#39;s blog template built with Astro and TinaCMS! (3 weeks ago)
 - [czue/bluesky-comments](https://github.com/czue/bluesky-comments) - Add a comments thread to any page using bluesky. (3 weeks ago)
-- [kubernetes/registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes&#39; container image artifacts (3 weeks ago)
 
 
 
