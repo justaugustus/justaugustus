@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (today)
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨ (2 days ago)
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. (6 days ago)
 - [actions/publish-immutable-action](https://github.com/actions/publish-immutable-action) - A GitHub Action used for publishing an Action to ghcr.io as an OCI container.  (6 days ago)
@@ -53,7 +54,6 @@
 - [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (3 weeks ago)
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (3 weeks ago)
 - [cassidoo/blahg](https://github.com/cassidoo/blahg) - Cassidy&#39;s blog template built with Astro and TinaCMS! (3 weeks ago)
-- [czue/bluesky-comments](https://github.com/czue/bluesky-comments) - Add a comments thread to any page using bluesky. (3 weeks ago)
 
 
 
