@@ -12,16 +12,16 @@
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (2 weeks ago)
 - [getporter/magefiles](https://github.com/getporter/magefiles) - Magefile helpers for porter repositories (2 weeks ago)
 - [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command. (2 weeks ago)
-- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 weeks ago)
+- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (3 weeks ago)
 - [justaugustus/site](https://github.com/justaugustus/site) -  (3 weeks ago)
 - [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (3 weeks ago)
-- [justaugustus/about](https://github.com/justaugustus/about) -  (3 weeks ago)
+- [justaugustus/about](https://github.com/justaugustus/about) -  (4 weeks ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [getporter/porter](https://github.com/getporter/porter) ([v1.2.1](https://github.com/getporter/porter/releases/tag/v1.2.1), today) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
+- [getporter/porter](https://github.com/getporter/porter) ([v1.2.1](https://github.com/getporter/porter/releases/tag/v1.2.1), 1 day ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 1 week ago) - Kubernetes website and documentation repo: 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.9](https://github.com/getporter/magefiles/releases/tag/v0.6.9), 1 month ago) - Magefile helpers for porter repositories
@@ -36,20 +36,20 @@
 - [go.mod: Replace `carolynvs/magex` with `uwu-tools/magex` v0.10.0](https://github.com/getporter/magefiles/pull/45) on [getporter/magefiles](https://github.com/getporter/magefiles) (2 weeks ago)
 - [go.mod: Replace `carolynvs/magex` with `uwu-tools/magex` v0.10.0](https://github.com/getporter/porter/pull/3270) on [getporter/porter](https://github.com/getporter/porter) (2 weeks ago)
 - [Steering term and affiliation fixes](https://github.com/todogroup/governance/pull/355) on [todogroup/governance](https://github.com/todogroup/governance) (2 weeks ago)
-- [workflows/production-sync: Set `min-admins` to 3](https://github.com/uwu-tools/.github/pull/53) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 weeks ago)
-- [orgs/uwu-tools: Cleanups](https://github.com/uwu-tools/.github/pull/52) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 weeks ago)
+- [workflows/production-sync: Set `min-admins` to 3](https://github.com/uwu-tools/.github/pull/53) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (3 weeks ago)
+- [orgs/uwu-tools: Cleanups](https://github.com/uwu-tools/.github/pull/52) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (3 weeks ago)
 - [🚀 Initial site build](https://github.com/justaugustus/site/pull/1) on [justaugustus/site](https://github.com/justaugustus/site) (3 weeks ago)
 - [about: Fix Jade&#39;s username in attribution](https://github.com/uwu-tools/blahg-bsky/pull/18) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (3 weeks ago)
 - [✨ Add a little polish ✨](https://github.com/uwu-tools/blahg-bsky/pull/17) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨ (1 day ago)
-- [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. (5 days ago)
-- [actions/publish-immutable-action](https://github.com/actions/publish-immutable-action) - A GitHub Action used for publishing an Action to ghcr.io as an OCI container.  (5 days ago)
+- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨ (2 days ago)
+- [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. (6 days ago)
+- [actions/publish-immutable-action](https://github.com/actions/publish-immutable-action) - A GitHub Action used for publishing an Action to ghcr.io as an OCI container.  (6 days ago)
 - [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - #supply #chain #attack #detection (1 week ago)
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications. (2 weeks ago)
-- [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (2 weeks ago)
+- [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (3 weeks ago)
 - [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (3 weeks ago)
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (3 weeks ago)
 - [cassidoo/blahg](https://github.com/cassidoo/blahg) - Cassidy&#39;s blog template built with Astro and TinaCMS! (3 weeks ago)
