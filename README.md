@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update TAC members following 2024 elections](https://github.com/ossf/tac/pull/425) on [ossf/tac](https://github.com/ossf/tac) (today)
 - [OWNERS: Update SIG Release aliases](https://github.com/kubernetes/kubernetes/pull/129191) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
 - [steering: Reflect the results of the 2024 elections](https://github.com/todogroup/governance/pull/357) on [todogroup/governance](https://github.com/todogroup/governance) (2 weeks ago)
 - [go.mod: Replace `carolynvs/magex` with `uwu-tools/magex` v0.10.0](https://github.com/getporter/magefiles/pull/45) on [getporter/magefiles](https://github.com/getporter/magefiles) (2 weeks ago)
@@ -40,7 +41,6 @@
 - [orgs/uwu-tools: Cleanups](https://github.com/uwu-tools/.github/pull/52) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (3 weeks ago)
 - [🚀 Initial site build](https://github.com/justaugustus/site/pull/1) on [justaugustus/site](https://github.com/justaugustus/site) (3 weeks ago)
 - [about: Fix Jade&#39;s username in attribution](https://github.com/uwu-tools/blahg-bsky/pull/18) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (3 weeks ago)
-- [✨ Add a little polish ✨](https://github.com/uwu-tools/blahg-bsky/pull/17) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
