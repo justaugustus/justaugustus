@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.10](https://github.com/getporter/magefiles/releases/tag/v0.6.10), 2 days ago) - Magefile helpers for porter repositories
+- [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.10](https://github.com/getporter/magefiles/releases/tag/v0.6.10), 3 days ago) - Magefile helpers for porter repositories
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 2 weeks ago) - Kubernetes website and documentation repo: 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.0), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.2](https://github.com/ossf/allstar/releases/tag/v4.2), 5 months ago) - GitHub App to set and enforce security policies
@@ -31,7 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update TAC members following 2024 elections](https://github.com/ossf/tac/pull/425) on [ossf/tac](https://github.com/ossf/tac) (3 days ago)
+- [Update TAC members following 2024 elections](https://github.com/ossf/tac/pull/425) on [ossf/tac](https://github.com/ossf/tac) (4 days ago)
 - [OWNERS: Update SIG Release aliases](https://github.com/kubernetes/kubernetes/pull/129191) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
 - [steering: Reflect the results of the 2024 elections](https://github.com/todogroup/governance/pull/357) on [todogroup/governance](https://github.com/todogroup/governance) (3 weeks ago)
 - [go.mod: Replace `carolynvs/magex` with `uwu-tools/magex` v0.10.0](https://github.com/getporter/magefiles/pull/45) on [getporter/magefiles](https://github.com/getporter/magefiles) (3 weeks ago)
@@ -44,16 +44,16 @@
 
 #### ⭐ Recent Stars
 
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (3 days ago)
-- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨ (5 days ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (4 days ago)
+- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨ (6 days ago)
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. (1 week ago)
 - [actions/publish-immutable-action](https://github.com/actions/publish-immutable-action) - A GitHub Action used for publishing an Action to ghcr.io as an OCI container.  (1 week ago)
 - [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - #supply #chain #attack #detection (2 weeks ago)
-- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications. (2 weeks ago)
+- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications. (3 weeks ago)
 - [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (3 weeks ago)
-- [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (3 weeks ago)
+- [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (4 weeks ago)
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (4 weeks ago)
-- [cassidoo/blahg](https://github.com/cassidoo/blahg) - Cassidy&#39;s blog template built with Astro and TinaCMS! (4 weeks ago)
+- [cassidoo/blahg](https://github.com/cassidoo/blahg) - Cassidy&#39;s blog template built with Astro and TinaCMS! (1 month ago)
 
 
 
