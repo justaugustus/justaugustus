@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (today)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (5 days ago)
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨ (1 week ago)
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. (1 week ago)
@@ -53,7 +54,6 @@
 - [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (3 weeks ago)
 - [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (4 weeks ago)
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go (1 month ago)
-- [cassidoo/blahg](https://github.com/cassidoo/blahg) - Cassidy&#39;s blog template built with Astro and TinaCMS! (1 month ago)
 
 
 
