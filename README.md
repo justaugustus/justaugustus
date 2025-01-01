@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (today)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
-- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (4 weeks ago)
 - [getporter/magefiles](https://github.com/getporter/magefiles) - Magefile helpers for porter repositories (4 weeks ago)
 - [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command. (4 weeks ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 month ago)
