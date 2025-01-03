@@ -8,6 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 days ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (2 days ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 weeks ago)
 - [getporter/magefiles](https://github.com/getporter/magefiles) - Magefile helpers for porter repositories (1 month ago)
@@ -17,7 +18,6 @@
 - [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (1 month ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (1 month ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
