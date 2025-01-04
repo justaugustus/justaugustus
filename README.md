@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update meeting notes for 2025 and add 2024 archive](https://github.com/ossf/tac/pull/428) on [ossf/tac](https://github.com/ossf/tac) (today)
 - [Update TAC members following 2024 elections](https://github.com/ossf/tac/pull/425) on [ossf/tac](https://github.com/ossf/tac) (1 week ago)
 - [OWNERS: Update SIG Release aliases](https://github.com/kubernetes/kubernetes/pull/129191) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 weeks ago)
 - [steering: Reflect the results of the 2024 elections](https://github.com/todogroup/governance/pull/357) on [todogroup/governance](https://github.com/todogroup/governance) (1 month ago)
@@ -40,7 +41,6 @@
 - [workflows/production-sync: Set `min-admins` to 3](https://github.com/uwu-tools/.github/pull/53) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 month ago)
 - [orgs/uwu-tools: Cleanups](https://github.com/uwu-tools/.github/pull/52) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 month ago)
 - [🚀 Initial site build](https://github.com/justaugustus/site/pull/1) on [justaugustus/site](https://github.com/justaugustus/site) (1 month ago)
-- [about: Fix Jade&#39;s username in attribution](https://github.com/uwu-tools/blahg-bsky/pull/18) on [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) (1 month ago)
 
 #### ⭐ Recent Stars
 
