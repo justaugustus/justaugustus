@@ -9,6 +9,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (today)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (5 days ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 weeks ago)
 - [getporter/magefiles](https://github.com/getporter/magefiles) - Magefile helpers for porter repositories (1 month ago)
@@ -17,7 +18,6 @@
 - [justaugustus/site](https://github.com/justaugustus/site) -  (1 month ago)
 - [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (1 month ago)
 - [justaugustus/about](https://github.com/justaugustus/about) -  (1 month ago)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
