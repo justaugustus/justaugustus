@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 days ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (today)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 days ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 week ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 weeks ago)
