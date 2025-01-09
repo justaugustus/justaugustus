@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Simplify docs around Chair election, roles, and responsibilities](https://github.com/ossf/tac/pull/432) on [ossf/tac](https://github.com/ossf/tac) (today)
 - [CHANGELOG: Add entry for TAC onboarding document](https://github.com/ossf/tac/pull/431) on [ossf/tac](https://github.com/ossf/tac) (1 day ago)
 - [📖 governance: Add meeting note archives from 2021 through 2024](https://github.com/ossf/scorecard/pull/4482) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
 - [process: Add initial onboarding document for incoming TAC members](https://github.com/ossf/tac/pull/429) on [ossf/tac](https://github.com/ossf/tac) (5 days ago)
@@ -40,7 +41,6 @@
 - [steering: Reflect the results of the 2024 elections](https://github.com/todogroup/governance/pull/357) on [todogroup/governance](https://github.com/todogroup/governance) (1 month ago)
 - [go.mod: Replace `carolynvs/magex` with `uwu-tools/magex` v0.10.0](https://github.com/getporter/magefiles/pull/45) on [getporter/magefiles](https://github.com/getporter/magefiles) (1 month ago)
 - [go.mod: Replace `carolynvs/magex` with `uwu-tools/magex` v0.10.0](https://github.com/getporter/porter/pull/3270) on [getporter/porter](https://github.com/getporter/porter) (1 month ago)
-- [Steering term and affiliation fixes](https://github.com/todogroup/governance/pull/355) on [todogroup/governance](https://github.com/todogroup/governance) (1 month ago)
 
 #### ⭐ Recent Stars
 
