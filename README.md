@@ -8,6 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (1 day ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 days ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (4 days ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 week ago)
@@ -17,7 +18,6 @@
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 month ago)
 - [justaugustus/site](https://github.com/justaugustus/site) -  (1 month ago)
 - [uwu-tools/blahg-bsky](https://github.com/uwu-tools/blahg-bsky) -  (1 month ago)
-- [justaugustus/about](https://github.com/justaugustus/about) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -26,6 +26,7 @@
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.0), 1 month ago) - Production-Grade Container Scheduling and Management
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.2](https://github.com/ossf/allstar/releases/tag/v4.2), 5 months ago) - GitHub App to set and enforce security policies
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0](https://github.com/ossf/scorecard/releases/tag/v5.0.0), 5 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.1), 6 months ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) ([v2.0.0-beta8](https://github.com/ossf/scorecard-monitor/releases/tag/v2.0.0-beta8), 6 months ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 - [getporter/porter](https://github.com/getporter/porter) ([canary](https://github.com/getporter/porter/releases/tag/canary), 3 years ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 
