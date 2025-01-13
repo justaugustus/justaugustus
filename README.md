@@ -8,9 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (3 days ago)
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (4 days ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (6 days ago)
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (4 days ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (5 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 week ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 month ago)
 - [getporter/magefiles](https://github.com/getporter/magefiles) - Magefile helpers for porter repositories (1 month ago)
@@ -32,12 +32,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Simplify docs around Chair election, roles, and responsibilities](https://github.com/ossf/tac/pull/432) on [ossf/tac](https://github.com/ossf/tac) (3 days ago)
-- [CHANGELOG: Add entry for TAC onboarding document](https://github.com/ossf/tac/pull/431) on [ossf/tac](https://github.com/ossf/tac) (4 days ago)
-- [📖 governance: Add meeting note archives from 2021 through 2024](https://github.com/ossf/scorecard/pull/4482) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
+- [Simplify docs around Chair election, roles, and responsibilities](https://github.com/ossf/tac/pull/432) on [ossf/tac](https://github.com/ossf/tac) (4 days ago)
+- [CHANGELOG: Add entry for TAC onboarding document](https://github.com/ossf/tac/pull/431) on [ossf/tac](https://github.com/ossf/tac) (5 days ago)
+- [📖 governance: Add meeting note archives from 2021 through 2024](https://github.com/ossf/scorecard/pull/4482) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [process: Add initial onboarding document for incoming TAC members](https://github.com/ossf/tac/pull/429) on [ossf/tac](https://github.com/ossf/tac) (1 week ago)
 - [Update meeting notes for 2025 and add 2024 archive](https://github.com/ossf/tac/pull/428) on [ossf/tac](https://github.com/ossf/tac) (1 week ago)
-- [Update TAC members following 2024 elections](https://github.com/ossf/tac/pull/425) on [ossf/tac](https://github.com/ossf/tac) (2 weeks ago)
+- [Update TAC members following 2024 elections](https://github.com/ossf/tac/pull/425) on [ossf/tac](https://github.com/ossf/tac) (3 weeks ago)
 - [OWNERS: Update SIG Release aliases](https://github.com/kubernetes/kubernetes/pull/129191) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
 - [steering: Reflect the results of the 2024 elections](https://github.com/todogroup/governance/pull/357) on [todogroup/governance](https://github.com/todogroup/governance) (1 month ago)
 - [go.mod: Replace `carolynvs/magex` with `uwu-tools/magex` v0.10.0](https://github.com/getporter/magefiles/pull/45) on [getporter/magefiles](https://github.com/getporter/magefiles) (1 month ago)
@@ -45,9 +45,9 @@
 
 #### ⭐ Recent Stars
 
-- [kubernetes-sigs/ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources (3 days ago)
+- [kubernetes-sigs/ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources (4 days ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (2 weeks ago)
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 weeks ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (3 weeks ago)
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨ (3 weeks ago)
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. (3 weeks ago)
 - [actions/publish-immutable-action](https://github.com/actions/publish-immutable-action) - A GitHub Action used for publishing an Action to ghcr.io as an OCI container.  (3 weeks ago)
