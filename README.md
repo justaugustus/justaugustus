@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (4 days ago)
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (5 days ago)
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (5 days ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (6 days ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 week ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 month ago)
@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.10](https://github.com/getporter/magefiles/releases/tag/v0.6.10), 2 weeks ago) - Magefile helpers for porter repositories
+- [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.10](https://github.com/getporter/magefiles/releases/tag/v0.6.10), 3 weeks ago) - Magefile helpers for porter repositories
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 1 month ago) - Kubernetes website and documentation repo: 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.0), 1 month ago) - Production-Grade Container Scheduling and Management
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.2](https://github.com/ossf/allstar/releases/tag/v4.2), 5 months ago) - GitHub App to set and enforce security policies
@@ -32,8 +32,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Simplify docs around Chair election, roles, and responsibilities](https://github.com/ossf/tac/pull/432) on [ossf/tac](https://github.com/ossf/tac) (4 days ago)
-- [CHANGELOG: Add entry for TAC onboarding document](https://github.com/ossf/tac/pull/431) on [ossf/tac](https://github.com/ossf/tac) (5 days ago)
+- [Simplify docs around Chair election, roles, and responsibilities](https://github.com/ossf/tac/pull/432) on [ossf/tac](https://github.com/ossf/tac) (5 days ago)
+- [CHANGELOG: Add entry for TAC onboarding document](https://github.com/ossf/tac/pull/431) on [ossf/tac](https://github.com/ossf/tac) (6 days ago)
 - [📖 governance: Add meeting note archives from 2021 through 2024](https://github.com/ossf/scorecard/pull/4482) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [process: Add initial onboarding document for incoming TAC members](https://github.com/ossf/tac/pull/429) on [ossf/tac](https://github.com/ossf/tac) (1 week ago)
 - [Update meeting notes for 2025 and add 2024 archive](https://github.com/ossf/tac/pull/428) on [ossf/tac](https://github.com/ossf/tac) (1 week ago)
@@ -45,12 +45,12 @@
 
 #### ⭐ Recent Stars
 
-- [kubernetes-sigs/ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources (4 days ago)
+- [kubernetes-sigs/ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources (5 days ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (2 weeks ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (3 weeks ago)
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨ (3 weeks ago)
-- [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. (3 weeks ago)
-- [actions/publish-immutable-action](https://github.com/actions/publish-immutable-action) - A GitHub Action used for publishing an Action to ghcr.io as an OCI container.  (3 weeks ago)
+- [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. (4 weeks ago)
+- [actions/publish-immutable-action](https://github.com/actions/publish-immutable-action) - A GitHub Action used for publishing an Action to ghcr.io as an OCI container.  (4 weeks ago)
 - [chainguard-dev/malcontent](https://github.com/chainguard-dev/malcontent) - #supply #chain #attack #detection (1 month ago)
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications. (1 month ago)
 - [google/osv-scalibr](https://github.com/google/osv-scalibr) -  (1 month ago)
