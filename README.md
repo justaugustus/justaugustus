@@ -9,15 +9,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (today)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (today)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (today)
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (1 week ago)
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 week ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (2 weeks ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 month ago)
 - [getporter/magefiles](https://github.com/getporter/magefiles) - Magefile helpers for porter repositories (1 month ago)
 - [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command. (1 month ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 month ago)
-- [justaugustus/site](https://github.com/justaugustus/site) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
