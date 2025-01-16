@@ -32,6 +32,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update TAC Chair and Vice Chair for 2025](https://github.com/ossf/tac/pull/436) on [ossf/tac](https://github.com/ossf/tac) (today)
+- [Update Stephen Augustus (justaugustus) affiliation](https://github.com/cncf/gitdm/pull/587) on [cncf/gitdm](https://github.com/cncf/gitdm) (today)
+- [groups: Update Stephen Augustus (justaugustus) affiliation](https://github.com/kubernetes/k8s.io/pull/7688) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (today)
 - [Update Stephen Augustus (justaugustus) affiliation](https://github.com/kubernetes/community/pull/8252) on [kubernetes/community](https://github.com/kubernetes/community) (today)
 - [Simplify docs around Chair election, roles, and responsibilities](https://github.com/ossf/tac/pull/432) on [ossf/tac](https://github.com/ossf/tac) (1 week ago)
 - [CHANGELOG: Add entry for TAC onboarding document](https://github.com/ossf/tac/pull/431) on [ossf/tac](https://github.com/ossf/tac) (1 week ago)
@@ -39,9 +42,6 @@
 - [process: Add initial onboarding document for incoming TAC members](https://github.com/ossf/tac/pull/429) on [ossf/tac](https://github.com/ossf/tac) (1 week ago)
 - [Update meeting notes for 2025 and add 2024 archive](https://github.com/ossf/tac/pull/428) on [ossf/tac](https://github.com/ossf/tac) (1 week ago)
 - [Update TAC members following 2024 elections](https://github.com/ossf/tac/pull/425) on [ossf/tac](https://github.com/ossf/tac) (3 weeks ago)
-- [OWNERS: Update SIG Release aliases](https://github.com/kubernetes/kubernetes/pull/129191) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
-- [steering: Reflect the results of the 2024 elections](https://github.com/todogroup/governance/pull/357) on [todogroup/governance](https://github.com/todogroup/governance) (1 month ago)
-- [go.mod: Replace `carolynvs/magex` with `uwu-tools/magex` v0.10.0](https://github.com/getporter/magefiles/pull/45) on [getporter/magefiles](https://github.com/getporter/magefiles) (1 month ago)
 
 #### ⭐ Recent Stars
 
