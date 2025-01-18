@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 day ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 day ago)
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 days ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 days ago)
 - [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (2 days ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 days ago)
