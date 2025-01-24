@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (6 days ago)
-- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (6 days ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 week ago)
+- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 week ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 week ago)
 - [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (1 week ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
@@ -32,8 +32,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [MEMBERS: Update Stephen Augustus (justaugustus) affiliation](https://github.com/todogroup/governance/pull/372) on [todogroup/governance](https://github.com/todogroup/governance) (5 days ago)
-- [Update Stephen Augustus (justaugustus) affiliation](https://github.com/ossf/tac/pull/440) on [ossf/tac](https://github.com/ossf/tac) (5 days ago)
+- [MEMBERS: Update Stephen Augustus (justaugustus) affiliation](https://github.com/todogroup/governance/pull/372) on [todogroup/governance](https://github.com/todogroup/governance) (6 days ago)
+- [Update Stephen Augustus (justaugustus) affiliation](https://github.com/ossf/tac/pull/440) on [ossf/tac](https://github.com/ossf/tac) (6 days ago)
 - [Update TAC Chair and Vice Chair for 2025](https://github.com/ossf/tac/pull/436) on [ossf/tac](https://github.com/ossf/tac) (1 week ago)
 - [Update Stephen Augustus (justaugustus) affiliation](https://github.com/cncf/gitdm/pull/587) on [cncf/gitdm](https://github.com/cncf/gitdm) (1 week ago)
 - [groups: Update Stephen Augustus (justaugustus) affiliation](https://github.com/kubernetes/k8s.io/pull/7688) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
@@ -45,9 +45,9 @@
 
 #### ⭐ Recent Stars
 
-- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by &#34;scanning code&#34; ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nlnet.nl/project/vulnerabilitydatabase, the Google Summer of Code, Azure credits, nexB and others generous sponsors! (1 day ago)
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (5 days ago)
-- [ading2210/doompdf](https://github.com/ading2210/doompdf) - A port of Doom (1993) that runs inside a PDF file (6 days ago)
+- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by &#34;scanning code&#34; ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nlnet.nl/project/vulnerabilitydatabase, the Google Summer of Code, Azure credits, nexB and others generous sponsors! (2 days ago)
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (6 days ago)
+- [ading2210/doompdf](https://github.com/ading2210/doompdf) - A port of Doom (1993) that runs inside a PDF file (1 week ago)
 - [kubernetes-sigs/ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources (2 weeks ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (3 weeks ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 month ago)
