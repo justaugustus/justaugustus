@@ -32,6 +32,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Hack to support local results](https://github.com/ossf/scorecard-visualizer/pull/453) on [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) (today)
+- [Hack to support local results](https://github.com/ossf/scorecard-monitor/pull/90) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (today)
 - [✨ `multi-scorecard` experiment](https://github.com/ossf/scorecard/pull/4502) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [MEMBERS: Update Stephen Augustus (justaugustus) affiliation](https://github.com/todogroup/governance/pull/372) on [todogroup/governance](https://github.com/todogroup/governance) (1 week ago)
 - [Update Stephen Augustus (justaugustus) affiliation](https://github.com/ossf/tac/pull/440) on [ossf/tac](https://github.com/ossf/tac) (1 week ago)
@@ -40,8 +42,6 @@
 - [groups: Update Stephen Augustus (justaugustus) affiliation](https://github.com/kubernetes/k8s.io/pull/7688) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 week ago)
 - [Update Stephen Augustus (justaugustus) affiliation](https://github.com/kubernetes/community/pull/8252) on [kubernetes/community](https://github.com/kubernetes/community) (1 week ago)
 - [Simplify docs around Chair election, roles, and responsibilities](https://github.com/ossf/tac/pull/432) on [ossf/tac](https://github.com/ossf/tac) (2 weeks ago)
-- [CHANGELOG: Add entry for TAC onboarding document](https://github.com/ossf/tac/pull/431) on [ossf/tac](https://github.com/ossf/tac) (2 weeks ago)
-- [📖 governance: Add meeting note archives from 2021 through 2024](https://github.com/ossf/scorecard/pull/4482) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
