@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [✨ `multi-scorecard` experiment](https://github.com/ossf/scorecard/pull/4502) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [MEMBERS: Update Stephen Augustus (justaugustus) affiliation](https://github.com/todogroup/governance/pull/372) on [todogroup/governance](https://github.com/todogroup/governance) (1 week ago)
 - [Update Stephen Augustus (justaugustus) affiliation](https://github.com/ossf/tac/pull/440) on [ossf/tac](https://github.com/ossf/tac) (1 week ago)
 - [Update TAC Chair and Vice Chair for 2025](https://github.com/ossf/tac/pull/436) on [ossf/tac](https://github.com/ossf/tac) (1 week ago)
@@ -41,7 +42,6 @@
 - [Simplify docs around Chair election, roles, and responsibilities](https://github.com/ossf/tac/pull/432) on [ossf/tac](https://github.com/ossf/tac) (2 weeks ago)
 - [CHANGELOG: Add entry for TAC onboarding document](https://github.com/ossf/tac/pull/431) on [ossf/tac](https://github.com/ossf/tac) (2 weeks ago)
 - [📖 governance: Add meeting note archives from 2021 through 2024](https://github.com/ossf/scorecard/pull/4482) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 weeks ago)
-- [process: Add initial onboarding document for incoming TAC members](https://github.com/ossf/tac/pull/429) on [ossf/tac](https://github.com/ossf/tac) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
