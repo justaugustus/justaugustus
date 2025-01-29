@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (3 days ago)
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (4 days ago)
+- [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (4 days ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (5 days ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 week ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
 - [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (1 week ago)
@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.13), 1 week ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.13), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.10](https://github.com/getporter/magefiles/releases/tag/v0.6.10), 1 month ago) - Magefile helpers for porter repositories
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 1 month ago) - Kubernetes website and documentation repo: 
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.2](https://github.com/ossf/allstar/releases/tag/v4.2), 6 months ago) - GitHub App to set and enforce security policies
@@ -32,9 +32,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Hack to support local results](https://github.com/ossf/scorecard-visualizer/pull/453) on [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) (3 days ago)
-- [Hack to support local results](https://github.com/ossf/scorecard-monitor/pull/90) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (3 days ago)
-- [✨ `multi-scorecard` experiment](https://github.com/ossf/scorecard/pull/4502) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
+- [Hack to support local results](https://github.com/ossf/scorecard-visualizer/pull/453) on [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) (4 days ago)
+- [Hack to support local results](https://github.com/ossf/scorecard-monitor/pull/90) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (4 days ago)
+- [✨ `multi-scorecard` experiment](https://github.com/ossf/scorecard/pull/4502) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
 - [MEMBERS: Update Stephen Augustus (justaugustus) affiliation](https://github.com/todogroup/governance/pull/372) on [todogroup/governance](https://github.com/todogroup/governance) (1 week ago)
 - [Update Stephen Augustus (justaugustus) affiliation](https://github.com/ossf/tac/pull/440) on [ossf/tac](https://github.com/ossf/tac) (1 week ago)
 - [Update TAC Chair and Vice Chair for 2025](https://github.com/ossf/tac/pull/436) on [ossf/tac](https://github.com/ossf/tac) (1 week ago)
@@ -45,14 +45,14 @@
 
 #### ⭐ Recent Stars
 
-- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command (2 days ago)
-- [github/combine-prs](https://github.com/github/combine-prs) - GitHub Action to combine multiple PRs into a single one (2 days ago)
-- [github/local-action](https://github.com/github/local-action) - A simple utility for running and debugging a GitHub Action locally (2 days ago)
-- [github/github-app-js-sample](https://github.com/github/github-app-js-sample) - Sample of a GitHub App that comments new pull requests (2 days ago)
-- [github/ospo-reusable-workflows](https://github.com/github/ospo-reusable-workflows) - Centralized Reusable GitHub Actions (2 days ago)
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (2 days ago)
-- [github/automatic-contrib-prs](https://github.com/github/automatic-contrib-prs) - Automatically open a pull request for repositories that have no CONTRIBUTING.md file (3 days ago)
-- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by &#34;scanning code&#34; ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nlnet.nl/project/vulnerabilitydatabase, the Google Summer of Code, Azure credits, nexB and others generous sponsors! (6 days ago)
+- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command (3 days ago)
+- [github/combine-prs](https://github.com/github/combine-prs) - GitHub Action to combine multiple PRs into a single one (3 days ago)
+- [github/local-action](https://github.com/github/local-action) - A simple utility for running and debugging a GitHub Action locally (3 days ago)
+- [github/github-app-js-sample](https://github.com/github/github-app-js-sample) - Sample of a GitHub App that comments new pull requests (3 days ago)
+- [github/ospo-reusable-workflows](https://github.com/github/ospo-reusable-workflows) - Centralized Reusable GitHub Actions (3 days ago)
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (3 days ago)
+- [github/automatic-contrib-prs](https://github.com/github/automatic-contrib-prs) - Automatically open a pull request for repositories that have no CONTRIBUTING.md file (4 days ago)
+- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by &#34;scanning code&#34; ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nlnet.nl/project/vulnerabilitydatabase, the Google Summer of Code, Azure credits, nexB and others generous sponsors! (1 week ago)
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (1 week ago)
 - [ading2210/doompdf](https://github.com/ading2210/doompdf) - A port of Doom (1993) that runs inside a PDF file (1 week ago)
 
