@@ -8,6 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [bloomberg/m3docrag](https://github.com/bloomberg/m3docrag) -  (today)
 - [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (5 days ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (6 days ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 week ago)
@@ -17,7 +18,6 @@
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (3 weeks ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 weeks ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 month ago)
-- [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
