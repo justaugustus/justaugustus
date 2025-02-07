@@ -21,12 +21,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.2](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.2), today) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-alpha.1), 2 days ago) - Production-Grade Container Scheduling and Management
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.10](https://github.com/getporter/magefiles/releases/tag/v0.6.10), 1 month ago) - Magefile helpers for porter repositories
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 1 month ago) - Kubernetes website and documentation repo: 
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.2](https://github.com/ossf/allstar/releases/tag/v4.2), 6 months ago) - GitHub App to set and enforce security policies
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0](https://github.com/ossf/scorecard/releases/tag/v5.0.0), 6 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.1](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.1), 7 months ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) ([v2.0.0-beta8](https://github.com/ossf/scorecard-monitor/releases/tag/v2.0.0-beta8), 7 months ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 - [getporter/porter](https://github.com/getporter/porter) ([canary](https://github.com/getporter/porter/releases/tag/canary), 3 years ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 
