@@ -21,6 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.1.0](https://github.com/ossf/scorecard/releases/tag/v5.1.0), today) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.2](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.2), 5 days ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-alpha.1), 1 week ago) - Production-Grade Container Scheduling and Management
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.10](https://github.com/getporter/magefiles/releases/tag/v0.6.10), 1 month ago) - Magefile helpers for porter repositories
