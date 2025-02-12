@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
+- [orcwg/cra-hub](https://github.com/orcwg/cra-hub) - Everything you ever wanted to know about the CRA and its implementation (today)
 - [advanced-security/policy-as-code](https://github.com/advanced-security/policy-as-code) - GitHub Advanced Security Policy as Code (today)
-- [orcwg/cra-hub](https://github.com/orcwg/cra-hub) - Everything you ever wanted to know about the CRA and its implementation (1 week ago)
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command (2 weeks ago)
 - [github/combine-prs](https://github.com/github/combine-prs) - GitHub Action to combine multiple PRs into a single one (2 weeks ago)
 - [github/local-action](https://github.com/github/local-action) - A simple utility for running and debugging a GitHub Action locally (2 weeks ago)
