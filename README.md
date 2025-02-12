@@ -26,7 +26,6 @@
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.10](https://github.com/getporter/magefiles/releases/tag/v0.6.10), 1 month ago) - Magefile helpers for porter repositories
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 2 months ago) - Kubernetes website and documentation repo: 
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.2](https://github.com/ossf/allstar/releases/tag/v4.2), 6 months ago) - GitHub App to set and enforce security policies
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.0.0](https://github.com/ossf/scorecard/releases/tag/v5.0.0), 6 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) ([v2.0.0-beta8](https://github.com/ossf/scorecard-monitor/releases/tag/v2.0.0-beta8), 7 months ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 - [getporter/porter](https://github.com/getporter/porter) ([canary](https://github.com/getporter/porter/releases/tag/canary), 3 years ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 
