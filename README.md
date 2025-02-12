@@ -21,8 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.2](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.2), 4 days ago) - Interfaces and implementations for building Kubernetes releases.
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-alpha.1), 6 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.2](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.2), 5 days ago) - Interfaces and implementations for building Kubernetes releases.
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-alpha.1), 1 week ago) - Production-Grade Container Scheduling and Management
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.10](https://github.com/getporter/magefiles/releases/tag/v0.6.10), 1 month ago) - Magefile helpers for porter repositories
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 2 months ago) - Kubernetes website and documentation repo: 
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.2](https://github.com/ossf/allstar/releases/tag/v4.2), 6 months ago) - GitHub App to set and enforce security policies
@@ -53,7 +53,7 @@
 - [github/ospo-reusable-workflows](https://github.com/github/ospo-reusable-workflows) - Centralized Reusable GitHub Actions (2 weeks ago)
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (2 weeks ago)
 - [github/automatic-contrib-prs](https://github.com/github/automatic-contrib-prs) - Automatically open a pull request for repositories that have no CONTRIBUTING.md file (2 weeks ago)
-- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by &#34;scanning code&#34; ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nlnet.nl/project/vulnerabilitydatabase, the Google Summer of Code, Azure credits, nexB and others generous sponsors! (2 weeks ago)
+- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by &#34;scanning code&#34; ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nlnet.nl/project/vulnerabilitydatabase, the Google Summer of Code, Azure credits, nexB and others generous sponsors! (3 weeks ago)
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (3 weeks ago)
 
 
