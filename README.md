@@ -8,16 +8,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 day ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 week ago)
 - [bloomberg/m3docrag](https://github.com/bloomberg/m3docrag) -  (2 weeks ago)
 - [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (2 weeks ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 weeks ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (3 weeks ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (4 weeks ago)
 - [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (4 weeks ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (4 weeks ago)
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (1 month ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [📖 MAINTAINERS: Reflect active project contributors and affiliations](https://github.com/ossf/scorecard/pull/4521) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [Code of Conduct elections 2025](https://github.com/kubernetes/community/pull/8314) on [kubernetes/community](https://github.com/kubernetes/community) (1 week ago)
 - [Hack to support local results](https://github.com/ossf/scorecard-visualizer/pull/453) on [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) (2 weeks ago)
 - [Hack to support local results](https://github.com/ossf/scorecard-monitor/pull/90) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (2 weeks ago)
@@ -41,7 +42,6 @@
 - [Update TAC Chair and Vice Chair for 2025](https://github.com/ossf/tac/pull/436) on [ossf/tac](https://github.com/ossf/tac) (4 weeks ago)
 - [Update Stephen Augustus (justaugustus) affiliation](https://github.com/cncf/gitdm/pull/587) on [cncf/gitdm](https://github.com/cncf/gitdm) (4 weeks ago)
 - [groups: Update Stephen Augustus (justaugustus) affiliation](https://github.com/kubernetes/k8s.io/pull/7688) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (4 weeks ago)
-- [Update Stephen Augustus (justaugustus) affiliation](https://github.com/kubernetes/community/pull/8252) on [kubernetes/community](https://github.com/kubernetes/community) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
