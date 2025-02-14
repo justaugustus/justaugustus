@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md (today)
 - [orcwg/cra-hub](https://github.com/orcwg/cra-hub) - Everything you ever wanted to know about the CRA and its implementation (2 days ago)
 - [advanced-security/policy-as-code](https://github.com/advanced-security/policy-as-code) - GitHub Advanced Security Policy as Code (2 days ago)
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command (2 weeks ago)
@@ -54,7 +55,6 @@
 - [github/ospo-reusable-workflows](https://github.com/github/ospo-reusable-workflows) - Centralized Reusable GitHub Actions (2 weeks ago)
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (2 weeks ago)
 - [github/automatic-contrib-prs](https://github.com/github/automatic-contrib-prs) - Automatically open a pull request for repositories that have no CONTRIBUTING.md file (2 weeks ago)
-- [aboutcode-org/scancode-toolkit](https://github.com/aboutcode-org/scancode-toolkit) - :mag: ScanCode detects licenses, copyrights, dependencies by &#34;scanning code&#34; ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet project https://nlnet.nl/project/vulnerabilitydatabase, the Google Summer of Code, Azure credits, nexB and others generous sponsors! (3 weeks ago)
 
 
 
