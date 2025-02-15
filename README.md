@@ -32,7 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [workflows: Remove `--allow-redirect` to catch links that need update](https://github.com/todogroup/awesome-ospo/pull/69) on [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) (today)
+- [Allow only 302 redirects, fix redirected links, and remove inaccessible projects](https://github.com/todogroup/awesome-ospo/pull/69) on [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) (today)
 - [Remove projects that are explicitly archived or in archive orgs](https://github.com/todogroup/awesome-ospo/pull/68) on [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) (today)
 - [📖 MAINTAINERS: Reflect active project contributors and affiliations](https://github.com/ossf/scorecard/pull/4521) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
 - [Code of Conduct elections 2025](https://github.com/kubernetes/community/pull/8314) on [kubernetes/community](https://github.com/kubernetes/community) (1 week ago)
