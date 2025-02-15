@@ -8,16 +8,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) - Curated list of awesome tools for managing open source programs (today)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (3 days ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 week ago)
 - [bloomberg/m3docrag](https://github.com/bloomberg/m3docrag) -  (2 weeks ago)
 - [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (3 weeks ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (3 weeks ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (4 weeks ago)
-- [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (1 month ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 month ago)
+- [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (1 month ago)
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (1 month ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [workflows: Remove `--allow-redirect` to catch links that need update](https://github.com/todogroup/awesome-ospo/pull/69) on [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) (today)
 - [Remove projects that are explicitly archived or in archive orgs](https://github.com/todogroup/awesome-ospo/pull/68) on [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) (today)
 - [📖 MAINTAINERS: Reflect active project contributors and affiliations](https://github.com/ossf/scorecard/pull/4521) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
 - [Code of Conduct elections 2025](https://github.com/kubernetes/community/pull/8314) on [kubernetes/community](https://github.com/kubernetes/community) (1 week ago)
@@ -41,7 +42,6 @@
 - [MEMBERS: Update Stephen Augustus (justaugustus) affiliation](https://github.com/todogroup/governance/pull/372) on [todogroup/governance](https://github.com/todogroup/governance) (4 weeks ago)
 - [Update Stephen Augustus (justaugustus) affiliation](https://github.com/ossf/tac/pull/440) on [ossf/tac](https://github.com/ossf/tac) (4 weeks ago)
 - [Update TAC Chair and Vice Chair for 2025](https://github.com/ossf/tac/pull/436) on [ossf/tac](https://github.com/ossf/tac) (1 month ago)
-- [Update Stephen Augustus (justaugustus) affiliation](https://github.com/cncf/gitdm/pull/587) on [cncf/gitdm](https://github.com/cncf/gitdm) (1 month ago)
 
 #### ⭐ Recent Stars
 
