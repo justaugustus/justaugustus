@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [ossf/security-baseline](https://github.com/ossf/security-baseline) -  (today)
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (4 days ago)
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md (5 days ago)
 - [orcwg/cra-hub](https://github.com/orcwg/cra-hub) - Everything you ever wanted to know about the CRA and its implementation (1 week ago)
@@ -54,7 +55,6 @@
 - [github/local-action](https://github.com/github/local-action) - A simple utility for running and debugging a GitHub Action locally (3 weeks ago)
 - [github/github-app-js-sample](https://github.com/github/github-app-js-sample) - Sample of a GitHub App that comments new pull requests (3 weeks ago)
 - [github/ospo-reusable-workflows](https://github.com/github/ospo-reusable-workflows) - Centralized Reusable GitHub Actions (3 weeks ago)
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (3 weeks ago)
 
 
 
