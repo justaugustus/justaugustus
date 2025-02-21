@@ -21,6 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.1](https://github.com/ossf/scorecard-action/releases/tag/v2.4.1), today) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.12](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.12), 1 day ago) - Website and API for OpenSSF Scorecard
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-alpha.2), 3 days ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.1.1](https://github.com/ossf/scorecard/releases/tag/v5.1.1), 4 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
