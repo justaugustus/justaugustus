@@ -8,10 +8,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (5 days ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (5 days ago)
 - [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) - Curated list of awesome tools for managing open source programs (1 week ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 week ago)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 weeks ago)
 - [bloomberg/m3docrag](https://github.com/bloomberg/m3docrag) -  (3 weeks ago)
 - [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (4 weeks ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (4 weeks ago)
