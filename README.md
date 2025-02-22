@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (5 days ago)
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (today)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (5 days ago)
 - [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) - Curated list of awesome tools for managing open source programs (1 week ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 week ago)
@@ -34,6 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update Stephen Augustus affiliation](https://github.com/todogroup/governance/pull/375) on [todogroup/governance](https://github.com/todogroup/governance) (today)
+- [Update Stephen Augustus affiliation](https://github.com/kubernetes/community/pull/8351) on [kubernetes/community](https://github.com/kubernetes/community) (today)
 - [elections/cocc: Add 2025 election results](https://github.com/kubernetes/community/pull/8342) on [kubernetes/community](https://github.com/kubernetes/community) (4 days ago)
 - [Allow only 302 redirects, fix redirected links, and remove inaccessible projects](https://github.com/todogroup/awesome-ospo/pull/69) on [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) (1 week ago)
 - [Remove projects that are explicitly archived or in archive orgs](https://github.com/todogroup/awesome-ospo/pull/68) on [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) (1 week ago)
@@ -42,8 +44,6 @@
 - [Hack to support local results](https://github.com/ossf/scorecard-visualizer/pull/453) on [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) (4 weeks ago)
 - [Hack to support local results](https://github.com/ossf/scorecard-monitor/pull/90) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (4 weeks ago)
 - [✨ `multi-scorecard` experiment](https://github.com/ossf/scorecard/pull/4502) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 weeks ago)
-- [MEMBERS: Update Stephen Augustus (justaugustus) affiliation](https://github.com/todogroup/governance/pull/372) on [todogroup/governance](https://github.com/todogroup/governance) (1 month ago)
-- [Update Stephen Augustus (justaugustus) affiliation](https://github.com/ossf/tac/pull/440) on [ossf/tac](https://github.com/ossf/tac) (1 month ago)
 
 #### ⭐ Recent Stars
 
