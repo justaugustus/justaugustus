@@ -9,13 +9,13 @@
 #### 👷 Check out what I'm currently working on
 
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (today)
+- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (today)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (5 days ago)
 - [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) - Curated list of awesome tools for managing open source programs (1 week ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 week ago)
 - [bloomberg/m3docrag](https://github.com/bloomberg/m3docrag) -  (3 weeks ago)
 - [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (4 weeks ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (4 weeks ago)
-- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 month ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 month ago)
 - [cncf/gitdm](https://github.com/cncf/gitdm) - 📜Fork for tracking CNCF projects (1 month ago)
 
