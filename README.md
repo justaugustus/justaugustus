@@ -8,6 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (today)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 days ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (5 days ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (5 days ago)
@@ -16,7 +17,6 @@
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (2 weeks ago)
 - [bloomberg/m3docrag](https://github.com/bloomberg/m3docrag) -  (4 weeks ago)
 - [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (1 month ago)
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 month ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
