@@ -8,21 +8,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 days ago)
-- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (4 days ago)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (4 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 days ago)
+- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (5 days ago)
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (5 days ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 week ago)
 - [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) - Curated list of awesome tools for managing open source programs (1 week ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (2 weeks ago)
-- [bloomberg/m3docrag](https://github.com/bloomberg/m3docrag) -  (3 weeks ago)
+- [bloomberg/m3docrag](https://github.com/bloomberg/m3docrag) -  (4 weeks ago)
 - [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (1 month ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 month ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.1](https://github.com/ossf/scorecard-action/releases/tag/v2.4.1), 5 days ago) - Official GitHub Action for OpenSSF Scorecard.
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.12](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.12), 6 days ago) - Website and API for OpenSSF Scorecard
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.1](https://github.com/ossf/scorecard-action/releases/tag/v2.4.1), 6 days ago) - Official GitHub Action for OpenSSF Scorecard.
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.12](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.12), 1 week ago) - Website and API for OpenSSF Scorecard
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-alpha.2](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-alpha.2), 1 week ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.1.1](https://github.com/ossf/scorecard/releases/tag/v5.1.1), 1 week ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.2](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.2), 2 weeks ago) - Interfaces and implementations for building Kubernetes releases.
@@ -34,12 +34,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update Stephen Augustus affiliation](https://github.com/todogroup/governance/pull/375) on [todogroup/governance](https://github.com/todogroup/governance) (4 days ago)
-- [Update Stephen Augustus affiliation](https://github.com/kubernetes/community/pull/8351) on [kubernetes/community](https://github.com/kubernetes/community) (4 days ago)
+- [Update Stephen Augustus affiliation](https://github.com/todogroup/governance/pull/375) on [todogroup/governance](https://github.com/todogroup/governance) (5 days ago)
+- [Update Stephen Augustus affiliation](https://github.com/kubernetes/community/pull/8351) on [kubernetes/community](https://github.com/kubernetes/community) (5 days ago)
 - [elections/cocc: Add 2025 election results](https://github.com/kubernetes/community/pull/8342) on [kubernetes/community](https://github.com/kubernetes/community) (1 week ago)
 - [Allow only 302 redirects, fix redirected links, and remove inaccessible projects](https://github.com/todogroup/awesome-ospo/pull/69) on [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) (1 week ago)
 - [Remove projects that are explicitly archived or in archive orgs](https://github.com/todogroup/awesome-ospo/pull/68) on [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) (1 week ago)
-- [📖 MAINTAINERS: Reflect active project contributors and affiliations](https://github.com/ossf/scorecard/pull/4521) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
+- [📖 MAINTAINERS: Reflect active project contributors and affiliations](https://github.com/ossf/scorecard/pull/4521) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 weeks ago)
 - [Code of Conduct elections 2025](https://github.com/kubernetes/community/pull/8314) on [kubernetes/community](https://github.com/kubernetes/community) (3 weeks ago)
 - [Hack to support local results](https://github.com/ossf/scorecard-visualizer/pull/453) on [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) (1 month ago)
 - [Hack to support local results](https://github.com/ossf/scorecard-monitor/pull/90) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (1 month ago)
@@ -47,8 +47,8 @@
 
 #### ⭐ Recent Stars
 
-- [TomHennen/wrangle](https://github.com/TomHennen/wrangle) -  (4 days ago)
-- [github/how-engineering-communicates](https://github.com/github/how-engineering-communicates) - A community version of the &#34;common API&#34; for how the GitHub Engineering organization communicates (4 days ago)
+- [TomHennen/wrangle](https://github.com/TomHennen/wrangle) -  (5 days ago)
+- [github/how-engineering-communicates](https://github.com/github/how-engineering-communicates) - A community version of the &#34;common API&#34; for how the GitHub Engineering organization communicates (5 days ago)
 - [ossf/security-baseline](https://github.com/ossf/security-baseline) -  (1 week ago)
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (1 week ago)
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md (1 week ago)
