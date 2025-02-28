@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [microsoft/opensource.microsoft.com](https://github.com/microsoft/opensource.microsoft.com) - This is the source code to the Microsoft Open Source site featuring projects, program information, and &#34;get involved&#34; pages. This site is published at opensource.microsoft.com and managed by the Microsoft Open Source Programs Office (OSPO). (today)
 - [TomHennen/wrangle](https://github.com/TomHennen/wrangle) -  (6 days ago)
 - [github/how-engineering-communicates](https://github.com/github/how-engineering-communicates) - A community version of the &#34;common API&#34; for how the GitHub Engineering organization communicates (6 days ago)
 - [ossf/security-baseline](https://github.com/ossf/security-baseline) -  (1 week ago)
@@ -56,7 +57,6 @@
 - [advanced-security/policy-as-code](https://github.com/advanced-security/policy-as-code) - GitHub Advanced Security Policy as Code (2 weeks ago)
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command (1 month ago)
 - [github/combine-prs](https://github.com/github/combine-prs) - GitHub Action to combine multiple PRs into a single one (1 month ago)
-- [github/local-action](https://github.com/github/local-action) - A simple utility for running and debugging a GitHub Action locally (1 month ago)
 
 
 
