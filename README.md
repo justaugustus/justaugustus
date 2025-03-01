@@ -47,16 +47,16 @@
 
 #### ⭐ Recent Stars
 
+- [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) - Open Source Project Template (today)
+- [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (today)
+- [lelia/easy-mac](https://github.com/lelia/easy-mac) - A collection of profiles, settings, dotfiles, etc for more easily configuring new macOS machines 💻 🍎 (today)
+- [wayfair/ospo-automation](https://github.com/wayfair/ospo-automation) - Automation workflows for Wayfair&#39;s Open Source Program Office (today)
 - [github-community-projects/org-metrics-dashboard](https://github.com/github-community-projects/org-metrics-dashboard) - An actions-powered dashboard to get an overview of your organization&#39;s open source repository health (1 day ago)
 - [microsoft/opensource.microsoft.com](https://github.com/microsoft/opensource.microsoft.com) - This is the source code to the Microsoft Open Source site featuring projects, program information, and &#34;get involved&#34; pages. This site is published at opensource.microsoft.com and managed by the Microsoft Open Source Programs Office (OSPO). (1 day ago)
 - [TomHennen/wrangle](https://github.com/TomHennen/wrangle) -  (1 week ago)
 - [github/how-engineering-communicates](https://github.com/github/how-engineering-communicates) - A community version of the &#34;common API&#34; for how the GitHub Engineering organization communicates (1 week ago)
 - [ossf/security-baseline](https://github.com/ossf/security-baseline) -  (1 week ago)
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (2 weeks ago)
-- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md (2 weeks ago)
-- [orcwg/cra-hub](https://github.com/orcwg/cra-hub) - Everything you ever wanted to know about the CRA and its implementation (2 weeks ago)
-- [advanced-security/policy-as-code](https://github.com/advanced-security/policy-as-code) - GitHub Advanced Security Policy as Code (2 weeks ago)
-- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command (1 month ago)
 
 
 
