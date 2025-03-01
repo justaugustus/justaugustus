@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (today)
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) - Open Source Project Template (today)
 - [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (today)
 - [lelia/easy-mac](https://github.com/lelia/easy-mac) - A collection of profiles, settings, dotfiles, etc for more easily configuring new macOS machines 💻 🍎 (today)
@@ -56,7 +57,6 @@
 - [TomHennen/wrangle](https://github.com/TomHennen/wrangle) -  (1 week ago)
 - [github/how-engineering-communicates](https://github.com/github/how-engineering-communicates) - A community version of the &#34;common API&#34; for how the GitHub Engineering organization communicates (1 week ago)
 - [ossf/security-baseline](https://github.com/ossf/security-baseline) -  (1 week ago)
-- [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (2 weeks ago)
 
 
 
