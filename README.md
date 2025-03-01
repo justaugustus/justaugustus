@@ -8,6 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (today)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 days ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (5 days ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 week ago)
@@ -17,7 +18,6 @@
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (2 weeks ago)
 - [bloomberg/m3docrag](https://github.com/bloomberg/m3docrag) -  (1 month ago)
 - [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (1 month ago)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [.github: Init GitHub workflows](https://github.com/bloomberg/.github/pull/3) on [bloomberg/.github](https://github.com/bloomberg/.github) (today)
 - [Update Stephen Augustus affiliation](https://github.com/todogroup/governance/pull/375) on [todogroup/governance](https://github.com/todogroup/governance) (1 week ago)
 - [Update Stephen Augustus affiliation](https://github.com/kubernetes/community/pull/8351) on [kubernetes/community](https://github.com/kubernetes/community) (1 week ago)
 - [elections/cocc: Add 2025 election results](https://github.com/kubernetes/community/pull/8342) on [kubernetes/community](https://github.com/kubernetes/community) (1 week ago)
@@ -43,7 +44,6 @@
 - [Code of Conduct elections 2025](https://github.com/kubernetes/community/pull/8314) on [kubernetes/community](https://github.com/kubernetes/community) (3 weeks ago)
 - [Hack to support local results](https://github.com/ossf/scorecard-visualizer/pull/453) on [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) (1 month ago)
 - [Hack to support local results](https://github.com/ossf/scorecard-monitor/pull/90) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (1 month ago)
-- [✨ `multi-scorecard` experiment](https://github.com/ossf/scorecard/pull/4502) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 month ago)
 
 #### ⭐ Recent Stars
 
