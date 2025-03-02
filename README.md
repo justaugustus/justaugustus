@@ -8,9 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (today)
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 days ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (5 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 day ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (3 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (6 days ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 week ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 week ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 week ago)
@@ -34,8 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [dependabot: Enable more grouped updates for GitHub Actions](https://github.com/bloomberg/.github/pull/9) on [bloomberg/.github](https://github.com/bloomberg/.github) (today)
-- [.github: Init GitHub workflows](https://github.com/bloomberg/.github/pull/3) on [bloomberg/.github](https://github.com/bloomberg/.github) (today)
+- [dependabot: Enable more grouped updates for GitHub Actions](https://github.com/bloomberg/.github/pull/9) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 day ago)
+- [.github: Init GitHub workflows](https://github.com/bloomberg/.github/pull/3) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 day ago)
 - [Update Stephen Augustus affiliation](https://github.com/todogroup/governance/pull/375) on [todogroup/governance](https://github.com/todogroup/governance) (1 week ago)
 - [Update Stephen Augustus affiliation](https://github.com/kubernetes/community/pull/8351) on [kubernetes/community](https://github.com/kubernetes/community) (1 week ago)
 - [elections/cocc: Add 2025 election results](https://github.com/kubernetes/community/pull/8342) on [kubernetes/community](https://github.com/kubernetes/community) (1 week ago)
@@ -47,13 +47,13 @@
 
 #### ⭐ Recent Stars
 
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (today)
-- [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) - Open Source Project Template (today)
-- [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (today)
-- [lelia/easy-mac](https://github.com/lelia/easy-mac) - A collection of profiles, settings, dotfiles, etc for more easily configuring new macOS machines 💻 🍎 (today)
-- [wayfair/ospo-automation](https://github.com/wayfair/ospo-automation) - Automation workflows for Wayfair&#39;s Open Source Program Office (today)
-- [github-community-projects/org-metrics-dashboard](https://github.com/github-community-projects/org-metrics-dashboard) - An actions-powered dashboard to get an overview of your organization&#39;s open source repository health (1 day ago)
-- [microsoft/opensource.microsoft.com](https://github.com/microsoft/opensource.microsoft.com) - This is the source code to the Microsoft Open Source site featuring projects, program information, and &#34;get involved&#34; pages. This site is published at opensource.microsoft.com and managed by the Microsoft Open Source Programs Office (OSPO). (1 day ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 day ago)
+- [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) - Open Source Project Template (1 day ago)
+- [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (1 day ago)
+- [lelia/easy-mac](https://github.com/lelia/easy-mac) - A collection of profiles, settings, dotfiles, etc for more easily configuring new macOS machines 💻 🍎 (1 day ago)
+- [wayfair/ospo-automation](https://github.com/wayfair/ospo-automation) - Automation workflows for Wayfair&#39;s Open Source Program Office (1 day ago)
+- [github-community-projects/org-metrics-dashboard](https://github.com/github-community-projects/org-metrics-dashboard) - An actions-powered dashboard to get an overview of your organization&#39;s open source repository health (2 days ago)
+- [microsoft/opensource.microsoft.com](https://github.com/microsoft/opensource.microsoft.com) - This is the source code to the Microsoft Open Source site featuring projects, program information, and &#34;get involved&#34; pages. This site is published at opensource.microsoft.com and managed by the Microsoft Open Source Programs Office (OSPO). (2 days ago)
 - [TomHennen/wrangle](https://github.com/TomHennen/wrangle) -  (1 week ago)
 - [github/how-engineering-communicates](https://github.com/github/how-engineering-communicates) - A community version of the &#34;common API&#34; for how the GitHub Engineering organization communicates (1 week ago)
 - [ossf/security-baseline](https://github.com/ossf/security-baseline) -  (1 week ago)
