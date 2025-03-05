@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (4 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 day ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (6 days ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 week ago)
@@ -34,6 +34,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [scorecard-monitor: Revert to `GITHUB_TOKEN` to allow PRs](https://github.com/bloomberg/.github/pull/14) on [bloomberg/.github](https://github.com/bloomberg/.github) (today)
+- [reports/scorecard: rm `scope.json` to enable auto-discovery](https://github.com/bloomberg/.github/pull/13) on [bloomberg/.github](https://github.com/bloomberg/.github) (today)
+- [Workflow cleanups (1/n)](https://github.com/bloomberg/.github/pull/12) on [bloomberg/.github](https://github.com/bloomberg/.github) (today)
 - [dependabot: Enable more grouped updates for GitHub Actions](https://github.com/bloomberg/.github/pull/9) on [bloomberg/.github](https://github.com/bloomberg/.github) (4 days ago)
 - [.github: Init GitHub workflows](https://github.com/bloomberg/.github/pull/3) on [bloomberg/.github](https://github.com/bloomberg/.github) (4 days ago)
 - [Update Stephen Augustus affiliation](https://github.com/todogroup/governance/pull/375) on [todogroup/governance](https://github.com/todogroup/governance) (1 week ago)
@@ -41,9 +44,6 @@
 - [elections/cocc: Add 2025 election results](https://github.com/kubernetes/community/pull/8342) on [kubernetes/community](https://github.com/kubernetes/community) (2 weeks ago)
 - [Allow only 302 redirects, fix redirected links, and remove inaccessible projects](https://github.com/todogroup/awesome-ospo/pull/69) on [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) (2 weeks ago)
 - [Remove projects that are explicitly archived or in archive orgs](https://github.com/todogroup/awesome-ospo/pull/68) on [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) (2 weeks ago)
-- [📖 MAINTAINERS: Reflect active project contributors and affiliations](https://github.com/ossf/scorecard/pull/4521) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 weeks ago)
-- [Code of Conduct elections 2025](https://github.com/kubernetes/community/pull/8314) on [kubernetes/community](https://github.com/kubernetes/community) (4 weeks ago)
-- [Hack to support local results](https://github.com/ossf/scorecard-visualizer/pull/453) on [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) (1 month ago)
 
 #### ⭐ Recent Stars
 
