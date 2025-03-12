@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-beta.0), 1 day ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.29.15](https://github.com/kubernetes/kubernetes/releases/tag/v1.29.15), today) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.1](https://github.com/ossf/scorecard-action/releases/tag/v2.4.1), 2 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.12](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.12), 2 weeks ago) - Website and API for OpenSSF Scorecard
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.1.1](https://github.com/ossf/scorecard/releases/tag/v5.1.1), 3 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
