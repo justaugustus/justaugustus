@@ -15,13 +15,13 @@
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (2 weeks ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (3 weeks ago)
 - [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) - Curated list of awesome tools for managing open source programs (3 weeks ago)
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (3 weeks ago)
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (4 weeks ago)
 - [bloomberg/m3docrag](https://github.com/bloomberg/m3docrag) -  (1 month ago)
 - [ossf/scorecard-visualizer](https://github.com/ossf/scorecard-visualizer) - Tool for visualizing the Open SSF Scorecard Api data in a human friendly way (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-beta.0), today) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-beta.0), 1 day ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.1](https://github.com/ossf/scorecard-action/releases/tag/v2.4.1), 2 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.12](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.12), 2 weeks ago) - Website and API for OpenSSF Scorecard
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.1.1](https://github.com/ossf/scorecard/releases/tag/v5.1.1), 3 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
@@ -34,9 +34,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [scorecard-monitor: Revert to `GITHUB_TOKEN` to allow PRs](https://github.com/bloomberg/.github/pull/14) on [bloomberg/.github](https://github.com/bloomberg/.github) (6 days ago)
-- [reports/scorecard: rm `scope.json` to enable auto-discovery](https://github.com/bloomberg/.github/pull/13) on [bloomberg/.github](https://github.com/bloomberg/.github) (6 days ago)
-- [Workflow cleanups (1/n)](https://github.com/bloomberg/.github/pull/12) on [bloomberg/.github](https://github.com/bloomberg/.github) (6 days ago)
+- [scorecard-monitor: Revert to `GITHUB_TOKEN` to allow PRs](https://github.com/bloomberg/.github/pull/14) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 week ago)
+- [reports/scorecard: rm `scope.json` to enable auto-discovery](https://github.com/bloomberg/.github/pull/13) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 week ago)
+- [Workflow cleanups (1/n)](https://github.com/bloomberg/.github/pull/12) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 week ago)
 - [dependabot: Enable more grouped updates for GitHub Actions](https://github.com/bloomberg/.github/pull/9) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 week ago)
 - [.github: Init GitHub workflows](https://github.com/bloomberg/.github/pull/3) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 week ago)
 - [Update Stephen Augustus affiliation](https://github.com/todogroup/governance/pull/375) on [todogroup/governance](https://github.com/todogroup/governance) (2 weeks ago)
@@ -56,7 +56,7 @@
 - [microsoft/opensource.microsoft.com](https://github.com/microsoft/opensource.microsoft.com) - This is the source code to the Microsoft Open Source site featuring projects, program information, and &#34;get involved&#34; pages. This site is published at opensource.microsoft.com and managed by the Microsoft Open Source Programs Office (OSPO). (1 week ago)
 - [TomHennen/wrangle](https://github.com/TomHennen/wrangle) -  (2 weeks ago)
 - [github/how-engineering-communicates](https://github.com/github/how-engineering-communicates) - A community version of the &#34;common API&#34; for how the GitHub Engineering organization communicates (2 weeks ago)
-- [ossf/security-baseline](https://github.com/ossf/security-baseline) -  (2 weeks ago)
+- [ossf/security-baseline](https://github.com/ossf/security-baseline) -  (3 weeks ago)
 
 
 
