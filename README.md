@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [octo-sts/app](https://github.com/octo-sts/app) - A GitHub App that acts like a Security Token Service (STS) for the Github API (today)
 - [step-security/changed-files](https://github.com/step-security/changed-files) - Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories. (today)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (2 weeks ago)
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) - Open Source Project Template (2 weeks ago)
@@ -56,7 +57,6 @@
 - [github-community-projects/org-metrics-dashboard](https://github.com/github-community-projects/org-metrics-dashboard) - An actions-powered dashboard to get an overview of your organization&#39;s open source repository health (2 weeks ago)
 - [microsoft/opensource.microsoft.com](https://github.com/microsoft/opensource.microsoft.com) - This is the source code to the Microsoft Open Source site featuring projects, program information, and &#34;get involved&#34; pages. This site is published at opensource.microsoft.com and managed by the Microsoft Open Source Programs Office (OSPO). (2 weeks ago)
 - [TomHennen/wrangle](https://github.com/TomHennen/wrangle) -  (3 weeks ago)
-- [github/how-engineering-communicates](https://github.com/github/how-engineering-communicates) - A community version of the &#34;common API&#34; for how the GitHub Engineering organization communicates (3 weeks ago)
 
 
 
