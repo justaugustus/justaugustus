@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (4 days ago)
+- [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (5 days ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (2 weeks ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (3 weeks ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 weeks ago)
@@ -22,7 +22,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.7](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.7), 1 week ago) - Production-Grade Container Scheduling and Management
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.1](https://github.com/ossf/scorecard-action/releases/tag/v2.4.1), 3 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.1](https://github.com/ossf/scorecard-action/releases/tag/v2.4.1), 4 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.12](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.12), 4 weeks ago) - Website and API for OpenSSF Scorecard
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.1.1](https://github.com/ossf/scorecard/releases/tag/v5.1.1), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.2](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.2), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
@@ -34,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update Stephen Augustus affiliation](https://github.com/kubernetes/steering/pull/290) on [kubernetes/steering](https://github.com/kubernetes/steering) (4 days ago)
+- [Update Stephen Augustus affiliation](https://github.com/kubernetes/steering/pull/290) on [kubernetes/steering](https://github.com/kubernetes/steering) (5 days ago)
 - [scorecard-monitor: Revert to `GITHUB_TOKEN` to allow PRs](https://github.com/bloomberg/.github/pull/14) on [bloomberg/.github](https://github.com/bloomberg/.github) (2 weeks ago)
 - [reports/scorecard: rm `scope.json` to enable auto-discovery](https://github.com/bloomberg/.github/pull/13) on [bloomberg/.github](https://github.com/bloomberg/.github) (2 weeks ago)
 - [Workflow cleanups (1/n)](https://github.com/bloomberg/.github/pull/12) on [bloomberg/.github](https://github.com/bloomberg/.github) (2 weeks ago)
@@ -47,16 +47,16 @@
 
 #### ⭐ Recent Stars
 
-- [devops-actions/load-used-actions](https://github.com/devops-actions/load-used-actions) - Load used actions from an entire organization (3 days ago)
-- [rajbos/github-fork-updater](https://github.com/rajbos/github-fork-updater) -  (3 days ago)
-- [octo-sts/app](https://github.com/octo-sts/app) - A GitHub App that acts like a Security Token Service (STS) for the Github API (4 days ago)
-- [step-security/changed-files](https://github.com/step-security/changed-files) - Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories. (4 days ago)
+- [chainguard-dev/tj-scan](https://github.com/chainguard-dev/tj-scan) - Scan Workflow logs for IOCs from the tj-actions/changed-files breach (1 day ago)
+- [devops-actions/load-used-actions](https://github.com/devops-actions/load-used-actions) - Load used actions from an entire organization (4 days ago)
+- [rajbos/github-fork-updater](https://github.com/rajbos/github-fork-updater) -  (4 days ago)
+- [octo-sts/app](https://github.com/octo-sts/app) - A GitHub App that acts like a Security Token Service (STS) for the Github API (5 days ago)
+- [step-security/changed-files](https://github.com/step-security/changed-files) - Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories. (5 days ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (2 weeks ago)
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) - Open Source Project Template (2 weeks ago)
 - [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (2 weeks ago)
 - [lelia/easy-mac](https://github.com/lelia/easy-mac) - A collection of profiles, settings, dotfiles, etc for more easily configuring new macOS machines 💻 🍎 (2 weeks ago)
 - [wayfair/ospo-automation](https://github.com/wayfair/ospo-automation) - Automation workflows for Wayfair&#39;s Open Source Program Office (2 weeks ago)
-- [github-community-projects/org-metrics-dashboard](https://github.com/github-community-projects/org-metrics-dashboard) - An actions-powered dashboard to get an overview of your organization&#39;s open source repository health (2 weeks ago)
 
 
 
