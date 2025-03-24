@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (today)
 - [chainguard-dev/tj-scan](https://github.com/chainguard-dev/tj-scan) - Scan Workflow logs for IOCs from the tj-actions/changed-files breach (4 days ago)
 - [devops-actions/load-used-actions](https://github.com/devops-actions/load-used-actions) - Load used actions from an entire organization (1 week ago)
 - [rajbos/github-fork-updater](https://github.com/rajbos/github-fork-updater) -  (1 week ago)
@@ -56,7 +57,6 @@
 - [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) - Open Source Project Template (3 weeks ago)
 - [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (3 weeks ago)
 - [lelia/easy-mac](https://github.com/lelia/easy-mac) - A collection of profiles, settings, dotfiles, etc for more easily configuring new macOS machines 💻 🍎 (3 weeks ago)
-- [wayfair/ospo-automation](https://github.com/wayfair/ospo-automation) - Automation workflows for Wayfair&#39;s Open Source Program Office (3 weeks ago)
 
 
 
