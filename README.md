@@ -47,16 +47,16 @@
 
 #### ⭐ Recent Stars
 
+- [google/github_actions_on_gcp](https://github.com/google/github_actions_on_gcp) -  (today)
+- [google/github-webhook-pubsub-bridge](https://github.com/google/github-webhook-pubsub-bridge) -  (today)
+- [google/.github](https://github.com/google/.github) - default configuration for @google repos (today)
+- [google/github_nonpublic_api](https://github.com/google/github_nonpublic_api) -  (today)
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (today)
 - [chainguard-dev/tj-scan](https://github.com/chainguard-dev/tj-scan) - Scan Workflow logs for IOCs from the tj-actions/changed-files breach (4 days ago)
 - [devops-actions/load-used-actions](https://github.com/devops-actions/load-used-actions) - Load used actions from an entire organization (1 week ago)
 - [rajbos/github-fork-updater](https://github.com/rajbos/github-fork-updater) -  (1 week ago)
 - [octo-sts/app](https://github.com/octo-sts/app) - A GitHub App that acts like a Security Token Service (STS) for the Github API (1 week ago)
 - [step-security/changed-files](https://github.com/step-security/changed-files) - Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories. (1 week ago)
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (3 weeks ago)
-- [cisco-ospo/oss-template](https://github.com/cisco-ospo/oss-template) - Open Source Project Template (3 weeks ago)
-- [cisco-ospo/.github](https://github.com/cisco-ospo/.github) - Org-wide GitHub configurations (3 weeks ago)
-- [lelia/easy-mac](https://github.com/lelia/easy-mac) - A collection of profiles, settings, dotfiles, etc for more easily configuring new macOS machines 💻 🍎 (3 weeks ago)
 
 
 
