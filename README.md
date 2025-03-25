@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (today)
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (1 week ago)
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (3 weeks ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (3 weeks ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (4 weeks ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 month ago)
