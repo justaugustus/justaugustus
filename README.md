@@ -9,7 +9,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (1 week ago)
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (2 weeks ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (3 weeks ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (3 weeks ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (4 weeks ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 month ago)
@@ -47,12 +47,12 @@
 
 #### ⭐ Recent Stars
 
-- [google/github_actions_on_gcp](https://github.com/google/github_actions_on_gcp) -  (today)
-- [google/github-webhook-pubsub-bridge](https://github.com/google/github-webhook-pubsub-bridge) -  (today)
-- [google/.github](https://github.com/google/.github) - default configuration for @google repos (today)
-- [google/github_nonpublic_api](https://github.com/google/github_nonpublic_api) -  (today)
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (today)
-- [chainguard-dev/tj-scan](https://github.com/chainguard-dev/tj-scan) - Scan Workflow logs for IOCs from the tj-actions/changed-files breach (4 days ago)
+- [google/github_actions_on_gcp](https://github.com/google/github_actions_on_gcp) -  (1 day ago)
+- [google/github-webhook-pubsub-bridge](https://github.com/google/github-webhook-pubsub-bridge) -  (1 day ago)
+- [google/.github](https://github.com/google/.github) - default configuration for @google repos (1 day ago)
+- [google/github_nonpublic_api](https://github.com/google/github_nonpublic_api) -  (1 day ago)
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (1 day ago)
+- [chainguard-dev/tj-scan](https://github.com/chainguard-dev/tj-scan) - Scan Workflow logs for IOCs from the tj-actions/changed-files breach (5 days ago)
 - [devops-actions/load-used-actions](https://github.com/devops-actions/load-used-actions) - Load used actions from an entire organization (1 week ago)
 - [rajbos/github-fork-updater](https://github.com/rajbos/github-fork-updater) -  (1 week ago)
 - [octo-sts/app](https://github.com/octo-sts/app) - A GitHub App that acts like a Security Token Service (STS) for the Github API (1 week ago)
