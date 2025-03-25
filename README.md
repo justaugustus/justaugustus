@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [dependabot: Enable grouped updates and set update interval to weekly](https://github.com/ossf/allstar/pull/671) on [ossf/allstar](https://github.com/ossf/allstar) (today)
 - [Update Stephen Augustus affiliation](https://github.com/kubernetes/steering/pull/290) on [kubernetes/steering](https://github.com/kubernetes/steering) (1 week ago)
 - [scorecard-monitor: Revert to `GITHUB_TOKEN` to allow PRs](https://github.com/bloomberg/.github/pull/14) on [bloomberg/.github](https://github.com/bloomberg/.github) (2 weeks ago)
 - [reports/scorecard: rm `scope.json` to enable auto-discovery](https://github.com/bloomberg/.github/pull/13) on [bloomberg/.github](https://github.com/bloomberg/.github) (2 weeks ago)
@@ -43,7 +44,6 @@
 - [Update Stephen Augustus affiliation](https://github.com/todogroup/governance/pull/375) on [todogroup/governance](https://github.com/todogroup/governance) (1 month ago)
 - [Update Stephen Augustus affiliation](https://github.com/kubernetes/community/pull/8351) on [kubernetes/community](https://github.com/kubernetes/community) (1 month ago)
 - [elections/cocc: Add 2025 election results](https://github.com/kubernetes/community/pull/8342) on [kubernetes/community](https://github.com/kubernetes/community) (1 month ago)
-- [Allow only 302 redirects, fix redirected links, and remove inaccessible projects](https://github.com/todogroup/awesome-ospo/pull/69) on [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) (1 month ago)
 
 #### ⭐ Recent Stars
 
