@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [kusari-oss/darn](https://github.com/kusari-oss/darn) - Security findings remediation tooling (today)
 - [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool (2 days ago)
 - [google/github_actions_on_gcp](https://github.com/google/github_actions_on_gcp) -  (4 days ago)
 - [google/github-webhook-pubsub-bridge](https://github.com/google/github-webhook-pubsub-bridge) -  (4 days ago)
@@ -56,7 +57,6 @@
 - [chainguard-dev/tj-scan](https://github.com/chainguard-dev/tj-scan) - Scan Workflow logs for IOCs from the tj-actions/changed-files breach (1 week ago)
 - [devops-actions/load-used-actions](https://github.com/devops-actions/load-used-actions) - Load used actions from an entire organization (1 week ago)
 - [rajbos/github-fork-updater](https://github.com/rajbos/github-fork-updater) -  (1 week ago)
-- [octo-sts/app](https://github.com/octo-sts/app) - A GitHub App that acts like a Security Token Service (STS) for the Github API (1 week ago)
 
 
 
