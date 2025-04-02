@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.7](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.7), 2 weeks ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.7](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.7), 3 weeks ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.1](https://github.com/ossf/scorecard-action/releases/tag/v2.4.1), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.12](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.12), 1 month ago) - Website and API for OpenSSF Scorecard
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.1.1](https://github.com/ossf/scorecard/releases/tag/v5.1.1), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
@@ -36,9 +36,9 @@
 
 - [dependabot: Enable grouped updates and set update interval to weekly](https://github.com/ossf/allstar/pull/671) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
 - [Update Stephen Augustus affiliation](https://github.com/kubernetes/steering/pull/290) on [kubernetes/steering](https://github.com/kubernetes/steering) (2 weeks ago)
-- [scorecard-monitor: Revert to `GITHUB_TOKEN` to allow PRs](https://github.com/bloomberg/.github/pull/14) on [bloomberg/.github](https://github.com/bloomberg/.github) (3 weeks ago)
-- [reports/scorecard: rm `scope.json` to enable auto-discovery](https://github.com/bloomberg/.github/pull/13) on [bloomberg/.github](https://github.com/bloomberg/.github) (3 weeks ago)
-- [Workflow cleanups (1/n)](https://github.com/bloomberg/.github/pull/12) on [bloomberg/.github](https://github.com/bloomberg/.github) (3 weeks ago)
+- [scorecard-monitor: Revert to `GITHUB_TOKEN` to allow PRs](https://github.com/bloomberg/.github/pull/14) on [bloomberg/.github](https://github.com/bloomberg/.github) (4 weeks ago)
+- [reports/scorecard: rm `scope.json` to enable auto-discovery](https://github.com/bloomberg/.github/pull/13) on [bloomberg/.github](https://github.com/bloomberg/.github) (4 weeks ago)
+- [Workflow cleanups (1/n)](https://github.com/bloomberg/.github/pull/12) on [bloomberg/.github](https://github.com/bloomberg/.github) (4 weeks ago)
 - [dependabot: Enable more grouped updates for GitHub Actions](https://github.com/bloomberg/.github/pull/9) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 month ago)
 - [.github: Init GitHub workflows](https://github.com/bloomberg/.github/pull/3) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 month ago)
 - [Update Stephen Augustus affiliation](https://github.com/todogroup/governance/pull/375) on [todogroup/governance](https://github.com/todogroup/governance) (1 month ago)
@@ -47,8 +47,8 @@
 
 #### ⭐ Recent Stars
 
-- [kusari-oss/darn](https://github.com/kusari-oss/darn) - Security findings remediation tooling (4 days ago)
-- [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool (6 days ago)
+- [kusari-oss/darn](https://github.com/kusari-oss/darn) - Security findings remediation tooling (5 days ago)
+- [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool (1 week ago)
 - [google/github_actions_on_gcp](https://github.com/google/github_actions_on_gcp) -  (1 week ago)
 - [google/github-webhook-pubsub-bridge](https://github.com/google/github-webhook-pubsub-bridge) -  (1 week ago)
 - [google/.github](https://github.com/google/.github) - default configuration for @google repos (1 week ago)
