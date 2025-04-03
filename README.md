@@ -47,14 +47,14 @@
 
 #### ⭐ Recent Stars
 
-- [kusari-oss/darn](https://github.com/kusari-oss/darn) - Security findings remediation tooling (5 days ago)
+- [kusari-oss/darn](https://github.com/kusari-oss/darn) - Security findings remediation tooling (6 days ago)
 - [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool (1 week ago)
 - [google/github_actions_on_gcp](https://github.com/google/github_actions_on_gcp) -  (1 week ago)
 - [google/github-webhook-pubsub-bridge](https://github.com/google/github-webhook-pubsub-bridge) -  (1 week ago)
 - [google/.github](https://github.com/google/.github) - default configuration for @google repos (1 week ago)
 - [google/github_nonpublic_api](https://github.com/google/github_nonpublic_api) -  (1 week ago)
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (1 week ago)
-- [chainguard-dev/ghscan](https://github.com/chainguard-dev/ghscan) - Scan GitHub Actions Workflow logs for IOCs (1 week ago)
+- [chainguard-dev/ghscan](https://github.com/chainguard-dev/ghscan) - Scan GitHub Actions Workflow logs for IOCs (2 weeks ago)
 - [devops-actions/load-used-actions](https://github.com/devops-actions/load-used-actions) - Load used actions from an entire organization (2 weeks ago)
 - [rajbos/github-fork-updater](https://github.com/rajbos/github-fork-updater) -  (2 weeks ago)
 
