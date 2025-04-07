@@ -8,13 +8,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 week ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (today)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 week ago)
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (3 weeks ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 month ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 month ago)
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
 - [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) - Curated list of awesome tools for managing open source programs (1 month ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 month ago)
 - [bloomberg/m3docrag](https://github.com/bloomberg/m3docrag) -  (2 months ago)
@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [workflows: Turn off issue generation for scorecard-monitor](https://github.com/bloomberg/.github/pull/23) on [bloomberg/.github](https://github.com/bloomberg/.github) (today)
 - [dependabot: Enable grouped updates and set update interval to weekly](https://github.com/ossf/allstar/pull/671) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
 - [Update Stephen Augustus affiliation](https://github.com/kubernetes/steering/pull/290) on [kubernetes/steering](https://github.com/kubernetes/steering) (3 weeks ago)
 - [scorecard-monitor: Revert to `GITHUB_TOKEN` to allow PRs](https://github.com/bloomberg/.github/pull/14) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 month ago)
@@ -43,7 +44,6 @@
 - [.github: Init GitHub workflows](https://github.com/bloomberg/.github/pull/3) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 month ago)
 - [Update Stephen Augustus affiliation](https://github.com/todogroup/governance/pull/375) on [todogroup/governance](https://github.com/todogroup/governance) (1 month ago)
 - [Update Stephen Augustus affiliation](https://github.com/kubernetes/community/pull/8351) on [kubernetes/community](https://github.com/kubernetes/community) (1 month ago)
-- [elections/cocc: Add 2025 election results](https://github.com/kubernetes/community/pull/8342) on [kubernetes/community](https://github.com/kubernetes/community) (1 month ago)
 
 #### ⭐ Recent Stars
 
