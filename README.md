@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (4 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (5 days ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 weeks ago)
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (3 weeks ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 month ago)
@@ -21,8 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.13](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.13), today) - Website and API for OpenSSF Scorecard
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-rc.0), 2 days ago) - Production-Grade Container Scheduling and Management
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.13](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.13), 1 day ago) - Website and API for OpenSSF Scorecard
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-rc.0), 3 days ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.1](https://github.com/ossf/scorecard-action/releases/tag/v2.4.1), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.1.1](https://github.com/ossf/scorecard/releases/tag/v5.1.1), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.2](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.2), 2 months ago) - Interfaces and implementations for building Kubernetes releases.
@@ -34,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [workflows: Turn off issue generation for scorecard-monitor](https://github.com/bloomberg/.github/pull/23) on [bloomberg/.github](https://github.com/bloomberg/.github) (4 days ago)
+- [workflows: Turn off issue generation for scorecard-monitor](https://github.com/bloomberg/.github/pull/23) on [bloomberg/.github](https://github.com/bloomberg/.github) (5 days ago)
 - [dependabot: Enable grouped updates and set update interval to weekly](https://github.com/ossf/allstar/pull/671) on [ossf/allstar](https://github.com/ossf/allstar) (2 weeks ago)
 - [Update Stephen Augustus affiliation](https://github.com/kubernetes/steering/pull/290) on [kubernetes/steering](https://github.com/kubernetes/steering) (3 weeks ago)
 - [scorecard-monitor: Revert to `GITHUB_TOKEN` to allow PRs](https://github.com/bloomberg/.github/pull/14) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 month ago)
