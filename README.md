@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (today)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 day ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 weeks ago)
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (4 weeks ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 month ago)
@@ -21,8 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.13](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.13), 2 days ago) - Website and API for OpenSSF Scorecard
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-rc.0), 4 days ago) - Production-Grade Container Scheduling and Management
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.13](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.13), 3 days ago) - Website and API for OpenSSF Scorecard
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-rc.0), 5 days ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.1](https://github.com/ossf/scorecard-action/releases/tag/v2.4.1), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.1.1](https://github.com/ossf/scorecard/releases/tag/v5.1.1), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.2](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.2), 2 months ago) - Interfaces and implementations for building Kubernetes releases.
@@ -34,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [workflows: Turn off issue generation for scorecard-monitor](https://github.com/bloomberg/.github/pull/23) on [bloomberg/.github](https://github.com/bloomberg/.github) (6 days ago)
+- [workflows: Turn off issue generation for scorecard-monitor](https://github.com/bloomberg/.github/pull/23) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 week ago)
 - [dependabot: Enable grouped updates and set update interval to weekly](https://github.com/ossf/allstar/pull/671) on [ossf/allstar](https://github.com/ossf/allstar) (2 weeks ago)
 - [Update Stephen Augustus affiliation](https://github.com/kubernetes/steering/pull/290) on [kubernetes/steering](https://github.com/kubernetes/steering) (4 weeks ago)
 - [scorecard-monitor: Revert to `GITHUB_TOKEN` to allow PRs](https://github.com/bloomberg/.github/pull/14) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 month ago)
@@ -49,14 +49,14 @@
 
 - [kusari-oss/darn](https://github.com/kusari-oss/darn) - Security findings remediation tooling (2 weeks ago)
 - [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool (2 weeks ago)
-- [google/github_actions_on_gcp](https://github.com/google/github_actions_on_gcp) -  (2 weeks ago)
-- [google/github-webhook-pubsub-bridge](https://github.com/google/github-webhook-pubsub-bridge) -  (2 weeks ago)
-- [google/.github](https://github.com/google/.github) - default configuration for @google repos (2 weeks ago)
-- [google/github_nonpublic_api](https://github.com/google/github_nonpublic_api) -  (2 weeks ago)
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (2 weeks ago)
+- [google/github_actions_on_gcp](https://github.com/google/github_actions_on_gcp) -  (3 weeks ago)
+- [google/github-webhook-pubsub-bridge](https://github.com/google/github-webhook-pubsub-bridge) -  (3 weeks ago)
+- [google/.github](https://github.com/google/.github) - default configuration for @google repos (3 weeks ago)
+- [google/github_nonpublic_api](https://github.com/google/github_nonpublic_api) -  (3 weeks ago)
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (3 weeks ago)
 - [chainguard-dev/ghscan](https://github.com/chainguard-dev/ghscan) - Scan GitHub Actions Workflow logs for IOCs (3 weeks ago)
-- [devops-actions/load-used-actions](https://github.com/devops-actions/load-used-actions) - Load used actions from an entire organization (3 weeks ago)
-- [rajbos/github-fork-updater](https://github.com/rajbos/github-fork-updater) -  (3 weeks ago)
+- [devops-actions/load-used-actions](https://github.com/devops-actions/load-used-actions) - Load used actions from an entire organization (4 weeks ago)
+- [rajbos/github-fork-updater](https://github.com/rajbos/github-fork-updater) -  (4 weeks ago)
 
 
 
