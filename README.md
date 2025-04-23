@@ -8,20 +8,20 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (2 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (3 days ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 week ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 week ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (4 weeks ago)
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (1 month ago)
-- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 month ago)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (1 month ago)
+- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (2 months ago)
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 months ago)
 - [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) - Curated list of awesome tools for managing open source programs (2 months ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.11](https://github.com/getporter/magefiles/releases/tag/v0.6.11), 2 days ago) - Magefile helpers for porter repositories
+- [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.11](https://github.com/getporter/magefiles/releases/tag/v0.6.11), 3 days ago) - Magefile helpers for porter repositories
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-rc.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-rc.1), 1 week ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.13](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.13), 1 week ago) - Website and API for OpenSSF Scorecard
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.1](https://github.com/ossf/scorecard-action/releases/tag/v2.4.1), 2 months ago) - Official GitHub Action for OpenSSF Scorecard.
@@ -29,7 +29,7 @@
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.2](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.2), 2 months ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.32](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.32), 4 months ago) - Kubernetes website and documentation repo: 
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.2](https://github.com/ossf/allstar/releases/tag/v4.2), 9 months ago) - GitHub App to set and enforce security policies
-- [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) ([v2.0.0-beta8](https://github.com/ossf/scorecard-monitor/releases/tag/v2.0.0-beta8), 9 months ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
+- [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) ([v2.0.0-beta8](https://github.com/ossf/scorecard-monitor/releases/tag/v2.0.0-beta8), 10 months ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 - [getporter/porter](https://github.com/getporter/porter) ([canary](https://github.com/getporter/porter/releases/tag/canary), 4 years ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 
 #### 🔨 My recent Pull Requests
@@ -42,18 +42,18 @@
 - [Workflow cleanups (1/n)](https://github.com/bloomberg/.github/pull/12) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 month ago)
 - [dependabot: Enable more grouped updates for GitHub Actions](https://github.com/bloomberg/.github/pull/9) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 month ago)
 - [.github: Init GitHub workflows](https://github.com/bloomberg/.github/pull/3) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 month ago)
-- [Update Stephen Augustus affiliation](https://github.com/todogroup/governance/pull/375) on [todogroup/governance](https://github.com/todogroup/governance) (1 month ago)
-- [Update Stephen Augustus affiliation](https://github.com/kubernetes/community/pull/8351) on [kubernetes/community](https://github.com/kubernetes/community) (1 month ago)
+- [Update Stephen Augustus affiliation](https://github.com/todogroup/governance/pull/375) on [todogroup/governance](https://github.com/todogroup/governance) (2 months ago)
+- [Update Stephen Augustus affiliation](https://github.com/kubernetes/community/pull/8351) on [kubernetes/community](https://github.com/kubernetes/community) (2 months ago)
 
 #### ⭐ Recent Stars
 
 - [kusari-oss/darn](https://github.com/kusari-oss/darn) - Security findings remediation tooling (3 weeks ago)
-- [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool (3 weeks ago)
-- [google/github_actions_on_gcp](https://github.com/google/github_actions_on_gcp) -  (4 weeks ago)
-- [google/github-webhook-pubsub-bridge](https://github.com/google/github-webhook-pubsub-bridge) -  (4 weeks ago)
-- [google/.github](https://github.com/google/.github) - default configuration for @google repos (4 weeks ago)
-- [google/github_nonpublic_api](https://github.com/google/github_nonpublic_api) -  (4 weeks ago)
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (4 weeks ago)
+- [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool (4 weeks ago)
+- [google/github_actions_on_gcp](https://github.com/google/github_actions_on_gcp) -  (1 month ago)
+- [google/github-webhook-pubsub-bridge](https://github.com/google/github-webhook-pubsub-bridge) -  (1 month ago)
+- [google/.github](https://github.com/google/.github) - default configuration for @google repos (1 month ago)
+- [google/github_nonpublic_api](https://github.com/google/github_nonpublic_api) -  (1 month ago)
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (1 month ago)
 - [chainguard-dev/ghscan](https://github.com/chainguard-dev/ghscan) - Scan GitHub Actions Workflow logs for IOCs (1 month ago)
 - [devops-actions/load-used-actions](https://github.com/devops-actions/load-used-actions) - Load used actions from an entire organization (1 month ago)
 - [rajbos/github-fork-updater](https://github.com/rajbos/github-fork-updater) -  (1 month ago)
