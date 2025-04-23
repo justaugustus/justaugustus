@@ -21,8 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.12), today) - Production-Grade Container Scheduling and Management
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.11](https://github.com/getporter/magefiles/releases/tag/v0.6.11), 3 days ago) - Magefile helpers for porter repositories
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0-rc.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0-rc.1), 1 week ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.13](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.13), 1 week ago) - Website and API for OpenSSF Scorecard
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.1](https://github.com/ossf/scorecard-action/releases/tag/v2.4.1), 2 months ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.1.1](https://github.com/ossf/scorecard/releases/tag/v5.1.1), 2 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
