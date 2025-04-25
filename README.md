@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/pushiko](https://github.com/bloomberg/pushiko) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM). (2 days ago)
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (4 days ago)
+- [bloomberg/pushiko](https://github.com/bloomberg/pushiko) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM). (3 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (5 days ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 week ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 week ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
@@ -21,11 +21,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.0](https://github.com/bloomberg/pushiko/releases/tag/1.0.0), today) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.33](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.33), 1 day ago) - Kubernetes website and documentation repo: 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0), 1 day ago) - Production-Grade Container Scheduling and Management
-- [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.11](https://github.com/getporter/magefiles/releases/tag/v0.6.11), 4 days ago) - Magefile helpers for porter repositories
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.13](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.13), 1 week ago) - Website and API for OpenSSF Scorecard
+- [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.0](https://github.com/bloomberg/pushiko/releases/tag/1.0.0), 1 day ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.33](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.33), 2 days ago) - Kubernetes website and documentation repo: 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0), 2 days ago) - Production-Grade Container Scheduling and Management
+- [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.11](https://github.com/getporter/magefiles/releases/tag/v0.6.11), 5 days ago) - Magefile helpers for porter repositories
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.13](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.13), 2 weeks ago) - Website and API for OpenSSF Scorecard
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.1](https://github.com/ossf/scorecard-action/releases/tag/v2.4.1), 2 months ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.1.1](https://github.com/ossf/scorecard/releases/tag/v5.1.1), 2 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.2](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.2), 2 months ago) - Interfaces and implementations for building Kubernetes releases.
@@ -47,8 +47,8 @@
 
 #### ⭐ Recent Stars
 
-- [kusari-oss/darn](https://github.com/kusari-oss/darn) - Security findings remediation tooling (3 weeks ago)
-- [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool (4 weeks ago)
+- [kusari-oss/darn](https://github.com/kusari-oss/darn) - Security findings remediation tooling (4 weeks ago)
+- [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool (1 month ago)
 - [google/github_actions_on_gcp](https://github.com/google/github_actions_on_gcp) -  (1 month ago)
 - [google/github-webhook-pubsub-bridge](https://github.com/google/github-webhook-pubsub-bridge) -  (1 month ago)
 - [google/.github](https://github.com/google/.github) - default configuration for @google repos (1 month ago)
