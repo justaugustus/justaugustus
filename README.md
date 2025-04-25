@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.0](https://github.com/bloomberg/pushiko/releases/tag/1.0.0), 1 day ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
+- [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.1](https://github.com/bloomberg/pushiko/releases/tag/1.0.1), today) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.33](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.33), 2 days ago) - Kubernetes website and documentation repo: 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0), 2 days ago) - Production-Grade Container Scheduling and Management
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.11](https://github.com/getporter/magefiles/releases/tag/v0.6.11), 5 days ago) - Magefile helpers for porter repositories
