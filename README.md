@@ -8,9 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (today)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (today)
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM). (4 days ago)
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (6 days ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 week ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 week ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
