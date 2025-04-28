@@ -16,8 +16,8 @@
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 weeks ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 month ago)
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (1 month ago)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 months ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (2 months ago)
+- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
