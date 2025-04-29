@@ -8,16 +8,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (2 days ago)
+- [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (today)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (3 days ago)
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM). (1 week ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 weeks ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 weeks ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (2 weeks ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 weeks ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 month ago)
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (1 month ago)
-- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (2 months ago)
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 months ago)
+- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [dependabot: Fix grouped updates](https://github.com/bloomberg/oss-template/pull/10) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (today)
 - [Cleanup (2/n)](https://github.com/bloomberg/oss-template/pull/9) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (2 days ago)
 - [Cleanup (1/n)](https://github.com/bloomberg/oss-template/pull/7) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (3 days ago)
 - [workflows: Turn off issue generation for scorecard-monitor](https://github.com/bloomberg/.github/pull/23) on [bloomberg/.github](https://github.com/bloomberg/.github) (3 weeks ago)
@@ -43,7 +44,6 @@
 - [reports/scorecard: rm `scope.json` to enable auto-discovery](https://github.com/bloomberg/.github/pull/13) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 month ago)
 - [Workflow cleanups (1/n)](https://github.com/bloomberg/.github/pull/12) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 month ago)
 - [workflows: Remove cisco-ospo dependencies](https://github.com/bloomberg/oss-template/pull/4) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (1 month ago)
-- [dependabot: Enable more grouped updates for GitHub Actions](https://github.com/bloomberg/.github/pull/9) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 month ago)
 
 #### ⭐ Recent Stars
 
