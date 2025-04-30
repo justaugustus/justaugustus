@@ -8,6 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [bloomberg/evaluating-cmr-in-mm](https://github.com/bloomberg/evaluating-cmr-in-mm) -  (today)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (1 day ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (4 days ago)
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM). (1 week ago)
@@ -17,7 +18,6 @@
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 month ago)
 - [kubernetes/steering](https://github.com/kubernetes/steering) - The Kubernetes Steering Committee (1 month ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (2 months ago)
-- [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
