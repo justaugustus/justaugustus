@@ -8,9 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/evaluating-cmr-in-mm](https://github.com/bloomberg/evaluating-cmr-in-mm) -  (today)
-- [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (1 day ago)
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (4 days ago)
+- [bloomberg/evaluating-cmr-in-mm](https://github.com/bloomberg/evaluating-cmr-in-mm) -  (1 day ago)
+- [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (2 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (5 days ago)
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM). (1 week ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 weeks ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 weeks ago)
@@ -21,8 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.14](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.14), 2 days ago) - Website and API for OpenSSF Scorecard
-- [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.2](https://github.com/bloomberg/pushiko/releases/tag/1.0.2), 3 days ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.14](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.14), 3 days ago) - Website and API for OpenSSF Scorecard
+- [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.2](https://github.com/bloomberg/pushiko/releases/tag/1.0.2), 4 days ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.33](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.33), 1 week ago) - Kubernetes website and documentation repo: 
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.11](https://github.com/getporter/magefiles/releases/tag/v0.6.11), 1 week ago) - Magefile helpers for porter repositories
@@ -34,16 +34,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [dependabot: Fix grouped updates](https://github.com/bloomberg/oss-template/pull/10) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (1 day ago)
-- [Cleanup (2/n)](https://github.com/bloomberg/oss-template/pull/9) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (3 days ago)
-- [Cleanup (1/n)](https://github.com/bloomberg/oss-template/pull/7) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (4 days ago)
+- [dependabot: Fix grouped updates](https://github.com/bloomberg/oss-template/pull/10) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (2 days ago)
+- [Cleanup (2/n)](https://github.com/bloomberg/oss-template/pull/9) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (4 days ago)
+- [Cleanup (1/n)](https://github.com/bloomberg/oss-template/pull/7) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (5 days ago)
 - [workflows: Turn off issue generation for scorecard-monitor](https://github.com/bloomberg/.github/pull/23) on [bloomberg/.github](https://github.com/bloomberg/.github) (3 weeks ago)
 - [dependabot: Enable grouped updates and set update interval to weekly](https://github.com/ossf/allstar/pull/671) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
 - [Update Stephen Augustus affiliation](https://github.com/kubernetes/steering/pull/290) on [kubernetes/steering](https://github.com/kubernetes/steering) (1 month ago)
 - [scorecard-monitor: Revert to `GITHUB_TOKEN` to allow PRs](https://github.com/bloomberg/.github/pull/14) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 month ago)
 - [reports/scorecard: rm `scope.json` to enable auto-discovery](https://github.com/bloomberg/.github/pull/13) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 month ago)
 - [Workflow cleanups (1/n)](https://github.com/bloomberg/.github/pull/12) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 month ago)
-- [workflows: Remove cisco-ospo dependencies](https://github.com/bloomberg/oss-template/pull/4) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (1 month ago)
+- [workflows: Remove cisco-ospo dependencies](https://github.com/bloomberg/oss-template/pull/4) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (2 months ago)
 
 #### ⭐ Recent Stars
 
