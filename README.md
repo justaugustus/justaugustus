@@ -8,9 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/bwit-gwc](https://github.com/bloomberg/bwit-gwc) -  (1 day ago)
-- [bloomberg/bwit-gems](https://github.com/bloomberg/bwit-gems) -  (1 day ago)
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (3 days ago)
+- [bloomberg/bwit-gwc](https://github.com/bloomberg/bwit-gwc) -  (2 days ago)
+- [bloomberg/bwit-gems](https://github.com/bloomberg/bwit-gems) -  (2 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (4 days ago)
 - [bloomberg/evaluating-cmr-in-mm](https://github.com/bloomberg/evaluating-cmr-in-mm) -  (1 week ago)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (1 week ago)
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM). (2 weeks ago)
@@ -28,7 +28,7 @@
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.11](https://github.com/getporter/magefiles/releases/tag/v0.6.11), 2 weeks ago) - Magefile helpers for porter repositories
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.1](https://github.com/ossf/scorecard-action/releases/tag/v2.4.1), 2 months ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.1.1](https://github.com/ossf/scorecard/releases/tag/v5.1.1), 2 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.2](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.2), 2 months ago) - Interfaces and implementations for building Kubernetes releases.
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.2](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.2), 3 months ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.2](https://github.com/ossf/allstar/releases/tag/v4.2), 9 months ago) - GitHub App to set and enforce security policies
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) ([v2.0.0-beta8](https://github.com/ossf/scorecard-monitor/releases/tag/v2.0.0-beta8), 10 months ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 
