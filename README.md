@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (today)
 - [kusari-oss/darn](https://github.com/kusari-oss/darn) - Security findings remediation tooling (1 month ago)
 - [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool (1 month ago)
 - [google/github_actions_on_gcp](https://github.com/google/github_actions_on_gcp) -  (1 month ago)
@@ -56,7 +57,6 @@
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (1 month ago)
 - [chainguard-dev/ghscan](https://github.com/chainguard-dev/ghscan) - Scan GitHub Actions Workflow logs for IOCs (1 month ago)
 - [devops-actions/load-used-actions](https://github.com/devops-actions/load-used-actions) - Load used actions from an entire organization (1 month ago)
-- [rajbos/github-fork-updater](https://github.com/rajbos/github-fork-updater) -  (1 month ago)
 
 
 
