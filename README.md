@@ -8,9 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/bwit-gwc](https://github.com/bloomberg/bwit-gwc) -  (2 days ago)
-- [bloomberg/bwit-gems](https://github.com/bloomberg/bwit-gems) -  (2 days ago)
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (4 days ago)
+- [bloomberg/bwit-gwc](https://github.com/bloomberg/bwit-gwc) -  (3 days ago)
+- [bloomberg/bwit-gems](https://github.com/bloomberg/bwit-gems) -  (3 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (5 days ago)
 - [bloomberg/evaluating-cmr-in-mm](https://github.com/bloomberg/evaluating-cmr-in-mm) -  (1 week ago)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (1 week ago)
 - [bloomberg/climate-credit-risk](https://github.com/bloomberg/climate-credit-risk) -  (1 week ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (today)
+- [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (1 day ago)
 - [kusari-oss/darn](https://github.com/kusari-oss/darn) - Security findings remediation tooling (1 month ago)
 - [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool (1 month ago)
 - [google/github_actions_on_gcp](https://github.com/google/github_actions_on_gcp) -  (1 month ago)
