@@ -8,14 +8,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (4 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (5 days ago)
 - [bloomberg/bwit-gwc](https://github.com/bloomberg/bwit-gwc) -  (1 week ago)
 - [bloomberg/bwit-gems](https://github.com/bloomberg/bwit-gems) -  (1 week ago)
 - [bloomberg/evaluating-cmr-in-mm](https://github.com/bloomberg/evaluating-cmr-in-mm) -  (2 weeks ago)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (2 weeks ago)
 - [bloomberg/climate-credit-risk](https://github.com/bloomberg/climate-credit-risk) -  (2 weeks ago)
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM). (3 weeks ago)
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (4 weeks ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 month ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 month ago)
 
@@ -40,14 +40,14 @@
 - [Cleanup (1/n)](https://github.com/bloomberg/oss-template/pull/7) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (2 weeks ago)
 - [workflows: Turn off issue generation for scorecard-monitor](https://github.com/bloomberg/.github/pull/23) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 month ago)
 - [dependabot: Enable grouped updates and set update interval to weekly](https://github.com/ossf/allstar/pull/671) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
-- [Update Stephen Augustus affiliation](https://github.com/kubernetes/steering/pull/290) on [kubernetes/steering](https://github.com/kubernetes/steering) (1 month ago)
+- [Update Stephen Augustus affiliation](https://github.com/kubernetes/steering/pull/290) on [kubernetes/steering](https://github.com/kubernetes/steering) (2 months ago)
 - [scorecard-monitor: Revert to `GITHUB_TOKEN` to allow PRs](https://github.com/bloomberg/.github/pull/14) on [bloomberg/.github](https://github.com/bloomberg/.github) (2 months ago)
 - [reports/scorecard: rm `scope.json` to enable auto-discovery](https://github.com/bloomberg/.github/pull/13) on [bloomberg/.github](https://github.com/bloomberg/.github) (2 months ago)
 - [Workflow cleanups (1/n)](https://github.com/bloomberg/.github/pull/12) on [bloomberg/.github](https://github.com/bloomberg/.github) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (6 days ago)
+- [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (1 week ago)
 - [kusari-oss/darn](https://github.com/kusari-oss/darn) - Security findings remediation tooling (1 month ago)
 - [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool (1 month ago)
 - [google/github_actions_on_gcp](https://github.com/google/github_actions_on_gcp) -  (1 month ago)
