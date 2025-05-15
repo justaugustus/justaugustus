@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star! (today)
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (1 week ago)
 - [kusari-oss/darn](https://github.com/kusari-oss/darn) - Security findings remediation tooling (1 month ago)
 - [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool (1 month ago)
@@ -56,7 +57,6 @@
 - [google/github_nonpublic_api](https://github.com/google/github_nonpublic_api) -  (1 month ago)
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (1 month ago)
 - [chainguard-dev/ghscan](https://github.com/chainguard-dev/ghscan) - Scan GitHub Actions Workflow logs for IOCs (1 month ago)
-- [devops-actions/load-used-actions](https://github.com/devops-actions/load-used-actions) - Load used actions from an entire organization (1 month ago)
 
 
 
