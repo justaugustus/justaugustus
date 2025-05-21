@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (2 days ago)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (3 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (3 days ago)
+- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (4 days ago)
 - [bloomberg/bwit-gwc](https://github.com/bloomberg/bwit-gwc) -  (2 weeks ago)
 - [bloomberg/bwit-gems](https://github.com/bloomberg/bwit-gems) -  (2 weeks ago)
-- [bloomberg/evaluating-cmr-in-mm](https://github.com/bloomberg/evaluating-cmr-in-mm) -  (2 weeks ago)
+- [bloomberg/evaluating-cmr-in-mm](https://github.com/bloomberg/evaluating-cmr-in-mm) -  (3 weeks ago)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (3 weeks ago)
 - [bloomberg/climate-credit-risk](https://github.com/bloomberg/climate-credit-risk) -  (3 weeks ago)
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM). (4 weeks ago)
@@ -21,11 +21,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/allstar](https://github.com/ossf/allstar) ([v4.4](https://github.com/ossf/allstar/releases/tag/v4.4), today) - GitHub App to set and enforce security policies
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.13), 5 days ago) - Production-Grade Container Scheduling and Management
+- [ossf/allstar](https://github.com/ossf/allstar) ([v4.4](https://github.com/ossf/allstar/releases/tag/v4.4), 1 day ago) - GitHub App to set and enforce security policies
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.13), 6 days ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.14](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.14), 3 weeks ago) - Website and API for OpenSSF Scorecard
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.2](https://github.com/bloomberg/pushiko/releases/tag/1.0.2), 3 weeks ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.33](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.33), 3 weeks ago) - Kubernetes website and documentation repo: 
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.33](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.33), 4 weeks ago) - Kubernetes website and documentation repo: 
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.11](https://github.com/getporter/magefiles/releases/tag/v0.6.11), 1 month ago) - Magefile helpers for porter repositories
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.1](https://github.com/ossf/scorecard-action/releases/tag/v2.4.1), 2 months ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.1.1](https://github.com/ossf/scorecard/releases/tag/v5.1.1), 3 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
@@ -47,8 +47,8 @@
 
 #### ⭐ Recent Stars
 
-- [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go (3 days ago)
-- [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star! (5 days ago)
+- [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go (4 days ago)
+- [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star! (6 days ago)
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (1 week ago)
 - [kusari-oss/darn](https://github.com/kusari-oss/darn) - Security findings remediation tooling (1 month ago)
 - [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool (1 month ago)
