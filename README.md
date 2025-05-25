@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (6 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 week ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 week ago)
 - [bloomberg/bwit-gwc](https://github.com/bloomberg/bwit-gwc) -  (2 weeks ago)
 - [bloomberg/bwit-gems](https://github.com/bloomberg/bwit-gems) -  (2 weeks ago)
@@ -21,10 +21,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/allstar](https://github.com/ossf/allstar) ([v4.4](https://github.com/ossf/allstar/releases/tag/v4.4), 4 days ago) - GitHub App to set and enforce security policies
+- [ossf/allstar](https://github.com/ossf/allstar) ([v4.4](https://github.com/ossf/allstar/releases/tag/v4.4), 5 days ago) - GitHub App to set and enforce security policies
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.13), 1 week ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.14](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.14), 3 weeks ago) - Website and API for OpenSSF Scorecard
-- [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.2](https://github.com/bloomberg/pushiko/releases/tag/1.0.2), 3 weeks ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
+- [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.2](https://github.com/bloomberg/pushiko/releases/tag/1.0.2), 4 weeks ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.33](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.33), 1 month ago) - Kubernetes website and documentation repo: 
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.11](https://github.com/getporter/magefiles/releases/tag/v0.6.11), 1 month ago) - Magefile helpers for porter repositories
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.1](https://github.com/ossf/scorecard-action/releases/tag/v2.4.1), 3 months ago) - Official GitHub Action for OpenSSF Scorecard.
@@ -36,7 +36,7 @@
 
 - [dependabot: Fix grouped updates](https://github.com/bloomberg/oss-template/pull/10) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (3 weeks ago)
 - [Publish commit](https://github.com/bloomberg/climate-credit-risk/pull/1) on [bloomberg/climate-credit-risk](https://github.com/bloomberg/climate-credit-risk) (3 weeks ago)
-- [Cleanup (2/n)](https://github.com/bloomberg/oss-template/pull/9) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (3 weeks ago)
+- [Cleanup (2/n)](https://github.com/bloomberg/oss-template/pull/9) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (4 weeks ago)
 - [Cleanup (1/n)](https://github.com/bloomberg/oss-template/pull/7) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (4 weeks ago)
 - [workflows: Turn off issue generation for scorecard-monitor](https://github.com/bloomberg/.github/pull/23) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 month ago)
 - [dependabot: Enable grouped updates and set update interval to weekly](https://github.com/ossf/allstar/pull/671) on [ossf/allstar](https://github.com/ossf/allstar) (2 months ago)
@@ -51,7 +51,7 @@
 - [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star! (1 week ago)
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (2 weeks ago)
 - [kusari-oss/darn](https://github.com/kusari-oss/darn) - Security findings remediation tooling (1 month ago)
-- [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool (1 month ago)
+- [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool (2 months ago)
 - [google/github_actions_on_gcp](https://github.com/google/github_actions_on_gcp) -  (2 months ago)
 - [google/github-webhook-pubsub-bridge](https://github.com/google/github-webhook-pubsub-bridge) -  (2 months ago)
 - [google/.github](https://github.com/google/.github) - default configuration for @google repos (2 months ago)
