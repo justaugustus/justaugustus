@@ -21,8 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.2](https://github.com/ossf/scorecard-action/releases/tag/v2.4.2), 2 days ago) - Official GitHub Action for OpenSSF Scorecard.
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.2.1](https://github.com/ossf/scorecard/releases/tag/v5.2.1), 2 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.2](https://github.com/ossf/scorecard-action/releases/tag/v2.4.2), 3 days ago) - Official GitHub Action for OpenSSF Scorecard.
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.2.1](https://github.com/ossf/scorecard/releases/tag/v5.2.1), 3 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.4](https://github.com/ossf/allstar/releases/tag/v4.4), 1 week ago) - GitHub App to set and enforce security policies
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.13), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.14](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.14), 1 month ago) - Website and API for OpenSSF Scorecard
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File (1 day ago)
+- [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File (2 days ago)
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go (2 weeks ago)
 - [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star! (2 weeks ago)
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (3 weeks ago)
