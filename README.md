@@ -21,6 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.3), today) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.2](https://github.com/ossf/scorecard-action/releases/tag/v2.4.2), 4 days ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.2.1](https://github.com/ossf/scorecard/releases/tag/v5.2.1), 4 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.4](https://github.com/ossf/allstar/releases/tag/v4.4), 2 weeks ago) - GitHub App to set and enforce security policies
@@ -29,7 +30,6 @@
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.2](https://github.com/bloomberg/pushiko/releases/tag/1.0.2), 1 month ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.33](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.33), 1 month ago) - Kubernetes website and documentation repo: 
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.11](https://github.com/getporter/magefiles/releases/tag/v0.6.11), 1 month ago) - Magefile helpers for porter repositories
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.2](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.2), 3 months ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) ([v2.0.0-beta8](https://github.com/ossf/scorecard-monitor/releases/tag/v2.0.0-beta8), 11 months ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 
 #### 🔨 My recent Pull Requests
