@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. (today)
 - [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File (6 days ago)
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go (2 weeks ago)
 - [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star! (3 weeks ago)
@@ -56,7 +57,6 @@
 - [google/github_actions_on_gcp](https://github.com/google/github_actions_on_gcp) -  (2 months ago)
 - [google/github-webhook-pubsub-bridge](https://github.com/google/github-webhook-pubsub-bridge) -  (2 months ago)
 - [google/.github](https://github.com/google/.github) - default configuration for @google repos (2 months ago)
-- [google/github_nonpublic_api](https://github.com/google/github_nonpublic_api) -  (2 months ago)
 
 
 
