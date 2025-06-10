@@ -21,10 +21,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.3), 6 days ago) - Interfaces and implementations for building Kubernetes releases.
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.3), 1 week ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.2](https://github.com/ossf/scorecard-action/releases/tag/v2.4.2), 1 week ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.2.1](https://github.com/ossf/scorecard/releases/tag/v5.2.1), 1 week ago) - OpenSSF Scorecard - Security health metrics for Open Source
-- [ossf/allstar](https://github.com/ossf/allstar) ([v4.4](https://github.com/ossf/allstar/releases/tag/v4.4), 2 weeks ago) - GitHub App to set and enforce security policies
+- [ossf/allstar](https://github.com/ossf/allstar) ([v4.4](https://github.com/ossf/allstar/releases/tag/v4.4), 3 weeks ago) - GitHub App to set and enforce security policies
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.30.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.30.13), 3 weeks ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.14](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.14), 1 month ago) - Website and API for OpenSSF Scorecard
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.2](https://github.com/bloomberg/pushiko/releases/tag/1.0.2), 1 month ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. (3 days ago)
+- [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. (4 days ago)
 - [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File (1 week ago)
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go (3 weeks ago)
 - [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star! (3 weeks ago)
