@@ -47,6 +47,8 @@
 
 #### ⭐ Recent Stars
 
+- [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (today)
+- [finos/git-proxy](https://github.com/finos/git-proxy) - Deploy custom push protections and policies on top of Git (today)
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. (5 days ago)
 - [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File (1 week ago)
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go (3 weeks ago)
@@ -55,8 +57,6 @@
 - [kusari-oss/darn](https://github.com/kusari-oss/darn) - Security findings remediation tooling (2 months ago)
 - [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool (2 months ago)
 - [google/github_actions_on_gcp](https://github.com/google/github_actions_on_gcp) -  (2 months ago)
-- [google/github-webhook-pubsub-bridge](https://github.com/google/github-webhook-pubsub-bridge) -  (2 months ago)
-- [google/.github](https://github.com/google/.github) - default configuration for @google repos (2 months ago)
 
 
 
