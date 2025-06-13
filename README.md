@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [google/opendocs](https://github.com/google/opendocs) - Documentation resources (today)
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (2 days ago)
 - [finos/git-proxy](https://github.com/finos/git-proxy) - Deploy custom push protections and policies on top of Git (2 days ago)
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. (1 week ago)
@@ -56,7 +57,6 @@
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (1 month ago)
 - [kusari-oss/darn](https://github.com/kusari-oss/darn) - Security findings remediation tooling (2 months ago)
 - [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool (2 months ago)
-- [google/github_actions_on_gcp](https://github.com/google/github_actions_on_gcp) -  (2 months ago)
 
 
 
