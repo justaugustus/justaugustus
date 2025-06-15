@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (5 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (6 days ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (4 weeks ago)
 - [bloomberg/bwit-gwc](https://github.com/bloomberg/bwit-gwc) -  (1 month ago)
 - [bloomberg/bwit-gems](https://github.com/bloomberg/bwit-gems) -  (1 month ago)
@@ -47,9 +47,9 @@
 
 #### ⭐ Recent Stars
 
-- [google/opendocs](https://github.com/google/opendocs) - Documentation resources (1 day ago)
-- [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (3 days ago)
-- [finos/git-proxy](https://github.com/finos/git-proxy) - Deploy custom push protections and policies on top of Git (3 days ago)
+- [google/opendocs](https://github.com/google/opendocs) - Documentation resources (2 days ago)
+- [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (4 days ago)
+- [finos/git-proxy](https://github.com/finos/git-proxy) - Deploy custom push protections and policies on top of Git (4 days ago)
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. (1 week ago)
 - [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File (2 weeks ago)
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go (4 weeks ago)
