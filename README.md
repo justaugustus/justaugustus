@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules) - A collection of useful rules for coding assistants (today)
 - [google/opendocs](https://github.com/google/opendocs) - Documentation resources (1 week ago)
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (1 week ago)
 - [finos/git-proxy](https://github.com/finos/git-proxy) - Deploy custom push protections and policies on top of Git (1 week ago)
@@ -56,7 +57,6 @@
 - [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star! (1 month ago)
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (1 month ago)
 - [kusari-oss/darn](https://github.com/kusari-oss/darn) - Security findings remediation tooling (2 months ago)
-- [edera-dev/styrolite](https://github.com/edera-dev/styrolite) - Programmatic sandboxing tool (2 months ago)
 
 
 
