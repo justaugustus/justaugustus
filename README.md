@@ -15,13 +15,13 @@
 - [bloomberg/evaluating-cmr-in-mm](https://github.com/bloomberg/evaluating-cmr-in-mm) -  (1 month ago)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (1 month ago)
 - [bloomberg/climate-credit-risk](https://github.com/bloomberg/climate-credit-risk) -  (1 month ago)
-- [bloomberg/pushiko](https://github.com/bloomberg/pushiko) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM). (1 month ago)
+- [bloomberg/pushiko](https://github.com/bloomberg/pushiko) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM). (2 months ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 months ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.6](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.6), 2 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.6](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.6), 3 days ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.3), 2 weeks ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.2](https://github.com/ossf/scorecard-action/releases/tag/v2.4.2), 3 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.2.1](https://github.com/ossf/scorecard/releases/tag/v5.2.1), 3 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
@@ -47,12 +47,12 @@
 
 #### ⭐ Recent Stars
 
-- [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules) - A collection of useful rules for coding assistants (today)
+- [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules) - A collection of useful rules for coding assistants (1 day ago)
 - [google/opendocs](https://github.com/google/opendocs) - Documentation resources (1 week ago)
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (1 week ago)
 - [finos/git-proxy](https://github.com/finos/git-proxy) - Deploy custom push protections and policies on top of Git (1 week ago)
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. (2 weeks ago)
-- [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File (2 weeks ago)
+- [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File (3 weeks ago)
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go (1 month ago)
 - [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star! (1 month ago)
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (1 month ago)
