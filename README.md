@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [sigstore/sigstore-go](https://github.com/sigstore/sigstore-go) - Go library for Sigstore signing and verification (today)
 - [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules) - A collection of useful rules for coding assistants (4 days ago)
 - [google/opendocs](https://github.com/google/opendocs) - Documentation resources (1 week ago)
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (1 week ago)
@@ -56,7 +57,6 @@
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go (1 month ago)
 - [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star! (1 month ago)
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (1 month ago)
-- [kusari-oss/darn](https://github.com/kusari-oss/darn) - Security findings remediation tooling (2 months ago)
 
 
 
