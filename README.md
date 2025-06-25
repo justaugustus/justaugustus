@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs (today)
 - [sigstore/sigstore-go](https://github.com/sigstore/sigstore-go) - Go library for Sigstore signing and verification (1 day ago)
 - [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules) - A collection of useful rules for coding assistants (5 days ago)
 - [google/opendocs](https://github.com/google/opendocs) - Documentation resources (1 week ago)
@@ -56,7 +57,6 @@
 - [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File (3 weeks ago)
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go (1 month ago)
 - [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star! (1 month ago)
-- [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions (1 month ago)
 
 
 
