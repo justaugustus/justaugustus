@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.6](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.6), 6 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.6](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.6), 1 week ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.3), 3 weeks ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.2](https://github.com/ossf/scorecard-action/releases/tag/v2.4.2), 3 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.2.1](https://github.com/ossf/scorecard/releases/tag/v5.2.1), 3 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
@@ -37,7 +37,7 @@
 - [dependabot: Fix grouped updates](https://github.com/bloomberg/oss-template/pull/10) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (1 month ago)
 - [Publish commit](https://github.com/bloomberg/climate-credit-risk/pull/1) on [bloomberg/climate-credit-risk](https://github.com/bloomberg/climate-credit-risk) (1 month ago)
 - [Cleanup (2/n)](https://github.com/bloomberg/oss-template/pull/9) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (1 month ago)
-- [Cleanup (1/n)](https://github.com/bloomberg/oss-template/pull/7) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (1 month ago)
+- [Cleanup (1/n)](https://github.com/bloomberg/oss-template/pull/7) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (2 months ago)
 - [workflows: Turn off issue generation for scorecard-monitor](https://github.com/bloomberg/.github/pull/23) on [bloomberg/.github](https://github.com/bloomberg/.github) (2 months ago)
 - [dependabot: Enable grouped updates and set update interval to weekly](https://github.com/ossf/allstar/pull/671) on [ossf/allstar](https://github.com/ossf/allstar) (3 months ago)
 - [Update Stephen Augustus affiliation](https://github.com/kubernetes/steering/pull/290) on [kubernetes/steering](https://github.com/kubernetes/steering) (3 months ago)
@@ -47,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
-- [sigstore/sigstore-go](https://github.com/sigstore/sigstore-go) - Go library for Sigstore signing and verification (today)
-- [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules) - A collection of useful rules for coding assistants (4 days ago)
+- [sigstore/sigstore-go](https://github.com/sigstore/sigstore-go) - Go library for Sigstore signing and verification (1 day ago)
+- [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules) - A collection of useful rules for coding assistants (5 days ago)
 - [google/opendocs](https://github.com/google/opendocs) - Documentation resources (1 week ago)
-- [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (1 week ago)
-- [finos/git-proxy](https://github.com/finos/git-proxy) - Deploy custom push protections and policies on top of Git (1 week ago)
+- [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (2 weeks ago)
+- [finos/git-proxy](https://github.com/finos/git-proxy) - Deploy custom push protections and policies on top of Git (2 weeks ago)
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. (2 weeks ago)
 - [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File (3 weeks ago)
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go (1 month ago)
