@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (6 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 week ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 weeks ago)
 - [bloomberg/bwit-gems](https://github.com/bloomberg/bwit-gems) -  (2 months ago)
 - [bloomberg/bwit-gwc](https://github.com/bloomberg/bwit-gwc) -  (2 months ago)
@@ -17,13 +17,13 @@
 - [bloomberg/climate-credit-risk](https://github.com/bloomberg/climate-credit-risk) -  (2 months ago)
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM). (2 months ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 months ago)
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (2 months ago)
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-alpha.3), 2 days ago) - Production-Grade Container Scheduling and Management
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.15](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.15), 2 days ago) - Website and API for OpenSSF Scorecard
-- [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.3](https://github.com/bloomberg/pushiko/releases/tag/1.0.3), 1 week ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-alpha.3), 3 days ago) - Production-Grade Container Scheduling and Management
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.15](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.15), 3 days ago) - Website and API for OpenSSF Scorecard
+- [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.3](https://github.com/bloomberg/pushiko/releases/tag/1.0.3), 2 weeks ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.3), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.2](https://github.com/ossf/scorecard-action/releases/tag/v2.4.2), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.2.1](https://github.com/ossf/scorecard/releases/tag/v5.2.1), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
