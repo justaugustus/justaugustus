@@ -21,8 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.7](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.7), today) - Production-Grade Container Scheduling and Management
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.15](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.15), 6 days ago) - Website and API for OpenSSF Scorecard
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.11](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.11), 1 day ago) - Production-Grade Container Scheduling and Management
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.15](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.15), 1 week ago) - Website and API for OpenSSF Scorecard
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.3](https://github.com/bloomberg/pushiko/releases/tag/1.0.3), 2 weeks ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.3), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.2](https://github.com/ossf/scorecard-action/releases/tag/v2.4.2), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
@@ -47,8 +47,9 @@
 
 #### ⭐ Recent Stars
 
+- [github/measure-innersource](https://github.com/github/measure-innersource) - A tool for measuring InnerSource collaboration in a repository (today)
 - [linuxfoundation/insights](https://github.com/linuxfoundation/insights) - Discover the world&#39;s most critical open source projects (1 week ago)
-- [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs (2 weeks ago)
+- [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs (3 weeks ago)
 - [sigstore/sigstore-go](https://github.com/sigstore/sigstore-go) - Go library for Sigstore signing and verification (3 weeks ago)
 - [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules) - A collection of useful rules for coding assistants (3 weeks ago)
 - [google/opendocs](https://github.com/google/opendocs) - Documentation resources (1 month ago)
@@ -56,7 +57,6 @@
 - [finos/git-proxy](https://github.com/finos/git-proxy) - Deploy custom push protections and policies on top of Git (1 month ago)
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. (1 month ago)
 - [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file) - Direct File (1 month ago)
-- [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go (1 month ago)
 
 
 
