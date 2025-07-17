@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-beta.0), today) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-beta.0), 1 day ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.15](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.15), 1 week ago) - Website and API for OpenSSF Scorecard
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.3](https://github.com/bloomberg/pushiko/releases/tag/1.0.3), 2 weeks ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.3), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [github/measure-innersource](https://github.com/github/measure-innersource) - A tool for measuring InnerSource collaboration in a repository (today)
+- [github/measure-innersource](https://github.com/github/measure-innersource) - A tool for measuring InnerSource collaboration in a repository (1 day ago)
 - [linuxfoundation/insights](https://github.com/linuxfoundation/insights) - Discover the world&#39;s most critical open source projects (1 week ago)
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs (3 weeks ago)
 - [sigstore/sigstore-go](https://github.com/sigstore/sigstore-go) - Go library for Sigstore signing and verification (3 weeks ago)
