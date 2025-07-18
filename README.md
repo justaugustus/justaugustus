@@ -9,7 +9,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 week ago)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 weeks ago)
+- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (3 weeks ago)
 - [bloomberg/bwit-gems](https://github.com/bloomberg/bwit-gems) -  (2 months ago)
 - [bloomberg/bwit-gwc](https://github.com/bloomberg/bwit-gwc) -  (2 months ago)
 - [bloomberg/evaluating-cmr-in-mm](https://github.com/bloomberg/evaluating-cmr-in-mm) -  (2 months ago)
@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-beta.0), 1 day ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-beta.0), 2 days ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.15](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.15), 1 week ago) - Website and API for OpenSSF Scorecard
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.3](https://github.com/bloomberg/pushiko/releases/tag/1.0.3), 2 weeks ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.3), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
@@ -47,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
-- [github/measure-innersource](https://github.com/github/measure-innersource) - A tool for measuring InnerSource collaboration in a repository (1 day ago)
-- [linuxfoundation/insights](https://github.com/linuxfoundation/insights) - Discover the world&#39;s most critical open source projects (1 week ago)
+- [github/measure-innersource](https://github.com/github/measure-innersource) - A tool for measuring InnerSource collaboration in a repository (2 days ago)
+- [linuxfoundation/insights](https://github.com/linuxfoundation/insights) - Discover the world&#39;s most critical open source projects (2 weeks ago)
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs (3 weeks ago)
 - [sigstore/sigstore-go](https://github.com/sigstore/sigstore-go) - Go library for Sigstore signing and verification (3 weeks ago)
-- [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules) - A collection of useful rules for coding assistants (3 weeks ago)
+- [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules) - A collection of useful rules for coding assistants (4 weeks ago)
 - [google/opendocs](https://github.com/google/opendocs) - Documentation resources (1 month ago)
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (1 month ago)
 - [finos/git-proxy](https://github.com/finos/git-proxy) - Deploy custom push protections and policies on top of Git (1 month ago)
