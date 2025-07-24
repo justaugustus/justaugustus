@@ -34,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove unused `reviewbot` code](https://github.com/ossf/allstar/pull/713) on [ossf/allstar](https://github.com/ossf/allstar) (2 days ago)
+- [Remove unused `reviewbot` code](https://github.com/ossf/allstar/pull/713) on [ossf/allstar](https://github.com/ossf/allstar) (3 days ago)
 - [dependabot: Fix grouped updates](https://github.com/bloomberg/oss-template/pull/10) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (2 months ago)
 - [Publish commit](https://github.com/bloomberg/climate-credit-risk/pull/1) on [bloomberg/climate-credit-risk](https://github.com/bloomberg/climate-credit-risk) (2 months ago)
 - [Cleanup (2/n)](https://github.com/bloomberg/oss-template/pull/9) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (2 months ago)
@@ -47,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
-- [github/empty-repos](https://github.com/github/empty-repos) - A GitHub Actions workflow to find empty repos (2 days ago)
+- [github/empty-repos](https://github.com/github/empty-repos) - A GitHub Actions workflow to find empty repos (3 days ago)
 - [github/measure-innersource](https://github.com/github/measure-innersource) - A tool for measuring InnerSource collaboration in a repository (1 week ago)
 - [linuxfoundation/insights](https://github.com/linuxfoundation/insights) - Discover the world&#39;s most critical open source projects (2 weeks ago)
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs (4 weeks ago)
-- [sigstore/sigstore-go](https://github.com/sigstore/sigstore-go) - Go library for Sigstore signing and verification (4 weeks ago)
+- [sigstore/sigstore-go](https://github.com/sigstore/sigstore-go) - Go library for Sigstore signing and verification (1 month ago)
 - [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules) - A collection of useful rules for coding assistants (1 month ago)
 - [google/opendocs](https://github.com/google/opendocs) - Documentation resources (1 month ago)
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (1 month ago)
