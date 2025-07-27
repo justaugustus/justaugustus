@@ -8,13 +8,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (3 weeks ago)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (4 weeks ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 day ago)
+- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 month ago)
 - [bloomberg/bwit-gwc](https://github.com/bloomberg/bwit-gwc) -  (2 months ago)
 - [bloomberg/bwit-gems](https://github.com/bloomberg/bwit-gems) -  (2 months ago)
 - [bloomberg/evaluating-cmr-in-mm](https://github.com/bloomberg/evaluating-cmr-in-mm) -  (2 months ago)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (2 months ago)
-- [bloomberg/climate-credit-risk](https://github.com/bloomberg/climate-credit-risk) -  (2 months ago)
+- [bloomberg/climate-credit-risk](https://github.com/bloomberg/climate-credit-risk) -  (3 months ago)
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM). (3 months ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (3 months ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 months ago)
@@ -34,9 +34,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove unused `reviewbot` code](https://github.com/ossf/allstar/pull/713) on [ossf/allstar](https://github.com/ossf/allstar) (5 days ago)
+- [Remove unused `reviewbot` code](https://github.com/ossf/allstar/pull/713) on [ossf/allstar](https://github.com/ossf/allstar) (6 days ago)
 - [dependabot: Fix grouped updates](https://github.com/bloomberg/oss-template/pull/10) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (2 months ago)
-- [Publish commit](https://github.com/bloomberg/climate-credit-risk/pull/1) on [bloomberg/climate-credit-risk](https://github.com/bloomberg/climate-credit-risk) (2 months ago)
+- [Publish commit](https://github.com/bloomberg/climate-credit-risk/pull/1) on [bloomberg/climate-credit-risk](https://github.com/bloomberg/climate-credit-risk) (3 months ago)
 - [Cleanup (2/n)](https://github.com/bloomberg/oss-template/pull/9) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (3 months ago)
 - [Cleanup (1/n)](https://github.com/bloomberg/oss-template/pull/7) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (3 months ago)
 - [workflows: Turn off issue generation for scorecard-monitor](https://github.com/bloomberg/.github/pull/23) on [bloomberg/.github](https://github.com/bloomberg/.github) (3 months ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [github/empty-repos](https://github.com/github/empty-repos) - A GitHub Actions workflow to find empty repos (5 days ago)
+- [github/empty-repos](https://github.com/github/empty-repos) - A GitHub Actions workflow to find empty repos (6 days ago)
 - [github/measure-innersource](https://github.com/github/measure-innersource) - A tool for measuring InnerSource collaboration in a repository (1 week ago)
 - [linuxfoundation/insights](https://github.com/linuxfoundation/insights) - Discover the world&#39;s most critical open source projects (3 weeks ago)
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs (1 month ago)
