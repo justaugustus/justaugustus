@@ -10,8 +10,8 @@
 
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (2 days ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 month ago)
-- [bloomberg/bwit-gwc](https://github.com/bloomberg/bwit-gwc) -  (2 months ago)
 - [bloomberg/bwit-gems](https://github.com/bloomberg/bwit-gems) -  (2 months ago)
+- [bloomberg/bwit-gwc](https://github.com/bloomberg/bwit-gwc) -  (2 months ago)
 - [bloomberg/evaluating-cmr-in-mm](https://github.com/bloomberg/evaluating-cmr-in-mm) -  (2 months ago)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (3 months ago)
 - [bloomberg/climate-credit-risk](https://github.com/bloomberg/climate-credit-risk) -  (3 months ago)
