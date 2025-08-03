@@ -8,6 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 week ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 month ago)
 - [bloomberg/bwit-gems](https://github.com/bloomberg/bwit-gems) -  (2 months ago)
@@ -17,7 +18,6 @@
 - [bloomberg/climate-credit-risk](https://github.com/bloomberg/climate-credit-risk) -  (3 months ago)
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM). (3 months ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (3 months ago)
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
