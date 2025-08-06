@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [BostonPython/fingertools](https://github.com/BostonPython/fingertools) - Ad-hoc programs I had lying around (today)
 - [github/empty-repos](https://github.com/github/empty-repos) - A GitHub Actions workflow to find empty repos (2 weeks ago)
 - [github/measure-innersource](https://github.com/github/measure-innersource) - A tool for measuring InnerSource collaboration in a repository (3 weeks ago)
 - [linuxfoundation/insights](https://github.com/linuxfoundation/insights) - Discover the world&#39;s most critical open source projects (1 month ago)
@@ -56,7 +57,6 @@
 - [google/opendocs](https://github.com/google/opendocs) - Documentation resources (1 month ago)
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (1 month ago)
 - [finos/git-proxy](https://github.com/finos/git-proxy) - Deploy custom push protections and policies on top of Git (1 month ago)
-- [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. (2 months ago)
 
 
 
