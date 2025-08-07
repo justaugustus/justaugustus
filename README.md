@@ -8,9 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 day ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 days ago)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (3 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (2 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (4 days ago)
+- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (4 days ago)
 - [bloomberg/bwit-gwc](https://github.com/bloomberg/bwit-gwc) -  (3 months ago)
 - [bloomberg/bwit-gems](https://github.com/bloomberg/bwit-gems) -  (3 months ago)
 - [bloomberg/evaluating-cmr-in-mm](https://github.com/bloomberg/evaluating-cmr-in-mm) -  (3 months ago)
@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-rc.0), today) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0-rc.0), 1 day ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.15](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.15), 4 weeks ago) - Website and API for OpenSSF Scorecard
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.3](https://github.com/bloomberg/pushiko/releases/tag/1.0.3), 1 month ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.3](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.3), 2 months ago) - Interfaces and implementations for building Kubernetes releases.
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [BostonPython/fingertools](https://github.com/BostonPython/fingertools) - Ad-hoc programs I had lying around (today)
+- [BostonPython/fingertools](https://github.com/BostonPython/fingertools) - Ad-hoc programs I had lying around (1 day ago)
 - [github/empty-repos](https://github.com/github/empty-repos) - A GitHub Actions workflow to find empty repos (2 weeks ago)
 - [github/measure-innersource](https://github.com/github/measure-innersource) - A tool for measuring InnerSource collaboration in a repository (3 weeks ago)
 - [linuxfoundation/insights](https://github.com/linuxfoundation/insights) - Discover the world&#39;s most critical open source projects (1 month ago)
