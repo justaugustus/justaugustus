@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [arm/metis](https://github.com/arm/metis) - Metis is an open-source, AI-driven tool for deep security code review (today)
 - [BostonPython/fingertools](https://github.com/BostonPython/fingertools) - Ad-hoc programs I had lying around (2 days ago)
 - [github/empty-repos](https://github.com/github/empty-repos) - A GitHub Actions workflow to find empty repos (2 weeks ago)
 - [github/measure-innersource](https://github.com/github/measure-innersource) - A tool for measuring InnerSource collaboration in a repository (3 weeks ago)
@@ -56,7 +57,6 @@
 - [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules) - A collection of useful rules for coding assistants (1 month ago)
 - [google/opendocs](https://github.com/google/opendocs) - Documentation resources (1 month ago)
 - [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (1 month ago)
-- [finos/git-proxy](https://github.com/finos/git-proxy) - Deploy custom push protections and policies on top of Git (1 month ago)
 
 
 
