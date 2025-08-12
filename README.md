@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [workflows: Add `stale` action](https://github.com/ossf/allstar/pull/720) on [ossf/allstar](https://github.com/ossf/allstar) (today)
 - [lint: Fix `goconst` warnings](https://github.com/ossf/allstar/pull/719) on [ossf/allstar](https://github.com/ossf/allstar) (today)
 - [Remove unused `reviewbot` code](https://github.com/ossf/allstar/pull/713) on [ossf/allstar](https://github.com/ossf/allstar) (3 weeks ago)
 - [dependabot: Fix grouped updates](https://github.com/bloomberg/oss-template/pull/10) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (3 months ago)
@@ -43,7 +44,6 @@
 - [workflows: Turn off issue generation for scorecard-monitor](https://github.com/bloomberg/.github/pull/23) on [bloomberg/.github](https://github.com/bloomberg/.github) (4 months ago)
 - [dependabot: Enable grouped updates and set update interval to weekly](https://github.com/ossf/allstar/pull/671) on [ossf/allstar](https://github.com/ossf/allstar) (4 months ago)
 - [Update Stephen Augustus affiliation](https://github.com/kubernetes/steering/pull/290) on [kubernetes/steering](https://github.com/kubernetes/steering) (4 months ago)
-- [scorecard-monitor: Revert to `GITHUB_TOKEN` to allow PRs](https://github.com/bloomberg/.github/pull/14) on [bloomberg/.github](https://github.com/bloomberg/.github) (5 months ago)
 
 #### ⭐ Recent Stars
 
