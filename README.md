@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.  (today)
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally. (today)
 - [arm/metis](https://github.com/arm/metis) - Metis is an open-source, AI-driven tool for deep security code review (4 days ago)
 - [BostonPython/fingertools](https://github.com/BostonPython/fingertools) - Ad-hoc programs I had lying around (6 days ago)
@@ -56,7 +57,6 @@
 - [uber/piranha](https://github.com/uber/piranha) - A tool for refactoring code related to feature flag APIs (1 month ago)
 - [sigstore/sigstore-go](https://github.com/sigstore/sigstore-go) - Go library for Sigstore signing and verification (1 month ago)
 - [continuedev/awesome-rules](https://github.com/continuedev/awesome-rules) - A collection of useful rules for coding assistants (1 month ago)
-- [google/opendocs](https://github.com/google/opendocs) - Documentation resources (2 months ago)
 
 
 
