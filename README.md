@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 day ago)
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (3 days ago)
+- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (4 days ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [bloomberg/bwit-gwc](https://github.com/bloomberg/bwit-gwc) -  (3 months ago)
 - [bloomberg/bwit-gems](https://github.com/bloomberg/bwit-gems) -  (3 months ago)
@@ -21,8 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.12), today) - Production-Grade Container Scheduling and Management
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.4](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.4), 1 day ago) - Interfaces and implementations for building Kubernetes releases.
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.12](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.12), 1 day ago) - Production-Grade Container Scheduling and Management
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.4](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.4), 2 days ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.15](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.15), 1 month ago) - Website and API for OpenSSF Scorecard
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.3](https://github.com/bloomberg/pushiko/releases/tag/1.0.3), 1 month ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.2](https://github.com/ossf/scorecard-action/releases/tag/v2.4.2), 2 months ago) - Official GitHub Action for OpenSSF Scorecard.
@@ -34,8 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [workflows: Add `stale` action](https://github.com/ossf/allstar/pull/720) on [ossf/allstar](https://github.com/ossf/allstar) (1 day ago)
-- [lint: Fix `goconst` warnings](https://github.com/ossf/allstar/pull/719) on [ossf/allstar](https://github.com/ossf/allstar) (1 day ago)
+- [workflows: Add `stale` action](https://github.com/ossf/allstar/pull/720) on [ossf/allstar](https://github.com/ossf/allstar) (2 days ago)
+- [lint: Fix `goconst` warnings](https://github.com/ossf/allstar/pull/719) on [ossf/allstar](https://github.com/ossf/allstar) (2 days ago)
 - [Remove unused `reviewbot` code](https://github.com/ossf/allstar/pull/713) on [ossf/allstar](https://github.com/ossf/allstar) (3 weeks ago)
 - [dependabot: Fix grouped updates](https://github.com/bloomberg/oss-template/pull/10) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (3 months ago)
 - [Publish commit](https://github.com/bloomberg/climate-credit-risk/pull/1) on [bloomberg/climate-credit-risk](https://github.com/bloomberg/climate-credit-risk) (3 months ago)
@@ -47,10 +47,10 @@
 
 #### ⭐ Recent Stars
 
-- [ready-to-review/goose](https://github.com/ready-to-review/goose) - Menu bar app for smart GitHub pull request notifications (1 day ago)
-- [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.  (1 day ago)
-- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally. (1 day ago)
-- [arm/metis](https://github.com/arm/metis) - Metis is an open-source, AI-driven tool for deep security code review (5 days ago)
+- [ready-to-review/goose](https://github.com/ready-to-review/goose) - Menu bar app for smart GitHub pull request notifications (2 days ago)
+- [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.  (2 days ago)
+- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally. (2 days ago)
+- [arm/metis](https://github.com/arm/metis) - Metis is an open-source, AI-driven tool for deep security code review (6 days ago)
 - [BostonPython/fingertools](https://github.com/BostonPython/fingertools) - Ad-hoc programs I had lying around (1 week ago)
 - [github/empty-repos](https://github.com/github/empty-repos) - A GitHub Actions workflow to find empty repos (3 weeks ago)
 - [github/measure-innersource](https://github.com/github/measure-innersource) - A tool for measuring InnerSource collaboration in a repository (4 weeks ago)
