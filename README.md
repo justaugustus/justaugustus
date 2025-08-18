@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [ready-to-review/goose](https://github.com/ready-to-review/goose) - Menu bar app for smart GitHub pull request notifications (6 days ago)
+- [codeGROOVE-dev/goose](https://github.com/codeGROOVE-dev/goose) - Menu bar app for smart GitHub pull request notifications (6 days ago)
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.  (6 days ago)
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally. (6 days ago)
 - [arm/metis](https://github.com/arm/metis) - Metis is an open-source, AI-driven tool for deep security code review (1 week ago)
