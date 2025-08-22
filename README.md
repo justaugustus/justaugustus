@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [shirleybailes/oss-europe-amsterdam-food](https://github.com/shirleybailes/oss-europe-amsterdam-food) - A community-curated list of food, drinks, and hangout spots near RAI Amsterdam for OSS Europe attendees. (today)
 - [kusaridev/kusari-cli](https://github.com/kusaridev/kusari-cli) - Command line interface for Kusari (1 day ago)
 - [codeGROOVE-dev/ready-to-review](https://github.com/codeGROOVE-dev/ready-to-review) - Modern pull request dashboard for busy software engineers (2 days ago)
 - [codeGROOVE-dev/goose](https://github.com/codeGROOVE-dev/goose) - Menu bar app for smart GitHub pull request notifications (1 week ago)
@@ -56,7 +57,6 @@
 - [BostonPython/fingertools](https://github.com/BostonPython/fingertools) - Ad-hoc programs I had lying around (2 weeks ago)
 - [github/empty-repos](https://github.com/github/empty-repos) - A GitHub Actions workflow to find empty repos (1 month ago)
 - [github/measure-innersource](https://github.com/github/measure-innersource) - A tool for measuring InnerSource collaboration in a repository (1 month ago)
-- [linuxfoundation/insights](https://github.com/linuxfoundation/insights) - Discover the world&#39;s most critical open source projects (1 month ago)
 
 
 
