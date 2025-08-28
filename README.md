@@ -14,20 +14,20 @@
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 weeks ago)
 - [bloomberg/bwit-gwc](https://github.com/bloomberg/bwit-gwc) -  (3 months ago)
 - [bloomberg/bwit-gems](https://github.com/bloomberg/bwit-gems) -  (3 months ago)
-- [bloomberg/evaluating-cmr-in-mm](https://github.com/bloomberg/evaluating-cmr-in-mm) -  (3 months ago)
+- [bloomberg/evaluating-cmr-in-mm](https://github.com/bloomberg/evaluating-cmr-in-mm) -  (4 months ago)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (4 months ago)
 - [bloomberg/climate-credit-risk](https://github.com/bloomberg/climate-credit-risk) -  (4 months ago)
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM). (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.34](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.34), today) - Kubernetes website and documentation repo: 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0), today) - Production-Grade Container Scheduling and Management
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.34](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.34), 1 day ago) - Kubernetes website and documentation repo: 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0), 1 day ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.4](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.4), 2 weeks ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.15](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.15), 1 month ago) - Website and API for OpenSSF Scorecard
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.3](https://github.com/bloomberg/pushiko/releases/tag/1.0.3), 2 months ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.2](https://github.com/ossf/scorecard-action/releases/tag/v2.4.2), 2 months ago) - Official GitHub Action for OpenSSF Scorecard.
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.2.1](https://github.com/ossf/scorecard/releases/tag/v5.2.1), 2 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.2](https://github.com/ossf/scorecard-action/releases/tag/v2.4.2), 3 months ago) - Official GitHub Action for OpenSSF Scorecard.
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.2.1](https://github.com/ossf/scorecard/releases/tag/v5.2.1), 3 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.4](https://github.com/ossf/allstar/releases/tag/v4.4), 3 months ago) - GitHub App to set and enforce security policies
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.11](https://github.com/getporter/magefiles/releases/tag/v0.6.11), 4 months ago) - Magefile helpers for porter repositories
 - [getporter/porter](https://github.com/getporter/porter) ([canary](https://github.com/getporter/porter/releases/tag/canary), 4 years ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
@@ -47,9 +47,9 @@
 
 #### ⭐ Recent Stars
 
-- [revanite-io/pvtr-github-repo](https://github.com/revanite-io/pvtr-github-repo) - Privateer plugin for scanning the security hygiene of a GitHub repository. (1 day ago)
-- [shirleybailes/oss-europe-amsterdam-food](https://github.com/shirleybailes/oss-europe-amsterdam-food) - A community-curated list of food, drinks, and hangout spots near RAI Amsterdam for OSS Europe attendees. (5 days ago)
-- [kusaridev/kusari-cli](https://github.com/kusaridev/kusari-cli) - Command line interface for Kusari (6 days ago)
+- [revanite-io/pvtr-github-repo](https://github.com/revanite-io/pvtr-github-repo) - Privateer plugin for scanning the security hygiene of a GitHub repository. (2 days ago)
+- [shirleybailes/oss-europe-amsterdam-food](https://github.com/shirleybailes/oss-europe-amsterdam-food) - A community-curated list of food, drinks, and hangout spots near RAI Amsterdam for OSS Europe attendees. (6 days ago)
+- [kusaridev/kusari-cli](https://github.com/kusaridev/kusari-cli) - Command line interface for Kusari (1 week ago)
 - [codeGROOVE-dev/ready-to-review](https://github.com/codeGROOVE-dev/ready-to-review) - Modern pull request dashboard for busy software engineers (1 week ago)
 - [codeGROOVE-dev/goose](https://github.com/codeGROOVE-dev/goose) - Menu bar app for smart GitHub pull request notifications (2 weeks ago)
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.  (2 weeks ago)
