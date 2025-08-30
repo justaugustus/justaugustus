@@ -21,8 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.34](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.34), 2 days ago) - Kubernetes website and documentation repo: 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0), 2 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.34](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.34), 3 days ago) - Kubernetes website and documentation repo: 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.34.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.34.0), 3 days ago) - Production-Grade Container Scheduling and Management
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.4](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.4), 2 weeks ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.15](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.15), 1 month ago) - Website and API for OpenSSF Scorecard
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.3](https://github.com/bloomberg/pushiko/releases/tag/1.0.3), 2 months ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [revanite-io/pvtr-github-repo](https://github.com/revanite-io/pvtr-github-repo) - Privateer plugin for scanning the security hygiene of a GitHub repository. (3 days ago)
+- [revanite-io/pvtr-github-repo](https://github.com/revanite-io/pvtr-github-repo) - Privateer plugin for scanning the security hygiene of a GitHub repository. (4 days ago)
 - [shirleybailes/oss-europe-amsterdam-food](https://github.com/shirleybailes/oss-europe-amsterdam-food) - A community-curated list of food, drinks, and hangout spots near RAI Amsterdam for OSS Europe attendees. (1 week ago)
 - [kusaridev/kusari-cli](https://github.com/kusaridev/kusari-cli) - Command line interface for Kusari (1 week ago)
 - [codeGROOVE-dev/ready-to-review](https://github.com/codeGROOVE-dev/ready-to-review) - Modern pull request dashboard for busy software engineers (1 week ago)
