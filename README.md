@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (today)
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (today)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 day ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 day ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 weeks ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 - [bloomberg/bwit-gwc](https://github.com/bloomberg/bwit-gwc) -  (4 months ago)
@@ -42,14 +42,14 @@
 - [Publish commit](https://github.com/bloomberg/climate-credit-risk/pull/1) on [bloomberg/climate-credit-risk](https://github.com/bloomberg/climate-credit-risk) (4 months ago)
 - [Cleanup (2/n)](https://github.com/bloomberg/oss-template/pull/9) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (4 months ago)
 - [Cleanup (1/n)](https://github.com/bloomberg/oss-template/pull/7) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (4 months ago)
-- [workflows: Turn off issue generation for scorecard-monitor](https://github.com/bloomberg/.github/pull/23) on [bloomberg/.github](https://github.com/bloomberg/.github) (4 months ago)
+- [workflows: Turn off issue generation for scorecard-monitor](https://github.com/bloomberg/.github/pull/23) on [bloomberg/.github](https://github.com/bloomberg/.github) (5 months ago)
 - [dependabot: Enable grouped updates and set update interval to weekly](https://github.com/ossf/allstar/pull/671) on [ossf/allstar](https://github.com/ossf/allstar) (5 months ago)
 
 #### ⭐ Recent Stars
 
 - [revanite-io/pvtr-github-repo](https://github.com/revanite-io/pvtr-github-repo) - Privateer plugin for scanning the security hygiene of a GitHub repository. (1 week ago)
 - [shirleybailes/oss-europe-amsterdam-food](https://github.com/shirleybailes/oss-europe-amsterdam-food) - A community-curated list of food, drinks, and hangout spots near RAI Amsterdam for OSS Europe attendees. (1 week ago)
-- [kusaridev/kusari-cli](https://github.com/kusaridev/kusari-cli) - Command line interface for Kusari (1 week ago)
+- [kusaridev/kusari-cli](https://github.com/kusaridev/kusari-cli) - Command line interface for Kusari (2 weeks ago)
 - [codeGROOVE-dev/ready-to-review](https://github.com/codeGROOVE-dev/ready-to-review) - Modern pull request dashboard for busy software engineers (2 weeks ago)
 - [codeGROOVE-dev/goose](https://github.com/codeGROOVE-dev/goose) - Menu bar app for smart GitHub pull request notifications (3 weeks ago)
 - [gruntwork-io/git-xargs](https://github.com/gruntwork-io/git-xargs) - git-xargs is a command-line tool (CLI) for making updates across multiple Github repositories with a single command.  (3 weeks ago)
