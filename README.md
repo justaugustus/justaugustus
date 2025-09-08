@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (today)
 - [revanite-io/pvtr-github-repo](https://github.com/revanite-io/pvtr-github-repo) - Privateer plugin for scanning the security hygiene of a GitHub repository. (1 week ago)
 - [shirleybailes/oss-europe-amsterdam-food](https://github.com/shirleybailes/oss-europe-amsterdam-food) - A community-curated list of food, drinks, and hangout spots near RAI Amsterdam for OSS Europe attendees. (2 weeks ago)
 - [kusaridev/kusari-cli](https://github.com/kusaridev/kusari-cli) - Command line interface for Kusari (2 weeks ago)
@@ -56,7 +57,6 @@
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally. (3 weeks ago)
 - [arm/metis](https://github.com/arm/metis) - Metis is an open-source, AI-driven tool for deep security code review (1 month ago)
 - [BostonPython/fingertools](https://github.com/BostonPython/fingertools) - Ad-hoc programs I had lying around (1 month ago)
-- [github/empty-repos](https://github.com/github/empty-repos) - A GitHub Actions workflow to find empty repos (1 month ago)
 
 
 
