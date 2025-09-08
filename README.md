@@ -8,9 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (today)
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (4 days ago)
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (4 days ago)
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 day ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (5 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (5 days ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (3 weeks ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 - [bloomberg/bwit-gems](https://github.com/bloomberg/bwit-gems) -  (4 months ago)
