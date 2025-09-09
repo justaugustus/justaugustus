@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [internal: Replace remaining references to gopkg.in/src-d/go-git.v4](https://github.com/kubernetes-sigs/promo-tools/pull/1606) on [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) (today)
 - [workflows: Add a few more labels to `stale` actions exemption list](https://github.com/ossf/allstar/pull/724) on [ossf/allstar](https://github.com/ossf/allstar) (3 weeks ago)
 - [workflows: Add `stale` action](https://github.com/ossf/allstar/pull/720) on [ossf/allstar](https://github.com/ossf/allstar) (4 weeks ago)
 - [lint: Fix `goconst` warnings](https://github.com/ossf/allstar/pull/719) on [ossf/allstar](https://github.com/ossf/allstar) (4 weeks ago)
@@ -43,7 +44,6 @@
 - [Cleanup (2/n)](https://github.com/bloomberg/oss-template/pull/9) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (4 months ago)
 - [Cleanup (1/n)](https://github.com/bloomberg/oss-template/pull/7) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (4 months ago)
 - [workflows: Turn off issue generation for scorecard-monitor](https://github.com/bloomberg/.github/pull/23) on [bloomberg/.github](https://github.com/bloomberg/.github) (5 months ago)
-- [dependabot: Enable grouped updates and set update interval to weekly](https://github.com/ossf/allstar/pull/671) on [ossf/allstar](https://github.com/ossf/allstar) (5 months ago)
 
 #### ⭐ Recent Stars
 
