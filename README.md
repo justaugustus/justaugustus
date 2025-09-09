@@ -34,6 +34,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [go.mod: Bump k8s.io/utils to v0.0.0-20250820121507-0af2bda4dd1d](https://github.com/kubernetes-sigs/release-sdk/pull/470) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (today)
+- [go.mod: Bump k8s.io/utils to v0.0.0-20250820121507-0af2bda4dd1d](https://github.com/kubernetes-sigs/release-utils/pull/147) on [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) (today)
+- [go.mod: Bump k8s.io/utils to v0.0.0-20250820121507-0af2bda4dd1d](https://github.com/kubernetes-sigs/promo-tools/pull/1607) on [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) (today)
 - [internal: Replace remaining references to gopkg.in/src-d/go-git.v4](https://github.com/kubernetes-sigs/promo-tools/pull/1606) on [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) (today)
 - [workflows: Add a few more labels to `stale` actions exemption list](https://github.com/ossf/allstar/pull/724) on [ossf/allstar](https://github.com/ossf/allstar) (3 weeks ago)
 - [workflows: Add `stale` action](https://github.com/ossf/allstar/pull/720) on [ossf/allstar](https://github.com/ossf/allstar) (4 weeks ago)
@@ -41,9 +44,6 @@
 - [Remove unused `reviewbot` code](https://github.com/ossf/allstar/pull/713) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
 - [dependabot: Fix grouped updates](https://github.com/bloomberg/oss-template/pull/10) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (4 months ago)
 - [Publish commit](https://github.com/bloomberg/climate-credit-risk/pull/1) on [bloomberg/climate-credit-risk](https://github.com/bloomberg/climate-credit-risk) (4 months ago)
-- [Cleanup (2/n)](https://github.com/bloomberg/oss-template/pull/9) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (4 months ago)
-- [Cleanup (1/n)](https://github.com/bloomberg/oss-template/pull/7) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (4 months ago)
-- [workflows: Turn off issue generation for scorecard-monitor](https://github.com/bloomberg/.github/pull/23) on [bloomberg/.github](https://github.com/bloomberg/.github) (5 months ago)
 
 #### ⭐ Recent Stars
 
