@@ -8,16 +8,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (1 day ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 day ago)
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project (1 day ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (2 days ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (6 days ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (3 weeks ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
-- [bloomberg/bwit-gwc](https://github.com/bloomberg/bwit-gwc) -  (4 months ago)
 - [bloomberg/bwit-gems](https://github.com/bloomberg/bwit-gems) -  (4 months ago)
+- [bloomberg/bwit-gwc](https://github.com/bloomberg/bwit-gwc) -  (4 months ago)
 - [bloomberg/evaluating-cmr-in-mm](https://github.com/bloomberg/evaluating-cmr-in-mm) -  (4 months ago)
-- [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (4 months ago)
-- [bloomberg/climate-credit-risk](https://github.com/bloomberg/climate-credit-risk) -  (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -30,7 +30,7 @@
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.2.1](https://github.com/ossf/scorecard/releases/tag/v5.2.1), 3 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.4](https://github.com/ossf/allstar/releases/tag/v4.4), 3 months ago) - GitHub App to set and enforce security policies
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.11](https://github.com/getporter/magefiles/releases/tag/v0.6.11), 4 months ago) - Magefile helpers for porter repositories
-- [getporter/porter](https://github.com/getporter/porter) ([canary](https://github.com/getporter/porter/releases/tag/canary), 4 years ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.5](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.5), 2 years ago) - Container and file artifact promotion tooling for the Kubernetes project
 
 #### 🔨 My recent Pull Requests
 
