@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.33.5](https://github.com/kubernetes/kubernetes/releases/tag/v1.33.5), today) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), today) - Production-Grade Container Scheduling and Management
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.34](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.34), 2 weeks ago) - Kubernetes website and documentation repo: 
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.4](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.4), 4 weeks ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.1](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.1), 1 month ago) - 
