@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [OWNERS cleanup (Release Team&#39;s version)](https://github.com/kubernetes/sig-release/pull/2865) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (today)
 - [Revert &#34;per sascha&#39;s suggestion, adds drew to sig-release-leads&#34;](https://github.com/kubernetes/k8s.io/pull/8503) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
 - [go.mod: Bump k8s.io/utils to v0.0.0-20250820121507-0af2bda4dd1d](https://github.com/kubernetes-sigs/release-sdk/pull/470) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (5 days ago)
 - [go.mod: Bump k8s.io/utils to v0.0.0-20250820121507-0af2bda4dd1d](https://github.com/kubernetes-sigs/release-utils/pull/147) on [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) (5 days ago)
@@ -43,7 +44,6 @@
 - [workflows: Add `stale` action](https://github.com/ossf/allstar/pull/720) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
 - [lint: Fix `goconst` warnings](https://github.com/ossf/allstar/pull/719) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
 - [Remove unused `reviewbot` code](https://github.com/ossf/allstar/pull/713) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
-- [dependabot: Fix grouped updates](https://github.com/bloomberg/oss-template/pull/10) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (4 months ago)
 
 #### ⭐ Recent Stars
 
