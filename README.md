@@ -8,20 +8,20 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (today)
-- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 day ago)
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (5 days ago)
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (5 days ago)
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project (5 days ago)
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) -  (5 days ago)
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (6 days ago)
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 day ago)
+- [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (6 days ago)
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (6 days ago)
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project (6 days ago)
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) -  (6 days ago)
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 week ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 week ago)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (4 weeks ago)
+- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 month ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), 3 days ago) - Production-Grade Container Scheduling and Management
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), 4 days ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.34](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.34), 2 weeks ago) - Kubernetes website and documentation repo: 
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.4](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.4), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.1](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.1), 1 month ago) - 
@@ -34,12 +34,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Revert &#34;per sascha&#39;s suggestion, adds drew to sig-release-leads&#34;](https://github.com/kubernetes/k8s.io/pull/8503) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 day ago)
-- [go.mod: Bump k8s.io/utils to v0.0.0-20250820121507-0af2bda4dd1d](https://github.com/kubernetes-sigs/release-sdk/pull/470) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (4 days ago)
-- [go.mod: Bump k8s.io/utils to v0.0.0-20250820121507-0af2bda4dd1d](https://github.com/kubernetes-sigs/release-utils/pull/147) on [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) (4 days ago)
-- [go.mod: Bump k8s.io/utils to v0.0.0-20250820121507-0af2bda4dd1d](https://github.com/kubernetes-sigs/promo-tools/pull/1607) on [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) (4 days ago)
-- [internal: Replace remaining references to gopkg.in/src-d/go-git.v4](https://github.com/kubernetes-sigs/promo-tools/pull/1606) on [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) (4 days ago)
-- [workflows: Add a few more labels to `stale` actions exemption list](https://github.com/ossf/allstar/pull/724) on [ossf/allstar](https://github.com/ossf/allstar) (4 weeks ago)
+- [Revert &#34;per sascha&#39;s suggestion, adds drew to sig-release-leads&#34;](https://github.com/kubernetes/k8s.io/pull/8503) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 days ago)
+- [go.mod: Bump k8s.io/utils to v0.0.0-20250820121507-0af2bda4dd1d](https://github.com/kubernetes-sigs/release-sdk/pull/470) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (5 days ago)
+- [go.mod: Bump k8s.io/utils to v0.0.0-20250820121507-0af2bda4dd1d](https://github.com/kubernetes-sigs/release-utils/pull/147) on [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) (5 days ago)
+- [go.mod: Bump k8s.io/utils to v0.0.0-20250820121507-0af2bda4dd1d](https://github.com/kubernetes-sigs/promo-tools/pull/1607) on [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) (5 days ago)
+- [internal: Replace remaining references to gopkg.in/src-d/go-git.v4](https://github.com/kubernetes-sigs/promo-tools/pull/1606) on [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) (5 days ago)
+- [workflows: Add a few more labels to `stale` actions exemption list](https://github.com/ossf/allstar/pull/724) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
 - [workflows: Add `stale` action](https://github.com/ossf/allstar/pull/720) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
 - [lint: Fix `goconst` warnings](https://github.com/ossf/allstar/pull/719) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
 - [Remove unused `reviewbot` code](https://github.com/ossf/allstar/pull/713) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (5 days ago)
+- [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (6 days ago)
 - [revanite-io/pvtr-github-repo](https://github.com/revanite-io/pvtr-github-repo) - Privateer plugin for scanning the security hygiene of a GitHub repository. (2 weeks ago)
 - [shirleybailes/oss-europe-amsterdam-food](https://github.com/shirleybailes/oss-europe-amsterdam-food) - A community-curated list of food, drinks, and hangout spots near RAI Amsterdam for OSS Europe attendees. (3 weeks ago)
 - [kusaridev/kusari-cli](https://github.com/kusaridev/kusari-cli) - Command line interface for Kusari (3 weeks ago)
