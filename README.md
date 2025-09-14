@@ -8,6 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (today)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 day ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 days ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (6 days ago)
@@ -17,7 +18,6 @@
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 week ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 week ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 month ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
