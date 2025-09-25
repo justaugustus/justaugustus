@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 days ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 week ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 week ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (1 week ago)
@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.2](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.2), 1 day ago) - 
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.2](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.2), 2 days ago) - 
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.12](https://github.com/getporter/magefiles/releases/tag/v0.6.12), 1 week ago) - Magefile helpers for porter repositories
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), 2 weeks ago) - Production-Grade Container Scheduling and Management
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.34](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.34), 4 weeks ago) - Kubernetes website and documentation repo: 
@@ -48,7 +48,7 @@
 #### ⭐ Recent Stars
 
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (2 weeks ago)
-- [revanite-io/pvtr-github-repo](https://github.com/revanite-io/pvtr-github-repo) - Privateer plugin for scanning the security hygiene of a GitHub repository. (4 weeks ago)
+- [revanite-io/pvtr-github-repo](https://github.com/revanite-io/pvtr-github-repo) - Privateer plugin for scanning the security hygiene of a GitHub repository. (1 month ago)
 - [shirleybailes/oss-europe-amsterdam-food](https://github.com/shirleybailes/oss-europe-amsterdam-food) - A community-curated list of food, drinks, and hangout spots near RAI Amsterdam for OSS Europe attendees. (1 month ago)
 - [kusaridev/kusari-cli](https://github.com/kusaridev/kusari-cli) - Command line interface for Kusari (1 month ago)
 - [codeGROOVE-dev/ready-to-review](https://github.com/codeGROOVE-dev/ready-to-review) - Modern pull request dashboard for busy software engineers (1 month ago)
