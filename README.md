@@ -8,16 +8,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (today)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 day ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (2 weeks ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (2 weeks ago)
 - [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) - Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites (2 weeks ago)
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) -  (3 weeks ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (3 weeks ago)
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) - Interfaces and implementations for building Kubernetes releases. (3 weeks ago)
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project (3 weeks ago)
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (3 weeks ago)
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (3 weeks ago)
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
