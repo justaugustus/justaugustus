@@ -21,6 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.3](https://github.com/ossf/scorecard-action/releases/tag/v2.4.3), today) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.3.0](https://github.com/ossf/scorecard/releases/tag/v5.3.0), today) - OpenSSF Scorecard - Security health metrics for Open Source
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.4](https://github.com/bloomberg/pushiko/releases/tag/1.0.4), 2 days ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.2](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.2), 1 week ago) - 
@@ -30,10 +31,10 @@
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.4](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.4), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.15](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.15), 2 months ago) - Website and API for OpenSSF Scorecard
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.4](https://github.com/ossf/allstar/releases/tag/v4.4), 4 months ago) - GitHub App to set and enforce security policies
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.5](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.5), 2 years ago) - Container and file artifact promotion tooling for the Kubernetes project
 
 #### 🔨 My recent Pull Requests
 
+- [go.mod: Bump scorecard to v5.3.0](https://github.com/ossf/allstar/pull/740) on [ossf/allstar](https://github.com/ossf/allstar) (today)
 - [OWNERS cleanup (Release Team&#39;s version)](https://github.com/kubernetes/sig-release/pull/2865) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (2 weeks ago)
 - [Revert &#34;per sascha&#39;s suggestion, adds drew to sig-release-leads&#34;](https://github.com/kubernetes/k8s.io/pull/8503) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
 - [go.mod: Bump k8s.io/utils to v0.0.0-20250820121507-0af2bda4dd1d](https://github.com/kubernetes-sigs/release-sdk/pull/470) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (3 weeks ago)
@@ -43,7 +44,6 @@
 - [workflows: Add a few more labels to `stale` actions exemption list](https://github.com/ossf/allstar/pull/724) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
 - [workflows: Add `stale` action](https://github.com/ossf/allstar/pull/720) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
 - [lint: Fix `goconst` warnings](https://github.com/ossf/allstar/pull/719) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
-- [Remove unused `reviewbot` code](https://github.com/ossf/allstar/pull/713) on [ossf/allstar](https://github.com/ossf/allstar) (2 months ago)
 
 #### ⭐ Recent Stars
 
