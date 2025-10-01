@@ -21,6 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ossf/allstar](https://github.com/ossf/allstar) ([v4.5](https://github.com/ossf/allstar/releases/tag/v4.5), today) - GitHub App to set and enforce security policies
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.3](https://github.com/ossf/scorecard-action/releases/tag/v2.4.3), 1 day ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.3.0](https://github.com/ossf/scorecard/releases/tag/v5.3.0), 1 day ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.4](https://github.com/bloomberg/pushiko/releases/tag/1.0.4), 3 days ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
@@ -30,7 +31,6 @@
 - [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.34](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.34), 1 month ago) - Kubernetes website and documentation repo: 
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.4](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.4), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.15](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.15), 2 months ago) - Website and API for OpenSSF Scorecard
-- [ossf/allstar](https://github.com/ossf/allstar) ([v4.4](https://github.com/ossf/allstar/releases/tag/v4.4), 4 months ago) - GitHub App to set and enforce security policies
 
 #### 🔨 My recent Pull Requests
 
