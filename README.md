@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: MAINTAINERS: Add Adam Korczynski (AdamKorcz), ADA Logics](https://github.com/ossf/scorecard/pull/4808) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [go.mod: Bump scorecard to v5.3.0](https://github.com/ossf/allstar/pull/740) on [ossf/allstar](https://github.com/ossf/allstar) (2 days ago)
 - [OWNERS cleanup (Release Team&#39;s version)](https://github.com/kubernetes/sig-release/pull/2865) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (2 weeks ago)
 - [Revert &#34;per sascha&#39;s suggestion, adds drew to sig-release-leads&#34;](https://github.com/kubernetes/k8s.io/pull/8503) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (2 weeks ago)
@@ -43,7 +44,6 @@
 - [internal: Replace remaining references to gopkg.in/src-d/go-git.v4](https://github.com/kubernetes-sigs/promo-tools/pull/1606) on [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) (3 weeks ago)
 - [workflows: Add a few more labels to `stale` actions exemption list](https://github.com/ossf/allstar/pull/724) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
 - [workflows: Add `stale` action](https://github.com/ossf/allstar/pull/720) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
-- [lint: Fix `goconst` warnings](https://github.com/ossf/allstar/pull/719) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
 
 #### ⭐ Recent Stars
 
