@@ -28,9 +28,9 @@
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.2](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.2), 1 week ago) - 
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.12](https://github.com/getporter/magefiles/releases/tag/v0.6.12), 2 weeks ago) - Magefile helpers for porter repositories
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.31.13](https://github.com/kubernetes/kubernetes/releases/tag/v1.31.13), 3 weeks ago) - Production-Grade Container Scheduling and Management
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.34](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.34), 1 month ago) - Kubernetes website and documentation repo: 
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.4](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.4), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.15](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.15), 2 months ago) - Website and API for OpenSSF Scorecard
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.5](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.5), 2 years ago) - Container and file artifact promotion tooling for the Kubernetes project
 
 #### 🔨 My recent Pull Requests
 
