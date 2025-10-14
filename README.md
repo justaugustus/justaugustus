@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Release: promo-tools@v4.1.0](https://github.com/kubernetes-sigs/promo-tools/pull/1633) on [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) (today)
 - [:seedling: MAINTAINERS: Add Adam Korczynski (AdamKorcz), ADA Logics](https://github.com/ossf/scorecard/pull/4808) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [go.mod: Bump scorecard to v5.3.0](https://github.com/ossf/allstar/pull/740) on [ossf/allstar](https://github.com/ossf/allstar) (2 weeks ago)
 - [OWNERS cleanup (Release Team&#39;s version)](https://github.com/kubernetes/sig-release/pull/2865) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (1 month ago)
@@ -43,7 +44,6 @@
 - [go.mod: Bump k8s.io/utils to v0.0.0-20250820121507-0af2bda4dd1d](https://github.com/kubernetes-sigs/promo-tools/pull/1607) on [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) (1 month ago)
 - [internal: Replace remaining references to gopkg.in/src-d/go-git.v4](https://github.com/kubernetes-sigs/promo-tools/pull/1606) on [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) (1 month ago)
 - [workflows: Add a few more labels to `stale` actions exemption list](https://github.com/ossf/allstar/pull/724) on [ossf/allstar](https://github.com/ossf/allstar) (2 months ago)
-- [workflows: Add `stale` action](https://github.com/ossf/allstar/pull/720) on [ossf/allstar](https://github.com/ossf/allstar) (2 months ago)
 
 #### ⭐ Recent Stars
 
