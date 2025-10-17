@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project (2 days ago)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (6 days ago)
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project (3 days ago)
+- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 week ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 weeks ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 weeks ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 month ago)
@@ -21,8 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.16](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.16), 3 days ago) - Website and API for OpenSSF Scorecard
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.5](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.5), 3 days ago) - Interfaces and implementations for building Kubernetes releases.
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.16](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.16), 4 days ago) - Website and API for OpenSSF Scorecard
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.5](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.5), 4 days ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-alpha.1](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-alpha.1), 1 week ago) - Production-Grade Container Scheduling and Management
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.5](https://github.com/ossf/allstar/releases/tag/v4.5), 2 weeks ago) - GitHub App to set and enforce security policies
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.3](https://github.com/ossf/scorecard-action/releases/tag/v2.4.3), 2 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
@@ -34,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Release: promo-tools@v4.1.0](https://github.com/kubernetes-sigs/promo-tools/pull/1633) on [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) (2 days ago)
+- [Release: promo-tools@v4.1.0](https://github.com/kubernetes-sigs/promo-tools/pull/1633) on [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) (3 days ago)
 - [:seedling: MAINTAINERS: Add Adam Korczynski (AdamKorcz), ADA Logics](https://github.com/ossf/scorecard/pull/4808) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 weeks ago)
 - [go.mod: Bump scorecard to v5.3.0](https://github.com/ossf/allstar/pull/740) on [ossf/allstar](https://github.com/ossf/allstar) (2 weeks ago)
 - [OWNERS cleanup (Release Team&#39;s version)](https://github.com/kubernetes/sig-release/pull/2865) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (1 month ago)
@@ -47,8 +47,8 @@
 
 #### ⭐ Recent Stars
 
-- [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning. (today)
-- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers (6 days ago)
+- [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning. (1 day ago)
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers (1 week ago)
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (1 month ago)
 - [revanite-io/pvtr-github-repo](https://github.com/revanite-io/pvtr-github-repo) - Privateer plugin for scanning the security hygiene of a GitHub repository. (1 month ago)
 - [shirleybailes/oss-europe-amsterdam-food](https://github.com/shirleybailes/oss-europe-amsterdam-food) - A community-curated list of food, drinks, and hangout spots near RAI Amsterdam for OSS Europe attendees. (1 month ago)
