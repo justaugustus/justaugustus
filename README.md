@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use `awesome-lint`, add Dependabot and CODEOWNERS configs](https://github.com/todogroup/awesome-ospo/pull/76) on [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) (today)
 - [Release: promo-tools@v4.1.0](https://github.com/kubernetes-sigs/promo-tools/pull/1633) on [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) (6 days ago)
 - [:seedling: MAINTAINERS: Add Adam Korczynski (AdamKorcz), ADA Logics](https://github.com/ossf/scorecard/pull/4808) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 weeks ago)
 - [go.mod: Bump scorecard to v5.3.0](https://github.com/ossf/allstar/pull/740) on [ossf/allstar](https://github.com/ossf/allstar) (2 weeks ago)
@@ -43,7 +44,6 @@
 - [go.mod: Bump k8s.io/utils to v0.0.0-20250820121507-0af2bda4dd1d](https://github.com/kubernetes-sigs/release-utils/pull/147) on [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) (1 month ago)
 - [go.mod: Bump k8s.io/utils to v0.0.0-20250820121507-0af2bda4dd1d](https://github.com/kubernetes-sigs/promo-tools/pull/1607) on [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) (1 month ago)
 - [internal: Replace remaining references to gopkg.in/src-d/go-git.v4](https://github.com/kubernetes-sigs/promo-tools/pull/1606) on [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) (1 month ago)
-- [workflows: Add a few more labels to `stale` actions exemption list](https://github.com/ossf/allstar/pull/724) on [ossf/allstar](https://github.com/ossf/allstar) (2 months ago)
 
 #### ⭐ Recent Stars
 
