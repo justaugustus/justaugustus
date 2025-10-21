@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [cncf/dco2](https://github.com/cncf/dco2) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests (today)
 - [githubnext/awesome-continuous-ai](https://github.com/githubnext/awesome-continuous-ai) - An awesome list of Continuous AI Actions and Frameworks (1 day ago)
 - [linuxfoundation/easycla](https://github.com/linuxfoundation/easycla) -  (1 day ago)
 - [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning. (5 days ago)
@@ -56,7 +57,6 @@
 - [shirleybailes/oss-europe-amsterdam-food](https://github.com/shirleybailes/oss-europe-amsterdam-food) - A community-curated list of food, drinks, and hangout spots near RAI Amsterdam for OSS Europe attendees. (2 months ago)
 - [kusaridev/kusari-cli](https://github.com/kusaridev/kusari-cli) - Command line interface for Kusari (2 months ago)
 - [codeGROOVE-dev/ready-to-review](https://github.com/codeGROOVE-dev/ready-to-review) - Modern pull request dashboard for busy software engineers (2 months ago)
-- [codeGROOVE-dev/goose](https://github.com/codeGROOVE-dev/goose) - Menu bar app for smart GitHub pull request notifications (2 months ago)
 
 
 
