@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (today)
 - [cncf/dco2](https://github.com/cncf/dco2) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests (6 days ago)
 - [githubnext/awesome-continuous-ai](https://github.com/githubnext/awesome-continuous-ai) - An awesome list of Continuous AI Actions and Frameworks (1 week ago)
 - [linuxfoundation/easycla](https://github.com/linuxfoundation/easycla) -  (1 week ago)
@@ -56,7 +57,6 @@
 - [revanite-io/pvtr-github-repo](https://github.com/revanite-io/pvtr-github-repo) - Privateer plugin for scanning the security hygiene of a GitHub repository. (2 months ago)
 - [shirleybailes/oss-europe-amsterdam-food](https://github.com/shirleybailes/oss-europe-amsterdam-food) - A community-curated list of food, drinks, and hangout spots near RAI Amsterdam for OSS Europe attendees. (2 months ago)
 - [kusaridev/kusari-cli](https://github.com/kusaridev/kusari-cli) - Command line interface for Kusari (2 months ago)
-- [codeGROOVE-dev/ready-to-review](https://github.com/codeGROOVE-dev/ready-to-review) - Modern pull request dashboard for busy software engineers (2 months ago)
 
 
 
