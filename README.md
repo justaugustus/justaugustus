@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update repository link for Allstar quickstart template](https://github.com/ossf/allstar/pull/751) on [ossf/allstar](https://github.com/ossf/allstar) (today)
 - [Actions cleanup](https://github.com/bloomberg/.github/pull/61) on [bloomberg/.github](https://github.com/bloomberg/.github) (2 days ago)
 - [Update GitHub Actions](https://github.com/bloomberg/.github/pull/60) on [bloomberg/.github](https://github.com/bloomberg/.github) (2 days ago)
 - [Use `awesome-lint`, add Dependabot and CODEOWNERS configs](https://github.com/todogroup/awesome-ospo/pull/76) on [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) (1 week ago)
@@ -43,7 +44,6 @@
 - [OWNERS cleanup (Release Team&#39;s version)](https://github.com/kubernetes/sig-release/pull/2865) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (1 month ago)
 - [Revert &#34;per sascha&#39;s suggestion, adds drew to sig-release-leads&#34;](https://github.com/kubernetes/k8s.io/pull/8503) on [kubernetes/k8s.io](https://github.com/kubernetes/k8s.io) (1 month ago)
 - [go.mod: Bump k8s.io/utils to v0.0.0-20250820121507-0af2bda4dd1d](https://github.com/kubernetes-sigs/release-sdk/pull/470) on [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) (1 month ago)
-- [go.mod: Bump k8s.io/utils to v0.0.0-20250820121507-0af2bda4dd1d](https://github.com/kubernetes-sigs/release-utils/pull/147) on [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) (1 month ago)
 
 #### ⭐ Recent Stars
 
