@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [knabben/signalhound](https://github.com/knabben/signalhound) - Hunts Flake And Failing Testgrid Jobs  (today)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (2 days ago)
 - [cncf/dco2](https://github.com/cncf/dco2) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests (1 week ago)
 - [githubnext/awesome-continuous-ai](https://github.com/githubnext/awesome-continuous-ai) - An awesome list of Continuous AI Actions and Frameworks (1 week ago)
@@ -56,7 +57,6 @@
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (1 month ago)
 - [revanite-io/pvtr-github-repo](https://github.com/revanite-io/pvtr-github-repo) - Privateer plugin for scanning the security hygiene of a GitHub repository. (2 months ago)
 - [shirleybailes/oss-europe-amsterdam-food](https://github.com/shirleybailes/oss-europe-amsterdam-food) - A community-curated list of food, drinks, and hangout spots near RAI Amsterdam for OSS Europe attendees. (2 months ago)
-- [kusaridev/kusari-cli](https://github.com/kusaridev/kusari-cli) - Command line interface for Kusari (2 months ago)
 
 
 
