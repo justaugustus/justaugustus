@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 day ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 week ago)
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 week ago)
 - [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) - Curated list of awesome tools for managing open source programs (2 weeks ago)
 - [bloomberg/weir-qos](https://github.com/bloomberg/weir-qos) - A distributed quality-of-service/rate-limiting middleware for applying request- and date-transfer rate limits on a per-user basis. (2 weeks ago)
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project (2 weeks ago)
