@@ -21,6 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.13](https://github.com/getporter/magefiles/releases/tag/v0.6.13), today) - Magefile helpers for porter repositories
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-alpha.3](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-alpha.3), 4 days ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.17](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.17), 2 weeks ago) - Website and API for OpenSSF Scorecard
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.5](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.5), 3 weeks ago) - Interfaces and implementations for building Kubernetes releases.
@@ -29,7 +30,6 @@
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.3.0](https://github.com/ossf/scorecard/releases/tag/v5.3.0), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.4](https://github.com/bloomberg/pushiko/releases/tag/1.0.4), 1 month ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.2](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.2), 1 month ago) - 
-- [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.12](https://github.com/getporter/magefiles/releases/tag/v0.6.12), 1 month ago) - Magefile helpers for porter repositories
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.5](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.5), 2 years ago) - Container and file artifact promotion tooling for the Kubernetes project
 
 #### 🔨 My recent Pull Requests
