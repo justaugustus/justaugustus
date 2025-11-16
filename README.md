@@ -21,6 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.1.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.1.0), today) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.4.0](https://github.com/ossf/scorecard/releases/tag/v5.4.0), 2 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.10](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.10), 4 days ago) - Production-Grade Container Scheduling and Management
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.13](https://github.com/getporter/magefiles/releases/tag/v0.6.13), 1 week ago) - Magefile helpers for porter repositories
@@ -30,7 +31,6 @@
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.3](https://github.com/ossf/scorecard-action/releases/tag/v2.4.3), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.4](https://github.com/bloomberg/pushiko/releases/tag/1.0.4), 1 month ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.2](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.2), 1 month ago) - 
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.0.5](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.0.5), 2 years ago) - Container and file artifact promotion tooling for the Kubernetes project
 
 #### 🔨 My recent Pull Requests
 
