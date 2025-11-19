@@ -8,23 +8,23 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 day ago)
-- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (3 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (2 days ago)
+- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (4 days ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 week ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 week ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (3 weeks ago)
-- [bloomberg/weir-qos](https://github.com/bloomberg/weir-qos) - A distributed quality-of-service/rate-limiting middleware for applying request- and date-transfer rate limits on a per-user basis. (4 weeks ago)
-- [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) - Curated list of awesome tools for managing open source programs (4 weeks ago)
+- [bloomberg/weir-qos](https://github.com/bloomberg/weir-qos) - A distributed quality-of-service/rate-limiting middleware for applying request- and date-transfer rate limits on a per-user basis. (1 month ago)
+- [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) - Curated list of awesome tools for managing open source programs (1 month ago)
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project (1 month ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.18](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.18), 1 day ago) - Website and API for OpenSSF Scorecard
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.1.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.1.0), 2 days ago) - Container and file artifact promotion tooling for the Kubernetes project
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.4.0](https://github.com/ossf/scorecard/releases/tag/v5.4.0), 4 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.10](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.10), 6 days ago) - Production-Grade Container Scheduling and Management
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.18](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.18), 2 days ago) - Website and API for OpenSSF Scorecard
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.1.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.1.0), 3 days ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.4.0](https://github.com/ossf/scorecard/releases/tag/v5.4.0), 5 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.32.10](https://github.com/kubernetes/kubernetes/releases/tag/v1.32.10), 1 week ago) - Production-Grade Container Scheduling and Management
 - [getporter/magefiles](https://github.com/getporter/magefiles) ([v0.6.13](https://github.com/getporter/magefiles/releases/tag/v0.6.13), 1 week ago) - Magefile helpers for porter repositories
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.5](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.5), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.5](https://github.com/ossf/allstar/releases/tag/v4.5), 1 month ago) - GitHub App to set and enforce security policies
@@ -39,7 +39,7 @@
 - [Update repository link for Allstar quickstart template](https://github.com/ossf/allstar/pull/751) on [ossf/allstar](https://github.com/ossf/allstar) (3 weeks ago)
 - [Actions cleanup](https://github.com/bloomberg/.github/pull/61) on [bloomberg/.github](https://github.com/bloomberg/.github) (3 weeks ago)
 - [Update GitHub Actions](https://github.com/bloomberg/.github/pull/60) on [bloomberg/.github](https://github.com/bloomberg/.github) (3 weeks ago)
-- [Use `awesome-lint`, add Dependabot and CODEOWNERS configs](https://github.com/todogroup/awesome-ospo/pull/76) on [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) (4 weeks ago)
+- [Use `awesome-lint`, add Dependabot and CODEOWNERS configs](https://github.com/todogroup/awesome-ospo/pull/76) on [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) (1 month ago)
 - [Release: promo-tools@v4.1.0](https://github.com/kubernetes-sigs/promo-tools/pull/1633) on [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) (1 month ago)
 - [:seedling: MAINTAINERS: Add Adam Korczynski (AdamKorcz), ADA Logics](https://github.com/ossf/scorecard/pull/4808) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 month ago)
 - [go.mod: Bump scorecard to v5.3.0](https://github.com/ossf/allstar/pull/740) on [ossf/allstar](https://github.com/ossf/allstar) (1 month ago)
@@ -47,13 +47,13 @@
 
 #### ⭐ Recent Stars
 
-- [datum-cloud/awesome-alt-clouds](https://github.com/datum-cloud/awesome-alt-clouds) - A list of specialized clouds that span traditional infra, AI, data, connectivity, and more.  (today)
+- [datum-cloud/awesome-alt-clouds](https://github.com/datum-cloud/awesome-alt-clouds) - A list of specialized clouds that span traditional infra, AI, data, connectivity, and more.  (1 day ago)
 - [kubernetes-sigs/signalhound](https://github.com/kubernetes-sigs/signalhound) - Signalhound monitors TestGrid dashboards to identify and summarize test failures and flaking patterns in Kubernetes CI/CD pipelines.  (1 week ago)
-- [knabben/signalhound](https://github.com/knabben/signalhound) - Hunts Flake And Failing Testgrid Jobs  (2 weeks ago)
+- [knabben/signalhound](https://github.com/knabben/signalhound) - Hunts Flake And Failing Testgrid Jobs  (3 weeks ago)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (3 weeks ago)
 - [cncf/dco2](https://github.com/cncf/dco2) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests (4 weeks ago)
-- [githubnext/awesome-continuous-ai](https://github.com/githubnext/awesome-continuous-ai) - An awesome list of Continuous AI Actions and Frameworks (4 weeks ago)
-- [linuxfoundation/easycla](https://github.com/linuxfoundation/easycla) -  (4 weeks ago)
+- [githubnext/awesome-continuous-ai](https://github.com/githubnext/awesome-continuous-ai) - An awesome list of Continuous AI Actions and Frameworks (1 month ago)
+- [linuxfoundation/easycla](https://github.com/linuxfoundation/easycla) -  (1 month ago)
 - [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning. (1 month ago)
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers (1 month ago)
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases (2 months ago)
