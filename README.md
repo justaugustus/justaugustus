@@ -21,6 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [getporter/porter](https://github.com/getporter/porter) ([v1.4.0](https://github.com/getporter/porter/releases/tag/v1.4.0), today) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-beta.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-beta.0), 1 week ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.18](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.18), 2 weeks ago) - Website and API for OpenSSF Scorecard
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.1.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.1.0), 2 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
@@ -30,7 +31,6 @@
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.5](https://github.com/ossf/allstar/releases/tag/v4.5), 2 months ago) - GitHub App to set and enforce security policies
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.3](https://github.com/ossf/scorecard-action/releases/tag/v2.4.3), 2 months ago) - Official GitHub Action for OpenSSF Scorecard.
 - [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.4](https://github.com/bloomberg/pushiko/releases/tag/1.0.4), 2 months ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.2](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.2), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
