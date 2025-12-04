@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (2 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (3 days ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (2 weeks ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 weeks ago)
@@ -21,8 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [getporter/porter](https://github.com/getporter/porter) ([v1.4.0](https://github.com/getporter/porter/releases/tag/v1.4.0), today) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-rc.0), today) - Production-Grade Container Scheduling and Management
+- [getporter/porter](https://github.com/getporter/porter) ([v1.4.0](https://github.com/getporter/porter/releases/tag/v1.4.0), 1 day ago) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ([v1.35.0-rc.0](https://github.com/kubernetes/kubernetes/releases/tag/v1.35.0-rc.0), 1 day ago) - Production-Grade Container Scheduling and Management
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.18](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.18), 2 weeks ago) - Website and API for OpenSSF Scorecard
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.1.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.1.0), 2 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.4.0](https://github.com/ossf/scorecard/releases/tag/v5.4.0), 2 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
