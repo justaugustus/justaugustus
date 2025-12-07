@@ -14,8 +14,8 @@
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 weeks ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (3 weeks ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 month ago)
-- [bloomberg/weir-qos](https://github.com/bloomberg/weir-qos) - A distributed quality-of-service/rate-limiting middleware for applying request- and date-transfer rate limits on a per-user basis. (1 month ago)
 - [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) - Curated list of awesome tools for managing open source programs (1 month ago)
+- [bloomberg/weir-qos](https://github.com/bloomberg/weir-qos) - A distributed quality-of-service/rate-limiting middleware for applying request- and date-transfer rate limits on a per-user basis. (1 month ago)
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) - Container and file artifact promotion tooling for the Kubernetes project (1 month ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (2 months ago)
 
