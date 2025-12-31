@@ -9,7 +9,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (3 weeks ago)
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (4 weeks ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 month ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (1 month ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 month ago)
@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 2 weeks ago) - Repo for SIG release
+- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 3 weeks ago) - Repo for SIG release
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.18](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.18), 1 month ago) - Website and API for OpenSSF Scorecard
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.1.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.1.0), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.4.0](https://github.com/ossf/scorecard/releases/tag/v5.4.0), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
