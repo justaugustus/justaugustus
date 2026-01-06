@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 day ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 days ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (4 weeks ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 month ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
