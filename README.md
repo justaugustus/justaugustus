@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (today)
 - [todogroup/ospology](https://github.com/todogroup/ospology) - 📖 OSPOlogy - The Study of OSPOs (1 month ago)
 - [revanite-io/osps-baseline-action](https://github.com/revanite-io/osps-baseline-action) - GitHub Action for running OSPS security assessments (1 month ago)
 - [datum-cloud/awesome-alt-clouds](https://github.com/datum-cloud/awesome-alt-clouds) - A list of specialized clouds that span traditional infra, AI, data, connectivity, and more.  (1 month ago)
@@ -54,7 +55,6 @@
 - [cncf/dco2](https://github.com/cncf/dco2) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests (2 months ago)
 - [githubnext/awesome-continuous-ai](https://github.com/githubnext/awesome-continuous-ai) - An awesome list of Continuous AI Actions and Frameworks (2 months ago)
 - [linuxfoundation/easycla](https://github.com/linuxfoundation/easycla) -  (2 months ago)
-- [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning. (2 months ago)
 
 
 
