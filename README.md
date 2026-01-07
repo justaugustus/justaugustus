@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 days ago)
-- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (4 weeks ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (3 days ago)
+- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 month ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 month ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (1 month ago)
@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 3 weeks ago) - Repo for SIG release
+- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 4 weeks ago) - Repo for SIG release
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.18](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.18), 1 month ago) - Website and API for OpenSSF Scorecard
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.1.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.1.0), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.4.0](https://github.com/ossf/scorecard/releases/tag/v5.4.0), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
@@ -32,7 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [members: Update Arm contacts](https://github.com/todogroup/governance/pull/392) on [todogroup/governance](https://github.com/todogroup/governance) (4 weeks ago)
+- [members: Update Arm contacts](https://github.com/todogroup/governance/pull/392) on [todogroup/governance](https://github.com/todogroup/governance) (1 month ago)
 - [:book: Add Security Insights file and update maintainer affiliation](https://github.com/ossf/scorecard/pull/4863) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 month ago)
 - [:seedling: workflows: Add OSPS baseline assessment GitHub Action](https://github.com/ossf/scorecard/pull/4862) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 month ago)
 - [CODEOWNERS: Add entry for website maintainers](https://github.com/ossf/scorecard-webapp/pull/882) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (1 month ago)
