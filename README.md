@@ -24,7 +24,7 @@
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 1 month ago) - Repo for SIG release
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.18](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.18), 1 month ago) - Website and API for OpenSSF Scorecard
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.1.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.1.0), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.4.0](https://github.com/ossf/scorecard/releases/tag/v5.4.0), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.4.0](https://github.com/ossf/scorecard/releases/tag/v5.4.0), 2 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.5](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.5), 3 months ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.5](https://github.com/ossf/allstar/releases/tag/v4.5), 3 months ago) - GitHub App to set and enforce security policies
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.3](https://github.com/ossf/scorecard-action/releases/tag/v2.4.3), 3 months ago) - Official GitHub Action for OpenSSF Scorecard.
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (5 days ago)
+- [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (6 days ago)
 - [todogroup/ospology](https://github.com/todogroup/ospology) - 📖 OSPOlogy - The Study of OSPOs (1 month ago)
 - [revanite-io/osps-baseline-action](https://github.com/revanite-io/osps-baseline-action) - GitHub Action for running OSPS security assessments (1 month ago)
 - [datum-cloud/awesome-alt-clouds](https://github.com/datum-cloud/awesome-alt-clouds) - A list of specialized clouds that span traditional infra, AI, data, connectivity, and more.  (1 month ago)
