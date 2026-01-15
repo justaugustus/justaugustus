@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (today)
 - [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (1 week ago)
 - [todogroup/ospology](https://github.com/todogroup/ospology) - 📖 OSPOlogy - The Study of OSPOs (1 month ago)
 - [revanite-io/osps-baseline-action](https://github.com/revanite-io/osps-baseline-action) - GitHub Action for running OSPS security assessments (1 month ago)
@@ -54,7 +55,6 @@
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (2 months ago)
 - [cncf/dco2](https://github.com/cncf/dco2) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests (2 months ago)
 - [githubnext/awesome-continuous-ai](https://github.com/githubnext/awesome-continuous-ai) - An awesome list of Continuous AI Actions and Frameworks (2 months ago)
-- [linuxfoundation/easycla](https://github.com/linuxfoundation/easycla) -  (2 months ago)
 
 
 
