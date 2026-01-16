@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 day ago)
-- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 day ago)
+- [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 days ago)
+- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (2 days ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 week ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 month ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 month ago)
@@ -22,7 +22,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 1 month ago) - Repo for SIG release
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.18](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.18), 1 month ago) - Website and API for OpenSSF Scorecard
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.18](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.18), 2 months ago) - Website and API for OpenSSF Scorecard
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.1.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.1.0), 2 months ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.4.0](https://github.com/ossf/scorecard/releases/tag/v5.4.0), 2 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.5](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.5), 3 months ago) - Interfaces and implementations for building Kubernetes releases.
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (today)
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (1 day ago)
 - [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (1 week ago)
 - [todogroup/ospology](https://github.com/todogroup/ospology) - 📖 OSPOlogy - The Study of OSPOs (1 month ago)
 - [revanite-io/osps-baseline-action](https://github.com/revanite-io/osps-baseline-action) - GitHub Action for running OSPS security assessments (1 month ago)
