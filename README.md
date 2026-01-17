@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 day ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (3 days ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (3 days ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 week ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 month ago)
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 month ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (2 months ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (2 months ago)
