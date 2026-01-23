@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (6 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 week ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (1 week ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 week ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 weeks ago)
@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.3](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.3), 6 days ago) - 
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.3](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.3), 1 week ago) - 
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 1 month ago) - Repo for SIG release
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.18](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.18), 2 months ago) - Website and API for OpenSSF Scorecard
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.1.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.1.0), 2 months ago) - Container and file artifact promotion tooling for the Kubernetes project
@@ -34,12 +34,12 @@
 
 - [members: Update Arm contacts](https://github.com/todogroup/governance/pull/392) on [todogroup/governance](https://github.com/todogroup/governance) (1 month ago)
 - [:book: Add Security Insights file and update maintainer affiliation](https://github.com/ossf/scorecard/pull/4863) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 month ago)
-- [:seedling: workflows: Add OSPS baseline assessment GitHub Action](https://github.com/ossf/scorecard/pull/4862) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 month ago)
+- [:seedling: workflows: Add OSPS baseline assessment GitHub Action](https://github.com/ossf/scorecard/pull/4862) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 months ago)
 - [CODEOWNERS: Add entry for website maintainers](https://github.com/ossf/scorecard-webapp/pull/882) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (2 months ago)
 - [gitvote: Vote close and status check updates](https://github.com/ossf/tac/pull/545) on [ossf/tac](https://github.com/ossf/tac) (2 months ago)
 - [Update repository link for Allstar quickstart template](https://github.com/ossf/allstar/pull/751) on [ossf/allstar](https://github.com/ossf/allstar) (2 months ago)
-- [Actions cleanup](https://github.com/bloomberg/.github/pull/61) on [bloomberg/.github](https://github.com/bloomberg/.github) (2 months ago)
-- [Update GitHub Actions](https://github.com/bloomberg/.github/pull/60) on [bloomberg/.github](https://github.com/bloomberg/.github) (2 months ago)
+- [Actions cleanup](https://github.com/bloomberg/.github/pull/61) on [bloomberg/.github](https://github.com/bloomberg/.github) (3 months ago)
+- [Update GitHub Actions](https://github.com/bloomberg/.github/pull/60) on [bloomberg/.github](https://github.com/bloomberg/.github) (3 months ago)
 - [Use `awesome-lint`, add Dependabot and CODEOWNERS configs](https://github.com/todogroup/awesome-ospo/pull/76) on [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) (3 months ago)
 - [Release: promo-tools@v4.1.0](https://github.com/kubernetes-sigs/promo-tools/pull/1633) on [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) (3 months ago)
 
@@ -47,8 +47,8 @@
 
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (1 week ago)
 - [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (2 weeks ago)
-- [todogroup/ospology](https://github.com/todogroup/ospology) - 📖 OSPOlogy - The Study of OSPOs (1 month ago)
-- [revanite-io/osps-baseline-action](https://github.com/revanite-io/osps-baseline-action) - GitHub Action for running OSPS security assessments (1 month ago)
+- [todogroup/ospology](https://github.com/todogroup/ospology) - 📖 OSPOlogy - The Study of OSPOs (2 months ago)
+- [revanite-io/osps-baseline-action](https://github.com/revanite-io/osps-baseline-action) - GitHub Action for running OSPS security assessments (2 months ago)
 - [datum-cloud/awesome-alt-clouds](https://github.com/datum-cloud/awesome-alt-clouds) - A list of specialized clouds that span traditional infra, AI, data, connectivity, and more.  (2 months ago)
 - [kubernetes-sigs/signalhound](https://github.com/kubernetes-sigs/signalhound) - Signalhound monitors TestGrid dashboards to identify and summarize test failures and flaking patterns in Kubernetes CI/CD pipelines.  (2 months ago)
 - [knabben/signalhound](https://github.com/knabben/signalhound) - Hunts Flake And Failing Testgrid Jobs  (2 months ago)
