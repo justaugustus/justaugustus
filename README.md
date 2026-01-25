@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (today)
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (1 week ago)
 - [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (2 weeks ago)
 - [todogroup/ospology](https://github.com/todogroup/ospology) - 📖 OSPOlogy - The Study of OSPOs (2 months ago)
@@ -54,7 +55,6 @@
 - [knabben/signalhound](https://github.com/knabben/signalhound) - Hunts Flake And Failing Testgrid Jobs  (2 months ago)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (3 months ago)
 - [cncf/dco2](https://github.com/cncf/dco2) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests (3 months ago)
-- [githubnext/awesome-continuous-ai](https://github.com/githubnext/awesome-continuous-ai) - An awesome list of Continuous AI Actions and Frameworks (3 months ago)
 
 
 
