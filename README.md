@@ -27,7 +27,7 @@
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.1.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.1.0), 2 months ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.4.0](https://github.com/ossf/scorecard/releases/tag/v5.4.0), 2 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.5](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.5), 3 months ago) - Interfaces and implementations for building Kubernetes releases.
-- [ossf/allstar](https://github.com/ossf/allstar) ([v4.5](https://github.com/ossf/allstar/releases/tag/v4.5), 3 months ago) - GitHub App to set and enforce security policies
+- [ossf/allstar](https://github.com/ossf/allstar) ([v4.5](https://github.com/ossf/allstar/releases/tag/v4.5), 4 months ago) - GitHub App to set and enforce security policies
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.3](https://github.com/ossf/scorecard-action/releases/tag/v2.4.3), 4 months ago) - Official GitHub Action for OpenSSF Scorecard.
 
 #### 🔨 My recent Pull Requests
@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (3 days ago)
-- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (1 week ago)
+- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (4 days ago)
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (2 weeks ago)
 - [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (3 weeks ago)
 - [todogroup/ospology](https://github.com/todogroup/ospology) - 📖 OSPOlogy - The Study of OSPOs (2 months ago)
 - [revanite-io/osps-baseline-action](https://github.com/revanite-io/osps-baseline-action) - GitHub Action for running OSPS security assessments (2 months ago)
