@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [papercomputeco/tapes](https://github.com/papercomputeco/tapes) - Transparent telemetry collector for agents (today)
 - [lexler/skill-factory](https://github.com/lexler/skill-factory) -  (today)
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (1 week ago)
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (2 weeks ago)
@@ -54,7 +55,6 @@
 - [datum-cloud/awesome-alt-clouds](https://github.com/datum-cloud/awesome-alt-clouds) - A list of specialized clouds that span traditional infra, AI, data, connectivity, and more.  (2 months ago)
 - [kubernetes-sigs/signalhound](https://github.com/kubernetes-sigs/signalhound) - Signalhound monitors TestGrid dashboards to identify and summarize test failures and flaking patterns in Kubernetes CI/CD pipelines.  (2 months ago)
 - [knabben/signalhound](https://github.com/knabben/signalhound) - Hunts Flake And Failing Testgrid Jobs  (3 months ago)
-- [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (3 months ago)
 
 
 
