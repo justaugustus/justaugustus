@@ -45,10 +45,10 @@
 
 #### ⭐ Recent Stars
 
-- [papercomputeco/tapes](https://github.com/papercomputeco/tapes) - Transparent telemetry collector for agents (1 day ago)
-- [lexler/skill-factory](https://github.com/lexler/skill-factory) -  (1 day ago)
+- [papercomputeco/tapes](https://github.com/papercomputeco/tapes) - Transparent telemetry collector for agents (2 days ago)
+- [lexler/skill-factory](https://github.com/lexler/skill-factory) -  (2 days ago)
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (1 week ago)
-- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (2 weeks ago)
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (3 weeks ago)
 - [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (4 weeks ago)
 - [todogroup/ospology](https://github.com/todogroup/ospology) - 📖 OSPOlogy - The Study of OSPOs (2 months ago)
 - [revanite-io/osps-baseline-action](https://github.com/revanite-io/osps-baseline-action) - GitHub Action for running OSPS security assessments (2 months ago)
