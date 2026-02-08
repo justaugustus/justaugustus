@@ -22,7 +22,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.3](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.3), 3 weeks ago) - 
-- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 1 month ago) - Repo for SIG release
+- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 2 months ago) - Repo for SIG release
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.18](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.18), 2 months ago) - Website and API for OpenSSF Scorecard
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.1.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.1.0), 2 months ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.4.0](https://github.com/ossf/scorecard/releases/tag/v5.4.0), 2 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
@@ -45,9 +45,9 @@
 
 #### ⭐ Recent Stars
 
-- [papercomputeco/tapes](https://github.com/papercomputeco/tapes) - Transparent telemetry collector for agents (4 days ago)
-- [lexler/skill-factory](https://github.com/lexler/skill-factory) -  (4 days ago)
-- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (1 week ago)
+- [papercomputeco/tapes](https://github.com/papercomputeco/tapes) - Transparent telemetry collector for agents (5 days ago)
+- [lexler/skill-factory](https://github.com/lexler/skill-factory) -  (5 days ago)
+- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (2 weeks ago)
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (3 weeks ago)
 - [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (1 month ago)
 - [todogroup/ospology](https://github.com/todogroup/ospology) - 📖 OSPOlogy - The Study of OSPOs (2 months ago)
