@@ -15,7 +15,7 @@
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (2 months ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 months ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (2 months ago)
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (2 months ago)
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 months ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (3 months ago)
 - [bloomberg/weir-qos](https://github.com/bloomberg/weir-qos) - A distributed quality-of-service/rate-limiting middleware for applying request- and data-transfer rate limits on a per-user basis. (3 months ago)
 
@@ -35,8 +35,8 @@
 - [members: Update Arm contacts](https://github.com/todogroup/governance/pull/392) on [todogroup/governance](https://github.com/todogroup/governance) (2 months ago)
 - [:book: Add Security Insights file and update maintainer affiliation](https://github.com/ossf/scorecard/pull/4863) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 months ago)
 - [:seedling: workflows: Add OSPS baseline assessment GitHub Action](https://github.com/ossf/scorecard/pull/4862) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 months ago)
-- [CODEOWNERS: Add entry for website maintainers](https://github.com/ossf/scorecard-webapp/pull/882) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (2 months ago)
-- [gitvote: Vote close and status check updates](https://github.com/ossf/tac/pull/545) on [ossf/tac](https://github.com/ossf/tac) (2 months ago)
+- [CODEOWNERS: Add entry for website maintainers](https://github.com/ossf/scorecard-webapp/pull/882) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (3 months ago)
+- [gitvote: Vote close and status check updates](https://github.com/ossf/tac/pull/545) on [ossf/tac](https://github.com/ossf/tac) (3 months ago)
 - [Update repository link for Allstar quickstart template](https://github.com/ossf/allstar/pull/751) on [ossf/allstar](https://github.com/ossf/allstar) (3 months ago)
 - [Actions cleanup](https://github.com/bloomberg/.github/pull/61) on [bloomberg/.github](https://github.com/bloomberg/.github) (3 months ago)
 - [Update GitHub Actions](https://github.com/bloomberg/.github/pull/60) on [bloomberg/.github](https://github.com/bloomberg/.github) (3 months ago)
@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [papercomputeco/tapes](https://github.com/papercomputeco/tapes) - Transparent telemetry collector for agents (5 days ago)
-- [lexler/skill-factory](https://github.com/lexler/skill-factory) -  (5 days ago)
+- [papercomputeco/tapes](https://github.com/papercomputeco/tapes) - Transparent telemetry collector for agents (6 days ago)
+- [lexler/skill-factory](https://github.com/lexler/skill-factory) -  (6 days ago)
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (2 weeks ago)
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (3 weeks ago)
 - [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (1 month ago)
