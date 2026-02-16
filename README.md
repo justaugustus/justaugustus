@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.19](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.19), 6 days ago) - Website and API for OpenSSF Scorecard
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.19](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.19), 1 week ago) - Website and API for OpenSSF Scorecard
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.3](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.3), 1 month ago) - 
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 2 months ago) - Repo for SIG release
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.1.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.1.0), 3 months ago) - Container and file artifact promotion tooling for the Kubernetes project
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (2 days ago)
+- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (3 days ago)
 - [papercomputeco/tapes](https://github.com/papercomputeco/tapes) - Transparent telemetry collector for agents (1 week ago)
 - [lexler/skill-factory](https://github.com/lexler/skill-factory) -  (1 week ago)
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (3 weeks ago)
@@ -53,7 +53,7 @@
 - [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (1 month ago)
 - [todogroup/ospology](https://github.com/todogroup/ospology) - 📖 OSPOlogy - The Study of OSPOs (2 months ago)
 - [revanite-io/osps-baseline-action](https://github.com/revanite-io/osps-baseline-action) - GitHub Action for running OSPS security assessments (2 months ago)
-- [datum-cloud/awesome-alt-clouds](https://github.com/datum-cloud/awesome-alt-clouds) - A list of specialized clouds that span traditional infra, AI, data, connectivity, and more.  (2 months ago)
+- [datum-cloud/awesome-alt-clouds](https://github.com/datum-cloud/awesome-alt-clouds) - A list of specialized clouds that span traditional infra, AI, data, connectivity, and more.  (3 months ago)
 - [kubernetes-sigs/signalhound](https://github.com/kubernetes-sigs/signalhound) - Signalhound monitors TestGrid dashboards to identify and summarize test failures and flaking patterns in Kubernetes CI/CD pipelines.  (3 months ago)
 
 
