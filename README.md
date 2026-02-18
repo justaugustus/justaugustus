@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (4 days ago)
+- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (5 days ago)
 - [papercomputeco/tapes](https://github.com/papercomputeco/tapes) - Transparent telemetry collector for agents (2 weeks ago)
 - [lexler/skill-factory](https://github.com/lexler/skill-factory) -  (2 weeks ago)
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (3 weeks ago)
