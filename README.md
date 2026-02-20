@@ -46,7 +46,7 @@
 #### ⭐ Recent Stars
 
 - [roostorg/osprey](https://github.com/roostorg/osprey) - Automate the obvious and investigate the ambiguous. High-performance safety rules engine for real-time event processing at scale. (today)
-- [always-further/nono](https://github.com/always-further/nono) - Secure, kernel-enforced sandbox CLI and SDKs for AI agents, MCP and LLM workloads. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agents in a zero-trust environment. (today)
+- [always-further/nono](https://github.com/always-further/nono) - Secure, kernel-enforced sandbox CLI and SDKs for AI agents. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agents in a zero-trust environment. (today)
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (1 week ago)
 - [papercomputeco/tapes](https://github.com/papercomputeco/tapes) - Transparent telemetry collector for agents (2 weeks ago)
 - [lexler/skill-factory](https://github.com/lexler/skill-factory) -  (2 weeks ago)
