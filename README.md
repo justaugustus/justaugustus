@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [always-further/nono](https://github.com/always-further/nono) - Secure, kernel-enforced sandbox CLI and SDKs for AI agents, MCP and LLM workloads. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agents in a zero-trust environment. (today)
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (1 week ago)
 - [papercomputeco/tapes](https://github.com/papercomputeco/tapes) - Transparent telemetry collector for agents (2 weeks ago)
 - [lexler/skill-factory](https://github.com/lexler/skill-factory) -  (2 weeks ago)
@@ -54,7 +55,6 @@
 - [todogroup/ospology](https://github.com/todogroup/ospology) - 📖 OSPOlogy - The Study of OSPOs (2 months ago)
 - [revanite-io/osps-baseline-action](https://github.com/revanite-io/osps-baseline-action) - GitHub Action for running OSPS security assessments (2 months ago)
 - [datum-cloud/awesome-alt-clouds](https://github.com/datum-cloud/awesome-alt-clouds) - A list of specialized clouds that span traditional infra, AI, data, connectivity, and more.  (3 months ago)
-- [kubernetes-sigs/signalhound](https://github.com/kubernetes-sigs/signalhound) - Signalhound monitors TestGrid dashboards to identify and summarize test failures and flaking patterns in Kubernetes CI/CD pipelines.  (3 months ago)
 
 
 
