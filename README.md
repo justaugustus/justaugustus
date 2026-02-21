@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [ghostsecurity/skills](https://github.com/ghostsecurity/skills) - Ghost Security&#39;s collection of AppSec skills for AI coding agents (today)
 - [roostorg/osprey](https://github.com/roostorg/osprey) - Automate the obvious and investigate the ambiguous. High-performance safety rules engine for real-time event processing at scale. (1 day ago)
 - [always-further/nono](https://github.com/always-further/nono) - Secure, kernel-enforced sandbox CLI and SDKs for AI agents. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agents in a zero-trust environment. (1 day ago)
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (1 week ago)
@@ -54,7 +55,6 @@
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (1 month ago)
 - [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (1 month ago)
 - [todogroup/ospology](https://github.com/todogroup/ospology) - 📖 OSPOlogy - The Study of OSPOs (2 months ago)
-- [revanite-io/osps-baseline-action](https://github.com/revanite-io/osps-baseline-action) - GitHub Action for running OSPS security assessments (2 months ago)
 
 
 
