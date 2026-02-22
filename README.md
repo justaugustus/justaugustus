@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [mandible-ai/mandible](https://github.com/mandible-ai/mandible) -  (today)
 - [ghostsecurity/skills](https://github.com/ghostsecurity/skills) - Ghost Security&#39;s collection of AppSec skills for AI coding agents (1 day ago)
 - [roostorg/osprey](https://github.com/roostorg/osprey) - Automate the obvious and investigate the ambiguous. High-performance safety rules engine for real-time event processing at scale. (2 days ago)
 - [always-further/nono](https://github.com/always-further/nono) - Secure, kernel-enforced sandbox CLI and SDKs for AI agents. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agents in a zero-trust environment. (2 days ago)
@@ -54,7 +55,6 @@
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (4 weeks ago)
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (1 month ago)
 - [steveyegge/gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager (1 month ago)
-- [todogroup/ospology](https://github.com/todogroup/ospology) - 📖 OSPOlogy - The Study of OSPOs (3 months ago)
 
 
 
