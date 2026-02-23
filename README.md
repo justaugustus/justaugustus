@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [githubnext/agentics](https://github.com/githubnext/agentics) - A sample pack of GitHub Agentic Workflows! (today)
 - [ryanwaite/openssf-skill](https://github.com/ryanwaite/openssf-skill) - A comprehensive Claude Code/Copilot skill that helps developers build secure applications following [OpenSSF (Open Source Security Foundation)](https://openssf.org/) best practices. (today)
 - [mandible-ai/mandible](https://github.com/mandible-ai/mandible) -  (1 day ago)
 - [ghostsecurity/skills](https://github.com/ghostsecurity/skills) - Ghost Security&#39;s collection of AppSec skills for AI coding agents (2 days ago)
@@ -54,7 +55,6 @@
 - [papercomputeco/tapes](https://github.com/papercomputeco/tapes) - Transparent telemetry collector for agents (2 weeks ago)
 - [lexler/skill-factory](https://github.com/lexler/skill-factory) -  (2 weeks ago)
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (4 weeks ago)
-- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates (1 month ago)
 
 
 
