@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [[WIP] :book: OSPS Baseline roadmap](https://github.com/ossf/scorecard/pull/4952) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [members: Update Arm contacts](https://github.com/todogroup/governance/pull/392) on [todogroup/governance](https://github.com/todogroup/governance) (2 months ago)
 - [:book: Add Security Insights file and update maintainer affiliation](https://github.com/ossf/scorecard/pull/4863) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 months ago)
 - [:seedling: workflows: Add OSPS baseline assessment GitHub Action](https://github.com/ossf/scorecard/pull/4862) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 months ago)
@@ -41,7 +42,6 @@
 - [Actions cleanup](https://github.com/bloomberg/.github/pull/61) on [bloomberg/.github](https://github.com/bloomberg/.github) (4 months ago)
 - [Update GitHub Actions](https://github.com/bloomberg/.github/pull/60) on [bloomberg/.github](https://github.com/bloomberg/.github) (4 months ago)
 - [Use `awesome-lint`, add Dependabot and CODEOWNERS configs](https://github.com/todogroup/awesome-ospo/pull/76) on [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) (4 months ago)
-- [Release: promo-tools@v4.1.0](https://github.com/kubernetes-sigs/promo-tools/pull/1633) on [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) (4 months ago)
 
 #### ⭐ Recent Stars
 
