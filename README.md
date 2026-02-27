@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. (today)
 - [githubnext/agentics](https://github.com/githubnext/agentics) - A sample pack of GitHub Agentic Workflows! (4 days ago)
 - [ryanwaite/openssf-skill](https://github.com/ryanwaite/openssf-skill) - A comprehensive Claude Code/Copilot skill that helps developers build secure applications following [OpenSSF (Open Source Security Foundation)](https://openssf.org/) best practices. (4 days ago)
 - [mandible-ai/mandible](https://github.com/mandible-ai/mandible) -  (5 days ago)
@@ -54,7 +55,6 @@
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (2 weeks ago)
 - [papercomputeco/tapes](https://github.com/papercomputeco/tapes) - Transparent telemetry collector for agents (3 weeks ago)
 - [lexler/skill-factory](https://github.com/lexler/skill-factory) -  (3 weeks ago)
-- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (1 month ago)
 
 
 
