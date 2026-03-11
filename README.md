@@ -15,14 +15,14 @@
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (3 months ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 months ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (3 months ago)
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 months ago)
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (4 months ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (4 months ago)
 - [todogroup/awesome-ospo](https://github.com/todogroup/awesome-ospo) - Curated list of awesome tools for managing open source programs (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.4.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.4.0), 6 days ago) - Container and file artifact promotion tooling for the Kubernetes project
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.19](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.19), 4 weeks ago) - Website and API for OpenSSF Scorecard
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.4.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.4.0), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.19](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.19), 1 month ago) - Website and API for OpenSSF Scorecard
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.3](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.3), 1 month ago) - 
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 3 months ago) - Repo for SIG release
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.4.0](https://github.com/ossf/scorecard/releases/tag/v5.4.0), 3 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
@@ -36,8 +36,8 @@
 - [members: Update Arm contacts](https://github.com/todogroup/governance/pull/392) on [todogroup/governance](https://github.com/todogroup/governance) (3 months ago)
 - [:book: Add Security Insights file and update maintainer affiliation](https://github.com/ossf/scorecard/pull/4863) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 months ago)
 - [:seedling: workflows: Add OSPS baseline assessment GitHub Action](https://github.com/ossf/scorecard/pull/4862) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 months ago)
-- [CODEOWNERS: Add entry for website maintainers](https://github.com/ossf/scorecard-webapp/pull/882) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (3 months ago)
-- [gitvote: Vote close and status check updates](https://github.com/ossf/tac/pull/545) on [ossf/tac](https://github.com/ossf/tac) (3 months ago)
+- [CODEOWNERS: Add entry for website maintainers](https://github.com/ossf/scorecard-webapp/pull/882) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (4 months ago)
+- [gitvote: Vote close and status check updates](https://github.com/ossf/tac/pull/545) on [ossf/tac](https://github.com/ossf/tac) (4 months ago)
 - [Update repository link for Allstar quickstart template](https://github.com/ossf/allstar/pull/751) on [ossf/allstar](https://github.com/ossf/allstar) (4 months ago)
 - [Actions cleanup](https://github.com/bloomberg/.github/pull/61) on [bloomberg/.github](https://github.com/bloomberg/.github) (4 months ago)
 - [Update GitHub Actions](https://github.com/bloomberg/.github/pull/60) on [bloomberg/.github](https://github.com/bloomberg/.github) (4 months ago)
