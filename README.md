@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [microsoft/opensource-management-portal](https://github.com/microsoft/opensource-management-portal) - Microsoft&#39;s monolithic, opinionated Open Source Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰 (today)
 - [carabiner-dev/policies](https://github.com/carabiner-dev/policies) - Policy sets for different frameworks (1 week ago)
 - [NUKnightLab/sql-mysteries](https://github.com/NUKnightLab/sql-mysteries) - Inspired by @veltman&#39;s command-line mystery, use SQL to research clues and find out whodunit! (1 week ago)
 - [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery (1 week ago)
@@ -54,7 +55,6 @@
 - [mandible-ai/mandible](https://github.com/mandible-ai/mandible) -  (2 weeks ago)
 - [ghostsecurity/skills](https://github.com/ghostsecurity/skills) - Ghost Security&#39;s collection of AppSec skills for AI coding agents (2 weeks ago)
 - [roostorg/osprey](https://github.com/roostorg/osprey) - Automate the obvious and investigate the ambiguous. High-performance safety rules engine for real-time event processing at scale. (2 weeks ago)
-- [always-further/nono](https://github.com/always-further/nono) - Secure, kernel-enforced sandbox CLI and SDKs for AI agents. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agents in a zero-trust environment. (2 weeks ago)
 
 
 
