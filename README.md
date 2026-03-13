@@ -32,7 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [:book: Scorecard v6: OSPS Baseline conformance proposal and 2026 roadmap](https://github.com/ossf/scorecard/pull/4952) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
+- [:book: Scorecard v6: OSPS Baseline conformance proposal and 2026 roadmap](https://github.com/ossf/scorecard/pull/4952) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 weeks ago)
 - [members: Update Arm contacts](https://github.com/todogroup/governance/pull/392) on [todogroup/governance](https://github.com/todogroup/governance) (3 months ago)
 - [:book: Add Security Insights file and update maintainer affiliation](https://github.com/ossf/scorecard/pull/4863) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 months ago)
 - [:seedling: workflows: Add OSPS baseline assessment GitHub Action](https://github.com/ossf/scorecard/pull/4862) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 months ago)
@@ -45,16 +45,16 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/opensource-management-portal](https://github.com/microsoft/opensource-management-portal) - Microsoft&#39;s monolithic, opinionated Open Source Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰 (today)
+- [microsoft/opensource-management-portal](https://github.com/microsoft/opensource-management-portal) - Microsoft&#39;s monolithic, opinionated Open Source Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰 (1 day ago)
 - [carabiner-dev/policies](https://github.com/carabiner-dev/policies) - Policy sets for different frameworks (1 week ago)
 - [NUKnightLab/sql-mysteries](https://github.com/NUKnightLab/sql-mysteries) - Inspired by @veltman&#39;s command-line mystery, use SQL to research clues and find out whodunit! (1 week ago)
 - [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery (1 week ago)
-- [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. (1 week ago)
+- [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. (2 weeks ago)
 - [githubnext/agentics](https://github.com/githubnext/agentics) - A sample pack of GitHub Agentic Workflows! (2 weeks ago)
 - [ryanwaite/openssf-skill](https://github.com/ryanwaite/openssf-skill) - A comprehensive Claude Code/Copilot skill that helps developers build secure applications following [OpenSSF (Open Source Security Foundation)](https://openssf.org/) best practices. (2 weeks ago)
 - [mandible-ai/mandible](https://github.com/mandible-ai/mandible) -  (2 weeks ago)
 - [ghostsecurity/skills](https://github.com/ghostsecurity/skills) - Ghost Security&#39;s collection of AppSec skills for AI coding agents (2 weeks ago)
-- [roostorg/osprey](https://github.com/roostorg/osprey) - Automate the obvious and investigate the ambiguous. High-performance safety rules engine for real-time event processing at scale. (2 weeks ago)
+- [roostorg/osprey](https://github.com/roostorg/osprey) - Automate the obvious and investigate the ambiguous. High-performance safety rules engine for real-time event processing at scale. (3 weeks ago)
 
 
 
