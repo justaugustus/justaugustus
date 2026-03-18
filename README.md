@@ -21,12 +21,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.6](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.6), today) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.4.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.4.0), 2 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.19](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.19), 1 month ago) - Website and API for OpenSSF Scorecard
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.3](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.3), 2 months ago) - 
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 3 months ago) - Repo for SIG release
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.4.0](https://github.com/ossf/scorecard/releases/tag/v5.4.0), 4 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.5](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.5), 5 months ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.5](https://github.com/ossf/allstar/releases/tag/v4.5), 5 months ago) - GitHub App to set and enforce security policies
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.3](https://github.com/ossf/scorecard-action/releases/tag/v2.4.3), 5 months ago) - Official GitHub Action for OpenSSF Scorecard.
 
