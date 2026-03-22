@@ -32,7 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [🐛 Fix PR verifier by replacing deprecated Docker action](https://github.com/ossf/scorecard/pull/4972) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
+- [:seedling: Fix PR verifier by replacing deprecated Docker action](https://github.com/ossf/scorecard/pull/4972) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:book: Scorecard v6: OSPS Baseline conformance proposal and 2026 roadmap](https://github.com/ossf/scorecard/pull/4952) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 weeks ago)
 - [members: Update Arm contacts](https://github.com/todogroup/governance/pull/392) on [todogroup/governance](https://github.com/todogroup/governance) (3 months ago)
 - [:book: Add Security Insights file and update maintainer affiliation](https://github.com/ossf/scorecard/pull/4863) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 months ago)
