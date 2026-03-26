@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 day ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 days ago)
+- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 days ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 month ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (2 months ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 months ago)
@@ -17,7 +17,7 @@
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (3 months ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (4 months ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (4 months ago)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (4 months ago)
+- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -32,12 +32,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: add Allstar enforcement action with SARIF upload](https://github.com/uwu-tools/.github/pull/77) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 day ago)
-- [build: update Go from 1.24.6 to 1.25.8](https://github.com/ossf/allstar/pull/798) on [ossf/allstar](https://github.com/ossf/allstar) (3 days ago)
-- [scorecard: Add SARIF evidence upload to Code Scanning](https://github.com/ossf/allstar/pull/797) on [ossf/allstar](https://github.com/ossf/allstar) (3 days ago)
-- [allstar: enable SARIF upload for scorecard policy](https://github.com/uwu-tools/.github/pull/75) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (3 days ago)
-- [scorecard: add SARIF evidence upload to Code Scanning (forked version)](https://github.com/ossf/allstar/pull/796) on [ossf/allstar](https://github.com/ossf/allstar) (3 days ago)
-- [:seedling: Fix PR verifier by replacing deprecated Docker action](https://github.com/ossf/scorecard/pull/4972) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
+- [ci: add Allstar enforcement action with SARIF upload](https://github.com/uwu-tools/.github/pull/77) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 days ago)
+- [build: update Go from 1.24.6 to 1.25.8](https://github.com/ossf/allstar/pull/798) on [ossf/allstar](https://github.com/ossf/allstar) (4 days ago)
+- [scorecard: Add SARIF evidence upload to Code Scanning](https://github.com/ossf/allstar/pull/797) on [ossf/allstar](https://github.com/ossf/allstar) (4 days ago)
+- [allstar: enable SARIF upload for scorecard policy](https://github.com/uwu-tools/.github/pull/75) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (4 days ago)
+- [scorecard: add SARIF evidence upload to Code Scanning (forked version)](https://github.com/ossf/allstar/pull/796) on [ossf/allstar](https://github.com/ossf/allstar) (4 days ago)
+- [:seedling: Fix PR verifier by replacing deprecated Docker action](https://github.com/ossf/scorecard/pull/4972) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
 - [:book: Scorecard v6: OSPS Baseline conformance proposal and 2026 roadmap](https://github.com/ossf/scorecard/pull/4952) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 weeks ago)
 - [members: Update Arm contacts](https://github.com/todogroup/governance/pull/392) on [todogroup/governance](https://github.com/todogroup/governance) (3 months ago)
 - [:book: Add Security Insights file and update maintainer affiliation](https://github.com/ossf/scorecard/pull/4863) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 months ago)
@@ -46,7 +46,7 @@
 #### ⭐ Recent Stars
 
 - [papercomputeco/sweeper](https://github.com/papercomputeco/sweeper) - Multi threaded code maintenance with resource isolated subagents. (1 week ago)
-- [microsoft/opensource-management-portal](https://github.com/microsoft/opensource-management-portal) - Microsoft&#39;s monolithic, opinionated Open Source Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰 (1 week ago)
+- [microsoft/opensource-management-portal](https://github.com/microsoft/opensource-management-portal) - Microsoft&#39;s monolithic, opinionated Open Source Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰 (2 weeks ago)
 - [carabiner-dev/policies](https://github.com/carabiner-dev/policies) - Policy sets for different frameworks (3 weeks ago)
 - [NUKnightLab/sql-mysteries](https://github.com/NUKnightLab/sql-mysteries) - Inspired by @veltman&#39;s command-line mystery, use SQL to research clues and find out whodunit! (3 weeks ago)
 - [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery (3 weeks ago)
