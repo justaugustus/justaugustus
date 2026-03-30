@@ -8,9 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (today)
-- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 day ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (6 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 day ago)
+- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (2 months ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 months ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 months ago)
@@ -27,14 +27,14 @@
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.3](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.3), 2 months ago) - 
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 3 months ago) - Repo for SIG release
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.4.0](https://github.com/ossf/scorecard/releases/tag/v5.4.0), 4 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
-- [ossf/allstar](https://github.com/ossf/allstar) ([v4.5](https://github.com/ossf/allstar/releases/tag/v4.5), 5 months ago) - GitHub App to set and enforce security policies
+- [ossf/allstar](https://github.com/ossf/allstar) ([v4.5](https://github.com/ossf/allstar/releases/tag/v4.5), 6 months ago) - GitHub App to set and enforce security policies
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.3](https://github.com/ossf/scorecard-action/releases/tag/v2.4.3), 6 months ago) - Official GitHub Action for OpenSSF Scorecard.
 
 #### 🔨 My recent Pull Requests
 
-- [ci: Add `scorecard-monitor` integration with Allstar results](https://github.com/uwu-tools/.github/pull/78) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 day ago)
-- [scorecard: Add results file output for `scorecard-monitor` integration](https://github.com/ossf/allstar/pull/800) on [ossf/allstar](https://github.com/ossf/allstar) (1 day ago)
-- [ci: add Allstar enforcement action with SARIF upload](https://github.com/uwu-tools/.github/pull/77) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (5 days ago)
+- [ci: Add `scorecard-monitor` integration with Allstar results](https://github.com/uwu-tools/.github/pull/78) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 days ago)
+- [scorecard: Add results file output for `scorecard-monitor` integration](https://github.com/ossf/allstar/pull/800) on [ossf/allstar](https://github.com/ossf/allstar) (2 days ago)
+- [ci: add Allstar enforcement action with SARIF upload](https://github.com/uwu-tools/.github/pull/77) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (6 days ago)
 - [build: update Go from 1.24.6 to 1.25.8](https://github.com/ossf/allstar/pull/798) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
 - [scorecard: Add SARIF evidence upload to Code Scanning](https://github.com/ossf/allstar/pull/797) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
 - [allstar: enable SARIF upload for scorecard policy](https://github.com/uwu-tools/.github/pull/75) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 week ago)
@@ -45,10 +45,10 @@
 
 #### ⭐ Recent Stars
 
-- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (today)
+- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (1 day ago)
 - [papercomputeco/sweeper](https://github.com/papercomputeco/sweeper) - Multi threaded code maintenance with resource isolated subagents. (2 weeks ago)
 - [microsoft/opensource-management-portal](https://github.com/microsoft/opensource-management-portal) - Microsoft&#39;s monolithic, opinionated Open Source Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰 (2 weeks ago)
-- [carabiner-dev/policies](https://github.com/carabiner-dev/policies) - Policy sets for different frameworks (3 weeks ago)
+- [carabiner-dev/policies](https://github.com/carabiner-dev/policies) - Policy sets for different frameworks (4 weeks ago)
 - [NUKnightLab/sql-mysteries](https://github.com/NUKnightLab/sql-mysteries) - Inspired by @veltman&#39;s command-line mystery, use SQL to research clues and find out whodunit! (4 weeks ago)
 - [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery (4 weeks ago)
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. (1 month ago)
