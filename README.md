@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [scorecard: consolidate to single `scRun()` call](https://github.com/ossf/allstar/pull/807) on [ossf/allstar](https://github.com/ossf/allstar) (today)
 - [ci: Add `scorecard-monitor` integration with Allstar results](https://github.com/uwu-tools/.github/pull/78) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (3 days ago)
 - [scorecard: Add results file output for `scorecard-monitor` integration](https://github.com/ossf/allstar/pull/800) on [ossf/allstar](https://github.com/ossf/allstar) (3 days ago)
 - [ci: add Allstar enforcement action with SARIF upload](https://github.com/uwu-tools/.github/pull/77) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 week ago)
@@ -41,7 +42,6 @@
 - [scorecard: add SARIF evidence upload to Code Scanning (forked version)](https://github.com/ossf/allstar/pull/796) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
 - [:seedling: Fix PR verifier by replacing deprecated Docker action](https://github.com/ossf/scorecard/pull/4972) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [:book: Scorecard v6: OSPS Baseline conformance proposal and 2026 roadmap](https://github.com/ossf/scorecard/pull/4952) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 month ago)
-- [members: Update Arm contacts](https://github.com/todogroup/governance/pull/392) on [todogroup/governance](https://github.com/todogroup/governance) (3 months ago)
 
 #### ⭐ Recent Stars
 
