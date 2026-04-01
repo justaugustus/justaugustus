@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:book: Consolidate v6 docs and add implementation plan](https://github.com/ossf/scorecard/pull/4994) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [scorecard: consolidate to single `scRun()` call](https://github.com/ossf/allstar/pull/807) on [ossf/allstar](https://github.com/ossf/allstar) (1 day ago)
 - [ci: Add `scorecard-monitor` integration with Allstar results](https://github.com/uwu-tools/.github/pull/78) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (4 days ago)
 - [scorecard: Add results file output for `scorecard-monitor` integration](https://github.com/ossf/allstar/pull/800) on [ossf/allstar](https://github.com/ossf/allstar) (4 days ago)
@@ -41,7 +42,6 @@
 - [allstar: enable SARIF upload for scorecard policy](https://github.com/uwu-tools/.github/pull/75) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 week ago)
 - [scorecard: add SARIF evidence upload to Code Scanning (forked version)](https://github.com/ossf/allstar/pull/796) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
 - [:seedling: Fix PR verifier by replacing deprecated Docker action](https://github.com/ossf/scorecard/pull/4972) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [:book: Scorecard v6: OSPS Baseline conformance proposal and 2026 roadmap](https://github.com/ossf/scorecard/pull/4952) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 month ago)
 
 #### ⭐ Recent Stars
 
