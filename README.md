@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents. (today)
 - [JulietSecurity/abom](https://github.com/JulietSecurity/abom) -  (1 day ago)
 - [cncf/automation](https://github.com/cncf/automation) - Tools to manage CNCF maintenance tasks (4 days ago)
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (6 days ago)
@@ -54,7 +55,6 @@
 - [NUKnightLab/sql-mysteries](https://github.com/NUKnightLab/sql-mysteries) - Inspired by @veltman&#39;s command-line mystery, use SQL to research clues and find out whodunit! (1 month ago)
 - [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery (1 month ago)
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. (1 month ago)
-- [githubnext/agentics](https://github.com/githubnext/agentics) - A sample pack of GitHub Agentic Workflows! (1 month ago)
 
 
 
