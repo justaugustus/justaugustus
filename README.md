@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (6 days ago)
-- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (6 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
+- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 week ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 week ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 week ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 week ago)
@@ -21,8 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.4), 5 days ago) - 
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.4.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.4.1), 6 days ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.4), 6 days ago) - 
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.4.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.4.1), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.6](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.6), 2 weeks ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.19](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.19), 1 month ago) - Website and API for OpenSSF Scorecard
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 3 months ago) - Repo for SIG release
@@ -32,8 +32,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [:book: Consolidate v6 docs and add implementation plan](https://github.com/ossf/scorecard/pull/4994) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
-- [scorecard: consolidate to single `scRun()` call](https://github.com/ossf/allstar/pull/807) on [ossf/allstar](https://github.com/ossf/allstar) (5 days ago)
+- [:book: Consolidate v6 docs and add implementation plan](https://github.com/ossf/scorecard/pull/4994) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
+- [scorecard: consolidate to single `scRun()` call](https://github.com/ossf/allstar/pull/807) on [ossf/allstar](https://github.com/ossf/allstar) (6 days ago)
 - [ci: Add `scorecard-monitor` integration with Allstar results](https://github.com/uwu-tools/.github/pull/78) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 week ago)
 - [scorecard: Add results file output for `scorecard-monitor` integration](https://github.com/ossf/allstar/pull/800) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
 - [ci: add Allstar enforcement action with SARIF upload](https://github.com/uwu-tools/.github/pull/77) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 week ago)
@@ -45,9 +45,9 @@
 
 #### ⭐ Recent Stars
 
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents. (1 day ago)
-- [JulietSecurity/abom](https://github.com/JulietSecurity/abom) -  (2 days ago)
-- [cncf/automation](https://github.com/cncf/automation) - Tools to manage CNCF maintenance tasks (5 days ago)
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents. (2 days ago)
+- [JulietSecurity/abom](https://github.com/JulietSecurity/abom) -  (3 days ago)
+- [cncf/automation](https://github.com/cncf/automation) - Tools to manage CNCF maintenance tasks (6 days ago)
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (1 week ago)
 - [papercomputeco/sweeper](https://github.com/papercomputeco/sweeper) - Multi threaded code maintenance with resource isolated subagents. (3 weeks ago)
 - [microsoft/opensource-management-portal](https://github.com/microsoft/opensource-management-portal) - Microsoft&#39;s monolithic, opinionated Open Source Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰 (3 weeks ago)
