@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (today)
+- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (today)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 week ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 week ago)
-- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 week ago)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 week ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (2 months ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (2 months ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (3 months ago)
@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [allstar: Update testing branch for GitHub Action](https://github.com/uwu-tools/.github/pull/82) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (today)
 - [:book: Consolidate v6 docs and add implementation plan](https://github.com/ossf/scorecard/pull/4994) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
 - [scorecard: consolidate to single `scRun()` call](https://github.com/ossf/allstar/pull/807) on [ossf/allstar](https://github.com/ossf/allstar) (6 days ago)
 - [ci: Add `scorecard-monitor` integration with Allstar results](https://github.com/uwu-tools/.github/pull/78) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 week ago)
@@ -41,7 +42,6 @@
 - [scorecard: Add SARIF evidence upload to Code Scanning](https://github.com/ossf/allstar/pull/797) on [ossf/allstar](https://github.com/ossf/allstar) (2 weeks ago)
 - [allstar: enable SARIF upload for scorecard policy](https://github.com/uwu-tools/.github/pull/75) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 weeks ago)
 - [scorecard: add SARIF evidence upload to Code Scanning (forked version)](https://github.com/ossf/allstar/pull/796) on [ossf/allstar](https://github.com/ossf/allstar) (2 weeks ago)
-- [:seedling: Fix PR verifier by replacing deprecated Docker action](https://github.com/ossf/scorecard/pull/4972) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
