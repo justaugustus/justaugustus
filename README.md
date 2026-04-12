@@ -46,6 +46,8 @@
 
 #### ⭐ Recent Stars
 
+- [suzuki-shunsuke/pinact-action](https://github.com/suzuki-shunsuke/pinact-action) - GitHub Actions to pin GitHub Actions by pinact (today)
+- [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations. (today)
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges. (3 days ago)
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents. (1 week ago)
 - [JulietSecurity/abom](https://github.com/JulietSecurity/abom) -  (1 week ago)
@@ -54,8 +56,6 @@
 - [papercomputeco/sweeper](https://github.com/papercomputeco/sweeper) - Multi threaded code maintenance with resource isolated subagents. (4 weeks ago)
 - [microsoft/opensource-management-portal](https://github.com/microsoft/opensource-management-portal) - Microsoft&#39;s monolithic, opinionated Open Source Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰 (1 month ago)
 - [carabiner-dev/policies](https://github.com/carabiner-dev/policies) - Policy sets for different frameworks (1 month ago)
-- [NUKnightLab/sql-mysteries](https://github.com/NUKnightLab/sql-mysteries) - Inspired by @veltman&#39;s command-line mystery, use SQL to research clues and find out whodunit! (1 month ago)
-- [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery (1 month ago)
 
 
 
