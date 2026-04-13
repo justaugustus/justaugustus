@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.6](https://github.com/bloomberg/pushiko/releases/tag/1.0.6), 1 day ago) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
+- [bloomberg/pushiko](https://github.com/bloomberg/pushiko) ([1.0.7](https://github.com/bloomberg/pushiko/releases/tag/1.0.7), today) - A JVM library for sending push notifications, currently via Apple Push Notification service (APNs) and Firebase Cloud Messaging (FCM).
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.4), 1 week ago) - 
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.4.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.4.1), 2 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.6](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.6), 3 weeks ago) - Interfaces and implementations for building Kubernetes releases.
