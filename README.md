@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [dependabot: Configure grouped updates](https://github.com/uwu-tools/peribolos/pull/569) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
 - [allstar: Update testing branch for GitHub Action](https://github.com/uwu-tools/.github/pull/82) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 week ago)
 - [:book: Consolidate v6 docs and add implementation plan](https://github.com/ossf/scorecard/pull/4994) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [scorecard: consolidate to single `scRun()` call](https://github.com/ossf/allstar/pull/807) on [ossf/allstar](https://github.com/ossf/allstar) (2 weeks ago)
@@ -42,7 +43,6 @@
 - [build: update Go from 1.24.6 to 1.25.8](https://github.com/ossf/allstar/pull/798) on [ossf/allstar](https://github.com/ossf/allstar) (3 weeks ago)
 - [scorecard: Add SARIF evidence upload to Code Scanning](https://github.com/ossf/allstar/pull/797) on [ossf/allstar](https://github.com/ossf/allstar) (3 weeks ago)
 - [allstar: enable SARIF upload for scorecard policy](https://github.com/uwu-tools/.github/pull/75) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (3 weeks ago)
-- [scorecard: add SARIF evidence upload to Code Scanning (forked version)](https://github.com/ossf/allstar/pull/796) on [ossf/allstar](https://github.com/ossf/allstar) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
