@@ -33,7 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [scorecard: rename uploadSARIFResult, add error path tests](https://github.com/ossf/allstar/pull/816) on [ossf/allstar](https://github.com/ossf/allstar) (today)
+- [scorecard: restore comment, rename uploadSARIFResult, add error path tests](https://github.com/ossf/allstar/pull/816) on [ossf/allstar](https://github.com/ossf/allstar) (today)
 - [go.mod: Migrate to sigs.k8s.io/prow, remove vendored third_party/](https://github.com/uwu-tools/peribolos/pull/576) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
 - [Bump stale codeql-action pins and add dependabot cooldown](https://github.com/uwu-tools/peribolos/pull/575) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
 - [Harden GitHub Actions workflows and improve security policy](https://github.com/uwu-tools/peribolos/pull/574) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (today)
