@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [go.mod: Bump scorecard/v5 to v5.4.1-0.20260416042454-4b8e9d1b5db8](https://github.com/ossf/allstar/pull/817) on [ossf/allstar](https://github.com/ossf/allstar) (today)
 - [Relax Sandbox entry requirements and clarify WG sponsorship](https://github.com/ossf/tac/pull/599) on [ossf/tac](https://github.com/ossf/tac) (1 day ago)
 - [scorecard: restore comment, rename uploadSARIFResult, add error path tests](https://github.com/ossf/allstar/pull/816) on [ossf/allstar](https://github.com/ossf/allstar) (2 days ago)
 - [go.mod: Migrate to sigs.k8s.io/prow, remove vendored third_party/](https://github.com/uwu-tools/peribolos/pull/576) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 days ago)
@@ -42,7 +43,6 @@
 - [allstar: Update testing branch for GitHub Action](https://github.com/uwu-tools/.github/pull/82) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 week ago)
 - [:book: Consolidate v6 docs and add implementation plan](https://github.com/ossf/scorecard/pull/4994) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 weeks ago)
 - [scorecard: consolidate to single `scRun()` call](https://github.com/ossf/allstar/pull/807) on [ossf/allstar](https://github.com/ossf/allstar) (2 weeks ago)
-- [ci: Add `scorecard-monitor` integration with Allstar results](https://github.com/uwu-tools/.github/pull/78) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
