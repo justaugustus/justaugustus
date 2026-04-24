@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 day ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 days ago)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (3 days ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (1 week ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 weeks ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (3 weeks ago)
