@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 day ago)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 days ago)
+- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 days ago)
+- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (3 days ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (1 week ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 weeks ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (3 weeks ago)
@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.5.0](https://github.com/ossf/scorecard/releases/tag/v5.5.0), today) - OpenSSF Scorecard - Security health metrics for Open Source
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.5.0](https://github.com/ossf/scorecard/releases/tag/v5.5.0), 1 day ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.4), 3 weeks ago) - 
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.4.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.4.1), 3 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.6](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.6), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
@@ -49,7 +49,7 @@
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations. (1 week ago)
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges. (2 weeks ago)
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents. (2 weeks ago)
-- [JulietSecurity/abom](https://github.com/JulietSecurity/abom) -  (2 weeks ago)
+- [JulietSecurity/abom](https://github.com/JulietSecurity/abom) -  (3 weeks ago)
 - [cncf/automation](https://github.com/cncf/automation) - Tools to manage CNCF maintenance tasks (3 weeks ago)
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (3 weeks ago)
 - [papercomputeco/sweeper](https://github.com/papercomputeco/sweeper) - Multi threaded code maintenance with resource isolated subagents. (1 month ago)
