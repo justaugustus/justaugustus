@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [AI policy suggestions from Ulises](https://github.com/justaugustus/tac/pull/1) on [justaugustus/tac](https://github.com/justaugustus/tac) (today)
 - [Add AI usage policy for OpenSSF Technical Initiatives](https://github.com/ossf/tac/pull/605) on [ossf/tac](https://github.com/ossf/tac) (today)
 - [Set npm as the package ecosystem for Dependabot](https://github.com/ossf/scorecard-monitor/pull/112) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (3 days ago)
 - [Harden GitHub Action workflow security](https://github.com/ossf/allstar/pull/818) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
@@ -42,7 +43,6 @@
 - [go.mod: Migrate to sigs.k8s.io/prow, remove vendored third_party/](https://github.com/uwu-tools/peribolos/pull/576) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 weeks ago)
 - [Bump stale codeql-action pins and add dependabot cooldown](https://github.com/uwu-tools/peribolos/pull/575) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 weeks ago)
 - [Harden GitHub Actions workflows and improve security policy](https://github.com/uwu-tools/peribolos/pull/574) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 weeks ago)
-- [dependabot: Configure grouped updates](https://github.com/uwu-tools/peribolos/pull/569) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
