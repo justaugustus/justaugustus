@@ -8,10 +8,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (today)
-- [justaugustus/ossf-community](https://github.com/justaugustus/ossf-community) - OpenSSF community content (1 day ago)
-- [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (4 days ago)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (6 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 day ago)
+- [justaugustus/ossf-community](https://github.com/justaugustus/ossf-community) - OpenSSF community content (2 days ago)
+- [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (5 days ago)
+- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 week ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 week ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (2 weeks ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 weeks ago)
@@ -21,8 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.5.0](https://github.com/ossf/scorecard/releases/tag/v5.5.0), 6 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
-- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.4), 4 weeks ago) - 
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.5.0](https://github.com/ossf/scorecard/releases/tag/v5.5.0), 1 week ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.4), 1 month ago) - 
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.4.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.4.1), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.6](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.6), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.19](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.19), 2 months ago) - Website and API for OpenSSF Scorecard
@@ -33,11 +33,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [AI policy suggestions from Ulises](https://github.com/justaugustus/tac/pull/1) on [justaugustus/tac](https://github.com/justaugustus/tac) (1 day ago)
-- [Add AI usage policy for OpenSSF Technical Initiatives](https://github.com/ossf/tac/pull/605) on [ossf/tac](https://github.com/ossf/tac) (1 day ago)
-- [Set npm as the package ecosystem for Dependabot](https://github.com/ossf/scorecard-monitor/pull/112) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (4 days ago)
-- [Harden GitHub Action workflow security](https://github.com/ossf/allstar/pull/818) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
-- [go.mod: Bump scorecard/v5 to v5.4.1-0.20260416042454-4b8e9d1b5db8](https://github.com/ossf/allstar/pull/817) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
+- [AI policy suggestions from Ulises](https://github.com/justaugustus/tac/pull/1) on [justaugustus/tac](https://github.com/justaugustus/tac) (2 days ago)
+- [Add AI Contribution Policy for OpenSSF Technical Initiatives](https://github.com/ossf/tac/pull/605) on [ossf/tac](https://github.com/ossf/tac) (2 days ago)
+- [Set npm as the package ecosystem for Dependabot](https://github.com/ossf/scorecard-monitor/pull/112) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (5 days ago)
+- [Harden GitHub Action workflow security](https://github.com/ossf/allstar/pull/818) on [ossf/allstar](https://github.com/ossf/allstar) (2 weeks ago)
+- [go.mod: Bump scorecard/v5 to v5.4.1-0.20260416042454-4b8e9d1b5db8](https://github.com/ossf/allstar/pull/817) on [ossf/allstar](https://github.com/ossf/allstar) (2 weeks ago)
 - [Relax Sandbox entry requirements and clarify WG sponsorship](https://github.com/ossf/tac/pull/599) on [ossf/tac](https://github.com/ossf/tac) (2 weeks ago)
 - [scorecard: restore comment, rename uploadSARIFResult, add error path tests](https://github.com/ossf/allstar/pull/816) on [ossf/allstar](https://github.com/ossf/allstar) (2 weeks ago)
 - [go.mod: Migrate to sigs.k8s.io/prow, remove vendored third_party/](https://github.com/uwu-tools/peribolos/pull/576) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (2 weeks ago)
@@ -48,10 +48,10 @@
 
 - [suzuki-shunsuke/pinact-action](https://github.com/suzuki-shunsuke/pinact-action) - GitHub Actions to pin GitHub Actions by pinact (2 weeks ago)
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations. (2 weeks ago)
-- [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges. (2 weeks ago)
+- [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges. (3 weeks ago)
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents. (3 weeks ago)
 - [JulietSecurity/abom](https://github.com/JulietSecurity/abom) -  (3 weeks ago)
-- [cncf/automation](https://github.com/cncf/automation) - Tools to manage CNCF maintenance tasks (4 weeks ago)
+- [cncf/automation](https://github.com/cncf/automation) - Tools to manage CNCF maintenance tasks (1 month ago)
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (1 month ago)
 - [papercomputeco/sweeper](https://github.com/papercomputeco/sweeper) - Multi threaded code maintenance with resource isolated subagents. (1 month ago)
 - [microsoft/opensource-management-portal](https://github.com/microsoft/opensource-management-portal) - Microsoft&#39;s monolithic, opinionated Open Source Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰 (1 month ago)
