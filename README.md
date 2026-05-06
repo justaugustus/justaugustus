@@ -53,7 +53,7 @@
 - [JulietSecurity/abom](https://github.com/JulietSecurity/abom) -  (1 month ago)
 - [cncf/automation](https://github.com/cncf/automation) - Tools to manage CNCF maintenance tasks (1 month ago)
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (1 month ago)
-- [papercomputeco/sweeper](https://github.com/papercomputeco/sweeper) - Multi threaded code maintenance with resource isolated subagents. (1 month ago)
+- [pcc-labs/sweeper](https://github.com/pcc-labs/sweeper) - Multi threaded code maintenance with resource isolated subagents. (1 month ago)
 - [microsoft/opensource-management-portal](https://github.com/microsoft/opensource-management-portal) - Microsoft&#39;s monolithic, opinionated Open Source Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰 (1 month ago)
 - [carabiner-dev/policies](https://github.com/carabiner-dev/policies) - Policy sets for different frameworks (2 months ago)
 
