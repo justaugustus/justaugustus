@@ -14,14 +14,14 @@
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 weeks ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 weeks ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (3 weeks ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (4 weeks ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 month ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (3 months ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.5.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.5.0), 3 days ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.5.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.5.0), 4 days ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.5.0](https://github.com/ossf/scorecard/releases/tag/v5.5.0), 2 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.4), 1 month ago) - 
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.6](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.6), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
