@@ -9,11 +9,11 @@
 #### 👷 Check out what I'm currently working on
 
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 week ago)
-- [justaugustus/ossf-community](https://github.com/justaugustus/ossf-community) - OpenSSF community content (1 week ago)
+- [justaugustus/ossf-community](https://github.com/justaugustus/ossf-community) - OpenSSF community content (2 weeks ago)
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (2 weeks ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 weeks ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 weeks ago)
-- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (3 weeks ago)
+- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (4 weeks ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
 - [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (1 month ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (3 months ago)
@@ -33,21 +33,21 @@
 
 #### 🔨 My recent Pull Requests
 
-- [AI policy suggestions from Ulises](https://github.com/justaugustus/tac/pull/1) on [justaugustus/tac](https://github.com/justaugustus/tac) (1 week ago)
-- [Add AI Contribution Policy for OpenSSF Technical Initiatives](https://github.com/ossf/tac/pull/605) on [ossf/tac](https://github.com/ossf/tac) (1 week ago)
+- [AI policy suggestions from Ulises](https://github.com/justaugustus/tac/pull/1) on [justaugustus/tac](https://github.com/justaugustus/tac) (2 weeks ago)
+- [Add AI Contribution Policy for OpenSSF Technical Initiatives](https://github.com/ossf/tac/pull/605) on [ossf/tac](https://github.com/ossf/tac) (2 weeks ago)
 - [Set npm as the package ecosystem for Dependabot](https://github.com/ossf/scorecard-monitor/pull/112) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (2 weeks ago)
 - [Harden GitHub Action workflow security](https://github.com/ossf/allstar/pull/818) on [ossf/allstar](https://github.com/ossf/allstar) (3 weeks ago)
 - [go.mod: Bump scorecard/v5 to v5.4.1-0.20260416042454-4b8e9d1b5db8](https://github.com/ossf/allstar/pull/817) on [ossf/allstar](https://github.com/ossf/allstar) (3 weeks ago)
 - [Relax Sandbox entry requirements and clarify WG sponsorship](https://github.com/ossf/tac/pull/599) on [ossf/tac](https://github.com/ossf/tac) (3 weeks ago)
-- [scorecard: restore comment, rename uploadSARIFResult, add error path tests](https://github.com/ossf/allstar/pull/816) on [ossf/allstar](https://github.com/ossf/allstar) (3 weeks ago)
-- [go.mod: Migrate to sigs.k8s.io/prow, remove vendored third_party/](https://github.com/uwu-tools/peribolos/pull/576) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (3 weeks ago)
-- [Bump stale codeql-action pins and add dependabot cooldown](https://github.com/uwu-tools/peribolos/pull/575) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (3 weeks ago)
-- [Harden GitHub Actions workflows and improve security policy](https://github.com/uwu-tools/peribolos/pull/574) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (3 weeks ago)
+- [scorecard: restore comment, rename uploadSARIFResult, add error path tests](https://github.com/ossf/allstar/pull/816) on [ossf/allstar](https://github.com/ossf/allstar) (4 weeks ago)
+- [go.mod: Migrate to sigs.k8s.io/prow, remove vendored third_party/](https://github.com/uwu-tools/peribolos/pull/576) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (4 weeks ago)
+- [Bump stale codeql-action pins and add dependabot cooldown](https://github.com/uwu-tools/peribolos/pull/575) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (4 weeks ago)
+- [Harden GitHub Actions workflows and improve security policy](https://github.com/uwu-tools/peribolos/pull/574) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [suzuki-shunsuke/pinact-action](https://github.com/suzuki-shunsuke/pinact-action) - GitHub Actions to pin GitHub Actions by pinact (4 weeks ago)
-- [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations. (4 weeks ago)
+- [suzuki-shunsuke/pinact-action](https://github.com/suzuki-shunsuke/pinact-action) - GitHub Actions to pin GitHub Actions by pinact (1 month ago)
+- [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations. (1 month ago)
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges. (1 month ago)
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents. (1 month ago)
 - [JulietSecurity/abom](https://github.com/JulietSecurity/abom) -  (1 month ago)
