@@ -46,6 +46,7 @@
 
 #### ⭐ Recent Stars
 
+- [always-further/runseal](https://github.com/always-further/runseal) - Sealed execution environment for GitHub Actions. Stop supply chain attacks dead in their tracks. (today)
 - [kyegomez/awesome-multi-agent-papers](https://github.com/kyegomez/awesome-multi-agent-papers) - A compilation of the best multi-agent papers (1 month ago)
 - [suzuki-shunsuke/pinact-action](https://github.com/suzuki-shunsuke/pinact-action) - GitHub Actions to pin GitHub Actions by pinact (2 months ago)
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations. (2 months ago)
@@ -55,7 +56,6 @@
 - [cncf/automation](https://github.com/cncf/automation) - Tools to manage CNCF maintenance tasks (2 months ago)
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (2 months ago)
 - [pcc-labs/sweeper](https://github.com/pcc-labs/sweeper) - Multi threaded code maintenance with resource isolated subagents. (3 months ago)
-- [microsoft/opensource-management-portal](https://github.com/microsoft/opensource-management-portal) - Microsoft&#39;s monolithic, opinionated Open Source Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰 (3 months ago)
 
 
 
