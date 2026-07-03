@@ -21,8 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.7), 1 week ago) - Interfaces and implementations for building Kubernetes releases.
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.5.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.5.1), 3 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.7), 2 weeks ago) - Interfaces and implementations for building Kubernetes releases.
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.5.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.5.1), 4 weeks ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.5.0](https://github.com/ossf/scorecard/releases/tag/v5.5.0), 2 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.4), 3 months ago) - 
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.19](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.19), 4 months ago) - Website and API for OpenSSF Scorecard
@@ -51,7 +51,7 @@
 - [suzuki-shunsuke/pinact-action](https://github.com/suzuki-shunsuke/pinact-action) - GitHub Actions to pin GitHub Actions by pinact (2 months ago)
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact) - pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and Reusable Workflows. pinact can also update their versions and verify version annotations. (2 months ago)
 - [rusq/slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges. (2 months ago)
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents. (2 months ago)
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents. (3 months ago)
 - [JulietSecurity/abom](https://github.com/JulietSecurity/abom) -  (3 months ago)
 - [cncf/automation](https://github.com/cncf/automation) - Tools to manage CNCF maintenance tasks (3 months ago)
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (3 months ago)
