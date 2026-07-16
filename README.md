@@ -33,7 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Upgrade jQuery to 3.7.1](https://github.com/bloomberg/bloomberg.github.io/pull/12) on [bloomberg/bloomberg.github.io](https://github.com/bloomberg/bloomberg.github.io) (6 days ago)
+- [Upgrade jQuery to 3.7.1](https://github.com/bloomberg/bloomberg.github.io/pull/12) on [bloomberg/bloomberg.github.io](https://github.com/bloomberg/bloomberg.github.io) (1 week ago)
 - [AI policy suggestions from Ulises](https://github.com/justaugustus/tac/pull/1) on [justaugustus/tac](https://github.com/justaugustus/tac) (2 months ago)
 - [Add AI Contribution Policy for OpenSSF Technical Initiatives](https://github.com/ossf/tac/pull/605) on [ossf/tac](https://github.com/ossf/tac) (2 months ago)
 - [Set npm as the package ecosystem for Dependabot](https://github.com/ossf/scorecard-monitor/pull/112) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (2 months ago)
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [SAP/fork-metadata-standard](https://github.com/SAP/fork-metadata-standard) - The Fork Metadata Standard (FMS) defines a structured, platform-agnostic format for documenting the origin of a forked open-source project. (6 days ago)
+- [SAP/fork-metadata-standard](https://github.com/SAP/fork-metadata-standard) - The Fork Metadata Standard (FMS) defines a structured, platform-agnostic format for documenting the origin of a forked open-source project. (1 week ago)
 - [nolabs-ai/runseal](https://github.com/nolabs-ai/runseal) - Sealed execution environment for GitHub Actions. Stop supply chain attacks dead in their tracks. (1 month ago)
 - [kyegomez/awesome-multi-agent-papers](https://github.com/kyegomez/awesome-multi-agent-papers) - A compilation of the best multi-agent papers (2 months ago)
 - [suzuki-shunsuke/pinact-action](https://github.com/suzuki-shunsuke/pinact-action) - GitHub Actions to pin GitHub Actions by pinact (3 months ago)
