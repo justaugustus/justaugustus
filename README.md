@@ -46,6 +46,7 @@
 
 #### ⭐ Recent Stars
 
+- [oscarvalenzuelab/agentic-ai-github-actions](https://github.com/oscarvalenzuelab/agentic-ai-github-actions) - Agentic AI workflow for Supply Chain Analysis using GitHub Actions (today)
 - [SAP/fork-metadata-standard](https://github.com/SAP/fork-metadata-standard) - The Fork Metadata Standard (FMS) defines a structured, platform-agnostic format for documenting the origin of a forked open-source project. (1 week ago)
 - [nolabs-ai/runseal](https://github.com/nolabs-ai/runseal) - Sealed execution environment for GitHub Actions. Stop supply chain attacks dead in their tracks. (1 month ago)
 - [kyegomez/awesome-multi-agent-papers](https://github.com/kyegomez/awesome-multi-agent-papers) - A compilation of the best multi-agent papers (2 months ago)
@@ -55,7 +56,6 @@
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents. (3 months ago)
 - [JulietSecurity/abom](https://github.com/JulietSecurity/abom) -  (3 months ago)
 - [cncf/automation](https://github.com/cncf/automation) - Tools to manage CNCF maintenance tasks (3 months ago)
-- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (3 months ago)
 
 
 
