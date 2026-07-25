@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.4](https://github.com/ossf/scorecard-action/releases/tag/v2.4.4), 1 day ago) - Official GitHub Action for OpenSSF Scorecard.
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.4](https://github.com/ossf/scorecard-action/releases/tag/v2.4.4), 2 days ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.7), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.5.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.5.1), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.5.0](https://github.com/ossf/scorecard/releases/tag/v5.5.0), 3 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
@@ -46,9 +46,9 @@
 
 #### ⭐ Recent Stars
 
-- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes (3 days ago)
-- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (3 days ago)
-- [oscarvalenzuelab/agentic-ai-github-actions](https://github.com/oscarvalenzuelab/agentic-ai-github-actions) - Agentic AI workflow for Supply Chain Analysis using GitHub Actions (3 days ago)
+- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes (4 days ago)
+- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (4 days ago)
+- [oscarvalenzuelab/agentic-ai-github-actions](https://github.com/oscarvalenzuelab/agentic-ai-github-actions) - Agentic AI workflow for Supply Chain Analysis using GitHub Actions (4 days ago)
 - [SAP/fork-metadata-standard](https://github.com/SAP/fork-metadata-standard) - The Fork Metadata Standard (FMS) defines a structured, platform-agnostic format for documenting the origin of a forked open-source project. (2 weeks ago)
 - [nolabs-ai/runseal](https://github.com/nolabs-ai/runseal) - Sealed execution environment for GitHub Actions. Stop supply chain attacks dead in their tracks. (1 month ago)
 - [kyegomez/awesome-multi-agent-papers](https://github.com/kyegomez/awesome-multi-agent-papers) - A compilation of the best multi-agent papers (2 months ago)
