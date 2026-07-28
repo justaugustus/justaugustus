@@ -16,19 +16,19 @@
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (3 months ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (3 months ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 months ago)
-- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (3 months ago)
+- [todogroup/governance](https://github.com/todogroup/governance) - TODO Group Governance (4 months ago)
 - [kubernetes/org](https://github.com/kubernetes/org) - Meta configuration for Kubernetes Github Org (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.4](https://github.com/ossf/scorecard-action/releases/tag/v2.4.4), 4 days ago) - Official GitHub Action for OpenSSF Scorecard.
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.4](https://github.com/ossf/scorecard-action/releases/tag/v2.4.4), 5 days ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.7), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.5.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.5.1), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.5.0](https://github.com/ossf/scorecard/releases/tag/v5.5.0), 3 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.4), 3 months ago) - 
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.19](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.19), 5 months ago) - Website and API for OpenSSF Scorecard
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 7 months ago) - Repo for SIG release
-- [ossf/allstar](https://github.com/ossf/allstar) ([v4.5](https://github.com/ossf/allstar/releases/tag/v4.5), 9 months ago) - GitHub App to set and enforce security policies
+- [ossf/allstar](https://github.com/ossf/allstar) ([v4.5](https://github.com/ossf/allstar/releases/tag/v4.5), 10 months ago) - GitHub App to set and enforce security policies
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) ([v2.0.0-beta8](https://github.com/ossf/scorecard-monitor/releases/tag/v2.0.0-beta8), 2 years ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 
 #### 🔨 My recent Pull Requests
@@ -46,9 +46,9 @@
 
 #### ⭐ Recent Stars
 
-- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes (6 days ago)
-- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (6 days ago)
-- [oscarvalenzuelab/agentic-ai-github-actions](https://github.com/oscarvalenzuelab/agentic-ai-github-actions) - Agentic AI workflow for Supply Chain Analysis using GitHub Actions (6 days ago)
+- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes (1 week ago)
+- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (1 week ago)
+- [oscarvalenzuelab/agentic-ai-github-actions](https://github.com/oscarvalenzuelab/agentic-ai-github-actions) - Agentic AI workflow for Supply Chain Analysis using GitHub Actions (1 week ago)
 - [SAP/fork-metadata-standard](https://github.com/SAP/fork-metadata-standard) - The Fork Metadata Standard (FMS) defines a structured, platform-agnostic format for documenting the origin of a forked open-source project. (2 weeks ago)
 - [nolabs-ai/runseal](https://github.com/nolabs-ai/runseal) - Sealed execution environment for GitHub Actions. Stop supply chain attacks dead in their tracks. (1 month ago)
 - [kyegomez/awesome-multi-agent-papers](https://github.com/kyegomez/awesome-multi-agent-papers) - A compilation of the best multi-agent papers (2 months ago)
