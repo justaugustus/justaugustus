@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (today)
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 day ago)
 - [bloomberg/bloomberg.github.io](https://github.com/bloomberg/bloomberg.github.io) - Source code for the https://bloomberg.github.io site (3 weeks ago)
 - [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) - Causal Discovery for Time Series (1 month ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 month ago)
@@ -21,7 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.4](https://github.com/ossf/scorecard-action/releases/tag/v2.4.4), 6 days ago) - Official GitHub Action for OpenSSF Scorecard.
+- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.25.0](https://github.com/bloomberg/causal-ts/releases/tag/v0.25.0), today) - Causal Discovery for Time Series
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.4](https://github.com/ossf/scorecard-action/releases/tag/v2.4.4), 1 week ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.7), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.5.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.5.1), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.5.0](https://github.com/ossf/scorecard/releases/tag/v5.5.0), 3 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
@@ -33,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Upgrade jQuery to 3.7.1](https://github.com/bloomberg/bloomberg.github.io/pull/12) on [bloomberg/bloomberg.github.io](https://github.com/bloomberg/bloomberg.github.io) (2 weeks ago)
+- [Upgrade jQuery to 3.7.1](https://github.com/bloomberg/bloomberg.github.io/pull/12) on [bloomberg/bloomberg.github.io](https://github.com/bloomberg/bloomberg.github.io) (3 weeks ago)
 - [AI policy suggestions from Ulises](https://github.com/justaugustus/tac/pull/1) on [justaugustus/tac](https://github.com/justaugustus/tac) (3 months ago)
 - [Add AI Contribution Policy for OpenSSF Technical Initiatives](https://github.com/ossf/tac/pull/605) on [ossf/tac](https://github.com/ossf/tac) (3 months ago)
 - [Set npm as the package ecosystem for Dependabot](https://github.com/ossf/scorecard-monitor/pull/112) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (3 months ago)
@@ -46,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
-- [openai/codex-security](https://github.com/openai/codex-security) - OpenAI&#39;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security (today)
+- [openai/codex-security](https://github.com/openai/codex-security) - OpenAI&#39;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security (1 day ago)
 - [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes (1 week ago)
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (1 week ago)
 - [oscarvalenzuelab/agentic-ai-github-actions](https://github.com/oscarvalenzuelab/agentic-ai-github-actions) - Agentic AI workflow for Supply Chain Analysis using GitHub Actions (1 week ago)
-- [SAP/fork-metadata-standard](https://github.com/SAP/fork-metadata-standard) - The Fork Metadata Standard (FMS) defines a structured, platform-agnostic format for documenting the origin of a forked open-source project. (2 weeks ago)
+- [SAP/fork-metadata-standard](https://github.com/SAP/fork-metadata-standard) - The Fork Metadata Standard (FMS) defines a structured, platform-agnostic format for documenting the origin of a forked open-source project. (3 weeks ago)
 - [nolabs-ai/runseal](https://github.com/nolabs-ai/runseal) - Sealed execution environment for GitHub Actions. Stop supply chain attacks dead in their tracks. (1 month ago)
 - [kyegomez/awesome-multi-agent-papers](https://github.com/kyegomez/awesome-multi-agent-papers) - A compilation of the best multi-agent papers (2 months ago)
 - [suzuki-shunsuke/pinact-action](https://github.com/suzuki-shunsuke/pinact-action) - GitHub Actions to pin GitHub Actions by pinact (3 months ago)
