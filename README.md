@@ -9,12 +9,12 @@
 #### 👷 Check out what I'm currently working on
 
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (today)
+- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (today)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (2 days ago)
 - [bloomberg/bloomberg.github.io](https://github.com/bloomberg/bloomberg.github.io) - Source code for the https://bloomberg.github.io site (3 weeks ago)
 - [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) - Causal Discovery for Time Series (1 month ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 month ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 month ago)
-- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 months ago)
 - [justaugustus/ossf-community](https://github.com/justaugustus/ossf-community) - OpenSSF community content (3 months ago)
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (3 months ago)
 - [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (3 months ago)
@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Org updates](https://github.com/uwu-tools/.github/pull/93) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (today)
 - [Add OpenSSF Baseline compliance docs (partial coverage)](https://github.com/bloomberg/oss-template/pull/38) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (today)
 - [Upgrade jQuery to 3.7.1](https://github.com/bloomberg/bloomberg.github.io/pull/12) on [bloomberg/bloomberg.github.io](https://github.com/bloomberg/bloomberg.github.io) (3 weeks ago)
 - [AI policy suggestions from Ulises](https://github.com/justaugustus/tac/pull/1) on [justaugustus/tac](https://github.com/justaugustus/tac) (3 months ago)
@@ -43,7 +44,6 @@
 - [go.mod: Bump scorecard/v5 to v5.4.1-0.20260416042454-4b8e9d1b5db8](https://github.com/ossf/allstar/pull/817) on [ossf/allstar](https://github.com/ossf/allstar) (3 months ago)
 - [Relax Sandbox entry requirements and clarify WG sponsorship](https://github.com/ossf/tac/pull/599) on [ossf/tac](https://github.com/ossf/tac) (3 months ago)
 - [scorecard: restore comment, rename uploadSARIFResult, add error path tests](https://github.com/ossf/allstar/pull/816) on [ossf/allstar](https://github.com/ossf/allstar) (3 months ago)
-- [go.mod: Migrate to sigs.k8s.io/prow, remove vendored third_party/](https://github.com/uwu-tools/peribolos/pull/576) on [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) (3 months ago)
 
 #### ⭐ Recent Stars
 
