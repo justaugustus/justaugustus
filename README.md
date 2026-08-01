@@ -8,9 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (today)
-- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (today)
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (2 days ago)
+- [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (1 day ago)
+- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 day ago)
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 days ago)
 - [bloomberg/bloomberg.github.io](https://github.com/bloomberg/bloomberg.github.io) - Source code for the https://bloomberg.github.io site (3 weeks ago)
 - [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) - Causal Discovery for Time Series (1 month ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 month ago)
@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.25.1](https://github.com/bloomberg/causal-ts/releases/tag/v0.25.1), today) - Causal Discovery for Time Series
+- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.25.1](https://github.com/bloomberg/causal-ts/releases/tag/v0.25.1), 1 day ago) - Causal Discovery for Time Series
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.4](https://github.com/ossf/scorecard-action/releases/tag/v2.4.4), 1 week ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.7), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.5.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.5.1), 1 month ago) - Container and file artifact promotion tooling for the Kubernetes project
@@ -34,8 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Org updates](https://github.com/uwu-tools/.github/pull/93) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (today)
-- [Add OpenSSF Baseline compliance docs (partial coverage)](https://github.com/bloomberg/oss-template/pull/38) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (today)
+- [Org updates](https://github.com/uwu-tools/.github/pull/93) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 day ago)
+- [Add OpenSSF Baseline compliance docs (partial coverage)](https://github.com/bloomberg/oss-template/pull/38) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (1 day ago)
 - [Upgrade jQuery to 3.7.1](https://github.com/bloomberg/bloomberg.github.io/pull/12) on [bloomberg/bloomberg.github.io](https://github.com/bloomberg/bloomberg.github.io) (3 weeks ago)
 - [AI policy suggestions from Ulises](https://github.com/justaugustus/tac/pull/1) on [justaugustus/tac](https://github.com/justaugustus/tac) (3 months ago)
 - [Add AI Contribution Policy for OpenSSF Technical Initiatives](https://github.com/ossf/tac/pull/605) on [ossf/tac](https://github.com/ossf/tac) (3 months ago)
@@ -47,9 +47,9 @@
 
 #### ⭐ Recent Stars
 
-- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (today)
-- [andrew/weekend-at-bernies](https://github.com/andrew/weekend-at-bernies) - Data collection for Weekend at Bernie&#39;s blog post (today)
-- [openai/codex-security](https://github.com/openai/codex-security) - OpenAI&#39;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security (2 days ago)
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (1 day ago)
+- [andrew/weekend-at-bernies](https://github.com/andrew/weekend-at-bernies) - Data collection for Weekend at Bernie&#39;s blog post (1 day ago)
+- [openai/codex-security](https://github.com/openai/codex-security) - OpenAI&#39;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security (3 days ago)
 - [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes (1 week ago)
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (1 week ago)
 - [oscarvalenzuelab/agentic-ai-github-actions](https://github.com/oscarvalenzuelab/agentic-ai-github-actions) - Agentic AI workflow for Supply Chain Analysis using GitHub Actions (1 week ago)
