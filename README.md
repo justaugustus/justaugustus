@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [spec: Proposal to wire Scorecard to `ExecutionContext`](https://github.com/darnitdevorg/darnit/pull/353) on [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) (today)
 - [Org updates](https://github.com/uwu-tools/.github/pull/93) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 days ago)
 - [Add OpenSSF Baseline compliance docs (partial coverage)](https://github.com/bloomberg/oss-template/pull/38) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (2 days ago)
 - [Upgrade jQuery to 3.7.1](https://github.com/bloomberg/bloomberg.github.io/pull/12) on [bloomberg/bloomberg.github.io](https://github.com/bloomberg/bloomberg.github.io) (3 weeks ago)
@@ -43,10 +44,10 @@
 - [Harden GitHub Action workflow security](https://github.com/ossf/allstar/pull/818) on [ossf/allstar](https://github.com/ossf/allstar) (3 months ago)
 - [go.mod: Bump scorecard/v5 to v5.4.1-0.20260416042454-4b8e9d1b5db8](https://github.com/ossf/allstar/pull/817) on [ossf/allstar](https://github.com/ossf/allstar) (3 months ago)
 - [Relax Sandbox entry requirements and clarify WG sponsorship](https://github.com/ossf/tac/pull/599) on [ossf/tac](https://github.com/ossf/tac) (3 months ago)
-- [scorecard: restore comment, rename uploadSARIFResult, add error path tests](https://github.com/ossf/allstar/pull/816) on [ossf/allstar](https://github.com/ossf/allstar) (3 months ago)
 
 #### ⭐ Recent Stars
 
+- [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) -  (today)
 - [carabiner-dev/miniprow](https://github.com/carabiner-dev/miniprow) - A GitHub app that emulates @kubernetes prow chatops on PRs but with enhaced security through AMPEL policies and secure tagging support (today)
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (2 days ago)
 - [andrew/weekend-at-bernies](https://github.com/andrew/weekend-at-bernies) - Data collection for Weekend at Bernie&#39;s blog post (2 days ago)
@@ -56,7 +57,6 @@
 - [oscarvalenzuelab/agentic-ai-github-actions](https://github.com/oscarvalenzuelab/agentic-ai-github-actions) - Agentic AI workflow for Supply Chain Analysis using GitHub Actions (1 week ago)
 - [SAP/fork-metadata-standard](https://github.com/SAP/fork-metadata-standard) - The Fork Metadata Standard (FMS) defines a structured, platform-agnostic format for documenting the origin of a forked open-source project. (3 weeks ago)
 - [nolabs-ai/runseal](https://github.com/nolabs-ai/runseal) - Sealed execution environment for GitHub Actions. Stop supply chain attacks dead in their tracks. (1 month ago)
-- [kyegomez/awesome-multi-agent-papers](https://github.com/kyegomez/awesome-multi-agent-papers) - A compilation of the best multi-agent papers (2 months ago)
 
 
 
