@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.25.1](https://github.com/bloomberg/causal-ts/releases/tag/v0.25.1), 4 days ago) - Causal Discovery for Time Series
+- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.25.2](https://github.com/bloomberg/causal-ts/releases/tag/v0.25.2), today) - Causal Discovery for Time Series
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.4](https://github.com/ossf/scorecard-action/releases/tag/v2.4.4), 1 week ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.7), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.5.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.5.1), 2 months ago) - Container and file artifact promotion tooling for the Kubernetes project
