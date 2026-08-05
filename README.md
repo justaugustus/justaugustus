@@ -8,6 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (today)
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (today)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (5 days ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (5 days ago)
@@ -17,7 +18,6 @@
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 month ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 month ago)
 - [justaugustus/ossf-community](https://github.com/justaugustus/ossf-community) - OpenSSF community content (3 months ago)
-- [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
