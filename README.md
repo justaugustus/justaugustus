@@ -8,6 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (today)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (5 days ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (5 days ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 week ago)
@@ -17,11 +18,11 @@
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 month ago)
 - [justaugustus/ossf-community](https://github.com/justaugustus/ossf-community) - OpenSSF community content (3 months ago)
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts (3 months ago)
-- [uwu-tools/peribolos](https://github.com/uwu-tools/peribolos) -  (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.25.2](https://github.com/bloomberg/causal-ts/releases/tag/v0.25.2), 1 day ago) - Causal Discovery for Time Series
+- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) ([v0.1.0](https://github.com/darnitdevorg/darnit/releases/tag/v0.1.0), 5 days ago) - 
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.4](https://github.com/ossf/scorecard-action/releases/tag/v2.4.4), 1 week ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.7), 1 month ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.5.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.5.1), 2 months ago) - Container and file artifact promotion tooling for the Kubernetes project
@@ -30,7 +31,6 @@
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.19](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.19), 5 months ago) - Website and API for OpenSSF Scorecard
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 7 months ago) - Repo for SIG release
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.5](https://github.com/ossf/allstar/releases/tag/v4.5), 10 months ago) - GitHub App to set and enforce security policies
-- [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) ([v2.0.0-beta8](https://github.com/ossf/scorecard-monitor/releases/tag/v2.0.0-beta8), 2 years ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 
 #### 🔨 My recent Pull Requests
 
