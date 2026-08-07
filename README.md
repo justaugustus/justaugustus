@@ -9,15 +9,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (today)
-- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (2 days ago)
+- [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) -  (today)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 days ago)
-- [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (1 week ago)
+- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (2 days ago)
+- [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) -  (3 days ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 week ago)
+- [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (1 week ago)
 - [bloomberg/bloomberg.github.io](https://github.com/bloomberg/bloomberg.github.io) - Source code for the https://bloomberg.github.io site (1 month ago)
 - [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) - Causal Discovery for Time Series (1 month ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (2 months ago)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 months ago)
-- [justaugustus/ossf-community](https://github.com/justaugustus/ossf-community) - OpenSSF community content (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -35,15 +35,15 @@
 #### 🔨 My recent Pull Requests
 
 - [Match Ubuntu runner labels by pattern, not a fixed list](https://github.com/ossf/scorecard-webapp/pull/998) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (today)
+- [Research provider-agnostic Scorecard data infrastructure](https://github.com/uwu-tools/scorecard-infra/pull/19) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (today)
+- [Fix broken CI: lint config, private-repo perms, zizmor](https://github.com/uwu-tools/scorecard-infra/pull/12) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (today)
+- [Rename module path to scorecard-infra](https://github.com/uwu-tools/scorecard-infra/pull/11) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (today)
+- [Add fallback API server functionality](https://github.com/uwu-tools/scorecard-infra/pull/10) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (1 day ago)
+- [Archive v0 OpenSpec change and add feature flagging (OpenFeature)](https://github.com/uwu-tools/scorecard-infra/pull/9) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (1 day ago)
+- [feat: add local Docker Compose dev environment](https://github.com/uwu-tools/scorecard-infra/pull/8) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (1 day ago)
+- [Archive initial OpenSpec change and document MCP Inspector testing](https://github.com/uwu-tools/scorecard-mcp/pull/10) on [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) (3 days ago)
 - [spec: Proposal to wire Scorecard to `ExecutionContext`](https://github.com/darnitdevorg/darnit/pull/353) on [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) (5 days ago)
-- [Org updates](https://github.com/uwu-tools/.github/pull/93) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 week ago)
-- [Add OpenSSF Baseline compliance docs (partial coverage)](https://github.com/bloomberg/oss-template/pull/38) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (1 week ago)
-- [Upgrade jQuery to 3.7.1](https://github.com/bloomberg/bloomberg.github.io/pull/12) on [bloomberg/bloomberg.github.io](https://github.com/bloomberg/bloomberg.github.io) (4 weeks ago)
-- [AI policy suggestions from Ulises](https://github.com/justaugustus/tac/pull/1) on [justaugustus/tac](https://github.com/justaugustus/tac) (3 months ago)
-- [Add AI Contribution Policy for OpenSSF Technical Initiatives](https://github.com/ossf/tac/pull/605) on [ossf/tac](https://github.com/ossf/tac) (3 months ago)
-- [Set npm as the package ecosystem for Dependabot](https://github.com/ossf/scorecard-monitor/pull/112) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (3 months ago)
-- [Harden GitHub Action workflow security](https://github.com/ossf/allstar/pull/818) on [ossf/allstar](https://github.com/ossf/allstar) (3 months ago)
-- [go.mod: Bump scorecard/v5 to v5.4.1-0.20260416042454-4b8e9d1b5db8](https://github.com/ossf/allstar/pull/817) on [ossf/allstar](https://github.com/ossf/allstar) (3 months ago)
+- [docs: Fix install/config instructions and document response caveats](https://github.com/uwu-tools/scorecard-mcp/pull/9) on [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) (5 days ago)
 
 #### ⭐ Recent Stars
 
