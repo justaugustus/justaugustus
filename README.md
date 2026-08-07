@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Match Ubuntu runner labels by pattern, not a fixed list](https://github.com/ossf/scorecard-webapp/pull/998) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (today)
 - [spec: Proposal to wire Scorecard to `ExecutionContext`](https://github.com/darnitdevorg/darnit/pull/353) on [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) (5 days ago)
 - [Org updates](https://github.com/uwu-tools/.github/pull/93) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 week ago)
 - [Add OpenSSF Baseline compliance docs (partial coverage)](https://github.com/bloomberg/oss-template/pull/38) on [bloomberg/oss-template](https://github.com/bloomberg/oss-template) (1 week ago)
@@ -43,7 +44,6 @@
 - [Set npm as the package ecosystem for Dependabot](https://github.com/ossf/scorecard-monitor/pull/112) on [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) (3 months ago)
 - [Harden GitHub Action workflow security](https://github.com/ossf/allstar/pull/818) on [ossf/allstar](https://github.com/ossf/allstar) (3 months ago)
 - [go.mod: Bump scorecard/v5 to v5.4.1-0.20260416042454-4b8e9d1b5db8](https://github.com/ossf/allstar/pull/817) on [ossf/allstar](https://github.com/ossf/allstar) (3 months ago)
-- [Relax Sandbox entry requirements and clarify WG sponsorship](https://github.com/ossf/tac/pull/599) on [ossf/tac](https://github.com/ossf/tac) (3 months ago)
 
 #### ⭐ Recent Stars
 
