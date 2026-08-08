@@ -8,12 +8,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 day ago)
+- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 day ago)
 - [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) -  (1 day ago)
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 day ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (3 days ago)
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (3 days ago)
 - [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) -  (4 days ago)
-- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 week ago)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (1 week ago)
 - [bloomberg/bloomberg.github.io](https://github.com/bloomberg/bloomberg.github.io) - Source code for the https://bloomberg.github.io site (1 month ago)
 - [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) - Causal Discovery for Time Series (1 month ago)
@@ -34,6 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump harden-runner to v2.20.1 for Node 24 runtime](https://github.com/uwu-tools/.github/pull/98) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (today)
+- [Fix malformed org config and add pre-merge lint guard](https://github.com/uwu-tools/.github/pull/97) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (today)
 - [Match Ubuntu runner labels by pattern, not a fixed list](https://github.com/ossf/scorecard-webapp/pull/998) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (1 day ago)
 - [Research provider-agnostic Scorecard data infrastructure](https://github.com/uwu-tools/scorecard-infra/pull/19) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (1 day ago)
 - [Fix broken CI: lint config, private-repo perms, zizmor](https://github.com/uwu-tools/scorecard-infra/pull/12) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (1 day ago)
@@ -42,11 +44,10 @@
 - [Archive v0 OpenSpec change and add feature flagging (OpenFeature)](https://github.com/uwu-tools/scorecard-infra/pull/9) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (2 days ago)
 - [feat: add local Docker Compose dev environment](https://github.com/uwu-tools/scorecard-infra/pull/8) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (2 days ago)
 - [Archive initial OpenSpec change and document MCP Inspector testing](https://github.com/uwu-tools/scorecard-mcp/pull/10) on [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) (4 days ago)
-- [spec: Proposal to wire Scorecard to `ExecutionContext`](https://github.com/darnitdevorg/darnit/pull/353) on [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) (6 days ago)
-- [docs: Fix install/config instructions and document response caveats](https://github.com/uwu-tools/scorecard-mcp/pull/9) on [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) (6 days ago)
 
 #### ⭐ Recent Stars
 
+- [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) -  (today)
 - [alpha-omega-security/threat-model](https://github.com/alpha-omega-security/threat-model) - Agent skill for producing threat models for open-source projects (4 days ago)
 - [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) -  (6 days ago)
 - [carabiner-dev/miniprow](https://github.com/carabiner-dev/miniprow) - A GitHub app that emulates @kubernetes prow chatops on PRs but with enhaced security through AMPEL policies and secure tagging support (6 days ago)
@@ -56,7 +57,6 @@
 - [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes (2 weeks ago)
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (2 weeks ago)
 - [oscarvalenzuelab/agentic-ai-github-actions](https://github.com/oscarvalenzuelab/agentic-ai-github-actions) - Agentic AI workflow for Supply Chain Analysis using GitHub Actions (2 weeks ago)
-- [SAP/fork-metadata-standard](https://github.com/SAP/fork-metadata-standard) - The Fork Metadata Standard (FMS) defines a structured, platform-agnostic format for documenting the origin of a forked open-source project. (1 month ago)
 
 
 
