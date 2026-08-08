@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [ossf/oss-crs-actions](https://github.com/ossf/oss-crs-actions) -  (today)
 - [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) -  (today)
 - [alpha-omega-security/threat-model](https://github.com/alpha-omega-security/threat-model) - Agent skill for producing threat models for open-source projects (4 days ago)
 - [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) -  (6 days ago)
@@ -56,7 +57,6 @@
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI&#39;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security (1 week ago)
 - [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes (2 weeks ago)
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (2 weeks ago)
-- [oscarvalenzuelab/agentic-ai-github-actions](https://github.com/oscarvalenzuelab/agentic-ai-github-actions) - Agentic AI workflow for Supply Chain Analysis using GitHub Actions (2 weeks ago)
 
 
 
