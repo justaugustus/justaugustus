@@ -8,9 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 days ago)
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (today)
 - [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) -  (2 days ago)
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (2 days ago)
+- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 days ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (4 days ago)
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (4 days ago)
 - [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) -  (5 days ago)
