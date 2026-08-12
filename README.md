@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (2 days ago)
-- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (4 days ago)
-- [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) -  (4 days ago)
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (6 days ago)
-- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (6 days ago)
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 days ago)
+- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (5 days ago)
+- [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) -  (5 days ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 week ago)
+- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (1 week ago)
 - [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) -  (1 week ago)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (1 week ago)
 - [bloomberg/bloomberg.github.io](https://github.com/bloomberg/bloomberg.github.io) - Source code for the https://bloomberg.github.io site (1 month ago)
@@ -34,27 +34,27 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Bump harden-runner to v2.20.1 for Node 24 runtime](https://github.com/uwu-tools/.github/pull/98) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (3 days ago)
-- [Fix malformed org config and add pre-merge lint guard](https://github.com/uwu-tools/.github/pull/97) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (3 days ago)
-- [Match Ubuntu runner labels by pattern, not a fixed list](https://github.com/ossf/scorecard-webapp/pull/998) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (4 days ago)
-- [Research provider-agnostic Scorecard data infrastructure](https://github.com/uwu-tools/scorecard-infra/pull/19) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (4 days ago)
-- [Fix broken CI: lint config, private-repo perms, zizmor](https://github.com/uwu-tools/scorecard-infra/pull/12) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (4 days ago)
-- [Rename module path to scorecard-infra](https://github.com/uwu-tools/scorecard-infra/pull/11) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (4 days ago)
-- [Add fallback API server functionality](https://github.com/uwu-tools/scorecard-infra/pull/10) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (5 days ago)
-- [Archive v0 OpenSpec change and add feature flagging (OpenFeature)](https://github.com/uwu-tools/scorecard-infra/pull/9) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (5 days ago)
-- [feat: add local Docker Compose dev environment](https://github.com/uwu-tools/scorecard-infra/pull/8) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (5 days ago)
+- [Bump harden-runner to v2.20.1 for Node 24 runtime](https://github.com/uwu-tools/.github/pull/98) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (4 days ago)
+- [Fix malformed org config and add pre-merge lint guard](https://github.com/uwu-tools/.github/pull/97) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (4 days ago)
+- [Match Ubuntu runner labels by pattern, not a fixed list](https://github.com/ossf/scorecard-webapp/pull/998) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (5 days ago)
+- [Research provider-agnostic Scorecard data infrastructure](https://github.com/uwu-tools/scorecard-infra/pull/19) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (5 days ago)
+- [Fix broken CI: lint config, private-repo perms, zizmor](https://github.com/uwu-tools/scorecard-infra/pull/12) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (5 days ago)
+- [Rename module path to scorecard-infra](https://github.com/uwu-tools/scorecard-infra/pull/11) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (5 days ago)
+- [Add fallback API server functionality](https://github.com/uwu-tools/scorecard-infra/pull/10) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (6 days ago)
+- [Archive v0 OpenSpec change and add feature flagging (OpenFeature)](https://github.com/uwu-tools/scorecard-infra/pull/9) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (6 days ago)
+- [feat: add local Docker Compose dev environment](https://github.com/uwu-tools/scorecard-infra/pull/8) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (6 days ago)
 - [Archive initial OpenSpec change and document MCP Inspector testing](https://github.com/uwu-tools/scorecard-mcp/pull/10) on [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [ossf/oss-crs-actions](https://github.com/ossf/oss-crs-actions) -  (3 days ago)
-- [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) -  (3 days ago)
+- [ossf/oss-crs-actions](https://github.com/ossf/oss-crs-actions) -  (4 days ago)
+- [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) -  (4 days ago)
 - [alpha-omega-security/threat-model](https://github.com/alpha-omega-security/threat-model) - Agent skill for producing threat models for open-source projects (1 week ago)
 - [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) -  (1 week ago)
 - [carabiner-dev/miniprow](https://github.com/carabiner-dev/miniprow) - A GitHub app that emulates @kubernetes prow chatops on PRs but with enhaced security through AMPEL policies and secure tagging support (1 week ago)
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (1 week ago)
 - [andrew/weekend-at-bernies](https://github.com/andrew/weekend-at-bernies) - Data collection for Weekend at Bernie&#39;s blog post (1 week ago)
-- [openai/codex-security](https://github.com/openai/codex-security) - OpenAI&#39;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security (1 week ago)
+- [openai/codex-security](https://github.com/openai/codex-security) - OpenAI&#39;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security (2 weeks ago)
 - [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes (3 weeks ago)
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (3 weeks ago)
 
