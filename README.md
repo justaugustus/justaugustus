@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI, the tokenless way: https://github.com/marketplace/actions/pypi-publish (today)
 - [ossf/oss-crs-actions](https://github.com/ossf/oss-crs-actions) -  (6 days ago)
 - [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) -  (6 days ago)
 - [alpha-omega-security/threat-model](https://github.com/alpha-omega-security/threat-model) - Agent skill for producing threat models for open-source projects (1 week ago)
@@ -56,7 +57,6 @@
 - [andrew/weekend-at-bernies](https://github.com/andrew/weekend-at-bernies) - Data collection for Weekend at Bernie&#39;s blog post (2 weeks ago)
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI&#39;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security (2 weeks ago)
 - [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes (3 weeks ago)
-- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (3 weeks ago)
 
 
 
