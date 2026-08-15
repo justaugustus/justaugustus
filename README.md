@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (5 days ago)
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (6 days ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 week ago)
 - [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) -  (1 week ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 week ago)
@@ -34,8 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Bump harden-runner to v2.20.1 for Node 24 runtime](https://github.com/uwu-tools/.github/pull/98) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (6 days ago)
-- [Fix malformed org config and add pre-merge lint guard](https://github.com/uwu-tools/.github/pull/97) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (6 days ago)
+- [Bump harden-runner to v2.20.1 for Node 24 runtime](https://github.com/uwu-tools/.github/pull/98) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 week ago)
+- [Fix malformed org config and add pre-merge lint guard](https://github.com/uwu-tools/.github/pull/97) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 week ago)
 - [Match Ubuntu runner labels by pattern, not a fixed list](https://github.com/ossf/scorecard-webapp/pull/998) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (1 week ago)
 - [Research provider-agnostic Scorecard data infrastructure](https://github.com/uwu-tools/scorecard-infra/pull/19) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (1 week ago)
 - [Fix broken CI: lint config, private-repo perms, zizmor](https://github.com/uwu-tools/scorecard-infra/pull/12) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (1 week ago)
@@ -47,9 +47,9 @@
 
 #### ⭐ Recent Stars
 
-- [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI, the tokenless way: https://github.com/marketplace/actions/pypi-publish (today)
-- [ossf/oss-crs-actions](https://github.com/ossf/oss-crs-actions) -  (6 days ago)
-- [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) -  (6 days ago)
+- [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI, the tokenless way: https://github.com/marketplace/actions/pypi-publish (1 day ago)
+- [ossf/oss-crs-actions](https://github.com/ossf/oss-crs-actions) -  (1 week ago)
+- [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) -  (1 week ago)
 - [alpha-omega-security/threat-model](https://github.com/alpha-omega-security/threat-model) - Agent skill for producing threat models for open-source projects (1 week ago)
 - [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) -  (1 week ago)
 - [carabiner-dev/miniprow](https://github.com/carabiner-dev/miniprow) - A GitHub app that emulates @kubernetes prow chatops on PRs but with enhaced security through AMPEL policies and secure tagging support (1 week ago)
