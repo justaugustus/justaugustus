@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix broken `github/evergreen` action reference](https://github.com/bloomberg/.github/pull/83) on [bloomberg/.github](https://github.com/bloomberg/.github) (today)
 - [Bump harden-runner to v2.20.1 for Node 24 runtime](https://github.com/uwu-tools/.github/pull/98) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 week ago)
 - [Fix malformed org config and add pre-merge lint guard](https://github.com/uwu-tools/.github/pull/97) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 week ago)
 - [Match Ubuntu runner labels by pattern, not a fixed list](https://github.com/ossf/scorecard-webapp/pull/998) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (1 week ago)
@@ -43,7 +44,6 @@
 - [Add fallback API server functionality](https://github.com/uwu-tools/scorecard-infra/pull/10) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (1 week ago)
 - [Archive v0 OpenSpec change and add feature flagging (OpenFeature)](https://github.com/uwu-tools/scorecard-infra/pull/9) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (1 week ago)
 - [feat: add local Docker Compose dev environment](https://github.com/uwu-tools/scorecard-infra/pull/8) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (1 week ago)
-- [Archive initial OpenSpec change and document MCP Inspector testing](https://github.com/uwu-tools/scorecard-mcp/pull/10) on [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) (1 week ago)
 
 #### ⭐ Recent Stars
 
