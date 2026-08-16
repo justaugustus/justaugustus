@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix run-scorecard job auth and missing permissions](https://github.com/bloomberg/.github/pull/84) on [bloomberg/.github](https://github.com/bloomberg/.github) (today)
 - [Fix broken `github/evergreen` action reference](https://github.com/bloomberg/.github/pull/83) on [bloomberg/.github](https://github.com/bloomberg/.github) (today)
 - [Bump harden-runner to v2.20.1 for Node 24 runtime](https://github.com/uwu-tools/.github/pull/98) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 week ago)
 - [Fix malformed org config and add pre-merge lint guard](https://github.com/uwu-tools/.github/pull/97) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 week ago)
@@ -43,7 +44,6 @@
 - [Rename module path to scorecard-infra](https://github.com/uwu-tools/scorecard-infra/pull/11) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (1 week ago)
 - [Add fallback API server functionality](https://github.com/uwu-tools/scorecard-infra/pull/10) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (1 week ago)
 - [Archive v0 OpenSpec change and add feature flagging (OpenFeature)](https://github.com/uwu-tools/scorecard-infra/pull/9) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (1 week ago)
-- [feat: add local Docker Compose dev environment](https://github.com/uwu-tools/scorecard-infra/pull/8) on [uwu-tools/scorecard-infra](https://github.com/uwu-tools/scorecard-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
