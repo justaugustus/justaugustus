@@ -34,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Move to ossf/scorecard-infra](https://github.com/ossf/scorecard-infra/pull/24) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
+- [Rename to `ossf/scorecard-infra`](https://github.com/ossf/scorecard-infra/pull/24) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Fix run-scorecard job auth and missing permissions](https://github.com/bloomberg/.github/pull/84) on [bloomberg/.github](https://github.com/bloomberg/.github) (2 days ago)
 - [Fix broken `github/evergreen` action reference](https://github.com/bloomberg/.github/pull/83) on [bloomberg/.github](https://github.com/bloomberg/.github) (2 days ago)
 - [Bump harden-runner to v2.20.1 for Node 24 runtime](https://github.com/uwu-tools/.github/pull/98) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 week ago)
