@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Import the batch scanning pipeline from `ossf/scorecard`](https://github.com/ossf/scorecard-infra/pull/27) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Propose migrating the batch scanning pipeline out of ossf/scorecard](https://github.com/ossf/scorecard-infra/pull/26) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Rename to `ossf/scorecard-infra`](https://github.com/ossf/scorecard-infra/pull/24) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
 - [Fix run-scorecard job auth and missing permissions](https://github.com/bloomberg/.github/pull/84) on [bloomberg/.github](https://github.com/bloomberg/.github) (4 days ago)
@@ -43,7 +44,6 @@
 - [Match Ubuntu runner labels by pattern, not a fixed list](https://github.com/ossf/scorecard-webapp/pull/998) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (1 week ago)
 - [Research provider-agnostic Scorecard data infrastructure](https://github.com/ossf/scorecard-infra/pull/19) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 - [Fix broken CI: lint config, private-repo perms, zizmor](https://github.com/ossf/scorecard-infra/pull/12) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
-- [Rename module path to scorecard-infra](https://github.com/ossf/scorecard-infra/pull/11) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
