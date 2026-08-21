@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [google/capslock](https://github.com/google/capslock) -  (today)
 - [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI, the tokenless way: https://github.com/marketplace/actions/pypi-publish (1 week ago)
 - [ossf/oss-crs-actions](https://github.com/ossf/oss-crs-actions) -  (1 week ago)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) -  (1 week ago)
@@ -56,7 +57,6 @@
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (3 weeks ago)
 - [andrew/weekend-at-bernies](https://github.com/andrew/weekend-at-bernies) - Data collection for Weekend at Bernie&#39;s blog post (3 weeks ago)
 - [openai/codex-security](https://github.com/openai/codex-security) - OpenAI&#39;s Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security (3 weeks ago)
-- [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko) - Agentic review of Linux Kernel code changes (1 month ago)
 
 
 
