@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) -  (1 day ago)
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) -  (today)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (5 days ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 week ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 weeks ago)
@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Batch pipeline image updates by dependency and pin the API server image](https://github.com/ossf/scorecard-infra/pull/42) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Import the batch scanning pipeline from `ossf/scorecard`](https://github.com/ossf/scorecard-infra/pull/27) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
 - [Propose migrating the batch scanning pipeline out of ossf/scorecard](https://github.com/ossf/scorecard-infra/pull/26) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
 - [Rename to `ossf/scorecard-infra`](https://github.com/ossf/scorecard-infra/pull/24) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (3 days ago)
@@ -43,7 +44,6 @@
 - [Fix malformed org config and add pre-merge lint guard](https://github.com/uwu-tools/.github/pull/97) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (1 week ago)
 - [Match Ubuntu runner labels by pattern, not a fixed list](https://github.com/ossf/scorecard-webapp/pull/998) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (2 weeks ago)
 - [Research provider-agnostic Scorecard data infrastructure](https://github.com/ossf/scorecard-infra/pull/19) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 weeks ago)
-- [Fix broken CI: lint config, private-repo perms, zizmor](https://github.com/ossf/scorecard-infra/pull/12) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
