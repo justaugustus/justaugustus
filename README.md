@@ -34,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Describe the repository by what it is, not by its first component](https://github.com/ossf/scorecard-infra/pull/47) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
+- [Update repo documentation to describe all project infra](https://github.com/ossf/scorecard-infra/pull/47) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Batch pipeline image updates by dependency and pin the API server image](https://github.com/ossf/scorecard-infra/pull/42) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Import the batch scanning pipeline from `ossf/scorecard`](https://github.com/ossf/scorecard-infra/pull/27) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
 - [Propose migrating the batch scanning pipeline out of ossf/scorecard](https://github.com/ossf/scorecard-infra/pull/26) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
