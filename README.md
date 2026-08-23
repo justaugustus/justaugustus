@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize (today)
 - [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store. (today)
 - [google/capslock](https://github.com/google/capslock) -  (2 days ago)
 - [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI, the tokenless way: https://github.com/marketplace/actions/pypi-publish (1 week ago)
@@ -56,7 +57,6 @@
 - [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) -  (3 weeks ago)
 - [carabiner-dev/miniprow](https://github.com/carabiner-dev/miniprow) - A GitHub app that emulates @kubernetes prow chatops on PRs but with enhaced security through AMPEL policies and secure tagging support (3 weeks ago)
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (3 weeks ago)
-- [andrew/weekend-at-bernies](https://github.com/andrew/weekend-at-bernies) - Data collection for Weekend at Bernie&#39;s blog post (3 weeks ago)
 
 
 
