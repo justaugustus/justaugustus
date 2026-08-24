@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) -  (3 days ago)
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) -  (today)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 week ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (2 weeks ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 weeks ago)
@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Trim duplicated and stale content from AGENTS.md](https://github.com/ossf/scorecard-infra/pull/48) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Update repo documentation to describe all project infra](https://github.com/ossf/scorecard-infra/pull/47) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (3 days ago)
 - [Batch pipeline image updates by dependency and pin the API server image](https://github.com/ossf/scorecard-infra/pull/42) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (3 days ago)
 - [Import the batch scanning pipeline from `ossf/scorecard`](https://github.com/ossf/scorecard-infra/pull/27) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (4 days ago)
@@ -43,7 +44,6 @@
 - [Fix broken `github/evergreen` action reference](https://github.com/bloomberg/.github/pull/83) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 week ago)
 - [Bump harden-runner to v2.20.1 for Node 24 runtime](https://github.com/uwu-tools/.github/pull/98) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 weeks ago)
 - [Fix malformed org config and add pre-merge lint guard](https://github.com/uwu-tools/.github/pull/97) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 weeks ago)
-- [Match Ubuntu runner labels by pattern, not a fixed list](https://github.com/ossf/scorecard-webapp/pull/998) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
