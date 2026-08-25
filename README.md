@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Prepare the results API&#39;s production cutover](https://github.com/ossf/scorecard-infra/pull/55) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Import the results API from ossf/scorecard-webapp](https://github.com/ossf/scorecard-infra/pull/49) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
 - [Trim duplicated and stale content from AGENTS.md](https://github.com/ossf/scorecard-infra/pull/48) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
 - [Update repo documentation to describe all project infra](https://github.com/ossf/scorecard-infra/pull/47) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (4 days ago)
@@ -43,7 +44,6 @@
 - [Rename to `ossf/scorecard-infra`](https://github.com/ossf/scorecard-infra/pull/24) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 - [Fix run-scorecard job auth and missing permissions](https://github.com/bloomberg/.github/pull/84) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 week ago)
 - [Fix broken `github/evergreen` action reference](https://github.com/bloomberg/.github/pull/83) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 week ago)
-- [Bump harden-runner to v2.20.1 for Node 24 runtime](https://github.com/uwu-tools/.github/pull/98) on [uwu-tools/.github](https://github.com/uwu-tools/.github) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
