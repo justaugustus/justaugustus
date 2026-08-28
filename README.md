@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Verify the DNS delegation and capture what the GCP account holds](https://github.com/ossf/scorecard-infra/pull/57) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [site: Restore homepage two-column layout](https://github.com/ossf/scorecard-webapp/pull/1032) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (2 days ago)
 - [Prepare the results API&#39;s production cutover](https://github.com/ossf/scorecard-infra/pull/55) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (3 days ago)
 - [Import the results API from ossf/scorecard-webapp](https://github.com/ossf/scorecard-infra/pull/49) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (4 days ago)
@@ -43,7 +44,6 @@
 - [Import the batch scanning pipeline from `ossf/scorecard`](https://github.com/ossf/scorecard-infra/pull/27) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 - [Propose migrating the batch scanning pipeline out of ossf/scorecard](https://github.com/ossf/scorecard-infra/pull/26) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 - [Rename to `ossf/scorecard-infra`](https://github.com/ossf/scorecard-infra/pull/24) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
-- [Fix run-scorecard job auth and missing permissions](https://github.com/bloomberg/.github/pull/84) on [bloomberg/.github](https://github.com/bloomberg/.github) (1 week ago)
 
 #### ⭐ Recent Stars
 
