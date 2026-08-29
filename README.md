@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) -  (1 day ago)
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) -  (today)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 days ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 week ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (3 weeks ago)
@@ -34,6 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Confirm the object key contract and task role&#39;s permission boundary](https://github.com/ossf/scorecard-infra/pull/67) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
+- [Apply and verify the AWS serving environment&#39;s staging origin](https://github.com/ossf/scorecard-infra/pull/66) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Add Codecov component and coverage-visibility config](https://github.com/ossf/scorecard-infra/pull/65) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Define the AWS serving environment in OpenTofu](https://github.com/ossf/scorecard-infra/pull/64) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Publish all container images to ghcr.io](https://github.com/ossf/scorecard-infra/pull/63) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
@@ -42,8 +44,6 @@
 - [Prepare the results API&#39;s production cutover](https://github.com/ossf/scorecard-infra/pull/55) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (4 days ago)
 - [Import the results API from ossf/scorecard-webapp](https://github.com/ossf/scorecard-infra/pull/49) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (5 days ago)
 - [Trim duplicated and stale content from AGENTS.md](https://github.com/ossf/scorecard-infra/pull/48) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (5 days ago)
-- [Update repo documentation to describe all project infra](https://github.com/ossf/scorecard-infra/pull/47) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
-- [Batch pipeline image updates by dependency and pin the API server image](https://github.com/ossf/scorecard-infra/pull/42) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
