@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add Codecov component and coverage-visibility config](https://github.com/ossf/scorecard-infra/pull/65) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Define the AWS serving environment in OpenTofu](https://github.com/ossf/scorecard-infra/pull/64) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Publish all container images to ghcr.io](https://github.com/ossf/scorecard-infra/pull/63) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
 - [Verify the DNS delegation and capture what the GCP account holds](https://github.com/ossf/scorecard-infra/pull/57) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
@@ -43,7 +44,6 @@
 - [Trim duplicated and stale content from AGENTS.md](https://github.com/ossf/scorecard-infra/pull/48) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (5 days ago)
 - [Update repo documentation to describe all project infra](https://github.com/ossf/scorecard-infra/pull/47) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 - [Batch pipeline image updates by dependency and pin the API server image](https://github.com/ossf/scorecard-infra/pull/42) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
-- [Import the batch scanning pipeline from `ossf/scorecard`](https://github.com/ossf/scorecard-infra/pull/27) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
