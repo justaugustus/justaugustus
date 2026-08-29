@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (2 days ago)
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) -  (4 days ago)
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) -  (1 day ago)
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 days ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 week ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (3 weeks ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (3 weeks ago)
@@ -34,26 +34,26 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Verify the DNS delegation and capture what the GCP account holds](https://github.com/ossf/scorecard-infra/pull/57) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
-- [site: Restore homepage two-column layout](https://github.com/ossf/scorecard-webapp/pull/1032) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (2 days ago)
-- [Prepare the results API&#39;s production cutover](https://github.com/ossf/scorecard-infra/pull/55) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (3 days ago)
-- [Import the results API from ossf/scorecard-webapp](https://github.com/ossf/scorecard-infra/pull/49) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (4 days ago)
-- [Trim duplicated and stale content from AGENTS.md](https://github.com/ossf/scorecard-infra/pull/48) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (4 days ago)
+- [Publish all container images to ghcr.io](https://github.com/ossf/scorecard-infra/pull/63) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
+- [Verify the DNS delegation and capture what the GCP account holds](https://github.com/ossf/scorecard-infra/pull/57) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
+- [site: Restore homepage two-column layout](https://github.com/ossf/scorecard-webapp/pull/1032) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (3 days ago)
+- [Prepare the results API&#39;s production cutover](https://github.com/ossf/scorecard-infra/pull/55) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (4 days ago)
+- [Import the results API from ossf/scorecard-webapp](https://github.com/ossf/scorecard-infra/pull/49) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (5 days ago)
+- [Trim duplicated and stale content from AGENTS.md](https://github.com/ossf/scorecard-infra/pull/48) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (5 days ago)
 - [Update repo documentation to describe all project infra](https://github.com/ossf/scorecard-infra/pull/47) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 - [Batch pipeline image updates by dependency and pin the API server image](https://github.com/ossf/scorecard-infra/pull/42) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 - [Import the batch scanning pipeline from `ossf/scorecard`](https://github.com/ossf/scorecard-infra/pull/27) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 - [Propose migrating the batch scanning pipeline out of ossf/scorecard](https://github.com/ossf/scorecard-infra/pull/26) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
-- [Rename to `ossf/scorecard-infra`](https://github.com/ossf/scorecard-infra/pull/24) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [slsa-framework/actions](https://github.com/slsa-framework/actions) - Stores the GitHub Actions used by the SLSA Source Tool (today)
-- [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize (5 days ago)
-- [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store. (5 days ago)
+- [slsa-framework/actions](https://github.com/slsa-framework/actions) - Stores the GitHub Actions used by the SLSA Source Tool (1 day ago)
+- [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize (6 days ago)
+- [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store. (6 days ago)
 - [google/capslock](https://github.com/google/capslock) -  (1 week ago)
 - [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI, the tokenless way: https://github.com/marketplace/actions/pypi-publish (2 weeks ago)
-- [ossf/oss-crs-actions](https://github.com/ossf/oss-crs-actions) -  (2 weeks ago)
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) -  (2 weeks ago)
+- [ossf/oss-crs-actions](https://github.com/ossf/oss-crs-actions) -  (3 weeks ago)
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) -  (3 weeks ago)
 - [alpha-omega-security/threat-model](https://github.com/alpha-omega-security/threat-model) - Agent skill for producing threat models for open-source projects (3 weeks ago)
 - [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) -  (3 weeks ago)
 - [carabiner-dev/miniprow](https://github.com/carabiner-dev/miniprow) - A GitHub app that emulates @kubernetes prow chatops on PRs but with enhaced security through AMPEL policies and secure tagging support (3 weeks ago)
