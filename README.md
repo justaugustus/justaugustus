@@ -35,7 +35,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Decide ESPv2&#39;s fate and close migrate-api&#39;s CDN-path caveat](https://github.com/ossf/scorecard-infra/pull/68) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
-- [Confirm the object key contract and task role&#39;s permission boundary](https://github.com/ossf/scorecard-infra/pull/67) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
+- [Complete `provision-aws` verification and archive proposal](https://github.com/ossf/scorecard-infra/pull/67) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Apply and verify the AWS serving environment&#39;s staging origin](https://github.com/ossf/scorecard-infra/pull/66) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Add Codecov component and coverage-visibility config](https://github.com/ossf/scorecard-infra/pull/65) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Define the AWS serving environment in OpenTofu](https://github.com/ossf/scorecard-infra/pull/64) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
