@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix the API image&#39;s startup and require it to serve in CI](https://github.com/ossf/scorecard-infra/pull/71) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Decide ESPv2&#39;s fate and close migrate-api&#39;s CDN-path caveat](https://github.com/ossf/scorecard-infra/pull/68) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
 - [Complete `provision-aws` verification and archive proposal](https://github.com/ossf/scorecard-infra/pull/67) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
 - [Apply and verify the AWS serving environment&#39;s staging origin](https://github.com/ossf/scorecard-infra/pull/66) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
@@ -43,7 +44,6 @@
 - [Verify the DNS delegation and capture what the GCP account holds](https://github.com/ossf/scorecard-infra/pull/57) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
 - [site: Restore homepage two-column layout](https://github.com/ossf/scorecard-webapp/pull/1032) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (4 days ago)
 - [Prepare the results API&#39;s production cutover](https://github.com/ossf/scorecard-infra/pull/55) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (5 days ago)
-- [Import the results API from ossf/scorecard-webapp](https://github.com/ossf/scorecard-infra/pull/49) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (6 days ago)
 
 #### ⭐ Recent Stars
 
