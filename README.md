@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [deploy: Bootstrap secrets module for cron and resolve `migrate-api` 3.7/4.4](https://github.com/ossf/scorecard-infra/pull/78) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Reconcile `migrate-api` tasks against the completed cutover](https://github.com/ossf/scorecard-infra/pull/76) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Fully archive `provision-aws` and fix docs bugs found closing it out](https://github.com/ossf/scorecard-infra/pull/74) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Trigger Scorecard Action run to validate AWS purge (6.6b)](https://github.com/justaugustus/scorecard-action-test/pull/1) on [justaugustus/scorecard-action-test](https://github.com/justaugustus/scorecard-action-test) (today)
@@ -43,7 +44,6 @@
 - [Apply and verify the AWS serving environment&#39;s staging origin](https://github.com/ossf/scorecard-infra/pull/66) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
 - [Add Codecov component and coverage-visibility config](https://github.com/ossf/scorecard-infra/pull/65) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
 - [Define the AWS serving environment in OpenTofu](https://github.com/ossf/scorecard-infra/pull/64) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
-- [Publish all container images to ghcr.io](https://github.com/ossf/scorecard-infra/pull/63) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
 
 #### ⭐ Recent Stars
 
