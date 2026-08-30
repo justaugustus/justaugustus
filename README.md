@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) -  (1 day ago)
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) -  (today)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (4 days ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (2 weeks ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (3 weeks ago)
