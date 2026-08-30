@@ -8,21 +8,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) -  (today)
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 days ago)
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 week ago)
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) -  (1 day ago)
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (4 days ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (2 weeks ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (3 weeks ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (3 weeks ago)
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (3 weeks ago)
 - [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) -  (3 weeks ago)
-- [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (4 weeks ago)
+- [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (1 month ago)
 - [bloomberg/bloomberg.github.io](https://github.com/bloomberg/bloomberg.github.io) - Source code for the https://bloomberg.github.io site (1 month ago)
 - [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) - Causal Discovery for Time Series (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.26.0](https://github.com/bloomberg/causal-ts/releases/tag/v0.26.0), 1 week ago) - Causal Discovery for Time Series
-- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) ([v0.1.0](https://github.com/darnitdevorg/darnit/releases/tag/v0.1.0), 4 weeks ago) - 
+- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.26.0](https://github.com/bloomberg/causal-ts/releases/tag/v0.26.0), 2 weeks ago) - Causal Discovery for Time Series
+- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) ([v0.1.0](https://github.com/darnitdevorg/darnit/releases/tag/v0.1.0), 1 month ago) - 
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.4](https://github.com/ossf/scorecard-action/releases/tag/v2.4.4), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.7), 2 months ago) - Interfaces and implementations for building Kubernetes releases.
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.5.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.5.1), 2 months ago) - Container and file artifact promotion tooling for the Kubernetes project
@@ -34,29 +34,29 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Decide ESPv2&#39;s fate and close migrate-api&#39;s CDN-path caveat](https://github.com/ossf/scorecard-infra/pull/68) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
-- [Complete `provision-aws` verification and archive proposal](https://github.com/ossf/scorecard-infra/pull/67) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
-- [Apply and verify the AWS serving environment&#39;s staging origin](https://github.com/ossf/scorecard-infra/pull/66) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
-- [Add Codecov component and coverage-visibility config](https://github.com/ossf/scorecard-infra/pull/65) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
-- [Define the AWS serving environment in OpenTofu](https://github.com/ossf/scorecard-infra/pull/64) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
-- [Publish all container images to ghcr.io](https://github.com/ossf/scorecard-infra/pull/63) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
-- [Verify the DNS delegation and capture what the GCP account holds](https://github.com/ossf/scorecard-infra/pull/57) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
-- [site: Restore homepage two-column layout](https://github.com/ossf/scorecard-webapp/pull/1032) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (3 days ago)
-- [Prepare the results API&#39;s production cutover](https://github.com/ossf/scorecard-infra/pull/55) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (4 days ago)
-- [Import the results API from ossf/scorecard-webapp](https://github.com/ossf/scorecard-infra/pull/49) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (5 days ago)
+- [Decide ESPv2&#39;s fate and close migrate-api&#39;s CDN-path caveat](https://github.com/ossf/scorecard-infra/pull/68) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
+- [Complete `provision-aws` verification and archive proposal](https://github.com/ossf/scorecard-infra/pull/67) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
+- [Apply and verify the AWS serving environment&#39;s staging origin](https://github.com/ossf/scorecard-infra/pull/66) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
+- [Add Codecov component and coverage-visibility config](https://github.com/ossf/scorecard-infra/pull/65) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
+- [Define the AWS serving environment in OpenTofu](https://github.com/ossf/scorecard-infra/pull/64) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
+- [Publish all container images to ghcr.io](https://github.com/ossf/scorecard-infra/pull/63) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
+- [Verify the DNS delegation and capture what the GCP account holds](https://github.com/ossf/scorecard-infra/pull/57) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
+- [site: Restore homepage two-column layout](https://github.com/ossf/scorecard-webapp/pull/1032) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (4 days ago)
+- [Prepare the results API&#39;s production cutover](https://github.com/ossf/scorecard-infra/pull/55) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (5 days ago)
+- [Import the results API from ossf/scorecard-webapp](https://github.com/ossf/scorecard-infra/pull/49) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [slsa-framework/actions](https://github.com/slsa-framework/actions) - Stores the GitHub Actions used by the SLSA Source Tool (1 day ago)
-- [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize (6 days ago)
-- [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store. (6 days ago)
+- [slsa-framework/actions](https://github.com/slsa-framework/actions) - Stores the GitHub Actions used by the SLSA Source Tool (2 days ago)
+- [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize (1 week ago)
+- [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store. (1 week ago)
 - [google/capslock](https://github.com/google/capslock) -  (1 week ago)
 - [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI, the tokenless way: https://github.com/marketplace/actions/pypi-publish (2 weeks ago)
 - [ossf/oss-crs-actions](https://github.com/ossf/oss-crs-actions) -  (3 weeks ago)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) -  (3 weeks ago)
 - [alpha-omega-security/threat-model](https://github.com/alpha-omega-security/threat-model) - Agent skill for producing threat models for open-source projects (3 weeks ago)
-- [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) -  (3 weeks ago)
-- [carabiner-dev/miniprow](https://github.com/carabiner-dev/miniprow) - A GitHub app that emulates @kubernetes prow chatops on PRs but with enhaced security through AMPEL policies and secure tagging support (3 weeks ago)
+- [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) -  (4 weeks ago)
+- [carabiner-dev/miniprow](https://github.com/carabiner-dev/miniprow) - A GitHub app that emulates @kubernetes prow chatops on PRs but with enhaced security through AMPEL policies and secure tagging support (4 weeks ago)
 
 
 
