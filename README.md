@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Provision the AWS batch scanning plane: network, queue, and EKS cluster](https://github.com/ossf/scorecard-infra/pull/81) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Archive complete proposals and open `provision-cron-aws`](https://github.com/ossf/scorecard-infra/pull/80) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [README: Split out per-component docs and correct migration framing](https://github.com/ossf/scorecard-infra/pull/79) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
 - [deploy: Bootstrap secrets module for cron and resolve `migrate-api` 3.7/4.4](https://github.com/ossf/scorecard-infra/pull/78) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
@@ -43,7 +44,6 @@
 - [Fix the API image&#39;s startup and require it to serve in CI](https://github.com/ossf/scorecard-infra/pull/71) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
 - [Decide ESPv2&#39;s fate and close migrate-api&#39;s CDN-path caveat](https://github.com/ossf/scorecard-infra/pull/68) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
 - [Complete `provision-aws` verification and archive proposal](https://github.com/ossf/scorecard-infra/pull/67) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
-- [Apply and verify the AWS serving environment&#39;s staging origin](https://github.com/ossf/scorecard-infra/pull/66) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
 
 #### ⭐ Recent Stars
 
