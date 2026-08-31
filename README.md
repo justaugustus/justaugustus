@@ -30,10 +30,11 @@
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.4), 5 months ago) - 
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.19](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.19), 6 months ago) - Website and API for OpenSSF Scorecard
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 8 months ago) - Repo for SIG release
-- [ossf/allstar](https://github.com/ossf/allstar) ([v4.5](https://github.com/ossf/allstar/releases/tag/v4.5), 11 months ago) - GitHub App to set and enforce security policies
+- [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) ([v2.0.0-beta8](https://github.com/ossf/scorecard-monitor/releases/tag/v2.0.0-beta8), 2 years ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 
 #### 🔨 My recent Pull Requests
 
+- [.github: Generate release notes and draft releases](https://github.com/ossf/allstar/pull/884) on [ossf/allstar](https://github.com/ossf/allstar) (today)
 - [Remove OpenSSF-hosted app installation path](https://github.com/ossf/allstar/pull/880) on [ossf/allstar](https://github.com/ossf/allstar) (today)
 - [Provision the AWS batch scanning plane: network, queue, and EKS cluster](https://github.com/ossf/scorecard-infra/pull/81) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Archive complete proposals and open `provision-cron-aws`](https://github.com/ossf/scorecard-infra/pull/80) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
@@ -43,7 +44,6 @@
 - [Fully archive `provision-aws` and fix docs bugs found closing it out](https://github.com/ossf/scorecard-infra/pull/74) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
 - [Trigger Scorecard Action run to validate AWS purge (6.6b)](https://github.com/justaugustus/scorecard-action-test/pull/1) on [justaugustus/scorecard-action-test](https://github.com/justaugustus/scorecard-action-test) (1 day ago)
 - [Fix the API image&#39;s startup and require it to serve in CI](https://github.com/ossf/scorecard-infra/pull/71) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
-- [Decide ESPv2&#39;s fate and close migrate-api&#39;s CDN-path caveat](https://github.com/ossf/scorecard-infra/pull/68) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
 
 #### ⭐ Recent Stars
 
