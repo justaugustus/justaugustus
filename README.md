@@ -12,12 +12,12 @@
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (5 days ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (2 weeks ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (3 weeks ago)
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (3 weeks ago)
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (3 weeks ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (3 weeks ago)
 - [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) -  (3 weeks ago)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (1 month ago)
+- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 month ago)
 - [bloomberg/bloomberg.github.io](https://github.com/bloomberg/bloomberg.github.io) - Source code for the https://bloomberg.github.io site (1 month ago)
-- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) - Causal Discovery for Time Series (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
