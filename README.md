@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 day ago)
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (today)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (5 days ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (2 weeks ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (3 weeks ago)
@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Archive complete proposals and open `provision-cron-aws`](https://github.com/ossf/scorecard-infra/pull/80) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [README: Split out per-component docs and correct migration framing](https://github.com/ossf/scorecard-infra/pull/79) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
 - [deploy: Bootstrap secrets module for cron and resolve `migrate-api` 3.7/4.4](https://github.com/ossf/scorecard-infra/pull/78) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
 - [Reconcile `migrate-api` tasks against the completed cutover](https://github.com/ossf/scorecard-infra/pull/76) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
@@ -43,7 +44,6 @@
 - [Decide ESPv2&#39;s fate and close migrate-api&#39;s CDN-path caveat](https://github.com/ossf/scorecard-infra/pull/68) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
 - [Complete `provision-aws` verification and archive proposal](https://github.com/ossf/scorecard-infra/pull/67) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
 - [Apply and verify the AWS serving environment&#39;s staging origin](https://github.com/ossf/scorecard-infra/pull/66) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
-- [Add Codecov component and coverage-visibility config](https://github.com/ossf/scorecard-infra/pull/65) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
 
 #### ⭐ Recent Stars
 
