@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: Remove cron/ batch pipeline, now hosted at ossf/scorecard-infra](https://github.com/ossf/scorecard/pull/5210) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [.github: Generate release notes and draft releases](https://github.com/ossf/allstar/pull/884) on [ossf/allstar](https://github.com/ossf/allstar) (1 day ago)
 - [Remove OpenSSF-hosted app installation path](https://github.com/ossf/allstar/pull/880) on [ossf/allstar](https://github.com/ossf/allstar) (1 day ago)
 - [Provision the AWS batch scanning plane: network, queue, and EKS cluster](https://github.com/ossf/scorecard-infra/pull/81) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
@@ -43,7 +44,6 @@
 - [Reconcile `migrate-api` tasks against the completed cutover](https://github.com/ossf/scorecard-infra/pull/76) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
 - [Fully archive `provision-aws` and fix docs bugs found closing it out](https://github.com/ossf/scorecard-infra/pull/74) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
 - [Trigger Scorecard Action run to validate AWS purge (6.6b)](https://github.com/justaugustus/scorecard-action-test/pull/1) on [justaugustus/scorecard-action-test](https://github.com/justaugustus/scorecard-action-test) (2 days ago)
-- [Fix the API image&#39;s startup and require it to serve in CI](https://github.com/ossf/scorecard-infra/pull/71) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
 
 #### ⭐ Recent Stars
 
