@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - Search your past AI coding sessions — Claude Code, Codex, Cursor and 17 more. Indexes the session history they already wrote to disk, including months from before you installed it, and recalls it in any of them. No LLM, no embeddings, one local Go binary. (today)
+- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - Search the session history of Claude Code, Codex, Cursor and 18 more coding agents — the transcripts they already wrote to disk, months from before you installed it — and recall it in any of them. No LLM, no embeddings, one local Go binary. (today)
 - [kusari-oss/waybill](https://github.com/kusari-oss/waybill) - SBOM Generator (1 day ago)
 - [slsa-framework/actions](https://github.com/slsa-framework/actions) - Stores the GitHub Actions used by the SLSA Source Tool (5 days ago)
 - [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize (1 week ago)
