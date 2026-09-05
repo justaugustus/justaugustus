@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (today)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (5 days ago)
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (5 days ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 week ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (2 weeks ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (4 weeks ago)
