@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - Memory for coding agents built from the session history already on disk: Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 17 more. Search months of past sessions, including everything from before you installed it, and recall them in any agent. No LLM, no embeddings, one local Go binary. (4 days ago)
+- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - Memory for coding agents built from the session history already on disk: Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 18 more. Search months of past sessions, including everything from before you installed it, and recall them in any agent. No LLM, no embeddings, one local Go binary. (4 days ago)
 - [kusari-oss/waybill](https://github.com/kusari-oss/waybill) - SBOM Generator (5 days ago)
 - [slsa-framework/actions](https://github.com/slsa-framework/actions) - Stores the GitHub Actions used by the SLSA Source Tool (1 week ago)
 - [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize (2 weeks ago)
