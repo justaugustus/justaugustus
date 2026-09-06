@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [cron: Version the corpus buckets and record result provenance](https://github.com/ossf/scorecard-infra/pull/90) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Verify the batch plane end-to-end and fix the controller&#39;s rawdata grant](https://github.com/ossf/scorecard-infra/pull/89) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [cron: Fix the startup panic crashing the batch workers](https://github.com/ossf/scorecard-infra/pull/88) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Batch pipeline on AWS: SQS subscriber and EKS manifests](https://github.com/ossf/scorecard-infra/pull/87) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
@@ -43,7 +44,6 @@
 - [Provision the AWS batch scanning plane: network, queue, and EKS cluster](https://github.com/ossf/scorecard-infra/pull/81) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (6 days ago)
 - [Archive complete proposals and open `provision-cron-aws`](https://github.com/ossf/scorecard-infra/pull/80) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (6 days ago)
 - [README: Split out per-component docs and correct migration framing](https://github.com/ossf/scorecard-infra/pull/79) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
-- [deploy: Bootstrap secrets module for cron and resolve `migrate-api` 3.7/4.4](https://github.com/ossf/scorecard-infra/pull/78) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
