@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 day ago)
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (today)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (6 days ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 week ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (3 weeks ago)
@@ -34,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Verify the AWS batch plane end-to-end and fix the controller&#39;s rawdata grant](https://github.com/ossf/scorecard-infra/pull/89) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
+- [Verify the batch plane end-to-end and fix the controller&#39;s rawdata grant](https://github.com/ossf/scorecard-infra/pull/89) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [cron: Fix the startup panic crashing the batch workers](https://github.com/ossf/scorecard-infra/pull/88) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Batch pipeline on AWS: SQS subscriber and EKS manifests](https://github.com/ossf/scorecard-infra/pull/87) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
 - [:seedling: Remove cron/ batch pipeline, now hosted at ossf/scorecard-infra](https://github.com/ossf/scorecard/pull/5210) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
