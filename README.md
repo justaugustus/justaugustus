@@ -8,21 +8,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (today)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (5 days ago)
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 day ago)
+- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (6 days ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 week ago)
-- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (2 weeks ago)
-- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (4 weeks ago)
+- [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (3 weeks ago)
+- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 month ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 month ago)
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (1 month ago)
 - [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) -  (1 month ago)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (1 month ago)
-- [bloomberg/bloomberg.github.io](https://github.com/bloomberg/bloomberg.github.io) - Source code for the https://bloomberg.github.io site (1 month ago)
+- [bloomberg/bloomberg.github.io](https://github.com/bloomberg/bloomberg.github.io) - Source code for the https://bloomberg.github.io site (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/allstar](https://github.com/ossf/allstar) ([v4.6](https://github.com/ossf/allstar/releases/tag/v4.6), 5 days ago) - GitHub App to set and enforce security policies
-- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.26.0](https://github.com/bloomberg/causal-ts/releases/tag/v0.26.0), 2 weeks ago) - Causal Discovery for Time Series
+- [ossf/allstar](https://github.com/ossf/allstar) ([v4.6](https://github.com/ossf/allstar/releases/tag/v4.6), 6 days ago) - GitHub App to set and enforce security policies
+- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.26.0](https://github.com/bloomberg/causal-ts/releases/tag/v0.26.0), 3 weeks ago) - Causal Discovery for Time Series
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) ([v0.1.0](https://github.com/darnitdevorg/darnit/releases/tag/v0.1.0), 1 month ago) - 
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.4](https://github.com/ossf/scorecard-action/releases/tag/v2.4.4), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
 - [kubernetes-sigs/release-sdk](https://github.com/kubernetes-sigs/release-sdk) ([v0.12.7](https://github.com/kubernetes-sigs/release-sdk/releases/tag/v0.12.7), 2 months ago) - Interfaces and implementations for building Kubernetes releases.
@@ -30,28 +30,28 @@
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.5.0](https://github.com/ossf/scorecard/releases/tag/v5.5.0), 4 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/release-utils](https://github.com/kubernetes-sigs/release-utils) ([v0.12.4](https://github.com/kubernetes-sigs/release-utils/releases/tag/v0.12.4), 5 months ago) - 
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.19](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.19), 6 months ago) - Website and API for OpenSSF Scorecard
-- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 8 months ago) - Repo for SIG release
+- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 9 months ago) - Repo for SIG release
 
 #### 🔨 My recent Pull Requests
 
-- [:seedling: Remove cron/ batch pipeline, now hosted at ossf/scorecard-infra](https://github.com/ossf/scorecard/pull/5210) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
-- [.github: Generate release notes and draft releases](https://github.com/ossf/allstar/pull/884) on [ossf/allstar](https://github.com/ossf/allstar) (5 days ago)
-- [Remove OpenSSF-hosted app installation path](https://github.com/ossf/allstar/pull/880) on [ossf/allstar](https://github.com/ossf/allstar) (5 days ago)
-- [Provision the AWS batch scanning plane: network, queue, and EKS cluster](https://github.com/ossf/scorecard-infra/pull/81) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (5 days ago)
-- [Archive complete proposals and open `provision-cron-aws`](https://github.com/ossf/scorecard-infra/pull/80) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (5 days ago)
-- [README: Split out per-component docs and correct migration framing](https://github.com/ossf/scorecard-infra/pull/79) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (6 days ago)
-- [deploy: Bootstrap secrets module for cron and resolve `migrate-api` 3.7/4.4](https://github.com/ossf/scorecard-infra/pull/78) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (6 days ago)
-- [Reconcile `migrate-api` tasks against the completed cutover](https://github.com/ossf/scorecard-infra/pull/76) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (6 days ago)
-- [Fully archive `provision-aws` and fix docs bugs found closing it out](https://github.com/ossf/scorecard-infra/pull/74) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (6 days ago)
-- [Trigger Scorecard Action run to validate AWS purge (6.6b)](https://github.com/justaugustus/scorecard-action-test/pull/1) on [justaugustus/scorecard-action-test](https://github.com/justaugustus/scorecard-action-test) (6 days ago)
+- [Batch pipeline on AWS: SQS subscriber and EKS manifests](https://github.com/ossf/scorecard-infra/pull/87) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
+- [:seedling: Remove cron/ batch pipeline, now hosted at ossf/scorecard-infra](https://github.com/ossf/scorecard/pull/5210) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
+- [.github: Generate release notes and draft releases](https://github.com/ossf/allstar/pull/884) on [ossf/allstar](https://github.com/ossf/allstar) (6 days ago)
+- [Remove OpenSSF-hosted app installation path](https://github.com/ossf/allstar/pull/880) on [ossf/allstar](https://github.com/ossf/allstar) (6 days ago)
+- [Provision the AWS batch scanning plane: network, queue, and EKS cluster](https://github.com/ossf/scorecard-infra/pull/81) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (6 days ago)
+- [Archive complete proposals and open `provision-cron-aws`](https://github.com/ossf/scorecard-infra/pull/80) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (6 days ago)
+- [README: Split out per-component docs and correct migration framing](https://github.com/ossf/scorecard-infra/pull/79) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
+- [deploy: Bootstrap secrets module for cron and resolve `migrate-api` 3.7/4.4](https://github.com/ossf/scorecard-infra/pull/78) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
+- [Reconcile `migrate-api` tasks against the completed cutover](https://github.com/ossf/scorecard-infra/pull/76) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
+- [Fully archive `provision-aws` and fix docs bugs found closing it out](https://github.com/ossf/scorecard-infra/pull/74) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - Memory for coding agents built from the session history already on disk: Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 17 more. Search months of past sessions, including everything from before you installed it, and recall them in any agent. No LLM, no embeddings, one local Go binary. (3 days ago)
-- [kusari-oss/waybill](https://github.com/kusari-oss/waybill) - SBOM Generator (4 days ago)
+- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - Memory for coding agents built from the session history already on disk: Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 17 more. Search months of past sessions, including everything from before you installed it, and recall them in any agent. No LLM, no embeddings, one local Go binary. (4 days ago)
+- [kusari-oss/waybill](https://github.com/kusari-oss/waybill) - SBOM Generator (5 days ago)
 - [slsa-framework/actions](https://github.com/slsa-framework/actions) - Stores the GitHub Actions used by the SLSA Source Tool (1 week ago)
-- [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize (1 week ago)
-- [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store. (1 week ago)
+- [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize (2 weeks ago)
+- [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store. (2 weeks ago)
 - [google/capslock](https://github.com/google/capslock) -  (2 weeks ago)
 - [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI, the tokenless way: https://github.com/marketplace/actions/pypi-publish (3 weeks ago)
 - [ossf/oss-crs-actions](https://github.com/ossf/oss-crs-actions) -  (4 weeks ago)
