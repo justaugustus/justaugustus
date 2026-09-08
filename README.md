@@ -8,6 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (2 days ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 week ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 week ago)
@@ -17,7 +18,6 @@
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (1 month ago)
 - [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) -  (1 month ago)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (1 month ago)
-- [bloomberg/bloomberg.github.io](https://github.com/bloomberg/bloomberg.github.io) - Source code for the https://bloomberg.github.io site (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [site: Fix Lighthouse accessibility findings on home page](https://github.com/ossf/scorecard-webapp/pull/1045) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (today)
 - [Migrate the results API to `ossf/scorecard-infra`](https://github.com/ossf/scorecard-webapp/pull/1044) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (today)
 - [:seedling: deps: Upgrade golang.org/x/crypto v0.50.0 =&gt; v0.56.0](https://github.com/ossf/scorecard/pull/5223) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [cron: Enable CDN purging on the production batch plane](https://github.com/ossf/scorecard-infra/pull/92) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
@@ -43,7 +44,6 @@
 - [cron: Fix the startup panic crashing the batch workers](https://github.com/ossf/scorecard-infra/pull/88) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
 - [Batch pipeline on AWS: SQS subscriber and EKS manifests](https://github.com/ossf/scorecard-infra/pull/87) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (3 days ago)
 - [:seedling: Remove cron/ batch pipeline, now hosted at ossf/scorecard-infra](https://github.com/ossf/scorecard/pull/5210) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [.github: Generate release notes and draft releases](https://github.com/ossf/allstar/pull/884) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
 
 #### ⭐ Recent Stars
 
