@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [workflows: Add the CIFuzz (OSS-Fuzz) pull request job](https://github.com/ossf/scorecard-infra/pull/93) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [site: Fix Lighthouse findings on home page](https://github.com/ossf/scorecard-webapp/pull/1045) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (today)
 - [Migrate the results API to `ossf/scorecard-infra`](https://github.com/ossf/scorecard-webapp/pull/1044) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (today)
 - [:seedling: deps: Upgrade golang.org/x/crypto v0.50.0 =&gt; v0.56.0](https://github.com/ossf/scorecard/pull/5223) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
@@ -43,7 +44,6 @@
 - [Verify the batch plane end-to-end and fix the controller&#39;s rawdata grant](https://github.com/ossf/scorecard-infra/pull/89) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
 - [cron: Fix the startup panic crashing the batch workers](https://github.com/ossf/scorecard-infra/pull/88) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
 - [Batch pipeline on AWS: SQS subscriber and EKS manifests](https://github.com/ossf/scorecard-infra/pull/87) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (3 days ago)
-- [:seedling: Remove cron/ batch pipeline, now hosted at ossf/scorecard-infra](https://github.com/ossf/scorecard/pull/5210) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 
 #### ⭐ Recent Stars
 
