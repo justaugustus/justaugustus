@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove the results API: it now lives in ossf/scorecard-infra](https://github.com/ossf/scorecard-webapp/pull/1044) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (today)
 - [:seedling: deps: Upgrade golang.org/x/crypto v0.50.0 =&gt; v0.56.0](https://github.com/ossf/scorecard/pull/5223) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [cron: Enable CDN purging on the production batch plane](https://github.com/ossf/scorecard-infra/pull/92) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
 - [deploy: Point the batch plane at the production corpus](https://github.com/ossf/scorecard-infra/pull/91) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
@@ -43,7 +44,6 @@
 - [Batch pipeline on AWS: SQS subscriber and EKS manifests](https://github.com/ossf/scorecard-infra/pull/87) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (3 days ago)
 - [:seedling: Remove cron/ batch pipeline, now hosted at ossf/scorecard-infra](https://github.com/ossf/scorecard/pull/5210) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [.github: Generate release notes and draft releases](https://github.com/ossf/allstar/pull/884) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
-- [Remove OpenSSF-hosted app installation path](https://github.com/ossf/allstar/pull/880) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
 
 #### ⭐ Recent Stars
 
