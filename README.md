@@ -14,8 +14,8 @@
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 week ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (3 weeks ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 month ago)
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 month ago)
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (1 month ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 month ago)
 - [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) -  (1 month ago)
 - [bloomberg/oss-template](https://github.com/bloomberg/oss-template) - Open Source Project Template (1 month ago)
 
