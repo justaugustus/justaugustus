@@ -8,10 +8,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bloomberg/bonobomock](https://github.com/bloomberg/bonobomock) - A GoogleTest-compatible C&#43;&#43; mocking library using monkey patching to mock free functions, static functions, and virtual/non-virtual class methods. (2 days ago)
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 days ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 days ago)
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (5 days ago)
+- [bloomberg/bonobomock](https://github.com/bloomberg/bonobomock) - A GoogleTest-compatible C&#43;&#43; mocking library using monkey patching to mock free functions, static functions, and virtual/non-virtual class methods. (3 days ago)
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (4 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (4 days ago)
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (6 days ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 week ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (3 weeks ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 month ago)
@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.27.0](https://github.com/bloomberg/causal-ts/releases/tag/v0.27.0), 1 day ago) - Causal Discovery for Time Series
+- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.27.0](https://github.com/bloomberg/causal-ts/releases/tag/v0.27.0), 2 days ago) - Causal Discovery for Time Series
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.6](https://github.com/ossf/allstar/releases/tag/v4.6), 1 week ago) - GitHub App to set and enforce security policies
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) ([v0.1.0](https://github.com/darnitdevorg/darnit/releases/tag/v0.1.0), 1 month ago) - 
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.5.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.5.1), 3 months ago) - Container and file artifact promotion tooling for the Kubernetes project
@@ -32,16 +32,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [workflows: Add the CIFuzz (OSS-Fuzz) pull request job](https://github.com/ossf/scorecard-infra/pull/93) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (3 days ago)
-- [site: Fix Lighthouse findings on home page](https://github.com/ossf/scorecard-webapp/pull/1045) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (3 days ago)
-- [Migrate the results API to `ossf/scorecard-infra`](https://github.com/ossf/scorecard-webapp/pull/1044) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (3 days ago)
-- [:seedling: deps: Upgrade golang.org/x/crypto v0.50.0 =&gt; v0.56.0](https://github.com/ossf/scorecard/pull/5223) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
-- [cron: Enable CDN purging on the production batch plane](https://github.com/ossf/scorecard-infra/pull/92) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (4 days ago)
-- [deploy: Point the batch plane at the production corpus](https://github.com/ossf/scorecard-infra/pull/91) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (5 days ago)
-- [cron: Version the corpus buckets and record result provenance](https://github.com/ossf/scorecard-infra/pull/90) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (5 days ago)
-- [Verify the batch plane end-to-end and fix the controller&#39;s rawdata grant](https://github.com/ossf/scorecard-infra/pull/89) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (5 days ago)
-- [cron: Fix the startup panic crashing the batch workers](https://github.com/ossf/scorecard-infra/pull/88) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (5 days ago)
-- [Batch pipeline on AWS: SQS subscriber and EKS manifests](https://github.com/ossf/scorecard-infra/pull/87) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (6 days ago)
+- [Add WG chair onboarding guide and CODEOWNERS](https://github.com/ossf/wg-supply-chain-integrity/pull/91) on [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) (1 day ago)
+- [workflows: Add the CIFuzz (OSS-Fuzz) pull request job](https://github.com/ossf/scorecard-infra/pull/93) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (4 days ago)
+- [site: Fix Lighthouse findings on home page](https://github.com/ossf/scorecard-webapp/pull/1045) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (4 days ago)
+- [Migrate the results API to `ossf/scorecard-infra`](https://github.com/ossf/scorecard-webapp/pull/1044) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (4 days ago)
+- [:seedling: deps: Upgrade golang.org/x/crypto v0.50.0 =&gt; v0.56.0](https://github.com/ossf/scorecard/pull/5223) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
+- [cron: Enable CDN purging on the production batch plane](https://github.com/ossf/scorecard-infra/pull/92) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (5 days ago)
+- [deploy: Point the batch plane at the production corpus](https://github.com/ossf/scorecard-infra/pull/91) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (6 days ago)
+- [cron: Version the corpus buckets and record result provenance](https://github.com/ossf/scorecard-infra/pull/90) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (6 days ago)
+- [Verify the batch plane end-to-end and fix the controller&#39;s rawdata grant](https://github.com/ossf/scorecard-infra/pull/89) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (6 days ago)
+- [cron: Fix the startup panic crashing the batch workers](https://github.com/ossf/scorecard-infra/pull/88) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (6 days ago)
 
 #### ⭐ Recent Stars
 
