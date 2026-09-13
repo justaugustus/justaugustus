@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump the pinned `scorecard/v5` and fix canary&#39;s Go version drift](https://github.com/ossf/scorecard-infra/pull/109) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Add WG chair onboarding guide and CODEOWNERS](https://github.com/ossf/wg-supply-chain-integrity/pull/91) on [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) (2 days ago)
 - [workflows: Add the CIFuzz (OSS-Fuzz) pull request job](https://github.com/ossf/scorecard-infra/pull/93) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (5 days ago)
 - [site: Fix Lighthouse findings on home page](https://github.com/ossf/scorecard-webapp/pull/1045) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (5 days ago)
@@ -41,7 +42,6 @@
 - [deploy: Point the batch plane at the production corpus](https://github.com/ossf/scorecard-infra/pull/91) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 - [cron: Version the corpus buckets and record result provenance](https://github.com/ossf/scorecard-infra/pull/90) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 - [Verify the batch plane end-to-end and fix the controller&#39;s rawdata grant](https://github.com/ossf/scorecard-infra/pull/89) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
-- [cron: Fix the startup panic crashing the batch workers](https://github.com/ossf/scorecard-infra/pull/88) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
