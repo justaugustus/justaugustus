@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update OpenSSF Scorecard project details](https://github.com/google/oss-fuzz/pull/16140) on [google/oss-fuzz](https://github.com/google/oss-fuzz) (today)
 - [deploy: Add CloudWatch alerting to both AWS planes](https://github.com/ossf/scorecard-infra/pull/111) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
 - [Bump the pinned `scorecard/v5` and fix canary&#39;s Go version drift](https://github.com/ossf/scorecard-infra/pull/109) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
 - [Add WG chair onboarding guide and CODEOWNERS](https://github.com/ossf/wg-supply-chain-integrity/pull/91) on [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) (4 days ago)
@@ -41,7 +42,6 @@
 - [:seedling: deps: Upgrade golang.org/x/crypto v0.50.0 =&gt; v0.56.0](https://github.com/ossf/scorecard/pull/5223) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [cron: Enable CDN purging on the production batch plane](https://github.com/ossf/scorecard-infra/pull/92) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 - [deploy: Point the batch plane at the production corpus](https://github.com/ossf/scorecard-infra/pull/91) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
-- [cron: Version the corpus buckets and record result provenance](https://github.com/ossf/scorecard-infra/pull/90) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
