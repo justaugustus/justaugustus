@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [GeauxJD/newsletter-bot](https://github.com/GeauxJD/newsletter-bot) - Collects updates from OpenSSF meetings and projects to generate a Community Newsletter. (today)
 - [carabiner-dev/vexflow](https://github.com/carabiner-dev/vexflow) - A tool and framework to manage a vulnerability&#39;s assessment lifecycle through VEX. (5 days ago)
 - [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 20 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. (2 weeks ago)
 - [kusari-oss/waybill](https://github.com/kusari-oss/waybill) - SBOM Generator (2 weeks ago)
@@ -54,7 +55,6 @@
 - [google/capslock](https://github.com/google/capslock) -  (3 weeks ago)
 - [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI, the tokenless way: https://github.com/marketplace/actions/pypi-publish (1 month ago)
 - [ossf/oss-crs-actions](https://github.com/ossf/oss-crs-actions) -  (1 month ago)
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 month ago)
 
 
 
