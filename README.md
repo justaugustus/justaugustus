@@ -10,7 +10,7 @@
 
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 week ago)
 - [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) - Our objective is to enable open source maintainers, contributors and end-users to understand and make decisions on the provenance of the code they maintain, produce and use. (1 week ago)
-- [bloomberg/bonobomock](https://github.com/bloomberg/bonobomock) - A GoogleTest-compatible C&#43;&#43; mocking library using monkey patching to mock free functions, static functions, and virtual/non-virtual class methods. (1 week ago)
+- [bloomberg/bonobomock](https://github.com/bloomberg/bonobomock) - A GoogleTest-compatible C&#43;&#43; mocking library using monkey patching to mock free functions, static functions, and virtual/non-virtual class methods. (2 weeks ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 weeks ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (2 weeks ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (3 weeks ago)
@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.6.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.6.0), 5 days ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.6.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.6.0), 6 days ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.27.0](https://github.com/bloomberg/causal-ts/releases/tag/v0.27.0), 1 week ago) - Causal Discovery for Time Series
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.6](https://github.com/ossf/allstar/releases/tag/v4.6), 3 weeks ago) - GitHub App to set and enforce security policies
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) ([v0.1.0](https://github.com/darnitdevorg/darnit/releases/tag/v0.1.0), 1 month ago) - 
@@ -45,11 +45,11 @@
 
 #### ⭐ Recent Stars
 
-- [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. (2 days ago)
-- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (5 days ago)
-- [GeauxJD/newsletter-bot](https://github.com/GeauxJD/newsletter-bot) - Collects updates from OpenSSF meetings and projects to generate a Community Newsletter. (5 days ago)
+- [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. (3 days ago)
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (6 days ago)
+- [GeauxJD/newsletter-bot](https://github.com/GeauxJD/newsletter-bot) - Collects updates from OpenSSF meetings and projects to generate a Community Newsletter. (6 days ago)
 - [openvex/vexflow](https://github.com/openvex/vexflow) - A tool and framework to manage a vulnerability&#39;s assessment lifecycle through VEX. (1 week ago)
-- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 29 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. (2 weeks ago)
+- [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 29 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. (3 weeks ago)
 - [kusari-oss/waybill](https://github.com/kusari-oss/waybill) - SBOM Generator (3 weeks ago)
 - [slsa-framework/actions](https://github.com/slsa-framework/actions) - Stores the GitHub Actions used by the SLSA Source Tool (3 weeks ago)
 - [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize (1 month ago)
