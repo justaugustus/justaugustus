@@ -45,10 +45,10 @@
 
 #### ⭐ Recent Stars
 
-- [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. (5 days ago)
+- [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. (6 days ago)
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (1 week ago)
 - [GeauxJD/newsletter-bot](https://github.com/GeauxJD/newsletter-bot) - Collects updates from OpenSSF meetings and projects to generate a Community Newsletter. (1 week ago)
-- [openvex/vexflow](https://github.com/openvex/vexflow) - A tool and framework to manage a vulnerability&#39;s assessment lifecycle through VEX. (1 week ago)
+- [openvex/vexflow](https://github.com/openvex/vexflow) - A tool and framework to manage a vulnerability&#39;s assessment lifecycle through VEX. (2 weeks ago)
 - [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 29 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. (3 weeks ago)
 - [kusari-oss/waybill](https://github.com/kusari-oss/waybill) - SBOM Generator (3 weeks ago)
 - [slsa-framework/actions](https://github.com/slsa-framework/actions) - Stores the GitHub Actions used by the SLSA Source Tool (4 weeks ago)
