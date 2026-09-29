@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (today)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 day ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 days ago)
 - [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) - Our objective is to enable open source maintainers, contributors and end-users to understand and make decisions on the provenance of the code they maintain, produce and use. (2 weeks ago)
 - [bloomberg/bonobomock](https://github.com/bloomberg/bonobomock) - A GoogleTest-compatible C&#43;&#43; mocking library using monkey patching to mock free functions, static functions, and virtual/non-virtual class methods. (2 weeks ago)
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (2 weeks ago)
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 weeks ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (4 weeks ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 month ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 month ago)
@@ -24,7 +24,7 @@
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.6.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.6.0), 1 week ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.27.0](https://github.com/bloomberg/causal-ts/releases/tag/v0.27.0), 2 weeks ago) - Causal Discovery for Time Series
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.6](https://github.com/ossf/allstar/releases/tag/v4.6), 4 weeks ago) - GitHub App to set and enforce security policies
-- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) ([v0.1.0](https://github.com/darnitdevorg/darnit/releases/tag/v0.1.0), 1 month ago) - 
+- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) ([v0.1.0](https://github.com/darnitdevorg/darnit/releases/tag/v0.1.0), 2 months ago) - 
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.5.0](https://github.com/ossf/scorecard/releases/tag/v5.5.0), 5 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.19](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.19), 7 months ago) - Website and API for OpenSSF Scorecard
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 9 months ago) - Repo for SIG release
@@ -32,15 +32,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [deps: Update `ossf/scorecard` =&gt; `v5.5.1-0.20260928043300-ac4b58443938`](https://github.com/ossf/scorecard-infra/pull/121) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
-- [:seedling: e2e/fuzz: Account for Scorecard API repo migration](https://github.com/ossf/scorecard/pull/5253) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
-- [Update OpenSSF Scorecard project details](https://github.com/google/oss-fuzz/pull/16140) on [google/oss-fuzz](https://github.com/google/oss-fuzz) (1 week ago)
+- [deps: Update `ossf/scorecard` =&gt; `v5.5.1-0.20260928043300-ac4b58443938`](https://github.com/ossf/scorecard-infra/pull/121) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
+- [:seedling: e2e/fuzz: Account for Scorecard API repo migration](https://github.com/ossf/scorecard/pull/5253) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
+- [Update OpenSSF Scorecard project details](https://github.com/google/oss-fuzz/pull/16140) on [google/oss-fuzz](https://github.com/google/oss-fuzz) (2 weeks ago)
 - [deploy: Add CloudWatch alerting to both AWS planes](https://github.com/ossf/scorecard-infra/pull/111) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 weeks ago)
 - [Bump the pinned `scorecard/v5` and fix canary&#39;s Go version drift](https://github.com/ossf/scorecard-infra/pull/109) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 weeks ago)
 - [Add WG chair onboarding guide and CODEOWNERS](https://github.com/ossf/wg-supply-chain-integrity/pull/91) on [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) (2 weeks ago)
-- [workflows: Add the CIFuzz (OSS-Fuzz) pull request job](https://github.com/ossf/scorecard-infra/pull/93) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 weeks ago)
-- [site: Fix Lighthouse findings on home page](https://github.com/ossf/scorecard-webapp/pull/1045) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (2 weeks ago)
-- [Migrate the results API to `ossf/scorecard-infra`](https://github.com/ossf/scorecard-webapp/pull/1044) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (2 weeks ago)
+- [workflows: Add the CIFuzz (OSS-Fuzz) pull request job](https://github.com/ossf/scorecard-infra/pull/93) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (3 weeks ago)
+- [site: Fix Lighthouse findings on home page](https://github.com/ossf/scorecard-webapp/pull/1045) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (3 weeks ago)
+- [Migrate the results API to `ossf/scorecard-infra`](https://github.com/ossf/scorecard-webapp/pull/1044) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (3 weeks ago)
 - [:seedling: deps: Upgrade golang.org/x/crypto v0.50.0 =&gt; v0.56.0](https://github.com/ossf/scorecard/pull/5223) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 weeks ago)
 
 #### ⭐ Recent Stars
@@ -50,7 +50,7 @@
 - [GeauxJD/newsletter-bot](https://github.com/GeauxJD/newsletter-bot) - Collects updates from OpenSSF meetings and projects to generate a Community Newsletter. (1 week ago)
 - [openvex/vexflow](https://github.com/openvex/vexflow) - A tool and framework to manage a vulnerability&#39;s assessment lifecycle through VEX. (2 weeks ago)
 - [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - The most accurate, cheapest and fastest memory for coding agents: searchable session history from Claude Code, Codex, Cursor and 32 more agents, already on your disk. No LLM, one Go binary. (3 weeks ago)
-- [kusari-oss/waybill](https://github.com/kusari-oss/waybill) - SBOM Generator (3 weeks ago)
+- [kusari-oss/waybill](https://github.com/kusari-oss/waybill) - SBOM Generator (4 weeks ago)
 - [slsa-framework/actions](https://github.com/slsa-framework/actions) - Stores the GitHub Actions used by the SLSA Source Tool (1 month ago)
 - [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize (1 month ago)
 - [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store. (1 month ago)
