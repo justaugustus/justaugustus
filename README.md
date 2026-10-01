@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (3 days ago)
 - [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) - Our objective is to enable open source maintainers, contributors and end-users to understand and make decisions on the provenance of the code they maintain, produce and use. (2 weeks ago)
 - [bloomberg/bonobomock](https://github.com/bloomberg/bonobomock) - A GoogleTest-compatible C&#43;&#43; mocking library using monkey patching to mock free functions, static functions, and virtual/non-virtual class methods. (3 weeks ago)
@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: dependabot: Add/fix broken `exclude-patterns` in gomod group](https://github.com/ossf/scorecard/pull/5260) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: workflows/stale: Stop closing stale pull requests](https://github.com/ossf/scorecard/pull/5259) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [deps: Update `ossf/scorecard` =&gt; `v5.5.1-0.20260928043300-ac4b58443938`](https://github.com/ossf/scorecard-infra/pull/121) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (3 days ago)
 - [:seedling: e2e/fuzz: Account for Scorecard API repo migration](https://github.com/ossf/scorecard/pull/5253) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
@@ -41,7 +42,6 @@
 - [Add WG chair onboarding guide and CODEOWNERS](https://github.com/ossf/wg-supply-chain-integrity/pull/91) on [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) (2 weeks ago)
 - [workflows: Add the CIFuzz (OSS-Fuzz) pull request job](https://github.com/ossf/scorecard-infra/pull/93) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (3 weeks ago)
 - [site: Fix Lighthouse findings on home page](https://github.com/ossf/scorecard-webapp/pull/1045) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (3 weeks ago)
-- [Migrate the results API to `ossf/scorecard-infra`](https://github.com/ossf/scorecard-webapp/pull/1044) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
