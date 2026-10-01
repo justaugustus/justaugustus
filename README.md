@@ -32,6 +32,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: dependabot: Exclude `google/ko` and `go-git` from grouped updates](https://github.com/ossf/scorecard/pull/5269) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
+- [:seedling: dependabot: Exclude `moby/buildkit` and `goreleaser` from grouped updates](https://github.com/ossf/scorecard/pull/5263) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: dependabot: Add/fix broken `exclude-patterns` in gomod group](https://github.com/ossf/scorecard/pull/5260) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: workflows/stale: Stop closing stale pull requests](https://github.com/ossf/scorecard/pull/5259) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [deps: Update `ossf/scorecard` =&gt; `v5.5.1-0.20260928043300-ac4b58443938`](https://github.com/ossf/scorecard-infra/pull/121) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (3 days ago)
@@ -40,8 +42,6 @@
 - [deploy: Add CloudWatch alerting to both AWS planes](https://github.com/ossf/scorecard-infra/pull/111) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 weeks ago)
 - [Bump the pinned `scorecard/v5` and fix canary&#39;s Go version drift](https://github.com/ossf/scorecard-infra/pull/109) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 weeks ago)
 - [Add WG chair onboarding guide and CODEOWNERS](https://github.com/ossf/wg-supply-chain-integrity/pull/91) on [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) (2 weeks ago)
-- [workflows: Add the CIFuzz (OSS-Fuzz) pull request job](https://github.com/ossf/scorecard-infra/pull/93) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (3 weeks ago)
-- [site: Fix Lighthouse findings on home page](https://github.com/ossf/scorecard-webapp/pull/1045) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
