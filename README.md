@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: Bump github.com/prometheus/prometheus from 0.54.0 to 0.305.2](https://github.com/ossf/scorecard/pull/5277) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: go.mod: Bump go-git, containerd, sigstore-go, slack-go, go-pkcs12](https://github.com/ossf/scorecard/pull/5271) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: dependabot: Exclude `google/ko` and `go-git` from grouped updates](https://github.com/ossf/scorecard/pull/5269) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: dependabot: Exclude `moby/buildkit` and `goreleaser` from grouped updates](https://github.com/ossf/scorecard/pull/5263) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
@@ -41,7 +42,6 @@
 - [:seedling: e2e/fuzz: Account for Scorecard API repo migration](https://github.com/ossf/scorecard/pull/5253) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
 - [Update OpenSSF Scorecard project details](https://github.com/google/oss-fuzz/pull/16140) on [google/oss-fuzz](https://github.com/google/oss-fuzz) (2 weeks ago)
 - [deploy: Add CloudWatch alerting to both AWS planes](https://github.com/ossf/scorecard-infra/pull/111) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 weeks ago)
-- [Bump the pinned `scorecard/v5` and fix canary&#39;s Go version drift](https://github.com/ossf/scorecard-infra/pull/109) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
