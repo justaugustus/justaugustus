@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (3 days ago)
 - [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) - Our objective is to enable open source maintainers, contributors and end-users to understand and make decisions on the provenance of the code they maintain, produce and use. (2 weeks ago)
 - [bloomberg/bonobomock](https://github.com/bloomberg/bonobomock) - A GoogleTest-compatible C&#43;&#43; mocking library using monkey patching to mock free functions, static functions, and virtual/non-virtual class methods. (3 weeks ago)
@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: go.mod: Bulk dependency patching](https://github.com/ossf/scorecard/pull/5271) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: dependabot: Exclude `google/ko` and `go-git` from grouped updates](https://github.com/ossf/scorecard/pull/5269) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: dependabot: Exclude `moby/buildkit` and `goreleaser` from grouped updates](https://github.com/ossf/scorecard/pull/5263) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: dependabot: Add/fix broken `exclude-patterns` in gomod group](https://github.com/ossf/scorecard/pull/5260) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
@@ -41,7 +42,6 @@
 - [Update OpenSSF Scorecard project details](https://github.com/google/oss-fuzz/pull/16140) on [google/oss-fuzz](https://github.com/google/oss-fuzz) (2 weeks ago)
 - [deploy: Add CloudWatch alerting to both AWS planes](https://github.com/ossf/scorecard-infra/pull/111) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 weeks ago)
 - [Bump the pinned `scorecard/v5` and fix canary&#39;s Go version drift](https://github.com/ossf/scorecard-infra/pull/109) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 weeks ago)
-- [Add WG chair onboarding guide and CODEOWNERS](https://github.com/ossf/wg-supply-chain-integrity/pull/91) on [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
