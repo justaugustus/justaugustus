@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (4 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 week ago)
 - [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) - Our objective is to enable open source maintainers, contributors and end-users to understand and make decisions on the provenance of the code they maintain, produce and use. (3 weeks ago)
 - [bloomberg/bonobomock](https://github.com/bloomberg/bonobomock) - A GoogleTest-compatible C&#43;&#43; mocking library using monkey patching to mock free functions, static functions, and virtual/non-virtual class methods. (3 weeks ago)
@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: Bump github.com/prometheus/prometheus to v0.311.3](https://github.com/ossf/scorecard/pull/5294) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Replace `rhysd/actionlint` with a Scorecard-owned workflow model](https://github.com/ossf/scorecard/pull/5287) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:seedling: Bump github.com/prometheus/prometheus from 0.54.0 to 0.305.2](https://github.com/ossf/scorecard/pull/5277) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
 - [:seedling: go.mod: Bump go-git, containerd, sigstore-go, slack-go, go-pkcs12](https://github.com/ossf/scorecard/pull/5271) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
@@ -41,7 +42,6 @@
 - [:seedling: workflows/stale: Stop closing stale pull requests](https://github.com/ossf/scorecard/pull/5259) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
 - [deps: Update `ossf/scorecard` =&gt; `v5.5.1-0.20260928043300-ac4b58443938`](https://github.com/ossf/scorecard-infra/pull/121) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 - [:seedling: e2e/fuzz: Account for Scorecard API repo migration](https://github.com/ossf/scorecard/pull/5253) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [Update OpenSSF Scorecard project details](https://github.com/google/oss-fuzz/pull/16140) on [google/oss-fuzz](https://github.com/google/oss-fuzz) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
