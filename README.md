@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 days ago)
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (6 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (4 days ago)
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 week ago)
 - [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) - Our objective is to enable open source maintainers, contributors and end-users to understand and make decisions on the provenance of the code they maintain, produce and use. (3 weeks ago)
 - [bloomberg/bonobomock](https://github.com/bloomberg/bonobomock) - A GoogleTest-compatible C&#43;&#43; mocking library using monkey patching to mock free functions, static functions, and virtual/non-virtual class methods. (3 weeks ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 weeks ago)
@@ -21,8 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) ([v0.1.1](https://github.com/darnitdevorg/darnit/releases/tag/v0.1.1), today) - 
-- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.7.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.7.0), 2 days ago) - Container and file artifact promotion tooling for the Kubernetes project
+- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) ([v0.1.1](https://github.com/darnitdevorg/darnit/releases/tag/v0.1.1), 1 day ago) - 
+- [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.7.0](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.7.0), 3 days ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.27.0](https://github.com/bloomberg/causal-ts/releases/tag/v0.27.0), 3 weeks ago) - Causal Discovery for Time Series
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.6](https://github.com/ossf/allstar/releases/tag/v4.6), 1 month ago) - GitHub App to set and enforce security policies
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.5.0](https://github.com/ossf/scorecard/releases/tag/v5.5.0), 5 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
@@ -32,15 +32,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [:seedling: Replace rhysd/actionlint with a Scorecard-owned workflow model](https://github.com/ossf/scorecard/pull/5287) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
-- [:seedling: Bump github.com/prometheus/prometheus from 0.54.0 to 0.305.2](https://github.com/ossf/scorecard/pull/5277) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
-- [:seedling: go.mod: Bump go-git, containerd, sigstore-go, slack-go, go-pkcs12](https://github.com/ossf/scorecard/pull/5271) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
-- [:seedling: dependabot: Exclude `google/ko` and `go-git` from grouped updates](https://github.com/ossf/scorecard/pull/5269) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
-- [:seedling: dependabot: Exclude `moby/buildkit` and `goreleaser` from grouped updates](https://github.com/ossf/scorecard/pull/5263) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
-- [:seedling: dependabot: Add/fix broken `exclude-patterns` in gomod group](https://github.com/ossf/scorecard/pull/5260) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
-- [:seedling: workflows/stale: Stop closing stale pull requests](https://github.com/ossf/scorecard/pull/5259) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
-- [deps: Update `ossf/scorecard` =&gt; `v5.5.1-0.20260928043300-ac4b58443938`](https://github.com/ossf/scorecard-infra/pull/121) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (6 days ago)
-- [:seedling: e2e/fuzz: Account for Scorecard API repo migration](https://github.com/ossf/scorecard/pull/5253) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
+- [:seedling: Replace rhysd/actionlint with a Scorecard-owned workflow model](https://github.com/ossf/scorecard/pull/5287) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
+- [:seedling: Bump github.com/prometheus/prometheus from 0.54.0 to 0.305.2](https://github.com/ossf/scorecard/pull/5277) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
+- [:seedling: go.mod: Bump go-git, containerd, sigstore-go, slack-go, go-pkcs12](https://github.com/ossf/scorecard/pull/5271) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
+- [:seedling: dependabot: Exclude `google/ko` and `go-git` from grouped updates](https://github.com/ossf/scorecard/pull/5269) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
+- [:seedling: dependabot: Exclude `moby/buildkit` and `goreleaser` from grouped updates](https://github.com/ossf/scorecard/pull/5263) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
+- [:seedling: dependabot: Add/fix broken `exclude-patterns` in gomod group](https://github.com/ossf/scorecard/pull/5260) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
+- [:seedling: workflows/stale: Stop closing stale pull requests](https://github.com/ossf/scorecard/pull/5259) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
+- [deps: Update `ossf/scorecard` =&gt; `v5.5.1-0.20260928043300-ac4b58443938`](https://github.com/ossf/scorecard-infra/pull/121) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
+- [:seedling: e2e/fuzz: Account for Scorecard API repo migration](https://github.com/ossf/scorecard/pull/5253) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [Update OpenSSF Scorecard project details](https://github.com/google/oss-fuzz/pull/16140) on [google/oss-fuzz](https://github.com/google/oss-fuzz) (2 weeks ago)
 
 #### ⭐ Recent Stars
