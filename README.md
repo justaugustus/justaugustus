@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: Bump github.com/google/osv-scanner/v2 from 2.3.2 to 2.5.1](https://github.com/ossf/scorecard/pull/5296) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Bump github.com/prometheus/prometheus to v0.311.3](https://github.com/ossf/scorecard/pull/5294) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:seedling: Replace `rhysd/actionlint` with a Scorecard-owned workflow model](https://github.com/ossf/scorecard/pull/5287) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
 - [:seedling: Bump github.com/prometheus/prometheus from 0.54.0 to 0.305.2](https://github.com/ossf/scorecard/pull/5277) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
@@ -41,7 +42,6 @@
 - [:seedling: dependabot: Add/fix broken `exclude-patterns` in gomod group](https://github.com/ossf/scorecard/pull/5260) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
 - [:seedling: workflows/stale: Stop closing stale pull requests](https://github.com/ossf/scorecard/pull/5259) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
 - [deps: Update `ossf/scorecard` =&gt; `v5.5.1-0.20260928043300-ac4b58443938`](https://github.com/ossf/scorecard-infra/pull/121) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
-- [:seedling: e2e/fuzz: Account for Scorecard API repo migration](https://github.com/ossf/scorecard/pull/5253) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 
 #### ⭐ Recent Stars
 
