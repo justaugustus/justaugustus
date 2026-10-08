@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 week ago)
 - [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) - Our objective is to enable open source maintainers, contributors and end-users to understand and make decisions on the provenance of the code they maintain, produce and use. (3 weeks ago)
 - [bloomberg/bonobomock](https://github.com/bloomberg/bonobomock) - A GoogleTest-compatible C&#43;&#43; mocking library using monkey patching to mock free functions, static functions, and virtual/non-virtual class methods. (4 weeks ago)
@@ -32,7 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [:book: Make `security-insights.yml` valid, complete, and validated in CI](https://github.com/ossf/scorecard/pull/5298) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
+- [:book: Validate Security Insights in CI (and fix the schema)](https://github.com/ossf/scorecard/pull/5298) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Bump github.com/google/osv-scanner/v2 from 2.3.2 to 2.5.1](https://github.com/ossf/scorecard/pull/5296) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
 - [:seedling: Bump github.com/prometheus/prometheus to v0.311.3](https://github.com/ossf/scorecard/pull/5294) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
 - [:seedling: Replace `rhysd/actionlint` with a Scorecard-owned workflow model](https://github.com/ossf/scorecard/pull/5287) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
