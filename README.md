@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:bug: Ignore Maven placeholder versions in OSV results](https://github.com/ossf/scorecard/pull/5306) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [site: Keep homepage sidebar from overlapping footer](https://github.com/ossf/scorecard-webapp/pull/1065) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (today)
 - [:book: Validate Security Insights in CI (and fix the schema)](https://github.com/ossf/scorecard/pull/5298) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
 - [:seedling: Bump github.com/google/osv-scanner/v2 from 2.3.2 to 2.5.1](https://github.com/ossf/scorecard/pull/5296) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
@@ -41,7 +42,6 @@
 - [:seedling: go.mod: Bump go-git, containerd, sigstore-go, slack-go, go-pkcs12](https://github.com/ossf/scorecard/pull/5271) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [:seedling: dependabot: Exclude `google/ko` and `go-git` from grouped updates](https://github.com/ossf/scorecard/pull/5269) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [:seedling: dependabot: Exclude `moby/buildkit` and `goreleaser` from grouped updates](https://github.com/ossf/scorecard/pull/5263) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [:seedling: dependabot: Add/fix broken `exclude-patterns` in gomod group](https://github.com/ossf/scorecard/pull/5260) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 
 #### ⭐ Recent Stars
 
