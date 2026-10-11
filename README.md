@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: Prepare CI, release tooling and the image for v2.5.0](https://github.com/ossf/scorecard-action/pull/1716) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
 - [:seedling: Bump Scorecard to the v5.6.0 candidate and fix the canary toolchain](https://github.com/ossf/scorecard-action/pull/1714) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
 - [:seedling: Add a daily canary against Scorecard main](https://github.com/ossf/scorecard-action/pull/1711) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
 - [:seedling: Bump golang.org/x/net from 0.58.0 to 0.60.0](https://github.com/ossf/scorecard/pull/5311) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
@@ -42,7 +43,6 @@
 - [:seedling: Bump github.com/google/osv-scanner/v2 from 2.3.2 to 2.5.1](https://github.com/ossf/scorecard/pull/5296) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
 - [:seedling: Bump github.com/prometheus/prometheus to v0.311.3](https://github.com/ossf/scorecard/pull/5294) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
 - [:seedling: Replace `rhysd/actionlint` with a Scorecard-owned workflow model](https://github.com/ossf/scorecard/pull/5287) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [:seedling: Bump github.com/prometheus/prometheus from 0.54.0 to 0.305.2](https://github.com/ossf/scorecard/pull/5277) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 
 #### ⭐ Recent Stars
 
