@@ -8,8 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (today)
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (today)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 day ago)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 week ago)
 - [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) - Our objective is to enable open source maintainers, contributors and end-users to understand and make decisions on the provenance of the code they maintain, produce and use. (1 month ago)
@@ -17,7 +18,6 @@
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 month ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 month ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 months ago)
-- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -25,6 +25,7 @@
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) ([v0.1.1](https://github.com/darnitdevorg/darnit/releases/tag/v0.1.1), 1 week ago) - 
 - [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.27.0](https://github.com/bloomberg/causal-ts/releases/tag/v0.27.0), 1 month ago) - Causal Discovery for Time Series
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.6](https://github.com/ossf/allstar/releases/tag/v4.6), 1 month ago) - GitHub App to set and enforce security policies
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.4](https://github.com/ossf/scorecard-action/releases/tag/v2.4.4), 2 months ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.5.0](https://github.com/ossf/scorecard/releases/tag/v5.5.0), 5 months ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.19](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.19), 8 months ago) - Website and API for OpenSSF Scorecard
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 10 months ago) - Repo for SIG release
@@ -32,6 +33,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: Bump Scorecard to the v5.6.0 candidate and fix the canary toolchain](https://github.com/ossf/scorecard-action/pull/1714) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
+- [:seedling: Add a daily canary against Scorecard main](https://github.com/ossf/scorecard-action/pull/1711) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
 - [:seedling: Bump golang.org/x/net from 0.58.0 to 0.60.0](https://github.com/ossf/scorecard/pull/5311) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:bug: Ignore Maven placeholder versions in OSV results](https://github.com/ossf/scorecard/pull/5306) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [site: Keep homepage sidebar from overlapping footer](https://github.com/ossf/scorecard-webapp/pull/1065) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (1 day ago)
@@ -40,8 +43,6 @@
 - [:seedling: Bump github.com/prometheus/prometheus to v0.311.3](https://github.com/ossf/scorecard/pull/5294) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
 - [:seedling: Replace `rhysd/actionlint` with a Scorecard-owned workflow model](https://github.com/ossf/scorecard/pull/5287) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [:seedling: Bump github.com/prometheus/prometheus from 0.54.0 to 0.305.2](https://github.com/ossf/scorecard/pull/5277) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [:seedling: go.mod: Bump go-git, containerd, sigstore-go, slack-go, go-pkcs12](https://github.com/ossf/scorecard/pull/5271) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [:seedling: dependabot: Exclude `google/ko` and `go-git` from grouped updates](https://github.com/ossf/scorecard/pull/5269) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 
 #### ⭐ Recent Stars
 
