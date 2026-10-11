@@ -8,9 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (today)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 day ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 week ago)
 - [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) - Our objective is to enable open source maintainers, contributors and end-users to understand and make decisions on the provenance of the code they maintain, produce and use. (1 month ago)
 - [bloomberg/bonobomock](https://github.com/bloomberg/bonobomock) - A GoogleTest-compatible C&#43;&#43; mocking library using monkey patching to mock free functions, static functions, and virtual/non-virtual class methods. (1 month ago)
@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: Bump golang.org/x/net from 0.58.0 to 0.60.0](https://github.com/ossf/scorecard/pull/5311) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:bug: Ignore Maven placeholder versions in OSV results](https://github.com/ossf/scorecard/pull/5306) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [site: Keep homepage sidebar from overlapping footer](https://github.com/ossf/scorecard-webapp/pull/1065) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (1 day ago)
 - [:book: Validate Security Insights in CI (and fix the schema)](https://github.com/ossf/scorecard/pull/5298) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
@@ -41,7 +42,6 @@
 - [:seedling: Bump github.com/prometheus/prometheus from 0.54.0 to 0.305.2](https://github.com/ossf/scorecard/pull/5277) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [:seedling: go.mod: Bump go-git, containerd, sigstore-go, slack-go, go-pkcs12](https://github.com/ossf/scorecard/pull/5271) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [:seedling: dependabot: Exclude `google/ko` and `go-git` from grouped updates](https://github.com/ossf/scorecard/pull/5269) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [:seedling: dependabot: Exclude `moby/buildkit` and `goreleaser` from grouped updates](https://github.com/ossf/scorecard/pull/5263) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 
 #### ⭐ Recent Stars
 
