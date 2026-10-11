@@ -8,6 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (today)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 day ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 week ago)
@@ -15,9 +16,8 @@
 - [bloomberg/bonobomock](https://github.com/bloomberg/bonobomock) - A GoogleTest-compatible C&#43;&#43; mocking library using monkey patching to mock free functions, static functions, and virtual/non-virtual class methods. (1 month ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 month ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (1 month ago)
-- [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 months ago)
-- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (2 months ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 months ago)
+- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
