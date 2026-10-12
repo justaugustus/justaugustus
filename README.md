@@ -21,18 +21,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.5.0](https://github.com/ossf/scorecard-action/releases/tag/v2.5.0), today) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.6.0](https://github.com/ossf/scorecard/releases/tag/v5.6.0), today) - OpenSSF Scorecard - Security health metrics for Open Source
 - [kubernetes-sigs/promo-tools](https://github.com/kubernetes-sigs/promo-tools) ([v4.7.1](https://github.com/kubernetes-sigs/promo-tools/releases/tag/v4.7.1), 6 days ago) - Container and file artifact promotion tooling for the Kubernetes project
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) ([v0.1.1](https://github.com/darnitdevorg/darnit/releases/tag/v0.1.1), 1 week ago) - 
 - [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.27.0](https://github.com/bloomberg/causal-ts/releases/tag/v0.27.0), 1 month ago) - Causal Discovery for Time Series
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.6](https://github.com/ossf/allstar/releases/tag/v4.6), 1 month ago) - GitHub App to set and enforce security policies
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.4.4](https://github.com/ossf/scorecard-action/releases/tag/v2.4.4), 2 months ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.19](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.19), 8 months ago) - Website and API for OpenSSF Scorecard
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 10 months ago) - Repo for SIG release
 - [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) ([v2.0.0-beta8](https://github.com/ossf/scorecard-monitor/releases/tag/v2.0.0-beta8), 2 years ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 
 #### 🔨 My recent Pull Requests
 
+- [Update ossf/scorecard-action to v2.5.0](https://github.com/actions/starter-workflows/pull/3481) on [actions/starter-workflows](https://github.com/actions/starter-workflows) (today)
+- [:seedling: Bump ossf/scorecard-action to v2.5.0](https://github.com/ossf/scorecard/pull/5313) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [deps: Update `ossf/scorecard` =&gt; `v5.6.0`](https://github.com/ossf/scorecard-infra/pull/126) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [:seedling: Bump action tag for v2.5.0 release](https://github.com/ossf/scorecard-action/pull/1720) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
 - [:seedling: Bump Scorecard to v5.6.0](https://github.com/ossf/scorecard-action/pull/1719) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
@@ -41,8 +43,6 @@
 - [:seedling: Bump Scorecard to the v5.6.0 candidate and fix the canary toolchain](https://github.com/ossf/scorecard-action/pull/1714) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (1 day ago)
 - [:seedling: Add a daily canary against Scorecard main](https://github.com/ossf/scorecard-action/pull/1711) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (1 day ago)
 - [:seedling: Bump golang.org/x/net from 0.58.0 to 0.60.0](https://github.com/ossf/scorecard/pull/5311) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
-- [:bug: Ignore Maven placeholder versions in OSV results](https://github.com/ossf/scorecard/pull/5306) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
-- [site: Keep homepage sidebar from overlapping footer](https://github.com/ossf/scorecard-webapp/pull/1065) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (2 days ago)
 
 #### ⭐ Recent Stars
 
