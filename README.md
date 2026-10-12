@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 day ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 day ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 day ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (2 days ago)
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (2 weeks ago)
 - [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) - Our objective is to enable open source maintainers, contributors and end-users to understand and make decisions on the provenance of the code they maintain, produce and use. (1 month ago)
 - [bloomberg/bonobomock](https://github.com/bloomberg/bonobomock) - A GoogleTest-compatible C&#43;&#43; mocking library using monkey patching to mock free functions, static functions, and virtual/non-virtual class methods. (1 month ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 month ago)
@@ -33,6 +33,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [deps: Update `ossf/scorecard` =&gt; `v5.6.0`](https://github.com/ossf/scorecard-infra/pull/126) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
+- [:seedling: Bump action tag for v2.5.0 release](https://github.com/ossf/scorecard-action/pull/1720) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
 - [:seedling: Bump Scorecard to v5.6.0](https://github.com/ossf/scorecard-action/pull/1719) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
 - [:seedling: Derive the reported Scorecard version from go.mod](https://github.com/ossf/scorecard-action/pull/1718) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (1 day ago)
 - [:seedling: Prepare CI, release tooling and the image for v2.5.0](https://github.com/ossf/scorecard-action/pull/1716) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (1 day ago)
@@ -41,8 +43,6 @@
 - [:seedling: Bump golang.org/x/net from 0.58.0 to 0.60.0](https://github.com/ossf/scorecard/pull/5311) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:bug: Ignore Maven placeholder versions in OSV results](https://github.com/ossf/scorecard/pull/5306) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
 - [site: Keep homepage sidebar from overlapping footer](https://github.com/ossf/scorecard-webapp/pull/1065) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (2 days ago)
-- [:book: Validate Security Insights in CI (and fix the schema)](https://github.com/ossf/scorecard/pull/5298) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
-- [:seedling: Bump github.com/google/osv-scanner/v2 from 2.3.2 to 2.5.1](https://github.com/ossf/scorecard/pull/5296) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
 
 #### ⭐ Recent Stars
 
