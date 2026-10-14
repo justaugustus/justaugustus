@@ -33,6 +33,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [api: Report the running build at `/version`](https://github.com/ossf/scorecard-infra/pull/136) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
+- [openspec: Archive `unify-release-versioning` and `lift-migration-quarantine`](https://github.com/ossf/scorecard-infra/pull/135) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
+- [Lift the migration quarantine and prune `AGENTS.md`](https://github.com/ossf/scorecard-infra/pull/134) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [scorecard: Publish with `cache-mode: none` and a schedule timezone](https://github.com/ossf/scorecard-infra/pull/133) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [api: Cover `cache-mode: none` in the workflow verifier tests](https://github.com/ossf/scorecard-infra/pull/131) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Adopt one repository-wide `v*` release line, starting at `v0.2.0`](https://github.com/ossf/scorecard-infra/pull/130) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
@@ -40,9 +43,6 @@
 - [:seedling: Bump ossf/scorecard-action to v2.5.0](https://github.com/ossf/scorecard/pull/5313) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
 - [deps: Update `ossf/scorecard` =&gt; `v5.6.0`](https://github.com/ossf/scorecard-infra/pull/126) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
 - [:seedling: Bump action tag for v2.5.0 release](https://github.com/ossf/scorecard-action/pull/1720) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (2 days ago)
-- [:seedling: Bump Scorecard to v5.6.0](https://github.com/ossf/scorecard-action/pull/1719) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (2 days ago)
-- [:seedling: Derive the reported Scorecard version from go.mod](https://github.com/ossf/scorecard-action/pull/1718) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (3 days ago)
-- [:seedling: Prepare CI, release tooling and the image for v2.5.0](https://github.com/ossf/scorecard-action/pull/1716) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (3 days ago)
 
 #### ⭐ Recent Stars
 
