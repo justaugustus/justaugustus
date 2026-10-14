@@ -8,9 +8,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 day ago)
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (today)
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (today)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 days ago)
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (3 days ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (3 days ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (4 days ago)
 - [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) - Our objective is to enable open source maintainers, contributors and end-users to understand and make decisions on the provenance of the code they maintain, produce and use. (1 month ago)
@@ -33,6 +33,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:sparkles: Generate the example workflows from one template](https://github.com/ossf/scorecard-action/pull/1722) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
+- [api: Let reviewed parser diagnostics through the workflow verifier](https://github.com/ossf/scorecard-infra/pull/137) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
+- [:sparkles: Add `fail_on_publish_error` and publication outputs](https://github.com/ossf/scorecard-action/pull/1721) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
 - [api: Report the running build at `/version`](https://github.com/ossf/scorecard-infra/pull/136) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [openspec: Archive `unify-release-versioning` and `lift-migration-quarantine`](https://github.com/ossf/scorecard-infra/pull/135) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Lift the migration quarantine and prune `AGENTS.md`](https://github.com/ossf/scorecard-infra/pull/134) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
@@ -40,9 +43,6 @@
 - [api: Cover `cache-mode: none` in the workflow verifier tests](https://github.com/ossf/scorecard-infra/pull/131) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Adopt one repository-wide `v*` release line, starting at `v0.2.0`](https://github.com/ossf/scorecard-infra/pull/130) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Update ossf/scorecard-action to v2.5.0](https://github.com/actions/starter-workflows/pull/3481) on [actions/starter-workflows](https://github.com/actions/starter-workflows) (2 days ago)
-- [:seedling: Bump ossf/scorecard-action to v2.5.0](https://github.com/ossf/scorecard/pull/5313) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
-- [deps: Update `ossf/scorecard` =&gt; `v5.6.0`](https://github.com/ossf/scorecard-infra/pull/126) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
-- [:seedling: Bump action tag for v2.5.0 release](https://github.com/ossf/scorecard-action/pull/1720) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (2 days ago)
 
 #### ⭐ Recent Stars
 
