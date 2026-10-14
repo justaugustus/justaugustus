@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:book: Add OpenSpec baseline specs for current behavior](https://github.com/ossf/scorecard/pull/5326) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:sparkles: Install the generated workflow from the installer](https://github.com/ossf/scorecard-action/pull/1728) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
 - [openspec: Close and archive `add-version-endpoint`](https://github.com/ossf/scorecard-infra/pull/141) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [:sparkles: Block cache access and always upload results in examples](https://github.com/ossf/scorecard-action/pull/1727) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
@@ -42,7 +43,6 @@
 - [:sparkles: Generate the example workflows from one template](https://github.com/ossf/scorecard-action/pull/1722) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
 - [api: Let reviewed parser diagnostics through the workflow verifier](https://github.com/ossf/scorecard-infra/pull/137) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [:sparkles: Add `fail_on_publish_error` and publication outputs](https://github.com/ossf/scorecard-action/pull/1721) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
-- [api: Report the running build at `/version`](https://github.com/ossf/scorecard-infra/pull/136) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 
 #### ⭐ Recent Stars
 
