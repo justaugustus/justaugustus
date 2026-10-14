@@ -33,16 +33,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:sparkles: Install the generated workflow from the installer](https://github.com/ossf/scorecard-action/pull/1728) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
+- [openspec: Close and archive `add-version-endpoint`](https://github.com/ossf/scorecard-infra/pull/141) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
+- [:sparkles: Block cache access and always upload results in examples](https://github.com/ossf/scorecard-action/pull/1727) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
+- [:seedling: Move CI to golangci-lint v2](https://github.com/ossf/scorecard-action/pull/1725) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
+- [:seedling: Lint the example workflows in CI](https://github.com/ossf/scorecard-action/pull/1724) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
+- [openspec: Archive `tiered-verifier-diagnostics`](https://github.com/ossf/scorecard-infra/pull/138) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [:sparkles: Generate the example workflows from one template](https://github.com/ossf/scorecard-action/pull/1722) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
 - [api: Let reviewed parser diagnostics through the workflow verifier](https://github.com/ossf/scorecard-infra/pull/137) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [:sparkles: Add `fail_on_publish_error` and publication outputs](https://github.com/ossf/scorecard-action/pull/1721) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
 - [api: Report the running build at `/version`](https://github.com/ossf/scorecard-infra/pull/136) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
-- [openspec: Archive `unify-release-versioning` and `lift-migration-quarantine`](https://github.com/ossf/scorecard-infra/pull/135) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
-- [Lift the migration quarantine and prune `AGENTS.md`](https://github.com/ossf/scorecard-infra/pull/134) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
-- [scorecard: Publish with `cache-mode: none` and a schedule timezone](https://github.com/ossf/scorecard-infra/pull/133) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
-- [api: Cover `cache-mode: none` in the workflow verifier tests](https://github.com/ossf/scorecard-infra/pull/131) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
-- [Adopt one repository-wide `v*` release line, starting at `v0.2.0`](https://github.com/ossf/scorecard-infra/pull/130) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
-- [Update ossf/scorecard-action to v2.5.0](https://github.com/actions/starter-workflows/pull/3481) on [actions/starter-workflows](https://github.com/actions/starter-workflows) (2 days ago)
 
 #### ⭐ Recent Stars
 
