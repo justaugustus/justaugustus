@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 day ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 days ago)
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (3 days ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (3 days ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (3 days ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (4 days ago)
@@ -33,6 +33,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [api: Cover `cache-mode: none` in the workflow verifier tests](https://github.com/ossf/scorecard-infra/pull/131) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
+- [Adopt one repository-wide `v*` release line, starting at `v0.2.0`](https://github.com/ossf/scorecard-infra/pull/130) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Update ossf/scorecard-action to v2.5.0](https://github.com/actions/starter-workflows/pull/3481) on [actions/starter-workflows](https://github.com/actions/starter-workflows) (2 days ago)
 - [:seedling: Bump ossf/scorecard-action to v2.5.0](https://github.com/ossf/scorecard/pull/5313) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
 - [deps: Update `ossf/scorecard` =&gt; `v5.6.0`](https://github.com/ossf/scorecard-infra/pull/126) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
@@ -41,8 +43,6 @@
 - [:seedling: Derive the reported Scorecard version from go.mod](https://github.com/ossf/scorecard-action/pull/1718) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (3 days ago)
 - [:seedling: Prepare CI, release tooling and the image for v2.5.0](https://github.com/ossf/scorecard-action/pull/1716) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (3 days ago)
 - [:seedling: Bump Scorecard to the v5.6.0 candidate and fix the canary toolchain](https://github.com/ossf/scorecard-action/pull/1714) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (3 days ago)
-- [:seedling: Add a daily canary against Scorecard main](https://github.com/ossf/scorecard-action/pull/1711) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (3 days ago)
-- [:seedling: Bump golang.org/x/net from 0.58.0 to 0.60.0](https://github.com/ossf/scorecard/pull/5311) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
 
 #### ⭐ Recent Stars
 
