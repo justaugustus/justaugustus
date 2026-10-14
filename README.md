@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [scorecard: Publish with `cache-mode: none` and a schedule timezone](https://github.com/ossf/scorecard-infra/pull/133) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [api: Cover `cache-mode: none` in the workflow verifier tests](https://github.com/ossf/scorecard-infra/pull/131) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Adopt one repository-wide `v*` release line, starting at `v0.2.0`](https://github.com/ossf/scorecard-infra/pull/130) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
 - [Update ossf/scorecard-action to v2.5.0](https://github.com/actions/starter-workflows/pull/3481) on [actions/starter-workflows](https://github.com/actions/starter-workflows) (2 days ago)
@@ -42,7 +43,6 @@
 - [:seedling: Bump Scorecard to v5.6.0](https://github.com/ossf/scorecard-action/pull/1719) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (2 days ago)
 - [:seedling: Derive the reported Scorecard version from go.mod](https://github.com/ossf/scorecard-action/pull/1718) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (3 days ago)
 - [:seedling: Prepare CI, release tooling and the image for v2.5.0](https://github.com/ossf/scorecard-action/pull/1716) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (3 days ago)
-- [:seedling: Bump Scorecard to the v5.6.0 candidate and fix the canary toolchain](https://github.com/ossf/scorecard-action/pull/1714) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (3 days ago)
 
 #### ⭐ Recent Stars
 
