@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:book: Add a Gemara threat model for the scan engine](https://github.com/ossf/scorecard/pull/5337) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:book: Document architecture and privileged workflows, and script scdiff](https://github.com/ossf/scorecard/pull/5336) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:book: Document repository access and bug reporting](https://github.com/ossf/scorecard/pull/5335) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:book: Document dependency, review, and advisory policies](https://github.com/ossf/scorecard/pull/5334) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
@@ -41,7 +42,6 @@
 - [:sparkles: Block cache access and always upload results in examples](https://github.com/ossf/scorecard-action/pull/1727) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (3 days ago)
 - [:seedling: Move CI to golangci-lint v2](https://github.com/ossf/scorecard-action/pull/1725) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (3 days ago)
 - [:seedling: Lint the example workflows in CI](https://github.com/ossf/scorecard-action/pull/1724) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (3 days ago)
-- [openspec: Archive `tiered-verifier-diagnostics`](https://github.com/ossf/scorecard-infra/pull/138) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (3 days ago)
 
 #### ⭐ Recent Stars
 
