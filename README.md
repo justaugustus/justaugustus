@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (3 days ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (3 days ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (6 days ago)
@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: Publish OSPS Baseline results to grc.store](https://github.com/ossf/scorecard/pull/5338) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:book: Add a Gemara threat model for the scan engine](https://github.com/ossf/scorecard/pull/5337) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:book: Document architecture and privileged workflows, and script scdiff](https://github.com/ossf/scorecard/pull/5336) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:book: Document repository access and bug reporting](https://github.com/ossf/scorecard/pull/5335) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
@@ -41,7 +42,6 @@
 - [openspec: Close and archive `add-version-endpoint`](https://github.com/ossf/scorecard-infra/pull/141) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (3 days ago)
 - [:sparkles: Block cache access and always upload results in examples](https://github.com/ossf/scorecard-action/pull/1727) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (3 days ago)
 - [:seedling: Move CI to golangci-lint v2](https://github.com/ossf/scorecard-action/pull/1725) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (3 days ago)
-- [:seedling: Lint the example workflows in CI](https://github.com/ossf/scorecard-action/pull/1724) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (3 days ago)
 
 #### ⭐ Recent Stars
 
