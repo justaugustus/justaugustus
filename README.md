@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [GHA/scorecard: re-enable `cache-mode` key](https://github.com/curl/curl/pull/23575) on [curl/curl](https://github.com/curl/curl) (today)
 - [:seedling: Publish OSPS Baseline results to grc.store](https://github.com/ossf/scorecard/pull/5338) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
 - [:book: Add a Gemara threat model for the scan engine](https://github.com/ossf/scorecard/pull/5337) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
 - [:book: Document architecture and privileged workflows, and script scdiff](https://github.com/ossf/scorecard/pull/5336) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
@@ -42,7 +43,6 @@
 - [:sparkles: Install the generated workflow from the installer](https://github.com/ossf/scorecard-action/pull/1728) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (1 week ago)
 - [openspec: Close and archive `add-version-endpoint`](https://github.com/ossf/scorecard-infra/pull/141) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 - [:sparkles: Block cache access and always upload results in examples](https://github.com/ossf/scorecard-action/pull/1727) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (1 week ago)
-- [:seedling: Move CI to golangci-lint v2](https://github.com/ossf/scorecard-action/pull/1725) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (1 week ago)
 
 #### ⭐ Recent Stars
 
