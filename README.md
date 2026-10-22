@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (4 days ago)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 week ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 week ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 week ago)
@@ -33,11 +33,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [:seedling: Publish OSPS Baseline results to grc.store](https://github.com/ossf/scorecard/pull/5338) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
-- [:book: Add a Gemara threat model for the scan engine](https://github.com/ossf/scorecard/pull/5337) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
-- [:book: Document architecture and privileged workflows, and script scdiff](https://github.com/ossf/scorecard/pull/5336) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
-- [:book: Document repository access and bug reporting](https://github.com/ossf/scorecard/pull/5335) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
-- [:book: Document dependency, review, and advisory policies](https://github.com/ossf/scorecard/pull/5334) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
+- [:seedling: Publish OSPS Baseline results to grc.store](https://github.com/ossf/scorecard/pull/5338) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
+- [:book: Add a Gemara threat model for the scan engine](https://github.com/ossf/scorecard/pull/5337) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
+- [:book: Document architecture and privileged workflows, and script scdiff](https://github.com/ossf/scorecard/pull/5336) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
+- [:book: Document repository access and bug reporting](https://github.com/ossf/scorecard/pull/5335) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
+- [:book: Document dependency, review, and advisory policies](https://github.com/ossf/scorecard/pull/5334) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
 - [:book: Add OpenSpec baseline specs for current behavior](https://github.com/ossf/scorecard/pull/5326) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [:sparkles: Install the generated workflow from the installer](https://github.com/ossf/scorecard-action/pull/1728) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (1 week ago)
 - [openspec: Close and archive `add-version-endpoint`](https://github.com/ossf/scorecard-infra/pull/141) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
@@ -54,8 +54,8 @@
 - [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) - Coding agent memory for Claude Code, Codex, Cursor and 39 more, built from the session history already on your disk. Local search, MCP and hooks, no LLM, one Go binary. (1 month ago)
 - [kusari-oss/waybill](https://github.com/kusari-oss/waybill) - SBOM Generator (1 month ago)
 - [slsa-framework/actions](https://github.com/slsa-framework/actions) - Stores the GitHub Actions used by the SLSA Source Tool (1 month ago)
-- [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize (1 month ago)
-- [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store. (1 month ago)
+- [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize (2 months ago)
+- [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store. (2 months ago)
 
 
 
