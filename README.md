@@ -8,19 +8,20 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (4 days ago)
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 week ago)
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (1 day ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (5 days ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 week ago)
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 week ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (1 week ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 week ago)
 - [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) - Our objective is to enable open source maintainers, contributors and end-users to understand and make decisions on the provenance of the code they maintain, produce and use. (1 month ago)
 - [bloomberg/bonobomock](https://github.com/bloomberg/bonobomock) - A GoogleTest-compatible C&#43;&#43; mocking library using monkey patching to mock free functions, static functions, and virtual/non-virtual class methods. (1 month ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 month ago)
 - [bloomberg/.github](https://github.com/bloomberg/.github) - Organization-wide community files (2 months ago)
-- [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) -  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [curl/curl](https://github.com/curl/curl) ([curl-8_23_0](https://github.com/curl/curl/releases/tag/curl-8_23_0), 1 week ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.5.0](https://github.com/ossf/scorecard-action/releases/tag/v2.5.0), 1 week ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.6.0](https://github.com/ossf/scorecard/releases/tag/v5.6.0), 1 week ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) ([v0.1.1](https://github.com/darnitdevorg/darnit/releases/tag/v0.1.1), 2 weeks ago) - 
@@ -33,12 +34,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [GHA/scorecard: re-enable `cache-mode` key](https://github.com/curl/curl/pull/23575) on [curl/curl](https://github.com/curl/curl) (today)
-- [:seedling: Publish OSPS Baseline results to grc.store](https://github.com/ossf/scorecard/pull/5338) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
-- [:book: Add a Gemara threat model for the scan engine](https://github.com/ossf/scorecard/pull/5337) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
-- [:book: Document architecture and privileged workflows, and script scdiff](https://github.com/ossf/scorecard/pull/5336) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
-- [:book: Document repository access and bug reporting](https://github.com/ossf/scorecard/pull/5335) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
-- [:book: Document dependency, review, and advisory policies](https://github.com/ossf/scorecard/pull/5334) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
+- [GHA/scorecard: re-enable `cache-mode` key](https://github.com/curl/curl/pull/23575) on [curl/curl](https://github.com/curl/curl) (1 day ago)
+- [:seedling: Publish OSPS Baseline results to grc.store](https://github.com/ossf/scorecard/pull/5338) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
+- [:book: Add a Gemara threat model for the scan engine](https://github.com/ossf/scorecard/pull/5337) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
+- [:book: Document architecture and privileged workflows, and script scdiff](https://github.com/ossf/scorecard/pull/5336) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
+- [:book: Document repository access and bug reporting](https://github.com/ossf/scorecard/pull/5335) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
+- [:book: Document dependency, review, and advisory policies](https://github.com/ossf/scorecard/pull/5334) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [:book: Add OpenSpec baseline specs for current behavior](https://github.com/ossf/scorecard/pull/5326) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [:sparkles: Install the generated workflow from the installer](https://github.com/ossf/scorecard-action/pull/1728) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (1 week ago)
 - [openspec: Close and archive `add-version-endpoint`](https://github.com/ossf/scorecard-infra/pull/141) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
