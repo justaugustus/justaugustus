@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:book: Add the LF CRA stewardship statement and escalation policy](https://github.com/ossf/scorecard/pull/5369) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Turn off setup-go caching in scdiff and release workflows](https://github.com/ossf/scorecard/pull/5363) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:seedling: Update e2e test for 10 open62541 vulnerabilities](https://github.com/ossf/scorecard/pull/5360) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
 - [GHA/scorecard: re-enable `cache-mode` key](https://github.com/curl/curl/pull/23575) on [curl/curl](https://github.com/curl/curl) (5 days ago)
@@ -43,7 +44,6 @@
 - [:book: Document repository access and bug reporting](https://github.com/ossf/scorecard/pull/5335) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [:book: Document dependency, review, and advisory policies](https://github.com/ossf/scorecard/pull/5334) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [:book: Add OpenSpec baseline specs for current behavior](https://github.com/ossf/scorecard/pull/5326) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [:sparkles: Install the generated workflow from the installer](https://github.com/ossf/scorecard-action/pull/1728) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (1 week ago)
 
 #### ⭐ Recent Stars
 
