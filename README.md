@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add 2026 Q4 SCI WG update](https://github.com/ossf/tac/pull/675) on [ossf/tac](https://github.com/ossf/tac) (today)
 - [:book: Add the LF CRA stewardship statement and escalation policy](https://github.com/ossf/scorecard/pull/5369) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Turn off setup-go caching in scdiff and release workflows](https://github.com/ossf/scorecard/pull/5363) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:seedling: Update e2e test for 10 open62541 vulnerabilities](https://github.com/ossf/scorecard/pull/5360) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
@@ -43,7 +44,6 @@
 - [:book: Document architecture and privileged workflows, and script scdiff](https://github.com/ossf/scorecard/pull/5336) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [:book: Document repository access and bug reporting](https://github.com/ossf/scorecard/pull/5335) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [:book: Document dependency, review, and advisory policies](https://github.com/ossf/scorecard/pull/5334) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [:book: Add OpenSpec baseline specs for current behavior](https://github.com/ossf/scorecard/pull/5326) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 
 #### ⭐ Recent Stars
 
