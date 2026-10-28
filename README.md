@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:warning: Restrict `scorecard serve` to localhost by default](https://github.com/ossf/scorecard/pull/5378) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:bug: Contain git-mode file reads within the clone](https://github.com/ossf/scorecard/pull/5377) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:warning: Remove `scorecard-attestor`](https://github.com/ossf/scorecard/pull/5371) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [Add 2026 Q4 SCI WG update](https://github.com/ossf/tac/pull/675) on [ossf/tac](https://github.com/ossf/tac) (1 day ago)
@@ -43,7 +44,6 @@
 - [GHA/scorecard: re-enable `cache-mode` key](https://github.com/curl/curl/pull/23575) on [curl/curl](https://github.com/curl/curl) (6 days ago)
 - [:seedling: Publish OSPS Baseline results to grc.store](https://github.com/ossf/scorecard/pull/5338) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [:book: Add a Gemara threat model for the scan engine](https://github.com/ossf/scorecard/pull/5337) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [:book: Document architecture and privileged workflows, and script scdiff](https://github.com/ossf/scorecard/pull/5336) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 
 #### ⭐ Recent Stars
 
