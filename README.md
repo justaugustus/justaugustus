@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (6 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (1 week ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (2 weeks ago)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (2 weeks ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (2 weeks ago)
@@ -34,14 +34,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [:warning: Restrict `scorecard serve` to localhost by default](https://github.com/ossf/scorecard/pull/5378) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
-- [:bug: Contain git-mode file reads within the clone](https://github.com/ossf/scorecard/pull/5377) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
-- [:warning: Remove `scorecard-attestor`](https://github.com/ossf/scorecard/pull/5371) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
-- [Add 2026 Q4 SCI WG update](https://github.com/ossf/tac/pull/675) on [ossf/tac](https://github.com/ossf/tac) (1 day ago)
-- [:book: Add the LF CRA stewardship statement and escalation policy](https://github.com/ossf/scorecard/pull/5369) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
-- [:seedling: Turn off setup-go caching in scdiff and release workflows](https://github.com/ossf/scorecard/pull/5363) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
-- [:seedling: Update e2e test for 10 open62541 vulnerabilities](https://github.com/ossf/scorecard/pull/5360) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
-- [GHA/scorecard: re-enable `cache-mode` key](https://github.com/curl/curl/pull/23575) on [curl/curl](https://github.com/curl/curl) (6 days ago)
+- [:warning: Restrict `scorecard serve` to localhost by default](https://github.com/ossf/scorecard/pull/5378) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
+- [:bug: Contain git-mode file reads within the clone](https://github.com/ossf/scorecard/pull/5377) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
+- [:warning: Remove `scorecard-attestor`](https://github.com/ossf/scorecard/pull/5371) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
+- [Add 2026 Q4 SCI WG update](https://github.com/ossf/tac/pull/675) on [ossf/tac](https://github.com/ossf/tac) (2 days ago)
+- [:book: Add the LF CRA stewardship statement and escalation policy](https://github.com/ossf/scorecard/pull/5369) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
+- [:seedling: Turn off setup-go caching in scdiff and release workflows](https://github.com/ossf/scorecard/pull/5363) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
+- [:seedling: Update e2e test for 10 open62541 vulnerabilities](https://github.com/ossf/scorecard/pull/5360) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
+- [GHA/scorecard: re-enable `cache-mode` key](https://github.com/curl/curl/pull/23575) on [curl/curl](https://github.com/curl/curl) (1 week ago)
 - [:seedling: Publish OSPS Baseline results to grc.store](https://github.com/ossf/scorecard/pull/5338) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [:book: Add a Gemara threat model for the scan engine](https://github.com/ossf/scorecard/pull/5337) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 
