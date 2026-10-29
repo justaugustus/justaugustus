@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [site: Rebuild scorecard.dev with Hugo and Hextra](https://github.com/ossf/scorecard-webapp/pull/1077) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (today)
 - [:warning: Restrict `scorecard serve` to localhost by default](https://github.com/ossf/scorecard/pull/5378) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:bug: Contain git-mode file reads within the clone](https://github.com/ossf/scorecard/pull/5377) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
 - [:warning: Remove `scorecard-attestor`](https://github.com/ossf/scorecard/pull/5371) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
@@ -43,7 +44,6 @@
 - [:seedling: Update e2e test for 10 open62541 vulnerabilities](https://github.com/ossf/scorecard/pull/5360) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
 - [GHA/scorecard: re-enable `cache-mode` key](https://github.com/curl/curl/pull/23575) on [curl/curl](https://github.com/curl/curl) (1 week ago)
 - [:seedling: Publish OSPS Baseline results to grc.store](https://github.com/ossf/scorecard/pull/5338) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [:book: Add a Gemara threat model for the scan engine](https://github.com/ossf/scorecard/pull/5337) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 
 #### ⭐ Recent Stars
 
