@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [github/lever](https://github.com/github/lever) - Copilot skills for building feedback loops, delegating safely, and moving repeatable work into automations. (today)
 - [policylabs/ampel](https://github.com/policylabs/ampel) - 🔴🟡🟢 The Amazing Multipurpose Policy Engine (and L) (2 weeks ago)
 - [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. (1 month ago)
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (1 month ago)
@@ -56,7 +57,6 @@
 - [kusari-oss/waybill](https://github.com/kusari-oss/waybill) - SBOM Generator (2 months ago)
 - [slsa-framework/actions](https://github.com/slsa-framework/actions) - Stores the GitHub Actions used by the SLSA Source Tool (2 months ago)
 - [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize (2 months ago)
-- [entireio/git-sync](https://github.com/entireio/git-sync) - 🪩 Mirror git refs from a source remote to a target remote without a local checkout. Packfiles stream directly over Smart HTTP and an in-memory object store. (2 months ago)
 
 
 
