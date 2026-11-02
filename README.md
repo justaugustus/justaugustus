@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (4 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (5 days ago)
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (1 week ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (2 weeks ago)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (2 weeks ago)
@@ -22,8 +22,8 @@
 #### 🔭 Latest releases I've contributed to
 
 - [curl/curl](https://github.com/curl/curl) ([curl-8_23_0](https://github.com/curl/curl/releases/tag/curl-8_23_0), 2 weeks ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.5.0](https://github.com/ossf/scorecard-action/releases/tag/v2.5.0), 2 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.6.0](https://github.com/ossf/scorecard/releases/tag/v5.6.0), 2 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.5.0](https://github.com/ossf/scorecard-action/releases/tag/v2.5.0), 3 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.6.0](https://github.com/ossf/scorecard/releases/tag/v5.6.0), 3 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) ([v0.1.1](https://github.com/darnitdevorg/darnit/releases/tag/v0.1.1), 4 weeks ago) - 
 - [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.27.0](https://github.com/bloomberg/causal-ts/releases/tag/v0.27.0), 1 month ago) - Causal Discovery for Time Series
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.6](https://github.com/ossf/allstar/releases/tag/v4.6), 2 months ago) - GitHub App to set and enforce security policies
@@ -34,20 +34,20 @@
 
 #### 🔨 My recent Pull Requests
 
-- [site: Rebuild scorecard.dev with Hugo and Hextra](https://github.com/ossf/scorecard-webapp/pull/1077) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (3 days ago)
-- [:warning: Restrict `scorecard serve` to localhost by default](https://github.com/ossf/scorecard/pull/5378) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
-- [:bug: Contain git-mode file reads within the clone](https://github.com/ossf/scorecard/pull/5377) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
-- [:warning: Remove `scorecard-attestor`](https://github.com/ossf/scorecard/pull/5371) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
-- [Add 2026 Q4 SCI WG update](https://github.com/ossf/tac/pull/675) on [ossf/tac](https://github.com/ossf/tac) (5 days ago)
-- [:book: Add the LF CRA stewardship statement and escalation policy](https://github.com/ossf/scorecard/pull/5369) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
-- [:seedling: Turn off setup-go caching in scdiff and release workflows](https://github.com/ossf/scorecard/pull/5363) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
+- [site: Rebuild scorecard.dev with Hugo and Hextra](https://github.com/ossf/scorecard-webapp/pull/1077) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (4 days ago)
+- [:warning: Restrict `scorecard serve` to localhost by default](https://github.com/ossf/scorecard/pull/5378) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
+- [:bug: Contain git-mode file reads within the clone](https://github.com/ossf/scorecard/pull/5377) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
+- [:warning: Remove `scorecard-attestor`](https://github.com/ossf/scorecard/pull/5371) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
+- [Add 2026 Q4 SCI WG update](https://github.com/ossf/tac/pull/675) on [ossf/tac](https://github.com/ossf/tac) (6 days ago)
+- [:book: Add the LF CRA stewardship statement and escalation policy](https://github.com/ossf/scorecard/pull/5369) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
+- [:seedling: Turn off setup-go caching in scdiff and release workflows](https://github.com/ossf/scorecard/pull/5363) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [:seedling: Update e2e test for 10 open62541 vulnerabilities](https://github.com/ossf/scorecard/pull/5360) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [GHA/scorecard: re-enable `cache-mode` key](https://github.com/curl/curl/pull/23575) on [curl/curl](https://github.com/curl/curl) (1 week ago)
 - [:seedling: Publish OSPS Baseline results to grc.store](https://github.com/ossf/scorecard/pull/5338) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [github/lever](https://github.com/github/lever) - Copilot skills for building feedback loops, delegating safely, and moving repeatable work into automations. (today)
+- [github/lever](https://github.com/github/lever) - Copilot skills for building feedback loops, delegating safely, and moving repeatable work into automations. (1 day ago)
 - [policylabs/ampel](https://github.com/policylabs/ampel) - 🔴🟡🟢 The Amazing Multipurpose Policy Engine (and L) (2 weeks ago)
 - [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. (1 month ago)
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (1 month ago)
