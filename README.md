@@ -8,6 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (today)
 - [uwu-tools/baton](https://github.com/uwu-tools/baton) - Track the follow-up work a change in one repository owes the others. (today)
 - [uwu-tests/scorecard-baton](https://github.com/uwu-tests/scorecard-baton) - baton demo: stands in for ossf/scorecard-baton (1 day ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (5 days ago)
@@ -17,7 +18,6 @@
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (3 weeks ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 weeks ago)
 - [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) - Our objective is to enable open source maintainers, contributors and end-users to understand and make decisions on the provenance of the code they maintain, produce and use. (1 month ago)
-- [bloomberg/bonobomock](https://github.com/bloomberg/bonobomock) - A GoogleTest-compatible C&#43;&#43; mocking library using monkey patching to mock free functions, static functions, and virtual/non-virtual class methods. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
