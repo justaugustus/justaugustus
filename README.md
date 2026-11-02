@@ -9,6 +9,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [uwu-tools/baton](https://github.com/uwu-tools/baton) - Track the follow-up work a change in one repository owes the others. (1 day ago)
+- [uwu-tests/scorecard-baton](https://github.com/uwu-tests/scorecard-baton) - baton demo: stands in for ossf/scorecard-baton (1 day ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (5 days ago)
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (1 week ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (2 weeks ago)
@@ -17,10 +18,10 @@
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 weeks ago)
 - [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) - Our objective is to enable open source maintainers, contributors and end-users to understand and make decisions on the provenance of the code they maintain, produce and use. (1 month ago)
 - [bloomberg/bonobomock](https://github.com/bloomberg/bonobomock) - A GoogleTest-compatible C&#43;&#43; mocking library using monkey patching to mock free functions, static functions, and virtual/non-virtual class methods. (1 month ago)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [uwu-tools/baton](https://github.com/uwu-tools/baton) ([v0.1.0](https://github.com/uwu-tools/baton/releases/tag/v0.1.0), today) - Track the follow-up work a change in one repository owes the others.
 - [curl/curl](https://github.com/curl/curl) ([curl-8_23_0](https://github.com/curl/curl/releases/tag/curl-8_23_0), 2 weeks ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.5.0](https://github.com/ossf/scorecard-action/releases/tag/v2.5.0), 3 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.6.0](https://github.com/ossf/scorecard/releases/tag/v5.6.0), 3 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
@@ -30,7 +31,6 @@
 - [bloomberg/kafka-monitor](https://github.com/bloomberg/kafka-monitor) ([3.0.1](https://github.com/bloomberg/kafka-monitor/releases/tag/3.0.1), 6 months ago) - Bloomberg&#39;s maintained fork of kafka-monitor (originally by LinkedIn)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.19](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.19), 8 months ago) - Website and API for OpenSSF Scorecard
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 10 months ago) - Repo for SIG release
-- [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) ([v2.0.0-beta8](https://github.com/ossf/scorecard-monitor/releases/tag/v2.0.0-beta8), 2 years ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 
 #### 🔨 My recent Pull Requests
 
