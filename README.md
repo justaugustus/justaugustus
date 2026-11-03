@@ -34,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [:sparkles: Add `scorecard mcp` subcommand](https://github.com/ossf/scorecard/pull/5402) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
+- [:sparkles: Add Scorecard MCP server](https://github.com/ossf/scorecard/pull/5402) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [Add as-built OpenSpec specs for baton](https://github.com/uwu-tools/baton/pull/14) on [uwu-tools/baton](https://github.com/uwu-tools/baton) (1 day ago)
 - [site: Rebuild scorecard.dev with Hugo and Hextra](https://github.com/ossf/scorecard-webapp/pull/1077) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (5 days ago)
 - [:warning: Restrict `scorecard serve` to localhost by default](https://github.com/ossf/scorecard/pull/5378) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
