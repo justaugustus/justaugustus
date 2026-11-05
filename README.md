@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
 - [uwu-tools/baton](https://github.com/uwu-tools/baton) - Track the follow-up work a change in one repository owes the others. (3 days ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (3 days ago)
 - [uwu-tests/scorecard-baton](https://github.com/uwu-tests/scorecard-baton) - baton demo: stands in for ossf/scorecard-baton (4 days ago)
@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: Replace issue templates with issue forms](https://github.com/ossf/scorecard/pull/5414) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [Point to scorecard mcp in OpenSSF Scorecard](https://github.com/uwu-tools/scorecard-mcp/pull/24) on [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) (2 days ago)
 - [:sparkles: Add Scorecard MCP server](https://github.com/ossf/scorecard/pull/5402) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
 - [Add as-built OpenSpec specs for baton](https://github.com/uwu-tools/baton/pull/14) on [uwu-tools/baton](https://github.com/uwu-tools/baton) (3 days ago)
@@ -43,7 +44,6 @@
 - [:warning: Remove `scorecard-attestor`](https://github.com/ossf/scorecard/pull/5371) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [Add 2026 Q4 SCI WG update](https://github.com/ossf/tac/pull/675) on [ossf/tac](https://github.com/ossf/tac) (1 week ago)
 - [:book: Add the LF CRA stewardship statement and escalation policy](https://github.com/ossf/scorecard/pull/5369) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [:seedling: Turn off setup-go caching in scdiff and release workflows](https://github.com/ossf/scorecard/pull/5363) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 
 #### ⭐ Recent Stars
 
