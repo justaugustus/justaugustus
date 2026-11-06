@@ -8,16 +8,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [uwu-tools/tee-time](https://github.com/uwu-tools/tee-time) - Run OpenSSF Scorecard once, and let AMPEL decide (today)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
-- [uwu-tools/baton](https://github.com/uwu-tools/baton) - Track the follow-up work a change in one repository owes the others. (4 days ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (4 days ago)
+- [uwu-tools/baton](https://github.com/uwu-tools/baton) - Track the follow-up work a change in one repository owes the others. (4 days ago)
 - [uwu-tests/scorecard-baton](https://github.com/uwu-tests/scorecard-baton) - baton demo: stands in for ossf/scorecard-baton (5 days ago)
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (2 weeks ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (3 weeks ago)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (3 weeks ago)
 - [uwu-tools/.github](https://github.com/uwu-tools/.github) - Org-wide GitHub configurations (3 weeks ago)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 weeks ago)
-- [ossf/wg-supply-chain-integrity](https://github.com/ossf/wg-supply-chain-integrity) - Our objective is to enable open source maintainers, contributors and end-users to understand and make decisions on the provenance of the code they maintain, produce and use. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
