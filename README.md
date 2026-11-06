@@ -34,7 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [:seedling: Propose one definition per check and move definitions to `internal/checkdef`](https://github.com/ossf/scorecard/pull/5427) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
+- [:seedling: Add a package-manager table and AGENTS.md](https://github.com/ossf/scorecard/pull/5428) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
+- [:seedling: Move definitions to `internal/checkdef`](https://github.com/ossf/scorecard/pull/5427) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Run Maintained and CI-Tests from typed check definitions](https://github.com/ossf/scorecard/pull/5425) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [openspec: Bring the viewer into the site&#39;s scope](https://github.com/ossf/scorecard-webapp/pull/1081) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (today)
 - [openspec: Propose improving the results viewer](https://github.com/ossf/scorecard-webapp/pull/1080) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (today)
@@ -43,7 +44,6 @@
 - [:bug: localdir: list a symlink only when it resolves to a readable file](https://github.com/ossf/scorecard/pull/5422) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Replace issue templates with issue forms](https://github.com/ossf/scorecard/pull/5414) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [Point to scorecard mcp in OpenSSF Scorecard](https://github.com/uwu-tools/scorecard-mcp/pull/24) on [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) (3 days ago)
-- [:sparkles: Add Scorecard MCP server](https://github.com/ossf/scorecard/pull/5402) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
 
 #### ⭐ Recent Stars
 
