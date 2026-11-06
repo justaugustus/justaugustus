@@ -34,16 +34,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [openspec: Bring the viewer into the site&#39;s scope](https://github.com/ossf/scorecard-webapp/pull/1081) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (today)
+- [openspec: Propose improving the results viewer](https://github.com/ossf/scorecard-webapp/pull/1080) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (today)
+- [scorecard: collect results only when a results file is requested](https://github.com/ossf/allstar/pull/912) on [ossf/allstar](https://github.com/ossf/allstar) (today)
+- [scorecard: upload SARIF only to repos enabled for the policy](https://github.com/ossf/allstar/pull/911) on [ossf/allstar](https://github.com/ossf/allstar) (today)
+- [:bug: localdir: list a symlink only when it resolves to a readable file](https://github.com/ossf/scorecard/pull/5422) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Replace issue templates with issue forms](https://github.com/ossf/scorecard/pull/5414) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [Point to scorecard mcp in OpenSSF Scorecard](https://github.com/uwu-tools/scorecard-mcp/pull/24) on [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) (3 days ago)
 - [:sparkles: Add Scorecard MCP server](https://github.com/ossf/scorecard/pull/5402) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
 - [Add as-built OpenSpec specs for baton](https://github.com/uwu-tools/baton/pull/14) on [uwu-tools/baton](https://github.com/uwu-tools/baton) (4 days ago)
 - [site: Rebuild scorecard.dev with Hugo and Hextra](https://github.com/ossf/scorecard-webapp/pull/1077) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (1 week ago)
-- [:warning: Restrict `scorecard serve` to localhost by default](https://github.com/ossf/scorecard/pull/5378) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [:bug: Contain git-mode file reads within the clone](https://github.com/ossf/scorecard/pull/5377) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [:warning: Remove `scorecard-attestor`](https://github.com/ossf/scorecard/pull/5371) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [Add 2026 Q4 SCI WG update](https://github.com/ossf/tac/pull/675) on [ossf/tac](https://github.com/ossf/tac) (1 week ago)
-- [:book: Add the LF CRA stewardship statement and escalation policy](https://github.com/ossf/scorecard/pull/5369) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 
 #### ⭐ Recent Stars
 
