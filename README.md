@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
 - [uwu-tools/tee-time](https://github.com/uwu-tools/tee-time) - Run OpenSSF Scorecard once, and let AMPEL decide (1 day ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (5 days ago)
 - [uwu-tools/baton](https://github.com/uwu-tools/baton) - Track the follow-up work a change in one repository owes the others. (5 days ago)
@@ -34,16 +34,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: Move the wiring of the last three checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5438) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Move the wiring of a third batch of checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5437) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Move the wiring of five more checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5436) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
-- [:seedling: Move the docs mock in `pkg/scorecard` into test code](https://github.com/ossf/scorecard/pull/5435) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
+- [:seedling: Flatten `mapCodeOwners`, move test mock, fix Codecov uploads](https://github.com/ossf/scorecard/pull/5435) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Move the wiring of five checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5434) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [Require the checked result in Scorecard policies](https://github.com/carabiner-dev/policies/pull/49) on [carabiner-dev/policies](https://github.com/carabiner-dev/policies) (today)
 - [:seedling: Pin probe-mode raw data for Packaging](https://github.com/ossf/scorecard/pull/5433) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Pin probe-mode raw data for the remaining checks](https://github.com/ossf/scorecard/pull/5432) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Add a package-manager table and AGENTS.md](https://github.com/ossf/scorecard/pull/5428) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:seedling: Move definitions to `internal/checkdef`](https://github.com/ossf/scorecard/pull/5427) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
-- [:seedling: Run Maintained and CI-Tests from typed check definitions](https://github.com/ossf/scorecard/pull/5425) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 
 #### ⭐ Recent Stars
 
