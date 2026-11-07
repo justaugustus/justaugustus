@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: Register checks from their definitions](https://github.com/ossf/scorecard/pull/5440) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Collect probe-mode raw data from the check definitions](https://github.com/ossf/scorecard/pull/5439) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Move the wiring of the last three checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5438) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Move the wiring of a third batch of checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5437) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
@@ -43,7 +44,6 @@
 - [Require the checked result in Scorecard policies](https://github.com/carabiner-dev/policies/pull/49) on [carabiner-dev/policies](https://github.com/carabiner-dev/policies) (today)
 - [:seedling: Pin probe-mode raw data for Packaging](https://github.com/ossf/scorecard/pull/5433) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Pin probe-mode raw data for the remaining checks](https://github.com/ossf/scorecard/pull/5432) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
-- [:seedling: Add a package-manager table and AGENTS.md](https://github.com/ossf/scorecard/pull/5428) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 
 #### ⭐ Recent Stars
 
