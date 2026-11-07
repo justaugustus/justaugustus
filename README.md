@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: Move the wiring of five more checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5436) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Move the docs mock in `pkg/scorecard` into test code](https://github.com/ossf/scorecard/pull/5435) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Move the wiring of five checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5434) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [Require the checked result in Scorecard policies](https://github.com/carabiner-dev/policies/pull/49) on [carabiner-dev/policies](https://github.com/carabiner-dev/policies) (today)
@@ -43,7 +44,6 @@
 - [:seedling: Move definitions to `internal/checkdef`](https://github.com/ossf/scorecard/pull/5427) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:seedling: Run Maintained and CI-Tests from typed check definitions](https://github.com/ossf/scorecard/pull/5425) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [openspec: Bring the viewer into the site&#39;s scope](https://github.com/ossf/scorecard-webapp/pull/1081) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (1 day ago)
-- [openspec: Propose improving the results viewer](https://github.com/ossf/scorecard-webapp/pull/1080) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (1 day ago)
 
 #### ⭐ Recent Stars
 
