@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: Pin probe-mode raw data for the remaining checks](https://github.com/ossf/scorecard/pull/5432) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Add a package-manager table and AGENTS.md](https://github.com/ossf/scorecard/pull/5428) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:seedling: Move definitions to `internal/checkdef`](https://github.com/ossf/scorecard/pull/5427) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:seedling: Run Maintained and CI-Tests from typed check definitions](https://github.com/ossf/scorecard/pull/5425) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
@@ -43,7 +44,6 @@
 - [scorecard: upload SARIF only to repos enabled for the policy](https://github.com/ossf/allstar/pull/911) on [ossf/allstar](https://github.com/ossf/allstar) (1 day ago)
 - [:bug: localdir: list a symlink only when it resolves to a readable file](https://github.com/ossf/scorecard/pull/5422) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:seedling: Replace issue templates with issue forms](https://github.com/ossf/scorecard/pull/5414) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
-- [Point to scorecard mcp in OpenSSF Scorecard](https://github.com/uwu-tools/scorecard-mcp/pull/24) on [uwu-tools/scorecard-mcp](https://github.com/uwu-tools/scorecard-mcp) (4 days ago)
 
 #### ⭐ Recent Stars
 
