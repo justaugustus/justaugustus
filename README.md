@@ -21,12 +21,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.28.0](https://github.com/bloomberg/causal-ts/releases/tag/v0.28.0), today) - Causal Discovery for Time Series
 - [uwu-tools/baton](https://github.com/uwu-tools/baton) ([v0.1.0](https://github.com/uwu-tools/baton/releases/tag/v0.1.0), 5 days ago) - Track the follow-up work a change in one repository owes the others.
 - [curl/curl](https://github.com/curl/curl) ([curl-8_23_0](https://github.com/curl/curl/releases/tag/curl-8_23_0), 3 weeks ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.5.0](https://github.com/ossf/scorecard-action/releases/tag/v2.5.0), 3 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.6.0](https://github.com/ossf/scorecard/releases/tag/v5.6.0), 3 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) ([v0.1.1](https://github.com/darnitdevorg/darnit/releases/tag/v0.1.1), 1 month ago) - 
-- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.27.0](https://github.com/bloomberg/causal-ts/releases/tag/v0.27.0), 1 month ago) - Causal Discovery for Time Series
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.6](https://github.com/ossf/allstar/releases/tag/v4.6), 2 months ago) - GitHub App to set and enforce security policies
 - [bloomberg/kafka-monitor](https://github.com/bloomberg/kafka-monitor) ([3.0.1](https://github.com/bloomberg/kafka-monitor/releases/tag/3.0.1), 6 months ago) - Bloomberg&#39;s maintained fork of kafka-monitor (originally by LinkedIn)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.19](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.19), 9 months ago) - Website and API for OpenSSF Scorecard
