@@ -34,6 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: Move the docs mock in `pkg/scorecard` into test code](https://github.com/ossf/scorecard/pull/5435) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
+- [:seedling: Move the wiring of five checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5434) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [Require the checked result in Scorecard policies](https://github.com/carabiner-dev/policies/pull/49) on [carabiner-dev/policies](https://github.com/carabiner-dev/policies) (today)
 - [:seedling: Pin probe-mode raw data for Packaging](https://github.com/ossf/scorecard/pull/5433) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Pin probe-mode raw data for the remaining checks](https://github.com/ossf/scorecard/pull/5432) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
@@ -42,8 +44,6 @@
 - [:seedling: Run Maintained and CI-Tests from typed check definitions](https://github.com/ossf/scorecard/pull/5425) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [openspec: Bring the viewer into the site&#39;s scope](https://github.com/ossf/scorecard-webapp/pull/1081) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (1 day ago)
 - [openspec: Propose improving the results viewer](https://github.com/ossf/scorecard-webapp/pull/1080) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (1 day ago)
-- [scorecard: collect results only when a results file is requested](https://github.com/ossf/allstar/pull/912) on [ossf/allstar](https://github.com/ossf/allstar) (1 day ago)
-- [scorecard: upload SARIF only to repos enabled for the policy](https://github.com/ossf/allstar/pull/911) on [ossf/allstar](https://github.com/ossf/allstar) (1 day ago)
 
 #### ⭐ Recent Stars
 
