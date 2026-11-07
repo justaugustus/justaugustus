@@ -34,6 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Require the checked result in Scorecard policies](https://github.com/carabiner-dev/policies/pull/49) on [carabiner-dev/policies](https://github.com/carabiner-dev/policies) (today)
+- [:seedling: Pin probe-mode raw data for Packaging](https://github.com/ossf/scorecard/pull/5433) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Pin probe-mode raw data for the remaining checks](https://github.com/ossf/scorecard/pull/5432) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Add a package-manager table and AGENTS.md](https://github.com/ossf/scorecard/pull/5428) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:seedling: Move definitions to `internal/checkdef`](https://github.com/ossf/scorecard/pull/5427) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
@@ -42,8 +44,6 @@
 - [openspec: Propose improving the results viewer](https://github.com/ossf/scorecard-webapp/pull/1080) on [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) (1 day ago)
 - [scorecard: collect results only when a results file is requested](https://github.com/ossf/allstar/pull/912) on [ossf/allstar](https://github.com/ossf/allstar) (1 day ago)
 - [scorecard: upload SARIF only to repos enabled for the policy](https://github.com/ossf/allstar/pull/911) on [ossf/allstar](https://github.com/ossf/allstar) (1 day ago)
-- [:bug: localdir: list a symlink only when it resolves to a readable file](https://github.com/ossf/scorecard/pull/5422) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
-- [:seedling: Replace issue templates with issue forms](https://github.com/ossf/scorecard/pull/5414) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
 
 #### ⭐ Recent Stars
 
