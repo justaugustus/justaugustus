@@ -8,16 +8,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [justaugustus/site](https://github.com/justaugustus/site) -  (today)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
 - [uwu-tools/tee-time](https://github.com/uwu-tools/tee-time) - Run OpenSSF Scorecard once, and let AMPEL decide (2 days ago)
 - [carabiner-dev/policies](https://github.com/carabiner-dev/policies) - Policy sets for different frameworks (2 days ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (3 days ago)
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (6 days ago)
 - [uwu-tools/baton](https://github.com/uwu-tools/baton) - Track the follow-up work a change in one repository owes the others. (6 days ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (6 days ago)
 - [uwu-tests/scorecard-baton](https://github.com/uwu-tests/scorecard-baton) - baton demo: stands in for ossf/scorecard-baton (1 week ago)
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (2 weeks ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (3 weeks ago)
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
