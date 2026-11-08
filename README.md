@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [about: Reflect current roles](https://github.com/justaugustus/site/pull/57) on [justaugustus/site](https://github.com/justaugustus/site) (today)
 - [Rebuild on the current blahg template (Astro 7, TinaCMS 3)](https://github.com/justaugustus/site/pull/56) on [justaugustus/site](https://github.com/justaugustus/site) (today)
 - [:seedling: Pin check names and results, and rewrite the check guides](https://github.com/ossf/scorecard/pull/5441) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:seedling: Register checks from their definitions](https://github.com/ossf/scorecard/pull/5440) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
@@ -43,7 +44,6 @@
 - [:seedling: Move the wiring of five more checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5436) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:seedling: Flatten `mapCodeOwners`, move test mock, fix Codecov uploads](https://github.com/ossf/scorecard/pull/5435) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:seedling: Move the wiring of five checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5434) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
-- [Require the checked result in Scorecard policies](https://github.com/carabiner-dev/policies/pull/49) on [carabiner-dev/policies](https://github.com/carabiner-dev/policies) (1 day ago)
 
 #### ⭐ Recent Stars
 
