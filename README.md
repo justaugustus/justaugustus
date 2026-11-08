@@ -8,21 +8,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
-- [uwu-tools/tee-time](https://github.com/uwu-tools/tee-time) - Run OpenSSF Scorecard once, and let AMPEL decide (1 day ago)
-- [carabiner-dev/policies](https://github.com/carabiner-dev/policies) - Policy sets for different frameworks (1 day ago)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 days ago)
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (5 days ago)
-- [uwu-tools/baton](https://github.com/uwu-tools/baton) - Track the follow-up work a change in one repository owes the others. (5 days ago)
-- [uwu-tests/scorecard-baton](https://github.com/uwu-tests/scorecard-baton) - baton demo: stands in for ossf/scorecard-baton (6 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
+- [uwu-tools/tee-time](https://github.com/uwu-tools/tee-time) - Run OpenSSF Scorecard once, and let AMPEL decide (2 days ago)
+- [carabiner-dev/policies](https://github.com/carabiner-dev/policies) - Policy sets for different frameworks (2 days ago)
+- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (3 days ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (6 days ago)
+- [uwu-tools/baton](https://github.com/uwu-tools/baton) - Track the follow-up work a change in one repository owes the others. (6 days ago)
+- [uwu-tests/scorecard-baton](https://github.com/uwu-tests/scorecard-baton) - baton demo: stands in for ossf/scorecard-baton (1 week ago)
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (2 weeks ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (3 weeks ago)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.28.0](https://github.com/bloomberg/causal-ts/releases/tag/v0.28.0), today) - Causal Discovery for Time Series
-- [uwu-tools/baton](https://github.com/uwu-tools/baton) ([v0.1.0](https://github.com/uwu-tools/baton/releases/tag/v0.1.0), 5 days ago) - Track the follow-up work a change in one repository owes the others.
+- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.28.0](https://github.com/bloomberg/causal-ts/releases/tag/v0.28.0), 1 day ago) - Causal Discovery for Time Series
+- [uwu-tools/baton](https://github.com/uwu-tools/baton) ([v0.1.0](https://github.com/uwu-tools/baton/releases/tag/v0.1.0), 6 days ago) - Track the follow-up work a change in one repository owes the others.
 - [curl/curl](https://github.com/curl/curl) ([curl-8_23_0](https://github.com/curl/curl/releases/tag/curl-8_23_0), 3 weeks ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.5.0](https://github.com/ossf/scorecard-action/releases/tag/v2.5.0), 3 weeks ago) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.6.0](https://github.com/ossf/scorecard/releases/tag/v5.6.0), 3 weeks ago) - OpenSSF Scorecard - Security health metrics for Open Source
@@ -34,20 +34,20 @@
 
 #### 🔨 My recent Pull Requests
 
-- [:seedling: Pin check names and results, and rewrite the check guides](https://github.com/ossf/scorecard/pull/5441) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
-- [:seedling: Register checks from their definitions](https://github.com/ossf/scorecard/pull/5440) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
-- [:seedling: Collect probe-mode raw data from the check definitions](https://github.com/ossf/scorecard/pull/5439) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
-- [:seedling: Move the wiring of the last three checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5438) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
-- [:seedling: Move the wiring of a third batch of checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5437) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
-- [:seedling: Move the wiring of five more checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5436) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
-- [:seedling: Flatten `mapCodeOwners`, move test mock, fix Codecov uploads](https://github.com/ossf/scorecard/pull/5435) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
-- [:seedling: Move the wiring of five checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5434) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
-- [Require the checked result in Scorecard policies](https://github.com/carabiner-dev/policies/pull/49) on [carabiner-dev/policies](https://github.com/carabiner-dev/policies) (today)
-- [:seedling: Pin probe-mode raw data for Packaging](https://github.com/ossf/scorecard/pull/5433) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
+- [:seedling: Pin check names and results, and rewrite the check guides](https://github.com/ossf/scorecard/pull/5441) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
+- [:seedling: Register checks from their definitions](https://github.com/ossf/scorecard/pull/5440) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
+- [:seedling: Collect probe-mode raw data from the check definitions](https://github.com/ossf/scorecard/pull/5439) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
+- [:seedling: Move the wiring of the last three checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5438) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
+- [:seedling: Move the wiring of a third batch of checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5437) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
+- [:seedling: Move the wiring of five more checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5436) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
+- [:seedling: Flatten `mapCodeOwners`, move test mock, fix Codecov uploads](https://github.com/ossf/scorecard/pull/5435) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
+- [:seedling: Move the wiring of five checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5434) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
+- [Require the checked result in Scorecard policies](https://github.com/carabiner-dev/policies/pull/49) on [carabiner-dev/policies](https://github.com/carabiner-dev/policies) (1 day ago)
+- [:seedling: Pin probe-mode raw data for Packaging](https://github.com/ossf/scorecard/pull/5433) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [github/lever](https://github.com/github/lever) - Copilot skills for building feedback loops, delegating safely, and moving repeatable work into automations. (6 days ago)
+- [github/lever](https://github.com/github/lever) - Copilot skills for building feedback loops, delegating safely, and moving repeatable work into automations. (1 week ago)
 - [policylabs/ampel](https://github.com/policylabs/ampel) - 🔴🟡🟢 The Amazing Multipurpose Policy Engine (and L) (3 weeks ago)
 - [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. (1 month ago)
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (1 month ago)
