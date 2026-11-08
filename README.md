@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
 - [uwu-tools/tee-time](https://github.com/uwu-tools/tee-time) - Run OpenSSF Scorecard once, and let AMPEL decide (2 days ago)
 - [carabiner-dev/policies](https://github.com/carabiner-dev/policies) - Policy sets for different frameworks (2 days ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (3 days ago)
@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Rebuild on the current blahg template (Astro 7, TinaCMS 3)](https://github.com/justaugustus/site/pull/56) on [justaugustus/site](https://github.com/justaugustus/site) (today)
 - [:seedling: Pin check names and results, and rewrite the check guides](https://github.com/ossf/scorecard/pull/5441) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:seedling: Register checks from their definitions](https://github.com/ossf/scorecard/pull/5440) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:seedling: Collect probe-mode raw data from the check definitions](https://github.com/ossf/scorecard/pull/5439) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
@@ -43,7 +44,6 @@
 - [:seedling: Flatten `mapCodeOwners`, move test mock, fix Codecov uploads](https://github.com/ossf/scorecard/pull/5435) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:seedling: Move the wiring of five checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5434) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [Require the checked result in Scorecard policies](https://github.com/carabiner-dev/policies/pull/49) on [carabiner-dev/policies](https://github.com/carabiner-dev/policies) (1 day ago)
-- [:seedling: Pin probe-mode raw data for Packaging](https://github.com/ossf/scorecard/pull/5433) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 
 #### ⭐ Recent Stars
 
