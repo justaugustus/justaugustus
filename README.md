@@ -8,15 +8,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [justaugustus/justaugustus.github.io](https://github.com/justaugustus/justaugustus.github.io) -  (today)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
 - [justaugustus/setlist](https://github.com/justaugustus/setlist) - Talks and demos by Stephen Augustus (today)
-- [justaugustus/justaugustus.github.io](https://github.com/justaugustus/justaugustus.github.io) -  (today)
 - [justaugustus/site](https://github.com/justaugustus/site) -  (1 day ago)
 - [uwu-tools/tee-time](https://github.com/uwu-tools/tee-time) - Run OpenSSF Scorecard once, and let AMPEL decide (3 days ago)
 - [carabiner-dev/policies](https://github.com/carabiner-dev/policies) - Policy sets for different frameworks (3 days ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (4 days ago)
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 week ago)
 - [uwu-tools/baton](https://github.com/uwu-tools/baton) - Track the follow-up work a change in one repository owes the others. (1 week ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 week ago)
 - [uwu-tests/scorecard-baton](https://github.com/uwu-tests/scorecard-baton) - baton demo: stands in for ossf/scorecard-baton (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
