@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:sparkles: Add experimental OSPS Baseline conformance mode](https://github.com/ossf/scorecard/pull/5449) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [about: Reflect current roles](https://github.com/justaugustus/site/pull/57) on [justaugustus/site](https://github.com/justaugustus/site) (1 day ago)
 - [Rebuild on the current blahg template (Astro 7, TinaCMS 3)](https://github.com/justaugustus/site/pull/56) on [justaugustus/site](https://github.com/justaugustus/site) (1 day ago)
 - [:seedling: Pin check names and results, and rewrite the check guides](https://github.com/ossf/scorecard/pull/5441) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
@@ -43,7 +44,6 @@
 - [:seedling: Move the wiring of a third batch of checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5437) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
 - [:seedling: Move the wiring of five more checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5436) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
 - [:seedling: Flatten `mapCodeOwners`, move test mock, fix Codecov uploads](https://github.com/ossf/scorecard/pull/5435) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
-- [:seedling: Move the wiring of five checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5434) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
 
 #### ⭐ Recent Stars
 
