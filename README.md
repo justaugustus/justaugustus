@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:book: Retarget the OSPS Baseline coverage doc to v2026.08.28](https://github.com/ossf/scorecard/pull/5470) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Build the Dockerfile image with Go 1.27.4](https://github.com/ossf/scorecard/pull/5460) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
 - [:sparkles: Add experimental OSPS Baseline conformance mode](https://github.com/ossf/scorecard/pull/5449) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
 - [about: Reflect current roles](https://github.com/justaugustus/site/pull/57) on [justaugustus/site](https://github.com/justaugustus/site) (5 days ago)
@@ -43,7 +44,6 @@
 - [:seedling: Collect probe-mode raw data from the check definitions](https://github.com/ossf/scorecard/pull/5439) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
 - [:seedling: Move the wiring of the last three checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5438) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
 - [:seedling: Move the wiring of a third batch of checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5437) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
-- [:seedling: Move the wiring of five more checks into `internal/checkdef`](https://github.com/ossf/scorecard/pull/5436) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
 
 #### ⭐ Recent Stars
 
