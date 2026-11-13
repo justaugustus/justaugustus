@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.28.0](https://github.com/bloomberg/causal-ts/releases/tag/v0.28.0), 6 days ago) - Causal discovery (structure learning) for stationary and nonstationary multivariate time series in Python.
+- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.28.1](https://github.com/bloomberg/causal-ts/releases/tag/v0.28.1), today) - Causal discovery (structure learning) for stationary and nonstationary multivariate time series in Python.
 - [uwu-tools/baton](https://github.com/uwu-tools/baton) ([v0.1.0](https://github.com/uwu-tools/baton/releases/tag/v0.1.0), 1 week ago) - Track the follow-up work a change in one repository owes the others.
 - [curl/curl](https://github.com/curl/curl) ([curl-8_23_0](https://github.com/curl/curl/releases/tag/curl-8_23_0), 1 month ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.5.0](https://github.com/ossf/scorecard-action/releases/tag/v2.5.0), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
