@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (today)
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (today)
-- [uwu-tools/bomcard](https://github.com/uwu-tools/bomcard) - Score every dependency in an SBOM with OpenSSF Scorecard (3 days ago)
-- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (6 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 day ago)
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 day ago)
+- [uwu-tools/bomcard](https://github.com/uwu-tools/bomcard) - Score every dependency in an SBOM with OpenSSF Scorecard (4 days ago)
+- [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 week ago)
 - [justaugustus/setlist](https://github.com/justaugustus/setlist) - Talks and demos by Stephen Augustus (1 week ago)
 - [justaugustus/justaugustus.github.io](https://github.com/justaugustus/justaugustus.github.io) -  (1 week ago)
 - [justaugustus/site](https://github.com/justaugustus/site) -  (1 week ago)
@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.28.1](https://github.com/bloomberg/causal-ts/releases/tag/v0.28.1), 3 days ago) - Causal discovery (structure learning) for stationary and nonstationary multivariate time series in Python.
+- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.28.1](https://github.com/bloomberg/causal-ts/releases/tag/v0.28.1), 4 days ago) - Causal discovery (structure learning) for stationary and nonstationary multivariate time series in Python.
 - [uwu-tools/baton](https://github.com/uwu-tools/baton) ([v0.1.0](https://github.com/uwu-tools/baton/releases/tag/v0.1.0), 2 weeks ago) - Track the follow-up work a change in one repository owes the others.
 - [curl/curl](https://github.com/curl/curl) ([curl-8_23_0](https://github.com/curl/curl/releases/tag/curl-8_23_0), 1 month ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.5.0](https://github.com/ossf/scorecard-action/releases/tag/v2.5.0), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
@@ -34,11 +34,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [:seedling: Bump osv-scanner to v2.7.1 on Go 1.27.4](https://github.com/ossf/scorecard/pull/5475) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
-- [deps: Update `ossf/scorecard` to `main` ahead of v5.7.0](https://github.com/ossf/scorecard-infra/pull/162) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
-- [:seedling: Bump Scorecard to main ahead of v5.7.0](https://github.com/ossf/scorecard-action/pull/1744) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
-- [:book: Retarget the OSPS Baseline coverage doc to v2026.08.28](https://github.com/ossf/scorecard/pull/5470) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
-- [:seedling: Build the Dockerfile image with Go 1.27.4](https://github.com/ossf/scorecard/pull/5460) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
+- [:seedling: Bump osv-scanner to v2.7.1 on Go 1.27.4](https://github.com/ossf/scorecard/pull/5475) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
+- [deps: Update `ossf/scorecard` to `main` ahead of v5.7.0](https://github.com/ossf/scorecard-infra/pull/162) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
+- [:seedling: Bump Scorecard to main ahead of v5.7.0](https://github.com/ossf/scorecard-action/pull/1744) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (1 day ago)
+- [:book: Retarget the OSPS Baseline coverage doc to v2026.08.28](https://github.com/ossf/scorecard/pull/5470) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
+- [:seedling: Build the Dockerfile image with Go 1.27.4](https://github.com/ossf/scorecard/pull/5460) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
 - [:sparkles: Add experimental OSPS Baseline conformance mode](https://github.com/ossf/scorecard/pull/5449) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [about: Reflect current roles](https://github.com/justaugustus/site/pull/57) on [justaugustus/site](https://github.com/justaugustus/site) (1 week ago)
 - [Rebuild on the current blahg template (Astro 7, TinaCMS 3)](https://github.com/justaugustus/site/pull/56) on [justaugustus/site](https://github.com/justaugustus/site) (1 week ago)
