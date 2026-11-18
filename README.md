@@ -25,12 +25,12 @@
 - [uwu-tools/baton](https://github.com/uwu-tools/baton) ([v0.1.0](https://github.com/uwu-tools/baton/releases/tag/v0.1.0), 2 weeks ago) - Track the follow-up work a change in one repository owes the others.
 - [curl/curl](https://github.com/curl/curl) ([curl-8_23_0](https://github.com/curl/curl/releases/tag/curl-8_23_0), 1 month ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.5.0](https://github.com/ossf/scorecard-action/releases/tag/v2.5.0), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.6.0](https://github.com/ossf/scorecard/releases/tag/v5.6.0), 1 month ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) ([v0.1.1](https://github.com/darnitdevorg/darnit/releases/tag/v0.1.1), 1 month ago) - 
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.6](https://github.com/ossf/allstar/releases/tag/v4.6), 2 months ago) - GitHub App to set and enforce security policies
 - [bloomberg/kafka-monitor](https://github.com/bloomberg/kafka-monitor) ([3.0.1](https://github.com/bloomberg/kafka-monitor/releases/tag/3.0.1), 6 months ago) - Bloomberg&#39;s maintained fork of kafka-monitor (originally by LinkedIn)
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.19](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.19), 9 months ago) - Website and API for OpenSSF Scorecard
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) ([v1.35-digital-artwork](https://github.com/kubernetes/sig-release/releases/tag/v1.35-digital-artwork), 11 months ago) - Repo for SIG release
+- [ossf/scorecard-monitor](https://github.com/ossf/scorecard-monitor) ([v2.0.0-beta8](https://github.com/ossf/scorecard-monitor/releases/tag/v2.0.0-beta8), 2 years ago) - Simplify OpenSSF Scorecard tracking in your organization with automated markdown and JSON reports, plus optional GitHub issue alerts
 
 #### 🔨 My recent Pull Requests
 
