@@ -8,7 +8,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (2 days ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (2 days ago)
 - [uwu-tools/bomcard](https://github.com/uwu-tools/bomcard) - Score every dependency in an SBOM with OpenSSF Scorecard (5 days ago)
@@ -34,6 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:book: Drop flaky links from documentation](https://github.com/ossf/scorecard/pull/5480) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
+- [:seedling: Check doc links with lychee on PRs and weekly](https://github.com/ossf/scorecard/pull/5478) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [:seedling: Bump osv-scanner to v2.7.1 on Go 1.27.4](https://github.com/ossf/scorecard/pull/5475) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
 - [deps: Update `ossf/scorecard` to `main` ahead of v5.7.0](https://github.com/ossf/scorecard-infra/pull/162) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
 - [:seedling: Bump Scorecard to main ahead of v5.7.0](https://github.com/ossf/scorecard-action/pull/1744) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (2 days ago)
@@ -42,8 +44,6 @@
 - [:sparkles: Add experimental OSPS Baseline conformance mode](https://github.com/ossf/scorecard/pull/5449) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [about: Reflect current roles](https://github.com/justaugustus/site/pull/57) on [justaugustus/site](https://github.com/justaugustus/site) (1 week ago)
 - [Rebuild on the current blahg template (Astro 7, TinaCMS 3)](https://github.com/justaugustus/site/pull/56) on [justaugustus/site](https://github.com/justaugustus/site) (1 week ago)
-- [:seedling: Pin check names and results, and rewrite the check guides](https://github.com/ossf/scorecard/pull/5441) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [:seedling: Register checks from their definitions](https://github.com/ossf/scorecard/pull/5440) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 
 #### ⭐ Recent Stars
 
