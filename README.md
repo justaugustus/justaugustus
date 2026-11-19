@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (today)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 day ago)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (3 days ago)
 - [uwu-tools/bomcard](https://github.com/uwu-tools/bomcard) - Score every dependency in an SBOM with OpenSSF Scorecard (6 days ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 week ago)
@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: Bump action tag for v2.6.0 release](https://github.com/ossf/scorecard-action/pull/1749) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
 - [:seedling: Bump scorecard to v5.7.0](https://github.com/ossf/scorecard-action/pull/1746) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
 - [:book: Drop flaky links from documentation](https://github.com/ossf/scorecard/pull/5480) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [:seedling: Check doc links with lychee on PRs and weekly](https://github.com/ossf/scorecard/pull/5478) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
@@ -43,7 +44,6 @@
 - [:book: Retarget the OSPS Baseline coverage doc to v2026.08.28](https://github.com/ossf/scorecard/pull/5470) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
 - [:seedling: Build the Dockerfile image with Go 1.27.4](https://github.com/ossf/scorecard/pull/5460) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [:sparkles: Add experimental OSPS Baseline conformance mode](https://github.com/ossf/scorecard/pull/5449) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [about: Reflect current roles](https://github.com/justaugustus/site/pull/57) on [justaugustus/site](https://github.com/justaugustus/site) (1 week ago)
 
 #### ⭐ Recent Stars
 
