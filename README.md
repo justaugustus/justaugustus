@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (today)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (3 days ago)
 - [uwu-tools/bomcard](https://github.com/uwu-tools/bomcard) - Score every dependency in an SBOM with OpenSSF Scorecard (6 days ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 week ago)
@@ -21,11 +21,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.6.0](https://github.com/ossf/scorecard-action/releases/tag/v2.6.0), today) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.7.0](https://github.com/ossf/scorecard/releases/tag/v5.7.0), today) - OpenSSF Scorecard - Security health metrics for Open Source
 - [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.28.1](https://github.com/bloomberg/causal-ts/releases/tag/v0.28.1), 6 days ago) - Causal discovery (structure learning) for stationary and nonstationary multivariate time series in Python.
 - [uwu-tools/baton](https://github.com/uwu-tools/baton) ([v0.1.0](https://github.com/uwu-tools/baton/releases/tag/v0.1.0), 2 weeks ago) - Track the follow-up work a change in one repository owes the others.
 - [curl/curl](https://github.com/curl/curl) ([curl-8_23_0](https://github.com/curl/curl/releases/tag/curl-8_23_0), 1 month ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.5.0](https://github.com/ossf/scorecard-action/releases/tag/v2.5.0), 1 month ago) - Official GitHub Action for OpenSSF Scorecard.
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) ([v0.1.1](https://github.com/darnitdevorg/darnit/releases/tag/v0.1.1), 1 month ago) - 
 - [ossf/allstar](https://github.com/ossf/allstar) ([v4.6](https://github.com/ossf/allstar/releases/tag/v4.6), 2 months ago) - GitHub App to set and enforce security policies
 - [bloomberg/kafka-monitor](https://github.com/bloomberg/kafka-monitor) ([3.0.1](https://github.com/bloomberg/kafka-monitor/releases/tag/3.0.1), 6 months ago) - Bloomberg&#39;s maintained fork of kafka-monitor (originally by LinkedIn)
@@ -34,6 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:seedling: Bump ossf/scorecard-action to v2.6.0](https://github.com/ossf/scorecard/pull/5488) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
+- [:book: Point getting started at the v2.6.0 example workflows](https://github.com/ossf/scorecard-action/pull/1750) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
 - [:seedling: Bump action tag for v2.6.0 release](https://github.com/ossf/scorecard-action/pull/1749) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
 - [:seedling: Bump scorecard to v5.7.0](https://github.com/ossf/scorecard-action/pull/1746) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
 - [:book: Drop flaky links from documentation](https://github.com/ossf/scorecard/pull/5480) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
@@ -42,8 +44,6 @@
 - [deps: Update `ossf/scorecard` to `main` ahead of v5.7.0](https://github.com/ossf/scorecard-infra/pull/162) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (3 days ago)
 - [:seedling: Bump Scorecard to main ahead of v5.7.0](https://github.com/ossf/scorecard-action/pull/1744) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (3 days ago)
 - [:book: Retarget the OSPS Baseline coverage doc to v2026.08.28](https://github.com/ossf/scorecard/pull/5470) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
-- [:seedling: Build the Dockerfile image with Go 1.27.4](https://github.com/ossf/scorecard/pull/5460) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [:sparkles: Add experimental OSPS Baseline conformance mode](https://github.com/ossf/scorecard/pull/5449) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 
 #### ⭐ Recent Stars
 
