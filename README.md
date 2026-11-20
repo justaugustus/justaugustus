@@ -8,22 +8,22 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (today)
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (today)
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (today)
-- [uwu-tools/bomcard](https://github.com/uwu-tools/bomcard) - Score every dependency in an SBOM with OpenSSF Scorecard (6 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
+- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 day ago)
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 day ago)
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 day ago)
+- [uwu-tools/bomcard](https://github.com/uwu-tools/bomcard) - Score every dependency in an SBOM with OpenSSF Scorecard (1 week ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 week ago)
 - [justaugustus/justaugustus.github.io](https://github.com/justaugustus/justaugustus.github.io) -  (1 week ago)
 - [justaugustus/setlist](https://github.com/justaugustus/setlist) - Talks and demos by Stephen Augustus (1 week ago)
 - [justaugustus/site](https://github.com/justaugustus/site) -  (1 week ago)
-- [uwu-tools/tee-time](https://github.com/uwu-tools/tee-time) - Run OpenSSF Scorecard once, and let AMPEL decide (1 week ago)
+- [uwu-tools/tee-time](https://github.com/uwu-tools/tee-time) - Run OpenSSF Scorecard once, and let AMPEL decide (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.6.0](https://github.com/ossf/scorecard-action/releases/tag/v2.6.0), today) - Official GitHub Action for OpenSSF Scorecard.
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.7.0](https://github.com/ossf/scorecard/releases/tag/v5.7.0), today) - OpenSSF Scorecard - Security health metrics for Open Source
-- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.28.1](https://github.com/bloomberg/causal-ts/releases/tag/v0.28.1), 6 days ago) - Causal discovery (structure learning) for stationary and nonstationary multivariate time series in Python.
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.6.0](https://github.com/ossf/scorecard-action/releases/tag/v2.6.0), 1 day ago) - Official GitHub Action for OpenSSF Scorecard.
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.7.0](https://github.com/ossf/scorecard/releases/tag/v5.7.0), 1 day ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.28.1](https://github.com/bloomberg/causal-ts/releases/tag/v0.28.1), 1 week ago) - Causal discovery (structure learning) for stationary and nonstationary multivariate time series in Python.
 - [uwu-tools/baton](https://github.com/uwu-tools/baton) ([v0.1.0](https://github.com/uwu-tools/baton/releases/tag/v0.1.0), 2 weeks ago) - Track the follow-up work a change in one repository owes the others.
 - [curl/curl](https://github.com/curl/curl) ([curl-8_23_0](https://github.com/curl/curl/releases/tag/curl-8_23_0), 1 month ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 - [darnitdevorg/darnit](https://github.com/darnitdevorg/darnit) ([v0.1.1](https://github.com/darnitdevorg/darnit/releases/tag/v0.1.1), 1 month ago) - 
@@ -34,16 +34,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [build(deps): bump github.com/ossf/scorecard/v5 to v5.7.0](https://github.com/ossf/allstar/pull/934) on [ossf/allstar](https://github.com/ossf/allstar) (today)
-- [deps: Update `ossf/scorecard` to v5.7.0](https://github.com/ossf/scorecard-infra/pull/167) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (today)
-- [:seedling: Bump ossf/scorecard-action to v2.6.0](https://github.com/ossf/scorecard/pull/5488) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
-- [:book: Point getting started at the v2.6.0 example workflows](https://github.com/ossf/scorecard-action/pull/1750) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
-- [:seedling: Bump action tag for v2.6.0 release](https://github.com/ossf/scorecard-action/pull/1749) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
-- [:seedling: Bump scorecard to v5.7.0](https://github.com/ossf/scorecard-action/pull/1746) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (today)
-- [:book: Drop flaky links from documentation](https://github.com/ossf/scorecard/pull/5480) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
-- [:seedling: Check doc links with lychee on PRs and weekly](https://github.com/ossf/scorecard/pull/5478) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
-- [:seedling: Bump osv-scanner to v2.7.1 on Go 1.27.4](https://github.com/ossf/scorecard/pull/5475) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
-- [deps: Update `ossf/scorecard` to `main` ahead of v5.7.0](https://github.com/ossf/scorecard-infra/pull/162) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (3 days ago)
+- [build(deps): bump github.com/ossf/scorecard/v5 to v5.7.0](https://github.com/ossf/allstar/pull/934) on [ossf/allstar](https://github.com/ossf/allstar) (1 day ago)
+- [deps: Update `ossf/scorecard` to v5.7.0](https://github.com/ossf/scorecard-infra/pull/167) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 day ago)
+- [:seedling: Bump ossf/scorecard-action to v2.6.0](https://github.com/ossf/scorecard/pull/5488) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
+- [:book: Point getting started at the v2.6.0 example workflows](https://github.com/ossf/scorecard-action/pull/1750) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (1 day ago)
+- [:seedling: Bump action tag for v2.6.0 release](https://github.com/ossf/scorecard-action/pull/1749) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (1 day ago)
+- [:seedling: Bump scorecard to v5.7.0](https://github.com/ossf/scorecard-action/pull/1746) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (1 day ago)
+- [:book: Drop flaky links from documentation](https://github.com/ossf/scorecard/pull/5480) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
+- [:seedling: Check doc links with lychee on PRs and weekly](https://github.com/ossf/scorecard/pull/5478) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
+- [:seedling: Bump osv-scanner to v2.7.1 on Go 1.27.4](https://github.com/ossf/scorecard/pull/5475) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
+- [deps: Update `ossf/scorecard` to `main` ahead of v5.7.0](https://github.com/ossf/scorecard-infra/pull/162) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (4 days ago)
 
 #### ⭐ Recent Stars
 
