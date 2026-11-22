@@ -8,22 +8,22 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 days ago)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (2 days ago)
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (2 days ago)
-- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (2 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 days ago)
+- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (3 days ago)
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (3 days ago)
+- [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (3 days ago)
 - [uwu-tools/bomcard](https://github.com/uwu-tools/bomcard) - Score every dependency in an SBOM with OpenSSF Scorecard (1 week ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (1 week ago)
 - [justaugustus/justaugustus.github.io](https://github.com/justaugustus/justaugustus.github.io) -  (1 week ago)
 - [justaugustus/setlist](https://github.com/justaugustus/setlist) - Talks and demos by Stephen Augustus (1 week ago)
-- [justaugustus/site](https://github.com/justaugustus/site) -  (1 week ago)
+- [justaugustus/site](https://github.com/justaugustus/site) -  (2 weeks ago)
 - [uwu-tools/tee-time](https://github.com/uwu-tools/tee-time) - Run OpenSSF Scorecard once, and let AMPEL decide (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ossf/allstar](https://github.com/ossf/allstar) ([v4.7](https://github.com/ossf/allstar/releases/tag/v4.7), 1 day ago) - GitHub App to set and enforce security policies
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.6.0](https://github.com/ossf/scorecard-action/releases/tag/v2.6.0), 2 days ago) - Official GitHub Action for OpenSSF Scorecard.
-- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.7.0](https://github.com/ossf/scorecard/releases/tag/v5.7.0), 2 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
+- [ossf/allstar](https://github.com/ossf/allstar) ([v4.7](https://github.com/ossf/allstar/releases/tag/v4.7), 2 days ago) - GitHub App to set and enforce security policies
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) ([v2.6.0](https://github.com/ossf/scorecard-action/releases/tag/v2.6.0), 3 days ago) - Official GitHub Action for OpenSSF Scorecard.
+- [ossf/scorecard](https://github.com/ossf/scorecard) ([v5.7.0](https://github.com/ossf/scorecard/releases/tag/v5.7.0), 3 days ago) - OpenSSF Scorecard - Security health metrics for Open Source
 - [bloomberg/causal-ts](https://github.com/bloomberg/causal-ts) ([v0.28.1](https://github.com/bloomberg/causal-ts/releases/tag/v0.28.1), 1 week ago) - Causal discovery (structure learning) for stationary and nonstationary multivariate time series in Python.
 - [uwu-tools/baton](https://github.com/uwu-tools/baton) ([v0.1.0](https://github.com/uwu-tools/baton/releases/tag/v0.1.0), 2 weeks ago) - Track the follow-up work a change in one repository owes the others.
 - [curl/curl](https://github.com/curl/curl) ([curl-8_23_0](https://github.com/curl/curl/releases/tag/curl-8_23_0), 1 month ago) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
@@ -34,20 +34,20 @@
 
 #### 🔨 My recent Pull Requests
 
-- [build(deps): bump github.com/ossf/scorecard/v5 to v5.7.0](https://github.com/ossf/allstar/pull/934) on [ossf/allstar](https://github.com/ossf/allstar) (2 days ago)
-- [deps: Update `ossf/scorecard` to v5.7.0](https://github.com/ossf/scorecard-infra/pull/167) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (2 days ago)
-- [:seedling: Bump ossf/scorecard-action to v2.6.0](https://github.com/ossf/scorecard/pull/5488) on [ossf/scorecard](https://github.com/ossf/scorecard) (2 days ago)
-- [:book: Point getting started at the v2.6.0 example workflows](https://github.com/ossf/scorecard-action/pull/1750) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (2 days ago)
-- [:seedling: Bump action tag for v2.6.0 release](https://github.com/ossf/scorecard-action/pull/1749) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (2 days ago)
-- [:seedling: Bump scorecard to v5.7.0](https://github.com/ossf/scorecard-action/pull/1746) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (2 days ago)
-- [:book: Drop flaky links from documentation](https://github.com/ossf/scorecard/pull/5480) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
-- [:seedling: Check doc links with lychee on PRs and weekly](https://github.com/ossf/scorecard/pull/5478) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
-- [:seedling: Bump osv-scanner to v2.7.1 on Go 1.27.4](https://github.com/ossf/scorecard/pull/5475) on [ossf/scorecard](https://github.com/ossf/scorecard) (5 days ago)
-- [deps: Update `ossf/scorecard` to `main` ahead of v5.7.0](https://github.com/ossf/scorecard-infra/pull/162) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (5 days ago)
+- [build(deps): bump github.com/ossf/scorecard/v5 to v5.7.0](https://github.com/ossf/allstar/pull/934) on [ossf/allstar](https://github.com/ossf/allstar) (3 days ago)
+- [deps: Update `ossf/scorecard` to v5.7.0](https://github.com/ossf/scorecard-infra/pull/167) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (3 days ago)
+- [:seedling: Bump ossf/scorecard-action to v2.6.0](https://github.com/ossf/scorecard/pull/5488) on [ossf/scorecard](https://github.com/ossf/scorecard) (3 days ago)
+- [:book: Point getting started at the v2.6.0 example workflows](https://github.com/ossf/scorecard-action/pull/1750) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (3 days ago)
+- [:seedling: Bump action tag for v2.6.0 release](https://github.com/ossf/scorecard-action/pull/1749) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (3 days ago)
+- [:seedling: Bump scorecard to v5.7.0](https://github.com/ossf/scorecard-action/pull/1746) on [ossf/scorecard-action](https://github.com/ossf/scorecard-action) (3 days ago)
+- [:book: Drop flaky links from documentation](https://github.com/ossf/scorecard/pull/5480) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
+- [:seedling: Check doc links with lychee on PRs and weekly](https://github.com/ossf/scorecard/pull/5478) on [ossf/scorecard](https://github.com/ossf/scorecard) (4 days ago)
+- [:seedling: Bump osv-scanner to v2.7.1 on Go 1.27.4](https://github.com/ossf/scorecard/pull/5475) on [ossf/scorecard](https://github.com/ossf/scorecard) (6 days ago)
+- [deps: Update `ossf/scorecard` to `main` ahead of v5.7.0](https://github.com/ossf/scorecard-infra/pull/162) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [github/lever](https://github.com/github/lever) - Copilot skills for building feedback loops, delegating safely, and moving repeatable work into automations. (2 weeks ago)
+- [github/lever](https://github.com/github/lever) - Copilot skills for building feedback loops, delegating safely, and moving repeatable work into automations. (3 weeks ago)
 - [policylabs/ampel](https://github.com/policylabs/ampel) - 🔴🟡🟢 The Amazing Multipurpose Policy Engine (and L) (1 month ago)
 - [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development. (2 months ago)
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (2 months ago)
