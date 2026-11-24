@@ -8,16 +8,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [justaugustus/setlist](https://github.com/justaugustus/setlist) - Talks and demos by Stephen Augustus (today)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (5 days ago)
-- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (5 days ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (5 days ago)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (5 days ago)
+- [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (5 days ago)
 - [uwu-tools/bomcard](https://github.com/uwu-tools/bomcard) - Score every dependency in an SBOM with OpenSSF Scorecard (1 week ago)
 - [ossf/tac](https://github.com/ossf/tac) - Technical Advisory Council (2 weeks ago)
 - [justaugustus/justaugustus.github.io](https://github.com/justaugustus/justaugustus.github.io) -  (2 weeks ago)
-- [justaugustus/setlist](https://github.com/justaugustus/setlist) - Talks and demos by Stephen Augustus (2 weeks ago)
 - [justaugustus/site](https://github.com/justaugustus/site) -  (2 weeks ago)
-- [uwu-tools/tee-time](https://github.com/uwu-tools/tee-time) - Run OpenSSF Scorecard once, and let AMPEL decide (2 weeks ago)
+- [carabiner-dev/policies](https://github.com/carabiner-dev/policies) - Policy sets for different frameworks (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
