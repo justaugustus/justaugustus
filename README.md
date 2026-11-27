@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
 - [justaugustus/setlist](https://github.com/justaugustus/setlist) - Talks and demos by Stephen Augustus (3 days ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 week ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 week ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 week ago)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 week ago)
