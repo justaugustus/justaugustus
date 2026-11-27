@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:sparkles: Evaluate more OSPS Level 1 requirements](https://github.com/ossf/scorecard/pull/5520) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
 - [build(deps): bump github.com/ossf/scorecard/v5 to v5.7.0](https://github.com/ossf/allstar/pull/934) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
 - [deps: Update `ossf/scorecard` to v5.7.0](https://github.com/ossf/scorecard-infra/pull/167) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 - [:seedling: Bump ossf/scorecard-action to v2.6.0](https://github.com/ossf/scorecard/pull/5488) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
@@ -43,7 +44,6 @@
 - [:book: Drop flaky links from documentation](https://github.com/ossf/scorecard/pull/5480) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [:seedling: Check doc links with lychee on PRs and weekly](https://github.com/ossf/scorecard/pull/5478) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
 - [:seedling: Bump osv-scanner to v2.7.1 on Go 1.27.4](https://github.com/ossf/scorecard/pull/5475) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
-- [deps: Update `ossf/scorecard` to `main` ahead of v5.7.0](https://github.com/ossf/scorecard-infra/pull/162) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 
 #### ⭐ Recent Stars
 
