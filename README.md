@@ -8,8 +8,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
-- [justaugustus/setlist](https://github.com/justaugustus/setlist) - Talks and demos by Stephen Augustus (3 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
+- [justaugustus/setlist](https://github.com/justaugustus/setlist) - Talks and demos by Stephen Augustus (4 days ago)
 - [ossf/allstar](https://github.com/ossf/allstar) - GitHub App to set and enforce security policies (1 week ago)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 week ago)
 - [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) - OpenSSF Scorecard infrastructure (1 week ago)
@@ -34,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [:sparkles: Evaluate more OSPS Level 1 requirements](https://github.com/ossf/scorecard/pull/5520) on [ossf/scorecard](https://github.com/ossf/scorecard) (today)
+- [:sparkles: Evaluate more OSPS Level 1 requirements](https://github.com/ossf/scorecard/pull/5520) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 day ago)
 - [build(deps): bump github.com/ossf/scorecard/v5 to v5.7.0](https://github.com/ossf/allstar/pull/934) on [ossf/allstar](https://github.com/ossf/allstar) (1 week ago)
 - [deps: Update `ossf/scorecard` to v5.7.0](https://github.com/ossf/scorecard-infra/pull/167) on [ossf/scorecard-infra](https://github.com/ossf/scorecard-infra) (1 week ago)
 - [:seedling: Bump ossf/scorecard-action to v2.6.0](https://github.com/ossf/scorecard/pull/5488) on [ossf/scorecard](https://github.com/ossf/scorecard) (1 week ago)
